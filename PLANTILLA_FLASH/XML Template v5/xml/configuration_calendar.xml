@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+
+<data>
+
+  <!-- //////////////////////////////////////////////////////////////////////////CALENDAR -->	
+	
+  <!-- background color -->  
+  <BACKGROUND_COLOR>0x000000,80</BACKGROUND_COLOR>  	
+  <!-- color arrow next and prev month -->
+  <COLOR_ARROW>0xFFFFFF,50</COLOR_ARROW>
+	  
+  <!-- name dayWeek  -->
+  <SU>Sunday_</SU>
+  <MO>Monday_</MO>
+  <TU>Tuesday_</TU>
+  <WE>Wednesday_</WE>
+  <TH>Thursday_</TH>
+  <FR>Friday_</FR>
+  <SA>Saturday_</SA>
+	
+  <!-- name Month -->
+  <JANUARY>January</JANUARY>
+  <FEBRUAY>Februay</FEBRUAY>
+  <MARCH>March</MARCH>
+  <APRIL>April</APRIL>
+  <MAY>May</MAY>
+  <JUNE>June</JUNE>
+  <JULY>July</JULY>
+  <AUGUST>August</AUGUST>
+  <SEPTEMBER>September</SEPTEMBER>
+  <OCTOBER>October</OCTOBER>
+  <NOVEMBER>November</NOVEMBER>
+  <DECEMBER>December</DECEMBER>
+  
+  
+  <FIRSTDAYWEEK>0</FIRSTDAYWEEK> <!-- firstDayWeek ( 0-Su ; 1-Mo ; 2-Tu ; 3-We ; 4-Th ; 5-Fr ; 6-Sa )   -->
+  <CALENDAR_X>80</CALENDAR_X>
+  <CALENDAR_Y>95</CALENDAR_Y>
+  <AUTO_DISPLAY_EVENT>true</AUTO_DISPLAY_EVENT>  <!-- (true/false) - auto display the event for the current date  -->
+  
+  
+  <!-- COLOR NUMBER -->
+   <COLOR_NUMBER>0X999999</COLOR_NUMBER>	  
+   <COLOR_NUMBER_WEEK>0X666666</COLOR_NUMBER_WEEK>
+   <COLOR_DATE>0X646566</COLOR_DATE>
+   <COLOR_FRAME_TODAY>0X999999</COLOR_FRAME_TODAY>
+   <COLOR_GLOW_NORMAL>0X000000</COLOR_GLOW_NORMAL>
+   <COLOR_GLOW_EVENTS>0XFF6600</COLOR_GLOW_EVENTS>
+   <COLOR_BACKGROUND_NUMBER>0X000000</COLOR_BACKGROUND_NUMBER>
+   
+	  
+  <!-- Space calendar -->
+  <WIDTH_BACKGROUND_NUMBER>30</WIDTH_BACKGROUND_NUMBER>
+  <HEIGHT_BACKGROUND_NUMBER>30</HEIGHT_BACKGROUND_NUMBER>
+  <SPACE_X_NUMBER>5</SPACE_X_NUMBER>
+  <SPACE_y_NUMBER>5</SPACE_y_NUMBER>
+  <SIZE_NUMBER>8</SIZE_NUMBER>
+  
+	  
+  <!--//////////////////////////////////////////////////////////// TEXT AREA -->
+  <TEXT_X>125</TEXT_X>
+  <TEXT_Y>-65</TEXT_Y>
+  <TEXT_WIDTH>420</TEXT_WIDTH>
+  <TEXT_HEIGHT>320</TEXT_HEIGHT>
+  <TEXT_BORDER>false</TEXT_BORDER>
+  <TEXT_BORDER_COLOR>0xCCCCCC</TEXT_BORDER_COLOR>
+  <TEXT_COLOR_SCROLL_BACKGROUND>0x464846</TEXT_COLOR_SCROLL_BACKGROUND>
+  <TEXT_COLOR_SCROLL>0x636563</TEXT_COLOR_SCROLL>
+  <SPEED_SCROLL>1</SPEED_SCROLL>
+  <TEXT_URL_STYLE_CSS>css/global_styles.css</TEXT_URL_STYLE_CSS>
+	
+	
+	
+	
+	
+</data>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<books>
+	<book>
+		<name> Choose for Details </name>
+		<pages> </pages>
+		<author>  </author>
+	</book>
+	<book>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>Sed condimentum dignissimtus</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/lights.jpg</pages>
+		<author>Aldehyde+DNA</author>
+	</book>
+</books>
+<paragraph>
+	<ptext>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="20" COLOR="#FF9900"><B>CONTACT US</B></FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">ANY TIME</FONT> </TEXTFORMAT>]]></name>
+		<pages>images/lights.jpg</pages>
+		<author>Aldehyde+DNA</author>
+	</ptext>
+	
+	<ptext>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#666666">ALIQUAM PORTA VARIUS MI INTEGER COMMODO LACINIA SAPIEN. LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT FUSCE MI PHASELLUS SAGITTIS QUAM.</FONT><br><br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">Address:</FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#666666">4.A Canel East Road, Cal-700 054 </FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">Telephone:</FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#666666">+91 9830217426, +91 9432242411 </FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">Fax:</FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#666666">+91 03323523501</FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">E-Mail:</FONT><br><FONT FACE="Verdana" SIZE="10" COLOR="#666666"><a href="mailto:samss100@yahoo.com">samss100@yahoo.com</a>,  <a href="mailto:samss100@gmail.com">samss100@gmail.com</a></FONT></TEXTFORMAT>]]></name>
+		<pages>images/lights.jpg</pages>
+		<author>Aldehyde+DNA</author>
+	</ptext>
+	
+	
+</paragraph>

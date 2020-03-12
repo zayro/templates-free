@@ -1,0 +1,308 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#style-selector {
+	position:fixed;
+	color:#bbbbbb;
+	background:#373737;
+	width:285px;
+	right:-285px;
+	top:50px;
+	font:11px/16px Arial, Helvetica, sans-serif;
+	z-index:999999;
+}
+#style-selector p {
+	margin:10px 0;
+}
+#style-selector-wrap {
+	padding-bottom:20px;
+	border-radius:2px 0 0 2px;
+	-moz-border-radius:2px 0 0 2px;
+	-webkit-border-radius:2px 0 0 2px;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.14);
+	-moz-box-shadow: 0 0 10px 0 rgba(0,0,0,0.14);
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.14);
+}
+#style-selector .header {
+	font-size:16px;
+	line-height:44px;
+	padding:0 0 0 25px;
+	border-bottom:1px solid #cccccc;
+}
+#style-selector .body {
+	padding:0 0 0 25px;
+}
+#style-selector .style-title {
+	font-size:14px;
+	height:20px;
+	line-height:20px;
+	text-align:center;
+	margin:20px auto 10px;
+}
+#style-selector .input-box {
+	overflow:hidden;
+}
+#style-selector .input-box select {
+	margin:20px 10px 0 0;
+	width:72px;
+	height:25px;
+	font-size:11px;
+	color:#323232;
+	float:left;
+}
+#style-selector .reset {
+	position:relative;
+	display:inline-block;
+	width:70px;
+	height:20px;
+	font-size:11px;
+	line-height:20px;
+	text-align:center;
+	color:#323232;
+	background-color:#ffffff;
+	margin:10px 0 0 68px;
+	border:1px solid #abadb3;
+}
+#style-selector .style-toggle {
+	width:40px;
+	height:44px;
+	line-height:44px;
+	cursor:pointer;
+	position:absolute;
+	top:45px;
+	left:-40px;
+	color:#ffffff;
+	background:url(images/arrow.png) center top no-repeat;
+	background-color:#373737;
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	border-radius:5px 0 0 5px;
+}
+#style-selector .blocks {
+	/*border-bottom:1px solid #cccccc;
+	padding-bottom:10px;*/
+	position:relative;
+	overflow:hidden;
+}
+#style-selector .blocks a {
+	position:relative;
+	display:block;
+	float:left;
+	width:50px;
+	height:25px;
+	line-height:25px;
+	margin:0 10px 5px 0;
+	border:1px solid #808080;
+	color:#373737;
+	background-color:#ffffff;
+}
+#style-selector .blocks a.active {
+	border:1px solid #ffffff;
+}
+#style-selector .blocks.patterns a[title="pattern1"] {
+	background-image:url(../images/pattern/pattern1.png);
+}
+#style-selector .blocks.patterns a[title="pattern2"] {
+	background-image:url(../images/pattern/pattern2.png);
+}
+#style-selector .blocks.patterns a[title="pattern3"] {
+	background-image:url(../images/pattern/pattern3.png);
+}
+#style-selector .blocks.patterns a[title="pattern4"] {
+	background-image:url(../images/pattern/pattern4.png);
+}
+#style-selector .blocks.patterns a[title="pattern5"] {
+	background-image:url(../images/pattern/pattern5.png);
+}
+#style-selector .blocks.patterns a[title="pattern6"] {
+	background-image:url(../images/pattern/pattern6.png);
+}
+#style-selector .blocks.patterns a[title="pattern7"] {
+	background-image:url(../images/pattern/pattern7.png);
+}
+#style-selector .blocks.patterns a[title="pattern8"] {
+	background-image:url(../images/pattern/pattern8.png);
+}
+#style-selector .blocks.patterns a[title="pattern9"] {
+	background-image:url(../images/pattern/pattern9.png);
+}
+#style-selector .blocks.patterns a[title="pattern10"] {
+	background-image:url(../images/pattern/pattern10.png);
+}
+#style-selector .blocks.patterns a[title="pattern11"] {
+	background-image:url(../images/pattern/pattern11.png);
+}
+#style-selector .blocks.patterns a[title="pattern12"] {
+	background-image:url(../images/pattern/pattern12.png);
+}
+#style-selector .blocks.patterns a[title="pattern13"] {
+	background-image:url(../images/pattern/pattern13.png);
+}
+#style-selector .blocks.patterns a[title="pattern14"] {
+	background-image:url(../images/pattern/pattern14.png);
+}
+#style-selector .blocks.patterns a[title="pattern15"] {
+	background-image:url(../images/pattern/pattern15.png);
+}
+#style-selector .blocks.patterns a[title="pattern16"] {
+	background-image:url(../images/pattern/pattern16.png);
+}
+#style-selector .blocks.patterns a[title="pattern17"] {
+	background-image:url(../images/pattern/pattern17.png);
+}
+#style-selector .blocks.patterns a[title="pattern18"] {
+	background-image:url(../images/pattern/pattern18.png);
+}
+#style-selector .blocks.patterns a[title="pattern19"] {
+	background-image:url(../images/pattern/pattern19.png);
+}
+#style-selector .blocks.patterns a[title="pattern20"] {
+	background-image:url(../images/pattern/pattern20.png);
+}
+#style-selector .blocks.patterns a[title="pattern21"] {
+	background-image:url(../images/pattern/pattern21.png);
+}
+#style-selector .blocks.patterns a[title="pattern22"] {
+	background-image:url(../images/pattern/pattern22.png);
+}
+#style-selector .blocks.patterns a[title="pattern23"] {
+	background-image:url(../images/pattern/pattern23.png);
+}
+#style-selector .blocks.patterns a[title="pattern24"] {
+	background-image:url(../images/pattern/pattern24.png);
+}
+#style-selector .blocks.patterns a[title="pattern25"] {
+	background-image:url(../images/pattern/pattern25.png);
+}
+#style-selector .blocks.patterns a[title="pattern26"] {
+	background-image:url(../images/pattern/pattern26.png);
+}
+#style-selector .blocks.patterns a[title="pattern27"] {
+	background-image:url(../images/pattern/pattern27.png);
+}
+#style-selector .blocks.patterns a[title="nopattern"] {
+	width:234px;
+	text-align:center
+}
+/*#style-selector .blocks.skins span.black {
+	display:block;
+	border:11px solid #323232;
+	border-color:transparent #323232 #323232 transparent;
+	width:0;
+	height:0;
+	position:absolute;
+	bottom:0;
+	right:0;
+}
+#style-selector .blocks.skins span.color {
+	display:block;
+	border:11px solid #fff;
+	border-color:#fff transparent transparent #fff;
+	width:0;
+	height:0;
+	position:absolute;
+	top:0;
+	left:0;
+}*/
+#style-selector .blocks.skins a[title="blueviolet"] {
+	background-color:#8657a8;
+}
+#style-selector .blocks.skins a[title="cadetblue"] {
+	background-color:#648798;
+}
+#style-selector .blocks.skins a[title="coral"] {
+	background-color:#ed6642;
+}
+#style-selector .blocks.skins a[title="crimson"] {
+	background-color:#c0283f;
+}
+#style-selector .blocks.skins a[title="deeppink"] {
+	background-color:#e93760;
+}
+#style-selector .blocks.skins a[title="firebrick"] {
+	background-color:#b0151a;
+}
+#style-selector .blocks.skins a[title="gold"] {
+	background-color:#ffc100;
+}
+#style-selector .blocks.skins a[title="mediumaquamarine"] {
+	background-color:#5caf91;
+}
+#style-selector .blocks.skins a[title="olive"] {
+	background-color:#948639;
+}
+#style-selector .blocks.skins a[title="palevioletred"] {
+	background-color:#9c5560;
+}
+#style-selector .blocks.skins a[title="redviolet"] {
+	background-color:#b0155f;
+}
+#style-selector .blocks.skins a[title="rosybrown"] {
+	background-color:#ccbcb3;
+}
+#style-selector .blocks.skins a[title="royalblue"] {
+	background-color:#4169e1;
+}
+#style-selector .blocks.skins a[title="skyblue"] {
+	background-color:#55c9e6;
+}
+#style-selector .blocks.skins a[title="teal"] {
+	background-color:#26828B;
+}
+#style-selector .blocks.skins a[title="yellowgreen"] {
+	background-color:#a7c711;
+}
+#style-selector .blocks.customs span {
+	display:block;
+	border:12px solid #fff;
+	border-color:#fff;
+	width:0;
+	height:0;
+	float:left;
+}
+#style-selector .blocks.customs a[title="custom1"] {
+	background-color:#97717e;
+	background-image:url(images/pattern3.png);
+}
+#style-selector .blocks.customs a[title="custom1"] span {
+	border-color:transparent;
+}
+/*#style-selector .blocks.customs a[title="custom1"] span.left {
+	border-color:transparent transparent transparent #4e4e4e;
+}
+#style-selector .blocks.customs a[title="custom1"] span.right {
+	border-color:transparent #d1c9cc transparent transparent;
+}*/
+#style-selector .blocks.customs a[title="custom2"] {
+	background-color:#bd442f;
+	background-image:url(images/pattern3.png);
+}
+#style-selector .blocks.customs a[title="custom2"] span {
+	border-color:transparent;
+}
+/*#style-selector .blocks.customs a[title="custom2"] span.left {
+	border-color:transparent transparent transparent #7a706d;
+}
+#style-selector .blocks.customs a[title="custom2"] span.right {
+	border-color:transparent #e3dad5 transparent transparent;
+}*/
+#style-selector .blocks.customs a[title="custom3"] {
+	background-color:#3e515e;
+	background-image:url(images/pattern3.png);
+}
+#style-selector .blocks.customs a[title="custom3"] span {
+	border-color:transparent;
+}
+/*#style-selector .blocks.customs a[title="custom3"] span.left {
+	border-color:transparent transparent transparent #75cbe4;
+}
+#style-selector .blocks.customs a[title="custom3"] span.right {
+	border-color:transparent #aebfc4 transparent transparent;
+}*/
+
+
+.cycle-wrapper {
+	background-color:transparent !important;
+}

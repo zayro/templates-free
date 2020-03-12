@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category>
+
+	<defaultCategory>LINKS</defaultCategory>
+
+	<type name = "LINKS">
+		<product>
+			<mainTitle>FLASH DEN</mainTitle>
+			<subTitle>FLASHDEN.NET</subTitle>
+			<img>services/small/1.gif</img>
+			<bigImg>services/links/fd.jpg</bigImg>
+			<des><![CDATA[<b>FlashDen</b> is an Envato Marketplace. At FlashDen you can buy and sell royalty-free stock files for use in Adobe Flash projects and general websites. Files sell for between 1 and 40 dollars depending on the complexity, quality and use of the file. Anyone is free to sign up for an account and begin trading or purchasing files.<br><br>The site is home to a bustling community of Flash designers, developers and devotees. At FlashDen we like to say that it is this community who really owns the site and we do our best to make sure they get the most out of it through programs to generate income, interactivity, news, competitions and whatever else we can dream up.<br><br>FlashDen is an Envato Marketplace. At FlashDen you can buy and sell royalty-free stock files for use in Adobe Flash projects and general websites. Files sell for between 1 and 40 dollars depending on the complexity, quality and use of the file. Anyone is free to sign up for an account and begin trading or purchasing files.<br><br>The site is home to a bustling community of Flash designers, developers and devotees. At FlashDen we like to say that it is this community who really owns the site and we do our best to make sure they get the most out of it through programs to generate income, interactivity, news, competitions and whatever else we can dream up.]]></des>
+			<link></link>
+		</product>
+		
+		<product>
+			<mainTitle>AUDIO JUNGLE</mainTitle>
+			<subTitle>AUDIOJUNGLE.NET</subTitle>
+			<img>services/small/2.gif</img>
+			<bigImg>services/links/aj.jpg</bigImg>
+			<des><![CDATA[AudioJungle is an Envato Marketplace. At AudioJungle you can buy and sell royalty-free music and sound effects for just a few dollars. Files are priced on the complexity, quality and use of the file. Anyone is free to sign up for an account and begin trading or purchasing files.<br><br><font size="15">Thinesh P</font><br><font color="#456D0D">Designer / Developer<br></font>]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>THEME FOREST</mainTitle>
+			<subTitle>THEMEFOREST.NET</subTitle>
+			<img>services/small/3.gif</img>
+			<bigImg>services/links/tf.jpg</bigImg>
+			<des><![CDATA[ThemeForest is an Envato Marketplace. At ThemeForest you can buy and sell site templates and themes to skin popular CMS products like WordPress, Drupal and Joomla. Files are priced from just five dollars, based on the complexity, quality and use of the file. Anyone is free to sign up for an account and begin trading or purchasing files.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>VIDEO HIVE</mainTitle>
+			<subTitle>VIDEOHIVE.NET</subTitle>
+			<img>services/small/4.gif</img>
+			<bigImg>services/links/vh.jpg</bigImg>
+			<des><![CDATA[services/vid/4.flv]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+	
+		
+		<product>
+			<mainTitle>FREELANCE SWITCH</mainTitle>
+			<subTitle>INTERSCOPE RECORDS</subTitle>
+			<img>services/small/5.gif</img>
+			<bigImg>services/links/fd.jpg</bigImg>
+			<des><![CDATA[services/vid/1.flv]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>ROCKABLE PRESS</mainTitle>
+			<subTitle>UNIVERSAL RECORDS</subTitle>
+			<img>services/small/6.gif</img>
+			<bigImg>services/links/aj.jpg</bigImg>
+			<des><![CDATA[services/vid/2.flv]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>CREATTICA DAILY</mainTitle>
+			<subTitle>SHADY RECORDS</subTitle>
+			<img>services/small/7.gif</img>
+			<bigImg>services/links/tf.jpg</bigImg>
+			<des><![CDATA[services/des/3.flv]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>FAVE UP</mainTitle>
+			<subTitle>KONVICT MUSIC</subTitle>
+			<img>services/small/8.gif</img>
+			<bigImg>services/links/vh.jpg</bigImg>
+			<des><![CDATA[services/des/4.flv]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+	</type>
+	
+	<type name = "STAFF">
+		<product>
+			<mainTitle>COLLIS TA’EED</mainTitle>
+			<subTitle>CHIEF EXECUTIVE OFFICER</subTitle>
+			<img>services/small/6.gif</img>
+			<bigImg>services/staff/1.jpg</bigImg>
+			<des><![CDATA[<b>NAME: COLLIS TA'EED</b><br><br>AGE: XX<br><br>LOCATION: AUSTRALIA<br><br>Collis is an optimist whose passion for the web drives him to build websites like there’s no tomorrow. He helped co-found Blog Action Day on the Baha’i ideal of Unity in Diversity, because he believes that change has to happen organically, as a process, and that it is important for everyone to build the momentum that will result in long term improvements in the world. He sees Blog Action Day as an instrument not just for raising awareness but also for creating community and identity in the blogosphere.<br><br>In his capacity as CEO of the web startup Envato, Collis is semi-permanently attached to his laptop and can be found on Twitter lamenting the lack of hours in the day, and thinking up ways to get to work on every project that comes his way.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>VAHID TA’EED</mainTitle>
+			<subTitle>CHIEF OPERATING OFFICER</subTitle>
+			<img>services/small/7.gif</img>
+			<bigImg>services/staff/2.jpg</bigImg>
+			<des><![CDATA[<b>NAME: VAHID TA'EED</b><br><br>AGE: XX<br><br>LOCATION: AUSTRALIA<br><br>Vahid is an optimist whose passion for the web drives him to build websites like there’s no tomorrow. He helped co-found Blog Action Day on the Baha’i ideal of Unity in Diversity, because he believes that change has to happen organically, as a process, and that it is important for everyone to build the momentum that will result in long term improvements in the world. He sees Blog Action Day as an instrument not just for raising awareness but also for creating community and identity in the blogosphere.<br><br>In his capacity as CEO of the web startup Envato, Collis is semi-permanently attached to his laptop and can be found on Twitter lamenting the lack of hours in the day, and thinking up ways to get to work on every project that comes his way.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>JUN RUNG</mainTitle>
+			<subTitle>CHIEF FINANCIAL OFFICER</subTitle>
+			<img>services/small/6.gif</img>
+			<bigImg>services/staff/3.jpg</bigImg>
+			<des><![CDATA[<b>NAME: JUN RUNG</b><br><br>AGE: XX<br><br>LOCATION: AUSTRALIA<br><br>Jun is an optimist whose passion for the web drives him to build websites like there’s no tomorrow. He helped co-found Blog Action Day on the Baha’i ideal of Unity in Diversity, because he believes that change has to happen organically, as a process, and that it is important for everyone to build the momentum that will result in long term improvements in the world. He sees Blog Action Day as an instrument not just for raising awareness but also for creating community and identity in the blogosphere.<br><br>In his capacity as CEO of the web startup Envato, Collis is semi-permanently attached to his laptop and can be found on Twitter lamenting the lack of hours in the day, and thinking up ways to get to work on every project that comes his way.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+		
+		<product>
+			<mainTitle>FUAD TA’EED</mainTitle>
+			<subTitle>BUSINESS DEVELOPMENT</subTitle>
+			<img>services/small/7.gif</img>
+			<bigImg>services/staff/4.jpg</bigImg>
+			<des><![CDATA[<b>NAME: FUAD TA’EED</b><br><br>AGE: XX<br><br>LOCATION: AUSTRALIA<br><br>Fuad is an optimist whose passion for the web drives him to build websites like there’s no tomorrow. He helped co-found Blog Action Day on the Baha’i ideal of Unity in Diversity, because he believes that change has to happen organically, as a process, and that it is important for everyone to build the momentum that will result in long term improvements in the world. He sees Blog Action Day as an instrument not just for raising awareness but also for creating community and identity in the blogosphere.<br><br>In his capacity as CEO of the web startup Envato, Collis is semi-permanently attached to his laptop and can be found on Twitter lamenting the lack of hours in the day, and thinking up ways to get to work on every project that comes his way.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+	</type>
+		
+	<type name = "NEWS">
+		<product>
+			<mainTitle>FUNDRAISING</mainTitle>
+			<subTitle>JAN.10.2011</subTitle>
+			<img>services/small/8.gif</img>
+			<bigImg>services/news/1.jpg</bigImg>
+			<des><![CDATA[<b>Date: Jan / 10 / 2011</b><br><br>Files on FlashDen are made by users who have joined our authoring program. The author program lets anyone with the skills necessary to make high quality files, sell their work and profit through the site. Authors selling their items on the marketplaces are eligible to receive between 40% and 70% of every sale depending on the sales volume.]]></des>
+			<link>http://flashden.net/user/tpncorp</link>
+		</product>
+	</type>
+</category>

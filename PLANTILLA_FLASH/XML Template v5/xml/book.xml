@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" ?>
+
+
+
+<pages url_config="xml/configuration_book.xml">
+<item thumb="pages/1.jpg"/>
+<item thumb="pages/2.jpg"/>
+<item thumb="pages/3.jpg"/>
+<item thumb="pages/4.jpg"/>
+<item thumb="pages/5.jpg"/>
+<item thumb="pages/6.jpg"/>
+<item thumb="pages/7.swf"/>
+<item thumb="pages/8.jpg"/>
+<item thumb="pages/9.jpg"/>
+<item thumb="pages/10.jpg"/>
+<item thumb="pages/11.jpg"/>
+<item thumb="pages/12.jpg"/>
+</pages>

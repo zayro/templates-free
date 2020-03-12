@@ -1,0 +1,23 @@
+﻿<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img5.jpg">
+			<title>Nisi Ut Aliquid</title>
+			<des>quis nostrum exercitationem ullam corporis suscipit laboriosam.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.<br/><br/>Mobile: +33 333 666666<br/>Email: <a href="mailto:demo@demo.com">demo@demo.com</a></des>
+		</data>	
+		
+		
+		
+		<data img="dat/Images/Home/img3.jpg">
+			<title>Exercitationem Ullam corporis</title>
+			<des>quis nostrum exercitationem ullam corporis suscipit laboriosam.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.<br/><br/>Mobile: +33 333 666666<br/>Email: <a href="mailto:demo@demo.com">demo@demo.com</a></des>
+		</data>	
+		
+		
+		<data img="dat/Images/Home/img4.jpg">
+			<title>Nostrum Exercitationem</title>
+			<des>quis nostrum exercitationem ullam corporis suscipit laboriosam.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.<br/><br/>Mobile: +33 333 666666<br/>Email: <a href="mailto:demo@demo.com">demo@demo.com</a></des>
+		</data>	
+
+
+</DynamicWeb>

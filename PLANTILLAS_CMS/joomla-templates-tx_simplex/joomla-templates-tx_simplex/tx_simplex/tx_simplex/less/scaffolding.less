@@ -1,0 +1,208 @@
+
+
+/*----------------------------------------
+       Common for general purpose
+-----------------------------------------*/
+body{
+    background: #e8e9ed;
+    color: #444;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    position : relative;
+    .gfont-sans();
+}
+
+a{ text-decoration: none; }
+
+h1,h2,h3,h4,h5,h6 {
+  .gfont-noticia();font-weight: normal;
+}
+
+// block wrapper will not apply for tabs and accordion type
+// same css will applly on tab and accordion type
+.block,
+.tabbable,
+.accordion {padding: 15px; margin: 10px; position: relative; display: block;}
+.no-title > .header {display: none;}
+    .title{margin: 0 0 7px;padding: 0 0 7px;}
+* html .ie6-offset {margin-right: -4px;}
+
+/*Master head*/
+.master-head{
+  .btn-wrap{
+    #translucent > .background(#000, 0.4);
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent #ddd #ddd transparent;
+    padding: 10px;
+    margin: 20px 0;
+    display: inline-block;
+    .border-radius(4px);
+    min-width: 300px;
+  }
+  h3{ font-size: 20px;}
+}
+@media (max-width: 979px) {
+  .master-head .width-block{ float: none; width: 100%; text-align: center;}
+}
+@media (min-width: 980px) and (max-width: 1199px){
+  .master-head h3{ font-size: 18px; line-height: 24px;}
+}
+
+/*Header*/
+.page-header{border:none;}
+
+/* Readmore and button */
+.button,
+.readon,
+.readmore,
+.btn {
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px 16px;
+  background: #f1f1f1;
+  .border-radius(0);border: 0;
+  .box-shadow(~"0 0 3px #BBBBBB inset, 1px 1px 1px #FFFFFF");
+  .gfont-noticia();
+}
+.input-prepend,
+.input-append {
+  .btn {padding: 4px 14px;}
+}
+
+.btn-primary,
+div.k2TagCloudBlock a {
+  .transition(all 0.5s ease-in-out 0s);
+  color: #fff;
+  &:hover {.transition(all 0.5s ease-in-out 0s);text-shadow: none;color: #333;}
+}
+
+/* List Styles */
+.list-arrow {
+  li {
+    list-style: none;background: url("../images/arrow-circle.png") no-repeat scroll 0 2px transparent;
+    padding-left: 35px;margin-bottom: 10px;line-height: 26px;text-transform: uppercase;
+    a {color: #444;}
+  }
+}
+
+// Images
+// -------------------------
+
+// Rounded corners
+.img-rounded {
+  .border-radius(6px);
+}
+
+// Add polaroid-esque trim
+.img-polaroid {
+  padding: 4px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0,0,0,.2);
+  .box-shadow(0 1px 3px rgba(0,0,0,.1));
+}
+
+// Perfect circle
+.img-circle {
+  .border-radius(500px); // crank the border-radius so it works with most reasonably sized images
+}
+
+// Removing odd even class Styles
+.odd, .even {
+  background: none;
+  border: 0;padding: 0;
+}
+
+/*--------------------------------------------------
+        Layout
+---------------------------------------------------*/
+.container{}
+
+#mainbody, #sidebar-a, #sidebar-b{position: relative;}
+
+// Sidebar a/b grid inside grid
+#sidebar-a[class*='grid'] [class*='grid'],
+#sidebar-b[class*='grid'] [class*='grid']{ margin-left: 0; width: 100%;}
+
+#header-wrap,
+#footer-wrap {
+  color: #fff;
+  a {color: #fff;}
+}
+
+#bottom,
+#footer {
+  .btn {
+    background: none;text-shadow: 1px 1px 0 #222222;
+  }
+}
+
+#copyright .block{padding: 10px 15px;margin: 0;}
+
+/* Positions Specific
+----------------------------------*/
+#absolute{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+#roof{
+  .box-shadow(1px -2px 11px rgba(0,0,0,0.3) inset);
+
+  .widget-date,
+  .widget-fontresizer{ padding-top: 0; padding-bottom: 0;}
+
+}
+
+#header-wrap{
+  a:hover {color: #ddd;}
+}
+
+// Header Style
+#header {
+  .container {border-top: 1px solid;}
+}
+
+#utility{
+  text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+}
+
+// Breadcrumbs
+#breadcrumbs {margin: 10px 0;}
+
+// Mainbody Style
+#mainbody {
+}
+
+#sidebar-a, #sidebar-b{
+    .block{
+      z-index:10;
+    }
+}
+
+#footer-wrap{
+  line-height: 28px;
+}
+
+// Bottom Style
+#bottom {
+  ul,ol {
+    margin: 0;
+    li {list-style: none;line-height: 28px;}
+  }
+}
+
+// Footer Style
+#footer {
+  margin-bottom: -15px;z-index: 10;position: relative;
+  .container{
+    
+  }
+}
+
+// Copyright Style
+#copyright{
+  padding-top: 15px;
+}

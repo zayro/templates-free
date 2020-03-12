@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<config>
+	<width>400</width>
+	<height>550</height>
+	
+	<thumbslocation>left</thumbslocation>
+	<thumbswidth>80</thumbswidth>
+	<thumbsheight>55</thumbsheight>
+	<thumbsspace>10</thumbsspace>
+</config>
+
+<images>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/1.jpg</thumbs>
+<src>img/autumn/b/1.jpg</src>
+<description><![CDATA[<font color="#FFCCDD" size="+2"><b>AUTUMN - DESCRIPTION TEXT HTML Code Support Here</b></font><br>This Gallery resize and thumbs resize xml file in change<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/2.jpg</thumbs>
+<src>img/autumn/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/3.jpg</thumbs>
+<src>img/autumn/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/autumn/t/4.jpg</thumbs>
+<src>img/autumn/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+</images>

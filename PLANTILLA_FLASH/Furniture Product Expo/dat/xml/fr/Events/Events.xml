@@ -1,0 +1,91 @@
+<DynamicWeb>
+
+<Sections head="FAIRS &amp; EVENTS">
+	<data>
+		<Date>12-12-2008</Date>
+		<Title>Lorem ipsum dolor</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img2.jpg</img>
+
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img3.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img5.jpg</img>
+		</Image>
+	</data>
+	<data>
+		<Date>13-11-2008</Date>
+
+		<Title>Sed do eiusmod tempor</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img5.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img2.jpg</img>
+		</Image>
+	</data>
+
+	<data>
+		<Date>14-11-2008</Date>
+		<Title>Adipisicing elit</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img5.jpg</img>
+			
+		</Image>
+
+	</data>
+	<data>
+		<Date>15-10-2008</Date>
+		<Title>Cillum dolore eu fugiat</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img5.jpg</img>
+
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img2.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img3.jpg</img>
+		</Image>
+	</data>
+	<data>
+		<Date>16-10-2008</Date>
+		<Title>Excepteur sint occaecat</Title>
+
+		<Image>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img5.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img2.jpg</img>
+		</Image>
+	</data>
+	<data>
+
+		<Date>18-09-2008</Date>
+		<Title>Fugiat nulla pariatur</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img5.jpg</img>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img2.jpg</img>
+
+		</Image>
+	</data>
+	<data>
+		<Date>05-08-2008</Date>
+		<Title>Proident sunt in culpa qui</Title>
+		<Image>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img4.jpg</img>
+
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img5.jpg</img>
+
+		</Image>
+	</data>
+	<data>
+		<Date>22-08-2008</Date>
+		<Title>Labore et dolore magna</Title>
+		<Image>
+
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img4.jpg</img>
+			<img bigImg="dat/Images/Big/img1.jpg">dat/Images/Events/img5.jpg</img>
+			<img bigImg="dat/Images/Big/img2.jpg">dat/Images/Events/img2.jpg</img>
+		</Image>
+	</data>
+</Sections>
+
+</DynamicWeb>

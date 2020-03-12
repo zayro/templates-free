@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>..:: ECLIPSE - MAIN PAGE ::..</title>
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="robots" content="index,follow,all" />
+<meta name="language" content="pl" />
+<meta name="author" content="Rafal Wozniak" />
+<meta name="publisher" content="webStudio" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="./css/main.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="./css/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="./css/superfish.css" type="text/css" media="screen" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="./js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script type="text/javascript" src="./js/hoverintent.js"></script>
+<script type="text/javascript" src="./js/superfish.js"></script>
+<script type="text/javascript" src="./js/supersubs.js"></script>
+<script type="text/javascript">
+jQuery(function(){
+	jQuery('ul.sf-menu').superfish();
+});
+</script>
+<script type="text/javascript" src="./js/cufon-yui.js"></script>
+<script type="text/javascript" src="./js/lucida_sans_400.font.js"></script>
+<script type="text/javascript">
+Cufon.replace('h1');
+Cufon.replace('h2');
+Cufon.replace('h3');
+Cufon.replace('h4');
+Cufon.replace('h5');
+Cufon.replace('h6');
+Cufon.replace('#tabs li');
+</script>
+<script src="./js/jquery.nivo.slider.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+$(document).ready(function(){ 
+	$("ul.sf-menu").supersubs({ 
+		minWidth:    12,
+		maxWidth:    27,
+		extraWidth:  1
+	}).superfish({
+		autoArrows:  false 
+	});
+}); 
+</script>
+<script type="text/javascript">
+$(window).load(function() {
+	$('#slider').nivoSlider({
+		effect:'random',
+		slices:15,
+		animSpeed:500,
+		pauseTime:3000,
+		startSlide:0,
+		directionNav:false,
+		directionNavHide:true,
+		controlNav:true,
+		controlNavThumbs:false,
+		controlNavThumbsSearch: '.jpg',
+		controlNavThumbsReplace: '_thumb.jpg',
+		keyboardNav:true,
+		pauseOnHover:true,
+		manualAdvance:false,
+		captionOpacity:0.8,
+		beforeChange: function(){},
+		afterChange: function(){},
+		slideshowEnd: function(){}
+	});
+});
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("tr:odd").css("background-color", "#EFEFEF");
+        $("tr:first").css("background-color","#dbdbdb"); 
+    });
+</script>
+<meta charset="UTF-8"></head>
+<body>
+<div id="site">
+	<div id="top">
+        <div id="topContainer">
+            <div id="logo">
+            	<a href="#" title="ECLIPSE"><img src="./images/logo.png" alt="ECLIPSE" /></a>
+            </div>
+            <div id="topMenu">
+            	<ul class="sf-menu">
+                	<li>
+                    	<a href="#" title="Offer">offer</a>
+                        <ul>
+							<li><a href="./grid.html">grid layout</a></li>
+							<li>
+                            	<a href="#">column layout</a>
+                            	<ul>
+                                	<li><a href="./2columns.html">2 columns</a></li>
+                                    <li><a href="./3columns.html">3 columns</a></li>
+                                    <li><a href="./4columns.html">4 columns</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="./tabs.html">tabs</a></li>
+                            <li>
+                            	<a href="#">other color versions</a>
+                                <ul>
+                                	<li><a href="./index.html">black</a></li>
+                                    <li><a href="../blue/index.html">blue</a></li>
+                                    <li><a href="../brown/index.html">brown</a></li>
+                                    <li><a href="../cherry/index.html">cherry</a></li>
+                                    <li><a href="../gray/index.html">gray</a></li>
+                                    <li><a href="../green/index.html">green</a></li>
+                                    <li><a href="../light_green/index.html">light green</a></li>
+                                    <li><a href="../light_blue/index.html">light blue</a></li>
+                                    <li><a href="../marine/index.html">marine</a></li>
+                                    <li><a href="../orange/index.html">orange</a></li>
+                                    <li><a href="../red/index.html">red</a></li>
+                                    <li><a href="../violet/index.html">violet</a></li>
+                                </ul>
+                           	</li>
+						</ul>
+                    </li>
+                	<li><a href="#" title="Mission">mission</a></li>
+                	<li><a href="#" title="Work">work</a></li>
+                	<li>
+                    	<a href="#" title="Blog">blog</a>
+                    	<ul>
+                        	<li><a href="./blog.html" title="Blog Page">blog page</a></li>
+                            <li><a href="./blog_post.html" title="Single Post">single post</a></li>
+                        </ul>
+                    </li>
+                	<li><a href="./contact.html" title="Contact">contact</a></li>                                                                                
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="mainDesignContainer">
+    	<div id="mainDesign">
+        		<div id="slider">
+					<img src="./images/mainexamplepic1.jpg" alt="" />
+					<img src="./images/mainexamplepic2.jpg" alt="" />
+					<img src="./images/mainexamplepic3.jpg" alt="" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in felis lorem. Quisque id risus a tortor tempus elementum et a dolor. Cras purus massa, ullamcorper quis placerat eu, adipiscing vitae nisl. Integer consectetur, tortor eu lacus." />
+					<img src="./images/mainexamplepic4.jpg" alt="" />
+					<img src="./images/mainexamplepic5.jpg" alt="" />
+				</div>
+        </div>
+    </div>
+    <div id="contentContainer">
+		<div id="mainPageTopContentContainer">
+        	<div id="mainPageTopContent">
+                <div id="offerBox">
+                    <div class="topTitle"><img src="./images/offerico.png" alt="" /><h2>Offer</h2></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor nunc, convallis iaculis varius sed, semper vitae quam. Sed lacinia aliquet lorem vel ullamcorper.</p>
+                    <p>Donec dignissim, justo ut ullamcorper interdum, metus ipsum ultrices felis, vitae feugiat risus leo et ipsum ultrices felisnisl. Quisque sed sapien odio.</p>
+                    <p><a href="#" class="moreButtomMain"> </a></p>
+                </div>
+                <div id="missionBox">
+                	<div class="topTitle"><img src="./images/missionico.png" alt="" /><h2>Mission</h2></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor nunc, convallis iaculis varius sed, semper vitae quam. Sed lacinia aliquet lorem vel ullamcorper. Donec dignissim, justo ut ullamcorper leo et nisl. Quisque sed sapien odio.</p>
+                    <p>Maecenas in ipsum ante, sed sollicitudin ipsum. Maecenas tincidunt justo eu felis cursus rhoncus. Sed a urna nisl, at porttitor neque. </p>
+                    <p><a href="#" class="moreButtomMain"> </a></p>
+                </div>
+                <div id="workBox">
+                	<div class="topTitle"><img src="./images/workico.png" alt="" /><h2>Work</h2></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur nunc semper vitae quam. Quisque sed sapien odio. Sed lacinia aliquet lorem vel ullamcorper.</p>
+                    <p>Donec dignissim, justo ut ullamcorper vitae feugiat risus leo et nisl. Quisque sed sapien odio. Maecenas in ipsum ante, sed sollicitudin ipsum.</p> 
+                    <p><a href="#" class="moreButtomMain"> </a></p>
+                </div>
+        	</div>
+        </div>
+        <div id="mainPageBottomContentContainer">
+        	<div id="mainBottomContent">
+            	<div id="mainBottomLeft">
+                	<h2>Latest news</h2>
+                    <span class="mainNewsTitle">Lorem ipsum dolor sit</span><span class="mainNewsDate">2010-03-30</span>
+                    <p>amet, consectetur adipiscing elit. Phasellus tortor nunc, convallis iaculis varius sed, semper vitae quam. Sed lacinia aliquet lorem vel ullamcorper. </p>
+					<p>Donec dignissim, justo ut ullamcorper interdum, metus ipsum ultrices.</p>
+                    <p><a href="#" class="moreButtomMain"> </a></p>
+                </div>
+                <div id="mainBottomRight">
+                	<h2>Testimonials</h2>
+                    <p>Donec dignissim, justo ut ullamcorper vitae feugiat risus leo et nisl. Quisque sed sapien odio. Amet, consectetur adipiscing elit. Phasellus tortor nunc. Sed lacinia aliquet lorem vel ullamcorper.”</p>
+					<p><span>Aliquet Lorem</span></p>
+                    <p><a href="#" class="moreButtomMain"> </a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+    	<div id="footerContainer">
+            <div id="footerLeft">
+            	copyright © 2010 eclipse
+            </div>
+            <div id="footerRight">
+            	<a href="#">OFFER</a> :: <a href="#">MISSION</a> :: <a href="#">WORK</a> :: <a href="#">BLOG</a> :: <a href="#">CONTACT</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

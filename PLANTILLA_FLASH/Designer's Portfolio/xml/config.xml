@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<general>
+		<openingpage>0</openingpage>
+		<topdistance>80</topdistance>
+		<fixtopdistance>false</fixtopdistance>
+		<showlogo>true</showlogo>
+		<logotohome>true</logotohome>
+
+		<logolocation>swf/logo.swf</logolocation>
+		<logotext>DCPortfolio</logotext>
+		<logowidth>240</logowidth>
+		<logoheight>23</logoheight>
+		<logoxoffset>0</logoxoffset>
+		<logoyoffset>10</logoyoffset>
+
+		<showborder>true</showborder>
+		<bordersize>6</bordersize>
+		<backgroundimage></backgroundimage>
+		<backgroundimagescale>true</backgroundimagescale>
+		<showfooter>true</showfooter>
+		<footertext><![CDATA[© Danny Coolen 2009 - <a href="mailto:info@dannycoolen.nl">info@dannycoolen.nl</a>]]></footertext>
+		<allowfullscreen>true</allowfullscreen>
+
+		<showshades>true</showshades>
+		<shadesstrength>1</shadesstrength>
+		<thumbsverticalmotion>true</thumbsverticalmotion>
+		<projectimagealign>center</projectimagealign>
+		<showprojectsloader>false</showprojectsloader>
+		<uppercasemenu>true</uppercasemenu>
+
+		<uppercasetitles>true</uppercasetitles>
+		<uniquexml>false</uniquexml>
+	</general>
+	<sound>
+		<usesoundfx>true</usesoundfx>
+		<songs>snd/m1.mp3,snd/m2.mp3,snd/m3.mp3</songs>
+		<showequalizer>true</showequalizer>
+
+		<defaultplay>false</defaultplay>
+		<volume>100</volume>
+		<infade>true</infade>
+		<outfade>true</outfade>
+		<pausefade>true</pausefade>
+	</sound>
+
+	<colors>
+		<logo>0x00bfff</logo>
+		<border>0x000000</border>
+		<dotlines>0x00bfff</dotlines>
+		<loader>0x00bfff</loader>
+		<projectsloader>0x00bfff</projectsloader>
+
+		<backgroundcenter>0x101010</backgroundcenter>
+		<backgroundside>0x000000</backgroundside>
+		<footertext>0x00bfff</footertext>
+		<footerbuttonsover>0xFFFFFF</footerbuttonsover>
+		<footerbuttonsout>0x00bfff</footerbuttonsout>
+		<footerline>0x151515</footerline>
+
+		<footerbackground>0x000000</footerbackground>
+		<mainmenuover>0xFFFFFF</mainmenuover>
+		<mainmenuout>0x00bfff</mainmenuout>
+		<arrowsover>0x00bfff</arrowsover>
+		<arrowsout>0xFFFFFF</arrowsout>
+		<subbuttons>0xFFFFFF</subbuttons>
+
+		<descriptions>0xFFFFFF</descriptions>
+		<descriptionsbackground>0x000000</descriptionsbackground>
+		<itemsbackground>0x000000</itemsbackground>
+		<bigimageshade>0x000000</bigimageshade>
+		<scrollbars>0x00bfff</scrollbars>
+		<scrollbarsbackground>0x000000</scrollbarsbackground>
+
+		<contactforminput>0xFFFFFF</contactforminput>
+		<contactformhighlight>0x00bfff</contactformhighlight>
+		<contactformborders>0x00bfff</contactformborders>
+		<videoscrubber>0x00bfff</videoscrubber>
+		<videoscrubberbackground>0xFFFFFF</videoscrubberbackground>
+		<videocontrols>0xFFFFFF</videocontrols>
+
+		<videoplaybutton>0xFFFFFF</videoplaybutton>
+		<videoplaybuttonbackground>0x000000</videoplaybuttonbackground>
+		<nocontent>0x000000</nocontent>
+		<newstitles>0x00bfff</newstitles>
+		<projecttitles>0xFFFFFF</projecttitles>
+		<projectdetails>0xEB325C</projectdetails>
+
+		<texttitles>0x00bfff</texttitles>
+		<contacttitles>0xFFFFFF</contacttitles>
+		<textdefault>0xFFFFFF</textdefault>
+	</colors>
+</config>

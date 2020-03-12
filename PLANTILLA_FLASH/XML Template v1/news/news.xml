@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+
+	<category>
+		<title>Politics</title>
+		<xml>news/news_category_1.xml</xml>
+	</category>
+	<category>
+		<title>Business</title>
+		<xml>news/news_category_2.xml</xml>
+	</category>
+	<category>
+		<title>Sports</title>
+		<xml>news/news_category_3.xml</xml>
+	</category>
+	<category>
+		<title>Science</title>
+		<xml>news/news_category_1.xml</xml>
+	</category>
+	
+</content>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<e des="Contact Details">
+		<![CDATA[Your name<br>Designer's Portfolio<br><br><font color="#EB325C">E: <a href="mailto:name@yourdomain.com">name@yourdomain.com</a><br><br>T: </font>0031 012 345 67 89<br><font color="#EB325C">F:</font> 0031 012 345 67 89<br><font color="#EB325C">C:</font> 0031 012 345 67 89<br><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus. Nulla facilisi. Sed sed erat. In velit. Phasellus viverra, lectus in lacinia gravida, massa libero euismod diam, non sagittis leo sapien et mauris. Phasellus pulvinar nibh sit amet arcu. Fusce fermentum. Vestibulum ornare. Nulla facilisi. Pellentesque nibh. Nulla sollicitudin ligula a sapien suscipit viverra. Suspendisse potenti. Aenean tempor leo quis dui. Nullam imperdiet molestie turpis. Duis arcu. Proin id mauris. Vestibulum consectetur auctor erat.]]>
+	</e>
+	<e des="Contact Form">
+		<field1>Name</field1>
+		<field2>E-mail</field2>
+		<field3>Subject</field3>
+		<field4>Message</field4>
+	</e>
+</content>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+
+<mydata>
+<about_page>
+<name>COMPANY NAME</name>
+<name>... and this is our description from xml file, We hope you like it and will be useful for you babe !</name>
+<name>we live in interactive world ...</name>
+<name>COPYRIGHTS - FlashDen user - "swf"</name>
+</about_page>
+
+<contact_page>
+<name>by post or legs ...</name>
+<name>by mobile ...</name>
+<name>yb emai ...l</name>		
+<name>New York, FlashDen street</name>
+<name>444 5555 54535-2</name>
+<name>flash@flash.den</name>	
+<name>three ways to reach us ...</name>	
+</contact_page>
+
+<clients_page>	
+<name>We worked for those folks</name>	
+<name>flashden, firm, areostan, middle, osaka, cup, cufer, murble, coffee, cherishers, bamboo, logistic</name>	
+</clients_page>
+
+<services_page>	
+<name>We offer lots of digital things ...</name>	
+<name>this is a description of the section, of course the real description you must create instead ! please ....</name>	
+</services_page>
+
+</mydata>

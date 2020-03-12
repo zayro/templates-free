@@ -1,0 +1,15 @@
+<configuration 
+logoImage="site-images/logo.png" 
+rssURL="http://kiba.vn/engine/rss.php"
+footerText="Designed By Your Name"
+>
+	<navigation>
+		<menuItem itemName="Home" itemURL="home.swf" />
+		<menuItem itemName="News" itemURL="news.swf" />
+		<menuItem itemName="Slide Show" itemURL="slideShow.swf" />
+		<menuItem itemName="Image Gallery" itemURL="image-Gallery.swf" />
+		<menuItem itemName="Content Page" itemURL="contentPage.swf" />
+		<menuItem itemName="Contact Us" itemURL="Contact-form.swf" />
+		<menuItem itemName="External Link" itemURL="http://kiba.vn/index.php" />
+	</navigation>
+</configuration>

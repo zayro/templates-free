@@ -1,0 +1,253 @@
+<html>
+<head>
+<title> Dynamic XML Website HELP</title>
+
+<style type="text/css">
+
+
+p {
+	font-size : 11px;
+	font-family : arial;
+	color : #000000;
+	text-align : left;
+	margin : ;
+}
+
+h3 {
+	font-family : arial;
+	color : #000000;
+	text-align : left;
+	text-decoration : underline;
+}
+
+h2 {
+	font-family : arial;
+	color : #000000;
+	text-align : left;
+	text-decoration : underline;
+}
+
+h1 {
+	font-family : arial;
+	color : #000000;
+	text-align : center;
+	text-decoration : underline;
+}
+
+body {
+	font-size : 11px;
+	font-family : arial;
+	color : #000000;
+	background : #ffffff;
+}
+
+blockquote {
+	font-size : 9px;
+	font-family : arial;
+	color : ;
+	text-align : ;
+}
+
+a:hover {
+	font-weight : normal;
+	font-size : 11px;
+	font-family : helvetica;
+	color : #c0c0c0;
+	background : normal;
+	text-decoration : bold;
+}
+
+	a:visited, a:link, a:active {
+	font-weight : normal;
+	font-size : 11px;
+	font-family : helvetica;
+	color : #ff0000;
+	text-decoration : bold;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+<BR><BR>
+
+<h1>Dynamic XML Website</h1>
+
+<br>
+<br>
+
+<h2>Dynamic XML Main Menu</h2>
+<p>Like every other page and section in this website, the Dynamic XML Main Menu is edited through an xml file. It has the capability of loading URL's and swf files.  
+<h3>How to read the xml file:</h3>
+<br> Locate the "mainMenuXML.xml" file inside the main folder directory. Open it and you'll see its construct. Inside the first MAIN Node in the xml, you'll see the attribute called, "categories". That is the first attribute inside the first node called the Parent or MAIN node. Inside the the Main "categories" node are child nodes called SIBLINGS. And within those Sibling nodes are more CHILD nodes called exactly that. Most xml files are different because they load different content and are read in different ways. We'll focus on this one for now. 
+
+<li>normalColor= ---- This attribute controls the normal state of the text in each button.</li>
+<li>overColor= ---- This attribute controls the rollOver state of the text in each button.</li><br>
+<li>downColor= ---- This attribute controls the down state of the text in each button.</li>
+<li>rolloutPauseDuration= ---- This attribute controls the amount of time(in seconds) that the menu shows or appears for before it disappears or is removed. 
+<li>listName= ---- This attribute should be set to the name you want your main menu link item to be.</li>
+<li>linkName= ---- This attribute should be set to the name you want your submenu item link names to be.</li>
+<li>type= ---- This attribute should be set to the type of link you are creating. <li>(swf) is for loading a swf file.</li> <li>(url) is for loading a URL.</li> 
+<li>path= ---- This attribute should be set to the path of the file, or the URL address.</li>
+<li>target= ---- This attribute should be set as either the movie clip your swf file will load into, the path of the movie clip you're controlling to send to a frame, or the path of a page(_blank, _self, etc...)</li> </p> 
+
+<br>
+<br>
+<h2>Dynamic XML MP3 Player</h2>
+<p>Also inside the main folder's directory you'll find the "songXML.xml". I'll explain some of how it should be set up. This file is a bit more simple to use. <br>
+<li>song= ---- This attribute is actually the song's file path. Set it to the path of the song you want loaded and played.</li>
+<li>title= ---- This attribute states the name or title of the song. I put the name of the song AND the name of the studio it was created by.</li>
+</p>
+
+<br>
+<br>
+
+
+
+<h2>Background</h2>
+<br>
+<p>
+This is rather simple. It only loads one background so all you have to do it edit the ONE node inside the backgroundXML.xml file which is located inside the background folder.
+</p>
+
+
+
+<br>
+<br>
+
+<h2>Copyrights</h2>
+<p>Inside the index_main.fla there is a line of code that controls what is shown as the copyright text located at the bottom of the site. It is editable WITHIN the <b>QUOTATION MARKS</b>. You'll find the code on layer "onResize", frame 2, on line 4 in the main_index.fla.</p> 
+<br>
+<br>
+
+<h2>Dynamic XML News</h2>
+<p>Located inside the "news" folder you'll find 4 assets: The latestnews.fla, the latestnews.swf, "the news_css.css" cascading style sheet and the "newsXML.xml"  files. Some things in the fla should be edited to match your theme. For instance, some of the dynamic text fields' colors can be changed. Wait, I'll say this first!! THE DYNAMIC TEXT FIELDS ARE CONTROLLED THROUGH CDATA AND HTML CODING. You can change the colors of the text, add links and change font sizes with html coding inside the CDATA tags. There is a CSS file that loads the link colors, but that's all I've set it up to do.  <br>
+<h3>newsXML.xml file</h3>
+<li>id node: This node is for the number of which the current item is when it loads. It is displayed next to the title.</li> 
+<li>title node: This displays the title of the news item</li>
+<li>info CDATA node: This is your news text. It can be edited with html tags. NOT ALL HTML TAGS ARE SUPPORTED BY FLASH 8!!</li>
+<li>link CDATA node: In this node you can set the link target, color and url address with html tags.</li></p>
+
+<br>
+<br>
+<h2>Dynamic About Us Content</h2>
+<p>Located inside the "about" folder you'll find 3 assets: the "aboutus.fla" file, the "aboutus.swf" file and the "aboutusXML.xml" file. The dynamic text fields need to be edited manually as far as colors go. The only thing dynamic about them is the text that will be added into them.</p>
+<h3>aboutusXML.xml file</h3>
+<p>There are only two things you need to edit in the aboutusXML.xml file, and they are the "aboutText" node and the "image" node. The aboutText node isn't controlled by CDATA, so you can not use html tags inside it. That is why you need to edit the colors of the text fields inside the fla.  
+<br>
+The content will be resized automatically. So will the black box behind it. Actually, that will resize according to the size of the text fields if they are longer than the picture.</p>
+
+<br>
+<br>
+<h2>Dynamic Contact Content </h2>
+<p><b>THIS IS NOT AN EMAIL FORM. IT IS ONLY FOR USE AS CONTACT <u>INFORMATION</u>!</b> These dynamic text fields are also NOT controlled by CDATA. You must edit their color and font from within the fla file. <u>Some text fields are located inside the "item_mc" movie clip.</u> </p>
+<h3>contactusXML.xml file</h3>
+<p>There are only 3 things you need to edit in the contactXML.xml file.
+<li>title node: Information type label. For example, Phone, Company phone, Fax or email.</li>
+<li>value node: This is for the actual contact information. Value is actually what it implies. For example, the value of "Company Phone" is a number(9+999+999+9999). </li> 
+<li>Last child in xml file(on bottom): "info=" attribute: This attribute is for the long text you might want on your contact page. Use this section to describe or tell extra information. OR you could use it for your mailing address with a brief explanation below or above that.</li></p>
+
+<br>
+<br>
+<h2>Dynamic Company Services Content</h2>
+<p>There are two things that you'll have to change inside the fla file: The titleTxt dynamic text field text color and font(if you want that is) and the servicesTxt text color and font. No CDATA and html tags can be used in the xml file.
+<br>
+<h3>servicesXML.xml file</h3>
+There are two things that can be edited inside the XML file.
+<li>title node: This is where you would place the title for what type of service you offer.</li>
+<li>text node: This is where you would place the text/description for what type of service you offer</li>
+TAKE OUT OR ADD AS MANY ITEMS AS THE AMOUNT OF SERVICES YOU HAVE. BE CARFUL, TOO MANY WILL CAUSE THEM TO FIT BEYOND THE WIDTH OF THE STAGE.</p>
+
+<br>
+<br>
+<h2>Dynamic Content for Web Portfolio</h2>
+<p>These pages, with a small amount of manual editing, can be suited to just about all of your services projects that you might want to display. Most things are done dynamically, including the colors, but some things that are not, you'll have to edit manually through the fla file. They're built the same, so if you want to just edit one and use that for the other pages you add, as additional sections or service sections, you could just copy and past into new folders, then rename them according to your needs. Don't forget to copy the xml files and create folders for your images. Make sure you edit the mainMenuXMl.xml file accordingly when you add new pages. Remember, it's located inside the main folder's directory. </p>
+<br>
+<h3>webXML.xml files</h3>
+<p>These xml files are the most complicated of the many in this template. But don't fret. They will be explained.
+<br>
+There are 13 things that can be edited in these xml files:
+<li>normalColor attribute: This attribute will determine the normal color of your items.</li>
+<li>overColor attribute: This attribute will determine the over state of your items.</li>
+<li>downColor attribute: This attribute will determine the down color of your items.</li>
+<li>title node: This value will display as the title of your project and will be located both on the side of the main project item and inside the scrollable list.</li>
+<li>shortDesc node: This value will be displayed as a short description of your project and will be located on the bottom of the page inside the scrollable list.</li>
+<li>smImg node: This value is the path of the small image that will display at the bottom of the page inside the scrollable list for the current project.</li>
+<li>lgImg node: This value is the path of the larger image that will display atop the page in the middle of the screen as the current project image.</li>
+<li>client node: This value is for the client of the project whom the project was made for.</li>
+<li>type node: This value will display the type of technologies you used to create the project. Say for instance: flash, php, xml. Or photoshop, indsign, after effects etc...</li>
+<li>projectURL node: This value will be an external link for your viewers to visit if you set an address for it. HOWEVER, if you do NOT set a value OR if you put "N/A" for the projectURL value, the text will display either undefined(nothing for the value) OR N/A(N/A for the value).</li>
+<li>launchDate node: This value is exactly as it states. Place the launch date or the finishing date of the project as this node's value.</li>
+<li>longDesc node: this value is for the long description that will display above the scrollable list when its related link is selected.</li>
+<li> There is no node for this, but there is a small part inside the scrollable list that displays the current and total number of items in the list. Just letting you know. </li>
+<br>  <b>YOU HAVE TO MAKE SURE YOU EDIT THE FILE PATH FOR THE XML IN EACH PAGE LIKE THE ONES THESE XML FILES ARE USED FOR. LOOK INSIDE THE XML LAYERS INSIDE THE FLA FILES. <u>THEY WOULD BE FOUND ON LINE 124... or around there.</u></b>!!<br><br>
+
+<b> There is a movie clip that holds the thumbs and short information for each item in the list. It is called "web_item". Look for that to edit any particular things you might want to change. Remember that the rollover and rollout colors for that movie clip is controlled by the hex colors in teh xml files for each page. 
+
+<br>
+<br>
+
+<b>ESSENTIALLY, THE VIDEOS PAGES ARE THE SAME AS THE WEB PORTFOLIO PAGES, WITH THE EXCEPTION OF A CERTAIN NODE CALLED "video". THAT's IT. MAKE SURE TO EDIT THE FILE PATHS INSIDE THE FLA IF YOU CHANGE ANY FOLDER NAMES OR DUPLICATE THEM!!!</b>
+
+</p>
+
+
+
+
+<br>
+<br>
+
+
+
+
+<h2>PLAIN TEXT PAGE</h2>
+
+<p>
+
+The xml is simple. Edit the title node. Edit your plain text. Yes, this too uses CDATA, which means you can put HTML in there man. Great huh? :) Sweet.
+
+</p>
+
+
+
+<br>
+<br>
+
+<h2>DYNAMIC FLASH CONTACT FORM</h2>
+
+<p>
+
+There are five variables that determine the colors of the borders and text in this .fla file. The values have to be similar to "0x000000" which is black. 
+
+<br>
+<br>
+
+/// !!! SET COLOR OF TEXT !!! ///<br>var normalTextColor = 0xCCCCCC; // light grey<br>var errorTextColor = 0xFF0000; // bright red<br><br>
+<br>/// !!! SET COLOR OF BORDERS !!! ///<br>var normalBorderColor = 0x000000; // black<br>var focusBorderColor = 0xFFFFFF; // white<br>var errorBorderColor = 0xFF0000; // bright red<br>
+
+<br>
+Those are the variables and their values. Their located at the top of the actions layer inside the mail form movie clip. Change them if you like.
+
+<br>
+<br>
+
+<b>INSIDE THE send.php YOU MUST CHANGE ONE LINE OF CODE</b>.
+<br>
+The $to = 'RECIPEINTS EMAIL GOES HERE'; should be where you put your email address. It MUST be the address where you want the email message to be sent. The send.php file is located at the _root directory, just as the main_index.swf is too. 
+
+<br>
+<br>
+send.php AND contact.swf MUST be uploaded to server before the form will work.
+
+</p>
+
+<br>
+<br>
+<h3>Thank you for purchasing!</h3>
+<b>// Aw_Shucks -- </b>
+
+</body>
+</html>

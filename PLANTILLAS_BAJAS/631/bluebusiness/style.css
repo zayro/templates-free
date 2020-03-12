@@ -1,0 +1,32 @@
+body {
+	font-family : MS Sans Serif;
+	font-size : 1;
+    scrollbar-face-color: #1C6AB2;
+    scrollbar-shadow-color: 1C6AB2;
+    scrollbar-highlight-color: #1C6AB2;
+    scrollbar-3dlight-color: #1C6AB2;
+    scrollbar-darkshadow-color: #1C6AB2;
+    scrollbar-track-color: #ffffff;
+    scrollbar-arrow-color: #ffffff; 
+	cursor: crosshair
+}
+
+a:link {
+  font-weight : normal;
+  color : #1C6AB2;
+  text-decoration : none;
+}
+
+
+a:visited {
+  font-weight : normal;
+  color : #1C6AB2;
+  text-decoration : none;
+  }
+
+
+a:hover {
+  color : #1C6AB2;
+  text-decoration : none;
+  background-color: transparent;
+}

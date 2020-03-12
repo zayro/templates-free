@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlObject>
+	<contact>
+		<pageName><![CDATA[<h1>CONTACT</h1>]]></pageName>
+		<location><![CDATA[<h2>LOCATION</h2>]]></location>
+		<address1><![CDATA[<p>1787 High Hampton Circle</p>]]></address1>
+		<address2><![CDATA[<p>Hollywood, CA 90210</p>]]></address2>
+		<companyName><![CDATA[<h2>COMPANY NAME</h2>]]></companyName>
+		<companyDescription><![CDATA[<p>We are loacated 2 miles West of interstate 62. Between 8mile and Western Avenue.</p>]]></companyDescription>
+		<details><![CDATA[<h2>DETAILS</h2>]]></details>
+		<telephone><![CDATA[<p>T. 345.222.2222</p>]]></telephone>
+		<fax><![CDATA[<p>F. 345.222.4432</p>]]></fax>
+		<email><![CDATA[<p>E. <a href="mailto:support@yorsite.com">support@yoursite.com</a></p>]]></email>
+		<web><![CDATA[<p>W. http://www.yoursite.com</p>]]></web>
+	<imageURL>site_images/contact.jpg</imageURL>
+	</contact>
+</xmlObject>

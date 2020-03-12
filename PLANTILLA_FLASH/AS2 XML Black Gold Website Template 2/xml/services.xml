@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" servicesSlideButtonsIconColor="0xffffff" servicesTextScrollButtonsIconColor="0xffffff" servicesLineAlpha="100" servicesLineColor="0x2b2c2e" thumbsPreloaderColor="0xffffff" thumbsBackGroundColor="0x000000" backGroundHeight="300" backGroundAlpha="100" backGroundColor="0x1a1b1d"/>
+	<items>
+		<item>
+			<unique_deep_link><![CDATA[Web design]]></unique_deep_link>
+			<title><![CDATA[Web design]]></title>
+			<subtitle><![CDATA[<font color="#727272">01/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</font>]]></text>
+			<thumb><![CDATA[]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Corporate identity]]></unique_deep_link>
+			<title><![CDATA[Corporate identity]]></title>
+			<subtitle><![CDATA[<font color="#727272">02/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/02.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Typography for all media]]></unique_deep_link>
+			<title><![CDATA[Typography<br>for all media]]></title>
+			<subtitle><![CDATA[<font color="#727272">03/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/03.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Motion graphics]]></unique_deep_link>
+			<title><![CDATA[Motion graphics]]></title>
+			<subtitle><![CDATA[<font color="#727272">04/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/04.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[3d animations]]></unique_deep_link>
+			<title><![CDATA[3d animations]]></title>
+			<subtitle><![CDATA[<font color="#727272">05/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/05.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Innovate your style]]></unique_deep_link>
+			<title><![CDATA[Innovate your style]]></title>
+			<subtitle><![CDATA[<font color="#727272">06/06</font>]]></subtitle>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/06.jpg]]></thumb>
+		</item>
+	</items>
+</services>

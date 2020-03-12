@@ -1,0 +1,53 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+<option>
+<info><![CDATA[<Text_Preset_3>ADDRESS</Text_Preset_3><Text_Preset_1>PO Box 11454 Spring. TX 77391-1454</Text_Preset_1><Text_Preset_3>PHONE</Text_Preset_3><Text_Preset_1>001.713.263.4748</Text_Preset_1><Text_Preset_3>FAX</Text_Preset_3><Text_Preset_1></Text_Preset_1><Text_Preset_3>EMAIL</Text_Preset_3><Text_Preset_1><a href="mailto: laurenlentini@mac.com">laurenlentini@mac.com</a></Text_Preset_1><Text_Preset_3>WEBSITE</Text_Preset_3><Text_Preset_1><a href="http://www.laurenlentini.com" target="_blank">www.laurenlentini.com</a></Text_Preset_1>]]></info>
+
+
+<!--  ______________TEXT SETTINGS_________________   -->
+<!--  ERROR MESSAGES  -->
+<successMsg>Your message has been sent. Thank you!</successMsg>
+<errorMsgName>Please enter your name!</errorMsgName>
+<errorMsgEmail>Please enter your email address!</errorMsgEmail>
+<errorMsgValid>Please enter a valid email address!</errorMsgValid>
+<errorMsgMessage>Please complete the Message field!</errorMsgMessage>
+<!--  NAME, EMAIL, MESSAGE AND SUBMIT TEXT  -->
+<userName>Name</userName>
+<userEmail>Email</userEmail>
+<userMsg>Message</userMsg>
+<userSubmit>send</userSubmit>
+<!--  FULLSCREEN WARNING TEXT  -->
+<fullscreenWarning>LOCKED
+To use the contact form please exit fullscreen
+Click here to exit fullscreen</fullscreenWarning>
+<!--  ______________GRADIENT SETTINGS_________________   -->
+<!--  BACKGROUND GRADIENT  -->
+<bgGradientEffect visible="true" />
+<!--  ______________STROKE SETTINGS_________________   -->
+<bgStroke visible="true" />
+<!--  ______________COLOR SETTINGS_________________   -->
+<!--  NAME, EMAIL AND MESSAGE COLORS  -->
+<identityColor>0xFFFFFF</identityColor>
+<!--  ERROR MESSAGES COLORS  -->
+<errorMessagesColor>0x666666</errorMessagesColor>
+<!--  INPUT TEXT COLORS  -->
+<inputTextColor>0xFFFFFF</inputTextColor>
+<!--  SUBMIT BUTTON COLORS -->
+<submitBtnTextColor>0xFFFFFF</submitBtnTextColor>
+<submitBtnStrokeNormal>0x333333</submitBtnStrokeNormal>
+<submitBtnStrokeOver>0xFFFFFF</submitBtnStrokeOver>
+<!--  RECTANGLE BACKGROUND COLORS -->	
+<bgStrokeColor>0x666666</bgStrokeColor>
+<bgFillColor>0x000000</bgFillColor>
+<!--  BACKGROUND GRADIENT COLOR -->
+<bgGradientColor>0x1E1E1E</bgGradientColor>
+<!--  INPUT TEXT BACKGROUND -->
+<inputBgFill>0x1E1E1E</inputBgFill>
+<inputStrokeOver>0xFFFFFF</inputStrokeOver>
+<inputStrokeNormal>0x666666</inputStrokeNormal>
+<!--  FULLSCREEN WARNING COLORS -->
+<fsWarningTextColor>0xFFFFFF</fsWarningTextColor>
+<fsWaraningStrokeColor>0xFFFFFF</fsWaraningStrokeColor>
+<fsWarningFillColor>0x000000</fsWarningFillColor>
+
+
+</option>

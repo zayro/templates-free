@@ -1,0 +1,39 @@
+<DynamicWeb>
+
+<Section>
+		<data year="Projects 2012">
+			<project img="dat/Images/Home/img.jpg" f="company">Project Name 1</project>
+			<project img="dat/Images/Home/img2.jpg" f="company">Project Name 2</project>
+			<project img="dat/Images/Home/img3.jpg" f="company">Project Name 3</project>
+			<project img="dat/Images/Home/img4.jpg" f="company">Project Name 4</project>
+			<project img="dat/Images/Home/img6.jpg" f="company">Project Name 5</project>
+			<project img="dat/Images/Home/img5.jpg" f="company">Project Name 6</project>
+			<project img="dat/Images/Home/img3.jpg" f="company">Project Name 7</project>
+			<project img="dat/Images/Home/img2.jpg" f="company">Project Name 8</project>
+		</data>
+		<data year="Projects  2011">
+			<project img="dat/Images/Home/img.jpg" f="company">Project Name 1</project>
+			<project img="dat/Images/Home/img2.jpg" f="company">Project Name 2</project>
+			<project img="dat/Images/Home/img3.jpg" f="company">Project Name 3</project>
+			<project img="dat/Images/Home/img4.jpg" f="company">Project Name 4</project>
+
+		</data>
+		
+		<data year="Projects 2010">
+			<project img="dat/Images/Home/img.jpg" f="company">Project Name 1</project>
+			<project img="dat/Images/Home/img2.jpg" f="company">Project Name 2</project>
+			<project img="dat/Images/Home/img3.jpg" f="company">Project Name 3</project>
+			<project img="dat/Images/Home/img4.jpg" f="company">Project Name 4</project>
+			<project img="dat/Images/Home/img6.jpg" f="company">Project Name 5</project>
+
+		</data>
+		
+			<data year="Projects 2009">
+			<project img="dat/Images/Home/img.jpg" f="company">Project Name 1</project>
+			<project img="dat/Images/Home/img2.jpg" f="company">Project Name 2</project>
+			<project img="dat/Images/Home/img3.jpg" f="company">Project Name 3</project>
+
+		</data>
+</Section>
+
+</DynamicWeb>

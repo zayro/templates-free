@@ -1,0 +1,26 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220">
+			<title>Company 1</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Duis aute<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/> irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img2.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220">
+			<title>Company 2</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img3.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220">
+			<title>Company 3</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img4.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220">
+			<title>Company 4</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+
+</Section>
+
+</DynamicWeb>

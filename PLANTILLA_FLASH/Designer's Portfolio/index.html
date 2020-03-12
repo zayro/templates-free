@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Lement Studios</title>
+        <script type="text/javascript" src="com/swfobject/swfobject.js"></script>
+        <script type="text/javascript" src="com/swfaddress/swfaddress.js"></script>
+        <style type="text/css">
+            html {
+                height: 100%;
+                overflow: hidden;
+				overflow-y: hidden;
+            }
+            #flashcontent {
+                height: 100%;
+            }
+            body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                background-color: #000000;
+				overflow-y: hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="flashcontent">
+
+        </div>
+        <script type="text/javascript">
+        // <![CDATA[
+            var so = new SWFObject('preview.swf','container','100%','100%','8','#000000');
+            so.useExpressInstall('com/swfobject/expressinstall.swf');
+			so.addParam('allowFullScreen','true');  
+            so.addParam('menu','false');          
+            so.write('flashcontent');
+        // ]]>
+        </script>
+    </body>
+
+</html>

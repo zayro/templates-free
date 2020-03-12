@@ -1,0 +1,1771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ed Cousins <ed@swiftideas.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Text in function
+#: pinpoint/comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:322
+msgid "- Menu -"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:28
+msgid "0 Comments"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:377
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:28
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:228
+msgid "1/2 + 1/2"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:237
+msgid "1/2 + 1/4 + 1/4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:229
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:230
+msgid "1/3 + 2/3"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:236
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:235
+msgid "1/4 + 1/4 + 1/2"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:232
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:233
+msgid "1/4 + 3/4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:386
+msgid "10"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:378
+msgid "2"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:231
+msgid "2/3 + 1/3"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:379
+msgid "3"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:234
+msgid "3/4 + 1/4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:380
+msgid "4"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/404.php:13
+msgid "404"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:381
+msgid "5"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:382
+msgid "6"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:383
+msgid "7"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:384
+msgid "8"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:385
+msgid "9"
+msgstr ""
+
+#. Text in function
+#: pinpoint/index.php:78
+msgid "<h1>%1$s result for %2$s</h1>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/index.php:80
+msgid "<h1>%1$s results for %2$s</h1>"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:224
+msgid "<h2>Related Articles</h2>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single-team.php:80 pinpoint/single-portfolio.php:173
+msgid ""
+"<i class=\"icon-chevron-left\"></i> <span class=\"nav-text\">%link</span>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single.php:285
+msgid ""
+"<i class=\"icon-chevron-left\"></i> <span class=\"nav-text\">%title</span>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/category.php:58 pinpoint/index.php:50 pinpoint/index.php:127
+#: pinpoint/archive.php:75
+msgid ""
+"<i class=\"icon-chevron-left\"></i> <span class=\"nav-text\">Older Entries</"
+"span>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single-team.php:81 pinpoint/single-portfolio.php:174
+msgid ""
+"<span class=\"nav-text\">%link</span><i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single.php:287
+msgid ""
+"<span class=\"nav-text\">%title</span><i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#. Text in function
+#: pinpoint/category.php:60 pinpoint/index.php:52 pinpoint/index.php:129
+#: pinpoint/archive.php:77
+msgid ""
+"<span class=\"nav-text\">Newer Entries</span><i class=\"icon-chevron-right"
+"\"></i>"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:286
+msgid ""
+"<span><i class=\"icon-list\"></i> </span><span class=\"nav-text\">Index</"
+"span>"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:187
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:85
+msgid "Accent"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Accent Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:366
+msgid "Account"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:346
+msgid "Add (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:347
+msgid "Add (Colour)"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "Add New Client"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "Add New Job"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "Add New Question"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "Add New Team Member"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "Add New Testimonial"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/comments.php:64
+msgid "Add comment"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/template-fw-slider.php:63 pinpoint/page.php:53
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Alt Background Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:307
+msgid "Alt bordered pricing table"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/archive.php:18 pinpoint/archive.php:20 pinpoint/archive.php:22
+msgid "Archive for"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/shortcodes.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:348
+msgid "Arrow (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:349
+msgid "Arrow (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:350
+msgid "Article"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/functions.php:949
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/archive.php:25
+msgid "Author archive for"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Auxiliary Alt Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Auxiliary Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Auxiliary Link Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Auxiliary Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Background colour (bordered only)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:351
+msgid "Bar"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:86
+msgid "Black"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:207
+msgid "Blockquote Big"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:206
+msgid "Blockquote Medium"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:205
+msgid "Blockquote Standard"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/archive.php:27
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Body Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:149
+msgid "Bolt"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:352
+msgid "Bolt (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:353
+msgid "Bolt (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:306
+msgid "Bordered pricing table"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:154
+msgid "Briefcase"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/faqs.php:1
+msgid "Browse F.A.Q. Topics"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:117
+msgid "Button URL"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:82
+msgid "Button colour"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:73
+msgid "Button size"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:113
+#: pinpoint/includes/sf_shortcodes/interface.php:114
+#: pinpoint/includes/sf_shortcodes/interface.php:330
+msgid "Button text"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:99
+msgid "Button type"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:54
+#: pinpoint/includes/sf_shortcodes/interface.php:71
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/posts-carousel.php:1
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/recent-posts.php:1
+msgid "By %1$s on %2$s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/post-formats/standard.php:106
+msgid "By %1$s on %2$s In %3$s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:984
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single.php:124
+msgid "By %1$s on %2$s in %3$s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/blog.php:1
+msgid "By <a href=\"%2$s\">%1$s</a> on %3$s in %4$s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/shortcodes.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:150
+msgid "Chart"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:168
+msgid "Circular container"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:287
+msgid "Click here to go to the admin area"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:285
+msgid "Click here to logout"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single-portfolio-sidebars.php:156
+#: pinpoint/single-portfolio.php:132
+msgid "Client: "
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:161
+msgid "Cloud"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:146
+msgid "Cog"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Accent"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Auxiliary Area"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Body"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Footer"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Header"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Navigation"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Page"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Page Heading"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Color - Shortcodes"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:58
+#: pinpoint/includes/sf_shortcodes/interface.php:223
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Copyright Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Copyright Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:392
+msgid "Could not return a tweet :("
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:157
+msgid "Dashboard"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:354
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single-portfolio-sidebars.php:158
+#: pinpoint/single-portfolio.php:134
+msgid "Date: "
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:204
+msgid "Decorative Ampersand"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:355
+msgid "Delete (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:356
+msgid "Delete (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:357
+msgid "Dot"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:158
+msgid "Download"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:109
+msgid "Drop shadow effect"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:209
+msgid "Dropcap Type 1"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:210
+msgid "Dropcap Type 2"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:211
+msgid "Dropcap Type 3"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:212
+msgid "Dropcap Type 4"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/plugins/dropdown-menus.php:1
+msgid "Dropdown Menu"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:954 pinpoint/functions.php:984
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "Edit Client"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "Edit Job"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "Edit Question"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "Edit Team Member"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "Edit Testimonial"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:261
+msgid "Enter your email address and hit enter to subscribe"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:276
+msgid "Enter your username"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:159
+msgid "Envelope"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/template-fw-slider.php:61 pinpoint/page.php:51
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Filter/RSS Border Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/team.php:1
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/team-carousel.php:1
+msgid "Find out more"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/widgets/widget-flickr.php:31
+msgid "Flickr API Key"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/widgets/widget-flickr.php:36
+msgid "Flickr Username"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Footer Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Footer Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:283
+msgid "Forgotten your login details?"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:155
+msgid "Gift"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:151
+msgid "Globe"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:91
+msgid "Green"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:87
+msgid "Grey"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H1 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H2 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H3 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H4 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H5 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "H6 Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Header Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/team-carousel.php:1
+msgid "Hide Bios"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:203
+msgid "Highlight"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:320
+msgid "Highlighted column"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Icon Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Icon Container Background Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:175
+msgid "Icon float"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:143
+msgid "Icon image"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:134
+msgid "Icon size"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:55
+#: pinpoint/includes/sf_shortcodes/interface.php:132
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Impact Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Inner page background color (bordered only)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:398
+msgid "Insert Shortcode"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/post-formats/standard.php:118
+#: pinpoint/includes/post-formats/quote.php:17
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/blog.php:1
+msgid "Keep Reading"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:360
+msgid "Languages"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:139
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:225
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:177
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:156
+msgid "Legal"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:90
+msgid "Light Blue"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:88
+msgid "Light Grey"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:359
+msgid "Like"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:358
+msgid "Like (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:92
+msgid "Lime Green"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Link Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:344
+msgid "List type"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:61
+#: pinpoint/includes/sf_shortcodes/interface.php:342
+msgid "Lists"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:961
+msgid "Log in to reply."
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:163
+msgid "Magic"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:147
+msgid "Magnify"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:392
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:138
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/testimonial-carousel.php:1
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/testimonial.php:1
+msgid "More"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/plugins/love-it-pro/includes/widgets.php:39
+msgid "Most Loved"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:152
+msgid "Music"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Arrow Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Divider Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Selected Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Nav Text Hover Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "New Client"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "New Job"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "New Question"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "New Team Member"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "New Testimonial"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:993
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:262
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "No clients have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "No jobs have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/plugins/dropdown-menus.php:1
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "No portfolio items have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "No questions have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "No showcase slides have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "No team members have been added yet"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:179
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/widgets/widget-flickr.php:41
+msgid "Number of Photos"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:267
+#: pinpoint/includes/sf_shortcodes/interface.php:311
+msgid "Number of columns"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:375
+msgid "Number of list items"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:279
+msgid "Number of rows"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:121
+msgid "Open link in a new window?"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:145
+msgid "Options / Tools"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:95
+msgid "Orange"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:108
+msgid "Outer glow effect"
+msgstr ""
+
+#. Text in function
+#: pinpoint/header.php:66
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Page Heading Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Page Heading Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/shortcodes.php:1
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:360
+msgid "Pen"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:148
+msgid "Pencil"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:216
+msgid "Permanent Link"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:162
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Phone Number Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:94
+msgid "Pink"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:121
+msgid "Please enable JavaScript to view this website."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/index.php:141
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/shortcodes.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/archive.php:16
+msgid "Posts tagged with"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:993
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Pricing Table Primary Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Pricing Table Secondary Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Pricing Table Tertiary Background Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:60
+#: pinpoint/includes/sf_shortcodes/interface.php:301
+msgid "Pricing Tables"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:208
+msgid "Pull Quote"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:89
+msgid "Purple"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:361
+msgid "Question mark (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:362
+msgid "Question mark (Colour)"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:961
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/404.php:29
+msgid "Return to the previous page"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:178
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:164
+msgid "Road"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:106
+msgid "Rounded"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:107
+msgid "Rounded with arrow"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:354 pinpoint/searchform.php:12
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "Search Clients"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "Search Jobs"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "Search Portfolio"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "Search Questions"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "Search Showcase"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "Search Team Members"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "Search Testimonials"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Section divide color)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/plugins/dropdown-menus.php:211
+msgid "Select Menu:"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:49
+msgid "Select a shortcode"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:363
+msgid "Settings (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:364
+msgid "Settings (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:198
+msgid "Share:"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:51
+msgid "Shortcode"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/team-carousel.php:1
+msgid "Show Bios"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:104
+msgid "Slightly rounded"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:105
+msgid "Slightly rounded with arrow"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:137
+msgid "Small"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:56
+#: pinpoint/includes/sf_shortcodes/interface.php:189
+msgid "Social"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/404.php:27
+msgid ""
+"Sorry but we couldn't find the page you are looking for. Please check to "
+"make sure you've typed the URL correctly. You may also want to search for "
+"what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/index.php:139
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:103
+msgid "Square with arrow"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:102
+msgid "Standard"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:254
+msgid "Standard bordered table"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:252
+msgid "Standard minimal table"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:305
+msgid "Standard pricing table"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:153
+msgid "Star"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:365
+msgid "Star (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:366
+msgid "Star (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:255
+msgid "Striped bordered table"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:253
+msgid "Striped minimal table"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Sub Menu Selected Text Color"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:348
+msgid "Subscribe"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:19
+msgid "Swift Framework Shortcodes"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf-customizer-options.php:1
+msgid "Tab Rollover Color"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:259
+msgid "Table Head"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:250
+#: pinpoint/includes/sf_shortcodes/interface.php:303
+msgid "Table style"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:59
+#: pinpoint/includes/sf_shortcodes/interface.php:248
+msgid "Tables"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:212
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single-portfolio-sidebars.php:160
+#: pinpoint/single-portfolio.php:136
+msgid "Tags: "
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:277
+msgid "Then enter your password and hit enter"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:367
+msgid "Tick (B&W)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:368
+msgid "Tick (Colour)"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/widgets/widget-video.php:20
+#: pinpoint/includes/widgets/widget-flickr.php:26
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/plugins/dropdown-menus.php:207
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:160
+msgid "Trophy"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:93
+msgid "Turquoise"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:200
+msgid "Type"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:255
+msgid "Type something and hit enter to search"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:57
+#: pinpoint/includes/sf_shortcodes/interface.php:198
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/plugins/dropdown-menus.php:1
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:369
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/widgets/widget-video.php:24
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/clients-type.php:1
+msgid "View Client"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/jobs-type.php:1
+msgid "View Job"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/portfolio-type.php:1
+msgid "View Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/faqs-type.php:1
+msgid "View Question"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/showcase-type.php:1
+msgid "View Slide"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/team-type.php:1
+msgid "View Team Member"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/custom-post-types/testimonials-type.php:1
+msgid "View Testimonial"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/single.php:188
+msgid "View all posts by"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/jobs-overview.php:1
+msgid "View all vacancies"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:371
+msgid "Warning"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:370
+msgid "Warning (B&W)"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/includes/sf_shortcodes/interface.php:261
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/sf_shortcodes/interface.php:1
+msgid "You are not allowed to access this page"
+msgstr ""
+
+#. Text in function
+#: pinpoint/comments.php:65
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: pinpoint/functions.php:989
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation.</span>\\n"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/functions.php:971
+msgid ""
+"\\t\\t\\t\\t\\t<span class='unapproved'>Your comment is awaiting moderation."
+"</span>\\n"
+msgstr ""
+
+#. Text in function
+#: pinpoint/functions.php:392 pinpoint/includes/widgets/widget-twitter.php:263
+msgid "ago"
+msgstr ""
+
+#. Text in function
+#: pinpoint/single.php:3
+msgid "blog_page"
+msgstr ""
+
+#. Text in function
+#: pinpoint/footer.php:177
+msgid "footer_copyright_text"
+msgstr ""
+
+#. Text in function
+#: pinpoint/footer.php:177
+msgid "footer_gotop_text"
+msgstr ""
+
+#. Text in function
+#: pinpoint/header.php:11
+msgid "header_phone_number"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/jobs-overview.php:1
+msgid "jobs_page"
+msgstr ""
+
+#. Text in echo
+#: pinpoint/header.php:286
+msgid "or"
+msgstr ""
+
+#. Text in function
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/testimonial-carousel.php:1
+#: pinpoint/includes/page-builder/composer/lib/shortcodes/testimonial.php:1
+msgid "testimonial_page"
+msgstr ""

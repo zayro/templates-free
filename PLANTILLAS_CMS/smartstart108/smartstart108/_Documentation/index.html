@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>SmartStart WP - Responsive HTML5 Theme: Documentation</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="assets/prettify/prettify.css" type="text/css" media="screen, projection">
+</head>
+
+<body>
+	<div class="container">
+	
+		<h3 class="center alt">&ldquo;SmartStart WP - Responsive HTML5 Theme&rdquo; Documentation by &ldquo;Smuliii&rdquo; v1.08</h3>
+		
+		<hr>
+		
+		<h1 class="center">SmartStart WP - Responsive HTML5 Theme</h1>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>Created:</strong> 6.4.2012<br>
+					<strong>By:</strong> Samuli Saarinen<br>
+					<strong>Follow me on: <a href="http://twitter.com/Smuliii/">Twitter</a><br>
+					<a href="http://themeforest.net/user/Smuliii/" class="follow-2">Themeforest</a></strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/smuliii/#from">here</a>. You can also follow me on Twitter and Themeforest to keep track of all my theme updates and future themes. Thanks so much! :)</p>
+			</div>
+
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#installation">Installation</a>
+				<ol>
+					<li><a href="#first-steps">First Steps</a>
+					<li><a href="#upload-the-theme">Upload the Theme</a>
+					<li><a href="#active-the-theme">Active the Theme</a>
+					<li><a href="#install-and-setup-plugins">Install & Setup Plugins (optional)</a>
+					<li><a href="#upload-dummy-content">Upload Dummy Content (optional)</a>
+					<li><a href="#setup-theme-options">Setup Theme Options</a>
+					<li><a href="#setup-menu-and-reading-settings">Setup Menu & Reading Settings</a>
+					<li><a href="#setup-widgets">Setup Widgets</a>
+				</ol>
+			</li>
+			<li><a href="#using-the-theme">Using the Theme</a>
+				<ol>
+					<li><a href="#shortcodes">Shortcodes</a>
+					<li><a href="#page-post-settings">Page/Post Settings</a>
+					<li><a href="#post-formats">Post Formats</a>
+					<li><a href="#portfolio">Portfolio</a>
+					<li><a href="#sliders">Sliders</a>
+					<li><a href="#team">Team</a>
+				</ol>
+			</li>
+			<li><a href="#css">CSS Files &amp; Structure</a></li>
+			<li><a href="#javascript">Javascript Plugins/Scripts</a>
+			<li><a href="#psds">PSDs</a></li>
+			<li><a href="#credits">Sources and Credits</a></li>
+			<li><a href="#changelog">Changelog</a></li>
+		</ol>
+		
+		<hr>
+		
+		<h2 id="installation"><strong>A) Installation</strong> - <a href="#toc">top</a></h2>
+		
+		<p>First of all, if you haven't worked with Wordpress ever before, I would recommend to learn a little about it and get to know it first, before heading to this documentation:</p>
+		<ul>
+			<li><a href="http://codex.wordpress.org/First_Steps_With_WordPress" title="First Steps With WordPress">First Steps With WordPress</a></li>
+			<li><a href="http://codex.wordpress.org/FAQ_New_To_WordPress" title="FAQ New To WordPress">FAQ New To WordPress</a></li>
+			<li><a href="http://wp.tutsplus.com/sessions/wp101-basix-training/" title="WP101 Basix Training">WP101 Basix Training</a></li>
+		</ul>
+		
+		<p>In case you're not interested to read the documentation, here's also a small screencast of the installation process:</p>
+		
+		<iframe src="http://www.screenr.com/embed/Aj18" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/Aj18">How to install and setup SmartStart WP - Responsive HTML5 Theme</a></p>
+		
+    	<hr>
+		
+		<h3 id="first-steps">A. 1) First Steps</h3>
+		
+		<p>Before you can start playing around with your new theme, let's first check what the theme package includes. After you have downloaded the .zip file from Themeforest and unzipped it, its should reveal the following folders:</p>
+		
+		<ul>
+			<li><strong>_Documentation</strong> - <em>That's where you are here at the moment</em></li>
+			<li><strong>_License</strong> - <em>Some info about theme licencing terms</em></li>
+			<li><strong>_PSD</strong> - <em>All .psd files</em></li>
+			<li><strong>Dummy Content</strong> - <em>Placholder content for testing the theme</em></li>
+			<li><strong>www</strong> - <em>Actually theme (for FTP upload)</em></li>
+			<li><strong>www-zip</strong> - <em>The same theme but zipped version (for Theme Uploader)</em></li>
+		</ul>
+    
+    	<hr>
+		
+		<h3 id="upload-the-theme">A. 2) Upload the Theme</h3>
+		
+		<p>You have two options how to upload themes in Wordpress and I will cover them both now. You can either upload all theme files via FTP or you can use Wordpress Theme Uploader. It really doesn't matter at all which one of these techniques you want to use, so choose the one which seems to make more sense to you.</p>
+		
+		<p><h4>Theme Uploader:</h4>
+		
+		<ol>
+			<li>So of course first you need to login into Wordpress backend.</li>
+			<li>Find <em>Appearance</em> from left sidebar, open it and click <em>Themes</em>.</li>
+			<li>Now you click link called <em>Install Themes</em>.</li>
+			<li>In the next page, just under <em>Install Themes</em> link, there is an another link called <em>Upload</em>, click that.</li>
+			<li>Now you just need to find the SmartStart WP folder, which you just unzipped, and in there go to <code>www-zip</code> folder and select <strong>smartstart.zip</strong> file.</li>
+			<li>Then just click <em>Install now</em> and Wordpress will handle the rest!</li>
+		</ol>
+		
+		<hr>
+		
+		<p><h4>FTP:</h4>
+		
+		<p>So I assume you do know how to use your FTP client of choice (like <a href="http://filezilla-project.org/">Filezilla</a>), but if you don't, then try Theme Uploader technique.</p>
+		
+		<ol>
+			<li>First login o your FTP account and navigate to your Wordpress installation directory and in there go to <code>wp-content\themes</code> folder.</li>
+			<li>Now put FTP client to side for a while and head back to SmartStart WP folder, which you just unzipped, and in there go to <code>www</code> folder.</li>
+			<li>There should be only one folder, called <strong>smartstart</strong>. To make sure you are in the right place, check that folder contains files like <em>index.php, functions.php and style.css</em>.</li>
+			<li>If everything looks good you are ready to upload this <strong>smartstart</strong> folder to <code>wp-content\themes</code>, which you found earlier.</li>
+		</ol>
+		
+		<p>If you face any problems during the installation, I'd recommend to check this screencast: <a href="http://wiki.envato.com/buying/support-buying/solving-broken-theme-issues/">Solving Broken Theme Issues</a>.</p>
+
+    	<hr>
+		
+		<h3 id="active-the-theme">A. 3) Active the Theme</h3>
+		
+		<p>After theme is successfully uploaded, head on to <em>Appearance &raquo; Themes</em>, in Wordpress backend. There should be now one new theme called <em>SmartStart WP - Responsive HTML5 Theme</em>. Find it and just click <em>Activate</em>.</p>
+	    
+    	<hr>
+		
+		<h3 id="install-and-setup-plugins">A. 4) Install & Setup Plugins (optional)</h3>
+
+		<p>These steps are totally optional, so if you don't need Google Maps or contact form, you can easily just <em>Dismiss the Notice</em> and skip to the next step.</p>
+		
+		<p>So at this stage you have probably noticed a warning sign, asking you to install recommended plugins. Now it's time for that! And this is extremely simple, since you just need to click <em>Begin installing plugins</em> and you will be redirected to plugin installation page where you can install the plugins you want.</p>
+		
+		<h4>Google Maps made Simple Plugin</h4>
+		
+		<p>I'm not going to teach how to use this plugins because you can find its extensive documentation from <a href="http://www.wordpresspluginfu.com/wpgmappity/" title="WPGMappity: Google Maps for WordPress" target="_blank">plugin's homepage</a>.</p>
+		
+		<p>To have fullwidth map, you will need to wrap the <em>map</em> shortcode with <code>[fullwidth_map] ... [/fullwidth_map]</code> shortcode.</p>
+		
+		<hr>
+		
+		<h4>Contact Form 7</h4>
+		
+		<p>Contact From 7 provides <a href="http://contactform7.com/docs/" title="Contact From 7 Documentation" target="_blank">excellent documentation</a> at its own so I will only guide how to setup a simple form. The actually plugin installation process is just like installing the Google Maps made Simple Plugin. So after it's done, you will find new link called <em>Contact</em> from bottom of the sidebar. You can check <a href="http://contactform7.com/docs/" title="Contact From 7 Documentation" target="_blank">Contact From 7 docs</a> and create all different sort of forms with this plugin, but here is the basic form from the demo site:</p>
+		
+<pre class="prettyprint lines">
+&lt;p class="input-block"&gt;
+    &lt;label for="your-name"&gt;&lt;strong&gt;Name&lt;/strong&gt; (required)&lt;/label&gt;[text* your-name id:your-name]
+&lt;/p&gt;
+
+&lt;p class="input-block"&gt;
+    &lt;label for="your-email"&gt;&lt;strong&gt;Email&lt;/strong&gt; (required)&lt;/label&gt;[email* your-email id:your-email]
+&lt;/p&gt;
+
+&lt;p class="input-block"&gt;
+    &lt;label for="your-subject"&gt;&lt;strong&gt;Subject&lt;/strong&gt;&lt;/label&gt;[text your-subject id:your-subject]
+&lt;/p&gt;
+
+&lt;p class="textarea-block"&gt;
+    &lt;label for="your-message"&gt;&lt;strong&gt;Your Message&lt;/strong&gt; (required)&lt;/label&gt;[textarea* your-message id:your-message]
+&lt;/p&gt;
+
+[submit "Send Message"]
+</pre>
+	    
+    	<hr>
+		
+		<h3 id="upload-dummy-content">A. 5) Upload Dummy Content (optional)</h3>
+		
+		<p class="notice">Be aware that downloading Dummy Content may take a while, depending on the speed of your internet connection!</p>
+		
+		<p>If this is your first time with Wordpress platform or if you just want to get use to the theme, you may want to first just play around with it. And in that situation Dummy Content is excellent choice! With this single file you should get almost identically result like in demo site. But of course you can easily just skip this step, if you don't want any unnecessary extra content to your site.</p>
+		
+		<ol>
+			<li>First go to <em>Tools &raquo; Import</em> and in there choose Wordpress.</li>
+			<li>If you haven't imported anything before, you will need to install <em>Importer</em> plugin. So install it and once it's done you can activate it.</li>
+			<li>Now click <em>Browse </em> and navigate to SmartStart WP folder. In there go to <code>Dummy Content</code> folder and select <strong>smartstart-dummy-content.xml</strong> file and click <em>Upload file and import</em>.</li>
+			<li>Before submitting it, you may also want to check <em>Download and import file attachments</em> checkbox.</li>
+			<li>And now you just need to wait. Importing can take a while, but it will save a whole lot of your time so just be patient.</li>
+		</ol>     
+		
+    	<hr>
+		
+		<h3 id="setup-theme-options">A. 6) Setup Theme Options</h3>
+		
+		<p>Theme has its own unbranded Theme Options panel, which can be found under the <em>Apperance</em> tab. There you can set some basic settings like logo, color scheme and social links. But before you start adjusting different settings, you should first click <em>Save Options</em> button to insert all default data to the database. This will just ensure that everything looks good.</p>
+			    
+    	<hr>
+		
+		<h3 id="setup-menu-and-reading-settings">A. 7) Setup Menu & Reading Settings</h3>
+		
+		<p>From now on I assume that you have at least some content on your site. If not, you should create few pages before you can continue.</p> 
+		
+		<h4>Setup the Menu</h4>
+		
+		<p>At first you need to create the main menu, go to <em>Appearance &raquo; Menus</em> and create one (if you imported Dummy Content, it already exist). Now you will need to attach it into the theme in <em>Theme Locations</em> (upper left box).</p>
+		
+		<p>You have also option to give main menu items a little description. If you can't see the <em>Description</em> field, you can enable it by clicking Screen Options in top right corner and then checking the <em>Description</em> checkbox.</p> 
+		
+		<p>More info about Wordpress menus can be found from here: <a href="http://codex.wordpress.org/Appearance_Menus_SubPanel">Appearance Menus Screen</a>.</p> 
+		
+		<hr>
+		
+		<h4>Reading Settings</h4>
+		
+		<p>Now is also good time to set site <em>Front page</em> and <em>Posts page</em> in <em>Settings &raquo; Reading Settings</em> page.</p>
+		
+    	<hr>
+		
+		<h3 id="setup-widgets">A. 8) Setup Widgets</h3>
+			
+		<p>This theme comes with four custom widget, which are really easy to use.</p>
+		
+		<h4>Smart Contact Info</h4>
+		
+		<p>This widget shows the contact info and it's meant to be used in <em>Left Footer Widget Area</em>. The widget can be configured in <em>Theme Options</em> (Social Media).</p>
+		
+		<hr>
+		
+		<h4>Smart Flickr Feed</h4>
+		
+		<p>This widget allows you to show latest images from any Flickr account or group. You can find your Flickr ID at <a href="http://idgettr.com/">http://idgettr.com/</a>. Feed will be updated once in a hour.</p>
+		
+		<hr>
+		
+		<h4>Smart Social Links</h4>
+		
+		<p>This widget shows the social links and it's meant to be used in <em>Right Footer Widget Area</em>. The widget can be configured in <em>Theme Options</em> (Social Media).</p>
+		
+		<hr>
+			
+		<h4>Smart Twitter Feed</h4>
+		
+		<p>This widget allows you to show latest tweets from any Twitter account. You have also option to <em>Ignore Replies</em>, so you can show only the actual tweets. And feed will be updated once in a hour.</p>
+			    
+    	<hr>
+		
+		<h2 id="using-the-theme"><strong>B) Using the Theme</strong> - <a href="#toc">top</a></h2>
+		
+		<h3 id="shortcodes">B. 1) Shortcodes</h3>
+			
+		<p>Theme comes with dozens custom shortcodes to help you out in building the site. All those are easily accesible straight from the post editor, just by clicking the new <em>Insert Shortcode</em> button (green icon with <strong>+</strong> sign). It will launch the Shortcode Manager where you can select shortcode and configure it, before inserting to a post.</p>
+		
+		<img src="assets/images/shortcodes.png" alt="shortcodes" class="screenshot" />
+		
+		<p><a href="http://demo.samuli.me/wp-info/smartstart-wp-shortcodes.txt" title="Click to view a list of all the available shortcodes" target="_blank">Full list of all the available shortcodes</a></p>	
+			
+		<iframe src="http://www.screenr.com/embed/mWd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/mWd8">How to create a frontpage in SmartStart WP - Responsive HTML5 Theme</a></p>
+	    
+    	<hr>
+		
+		<h3 id="page-post-settings">B. 2) Page/Post Settings</h3>
+			
+		<p>In every page and post, you can overwrite the <em>Site Structure</em> setting and choose custom page layout just for that page.</p>
+			
+		<p>In regular pages you have also option to use custom page title and descriptions, or just disable page header completely if you don't need it.</p>
+		
+		<iframe src="http://www.screenr.com/embed/zHd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/zHd8">How to use page settings in SmartStart WP - Responsive HTML5 Theme</a></p>
+	    
+    	<hr>
+		
+		<h3 id="post-formats">B. 3) Post Formats</h3>
+			
+		<p>In case you haven't used Post Formats before, you may want to check what they really are and what they are meant to do: <a href="http://codex.wordpress.org/Post_Formats" title="Post Formats">http://codex.wordpress.org/Post_Formats</a></p>
+		
+		<blockquote>In short, with a theme that supports Post Formats, a blogger can change how each post looks by choosing a Post Format from a radio-button list. </blockquote>
+		
+		<p>The <em>Link</em>, <em>Quote</em>, <em>Video</em> and <em>Audio</em> posts have few an extra box for their fields, just under the post editor.</p>
+		
+		<iframe src="http://www.screenr.com/embed/qHd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/qHd8">How to use post formats in SmartStart WP - Responsive HTML5 Theme</a></p>
+		
+		<h4>Standard</h4>
+			
+		<p>This is the default format for all the posts.</p>
+		
+    	<hr>
+		
+		<h4>Aside</h4>
+			
+		<p>Usually post without a title. So for example great for a little note.</p>
+		
+    	<hr>
+		
+		<h4>Gallery</h4>
+			
+		<p>To create image gallery slider, you just need to add some image attachments to the post by clicking <em>Add Media</em> button in post editor.</p>
+		
+    	<hr>
+		
+		<h4>Link</h4>
+			
+		<p>The post title will be linked to external site.</p>
+		
+    	<hr>
+		
+		<h4>Image</h4>
+			
+		<p>In <em>Standard</em> post, clicking the featured image just links to the post, but in Image post it will launch lightbox to view zoomed image.</p>
+		
+    	<hr>
+		
+		<h4>Quote</h4>
+			
+		<p>Quote posts also allows you to have regular content, but it will shown only in single page.</p>
+		
+    	<hr>
+		
+		<h4>Video</h4>
+			
+		<p>You have option to either use the custom HTML5 video player (with Flash fallback) or to use external embed code.</p>
+		
+    	<hr>
+		
+		<h4>Audio</h4>
+			
+		<p>Just like with <em>Video</em> post, you can either use custom HTML5 audio player (with Flash fallback) or to use external embed code.</p>
+		
+    	<hr>	            
+		
+		<h3 id="portfolio">B. 4) Portfolio</h3>
+			
+		<p>Creating a new project is pretty same as creating new post. You can decide will the content be positioned to the left, to the right or to below the slider. But remember that you can use column shortcodes only if there isn't a "sidebar". And the featured image will be used as a thumbnail for the portfolio page (and for projects carousel).</p>
+			
+		<p>Just like with Post Formats, you have option to use images, custom videos or audios in the slider. But if you select  <em>Custom</em> Slide Type, you can basically have any content you want. Also, there may be a cases when the slider quite simple won't allow some embed code to work properly, so in that case you can disable the actual JavaScript part. But you can still add/remove slides as you normally would.</p>
+		
+		<iframe src="http://www.screenr.com/embed/RHd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/RHd8">How to create a new project in SmartStart WP - Responsive HTML5 Theme</a></p>
+		
+    	<hr>
+		
+		<h3 id="sliders">B. 5) Sliders</h3>
+			
+		<p>You can easily create multiple slider with custom Slider Manager. Every slider has its own settings for transitions etc. and they can be found from right side of the page.</p>
+		
+		<p>You can get the shortcode for the slider from the Slider listing page. You can also insert sliders with the Shortcode Manager.</p>
+		
+		<iframe src="http://www.screenr.com/embed/rHd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/rHd8">How to create a new slider in SmartStart WP - Responsive HTML5 Theme</a></p>
+	    
+    	<hr>
+		
+		<h3 id="team">B. 6) Team</h3>
+			
+		<p>Creating a new Team member is really simple task. The featured image will be used as a photo and the content for the little description. You have also option to give a job title and set social links.</p>
+		
+		<p>You can get the shortcode for the team member from the Team listing page. You can also insert team members with the Shortcode Manager.</p>
+		
+		<iframe src="http://www.screenr.com/embed/FHd8" width="790" height="481" frameborder="0"></iframe>
+		
+		<p><a href="http://www.screenr.com/FHd8">How to create a new team member in SmartStart WP - Responsive HTML5 Theme</a></p>
+	    
+    	<hr>
+				
+		<h2 id="css"><strong>C) CSS Files &amp; Structure</strong> - <a href="#toc">top</a></h2>
+		
+		<ul>
+			<li><strong>style.css</strong></li>
+			<li><strong>css/audioplayerv1.css</strong></li>
+			<li><strong>css/audioplayerv1.min.css</strong></li>
+			<li><strong>css/editor-style.css</strong></li>
+			<li><strong>css/fancybox.min.css</strong></li>
+			<li><strong>css/fancybox.min.css</strong></li>
+			<li><strong>css/video-js.css</strong></li>
+			<li><strong>css/video-js.min.css</strong></li>
+		</ul>
+		
+		<p>As you can see, theme doesn't have separate CSS file for IE, but unfortunately this doesn't mean that there wouldn't be any IE specific css rules. Theme has three custom class for this purpose: <code class="prettyprint">.ie7</code>, <code class="prettyprint">.ie8</code> and <code class="prettyprint">.not-ie</code>. <code class="prettyprint">.ie7</code> is just for IE7, <code class="prettyprint">.ie8</code> for IE8 and older and <code class="prettyprint">.not-ie</code> is for any other browser except IE8 and older.</p>
+				
+		<p>Here is simple list where you can find every section with ease in <strong>style.css</strong> file:</p>
+		
+		<ol>
+			<li><strong>Reset & Clearfix</strong> - Line 12</li>
+			<li><strong>Basic Elements & Classes</strong> - Line 35</li>
+			<li><strong>Generic Classes</strong> - Line 271</li>
+			<li><strong>Lists</strong> - Line 299</li>
+			<li><strong>Alert Boxes</strong> - Line 340</li>
+			<li><strong>Forms</strong> - Line 377</li>
+			<li><strong>Tables</strong> - Line 448</li>
+			<li><strong>Wrap</strong> - Line 481
+				<ol>
+					<li><strong>Columns</strong> - Line 491</li>
+				</ol>
+			</li>
+			<li><strong>Header</strong> - Line 512
+				<ol>
+					<li><strong>Main Navigation</strong> - Line 529</li>
+				</ol>
+			</li>
+			<li><strong>Content</strong> - Line 675
+				<ol>
+					<li><strong>Page Header</strong> - Line 683</li>
+					<li><strong>Main</strong> - Line 736
+						<ol>
+							<li><strong>Columns</strong> - Line 752</li>
+						</ol>
+					</li>
+					<li><strong>Image Gallery Slider</strong> - Line 766</li>
+					<li><strong>Widgets</strong> - Line 837
+						<ol>
+							<li><strong>Accordion Content</strong> - Line 841</li>
+							<li><strong>Content Tabs</strong> - Line 911</li>
+						</ol>
+					</li>
+					<li><strong>Pricing Tables</strong> - Line 982
+						<ol>
+							<li><strong>Simple Pricing Table</strong> - Line 1022</li>
+							<li><strong>Extended Pricing Table</strong> - Line 1141</li>
+						</ol>
+					</li>
+					<li><strong>Back to Top</strong> - Line 1279</li>
+				</ol>
+			</li>
+			<li><strong>Home</strong> - Line 1306
+				<ol>
+					<li><strong>Slider</strong> - Line 1310
+						<ol>
+							<li><strong>Single Slide</strong> - Line 1330</li>
+							<li><strong>Button</strong> - Line 1384</li>
+							<li><strong>Content</strong> - Line 1498</li>
+							<li><strong>Pagination</strong> - Line 1610</li>
+							<li><strong>Active Slide Bar</strong> - Line 1694</li>
+						</ol>
+					</li>
+					<li><strong>Projects Carousel</strong> - Line 1711</li>
+					<li><strong>Post Carousel</strong> - Line 1802</li>
+					<li><strong>Projects & Post Carousel Navigation</strong> - Line 1856</li>
+				</ol>
+			</li>
+			<li><strong>Our Team</strong> - Line 1907</li>
+			<li><strong>Blog</strong> - Line 1984
+				<ol>
+					<li><strong>Comments</strong> - Line 2088</li>
+					<li><strong>Respond</strong> - Line 2188</li>
+					<li><strong>Pagination</strong> - Line 2232</li>
+				</ol>
+			</li>
+			<li><strong>Portfolio</strong> - Line 2273
+				<ol>
+					<li><strong>Single Project</strong> - Line 2363</li>
+				</ol>
+			</li>
+			<li><strong>Contact Us</strong> - Line 2424</li>
+			<li><strong>Sidebar</strong> - Line 2493
+				<ol>
+					<li><strong>Widgets</strong> - Line 2504
+						<ol>
+							<li><strong>List</strong> - Line 2518</li>
+							<li><strong>Recent Comments</strong> - Line 2544</li>
+							<li><strong>Calendar</strong> - Line 2553</li>
+							<li><strong>RSS</strong> - Line 2608</li>
+							<li><strong>Search</strong> - Line 2621</li>
+							<li><strong>Accordion Content</strong> - Line 2627</li>
+							<li><strong>Tweets</strong> - Line 2655</li>
+							<li><strong>Flickr Images</strong> - Line 2688</li>
+						</ol>
+					</li>
+				</ol>
+			</li>
+			<li><strong>Footer</strong> - Line 2718
+				<ol>
+					<li><strong>Footer Navigation</strong> - Line 2780</li>
+					<li><strong>Contact Info</strong> - Line 2811</li>
+					<li><strong>Social Links</strong> - Line 2849</li>
+					<li><strong>Forms</strong> - Line 2973</li>
+					<li><strong>Misc Elements</strong> - Line 2996</li>
+				</ol>
+			</li>
+			<li><strong>Footer Bottom</strong> - Line 3024</li>
+			<li><strong>Media Queries</strong> - Line 3057
+				<ol>
+					<li><strong>Standard 960 or larger (browsers)</strong> - Line 3061</li>
+					<li><strong>Smaller than standard 960 (devices and browsers)</strong> - Line 3185</li>
+					<li><strong>Tablet Portrait size to standard 960 (devices and browsers)</strong> - Line 3332</li>
+					<li><strong>All Mobile Sizes (devices and browser)</strong> - Line 3563</li>
+					<li><strong>Mobile Landscape Size to Tablet Portrait (devices and browsers)</strong> - Line 3861</li>
+					<li><strong>Mobile Portrait Size to Mobile Landscape Size (devices and browsers)</strong> - Line 3995</li>
+				</ol>
+			</li>
+		</ol>
+		
+		<hr>
+		
+		<h2 id="javascript"><strong>D) Javascript Plugins/Scripts</strong> - <a href="#toc">top</a></h2>
+		
+		<p>All Javascript files are located in <strong>js</strong> folder. By default theme uses minified version of the all scripts to reduce page loading times and to save your site bandwidth, but you can also find uncompressed version from the same folder.</p>
+		
+		<ol>
+			<li><strong>modernizr.custom.js</strong> - A small JavaScript library that detects the availability of native implementations for next-generation web technologies</li>			
+			<li><strong>video-js.min.js</strong> - HTML5 Video, Now Available Everywhere</li>			
+			<li><strong>selectivizr-and-extra-selectors-min.js</strong> - CSS3 pseudo-class and attribute selectors for IE 6-8</li>			
+			<li><strong>respond.min.js</strong> - A fast & lightweight polyfill for min/max-width CSS3 Media Queries</li>
+			<li><strong>jquery.easing-1.3.min.js</strong> - More easing options for sliders</li>
+			<li><strong>jquery.fancybox.pack.js</strong> - Fancy lightbox alternative</li>
+			<li><strong>jquery.cycle.all.js</strong> - A slideshow plugin that supports many different types of transition effects</li>
+			<li><strong>jjquery.smartStartSlider.min.js</strong> - The homepage slider</li>
+			<li><strong>jquery.jcarousel.min.js</strong> - jQuery plugin for controlling a list of items in horizontal or vertical order</li>
+			<li><strong>jquery.isotope.min.js</strong> - An exquisite jQuery plugin for magical layouts</li>
+			<li><strong>audioplayerv1.min.js</strong> - A simple and elegant looking HTML5/Flash audio playing solution with some thoughtful features</li>
+			<li><strong>jquery.touchSwipe.min.js</strong> - jQuery plugin to be used on touch input devices such as iPad, iPhone etc.</li>
+			<li><strong>custom.js</strong> - All Javascript settings &amp; custom scripts</li>
+		</ol>
+
+		<hr />
+		
+		<p>Here is simple list where you can find every section with ease in <strong>js/custom.js</strong> file:</p>
+		
+		<ol>
+			<li><strong>Custom Functions</strong> - Line 7</li>
+			<li><strong>Detect Touch Device</strong> - Line 57</li>
+			<li><strong>Main Navigation</strong> - Line 73</li>
+			<li><strong>Min-height</strong> - Line 118</li>
+			<li><strong>Fancybox</strong> - Line 157</li>
+			<li><strong>Projects Carousel & Post Carousel</strong> - Line 275</li>
+			<li><strong>Image Gallery Slider</strong> - Line 407</li>
+			<li><strong>Portfolio Filter</strong> - Line 545</li>
+			<li><strong>VideoJS</strong> - Line 637</li>
+			<li><strong>FitVids</strong> - Line 695</li>
+			<li><strong>AudioPlayerV1</strong> - Line 770</li>
+			<li><strong>Accordion Content</strong> - Line 842</li>
+			<li><strong>Content Tabs</strong> - Line 882</li>
+			<li><strong>UItoTop (Back to Top)</strong> - Line 945</li>
+			<li><strong>Fullwidth Google Maps</strong> - Line 1005</li>
+		</ol>
+		
+		<hr>
+		
+		<h2 id="psds"><strong>E) PSDs</strong> - <a href="#toc">top</a></h2>
+		
+		<p>All .psd files are located in <strong>_PSD</strong> folder.</p>
+
+		<ol>
+			<li><strong>Home</strong> (homepage.psd)</li>
+			<li><strong>Sliders</strong> (sliders.psd)</li>
+			<li><strong>About</strong> (about-us.psd)</li>
+			<li><strong>We Are Hiring</strong> (hiring.psd)</li>
+			<li><strong>Our Team</strong> (team.psd)</li>
+			<li><strong>Pricing Tables</strong> (pricing_table.psd)</li>
+			<li><strong>Portfolio</strong> (portfolio.psd)</li>
+			<li><strong>Single Project</strong> (portfolio-detail.psd)</li>
+			<li><strong>Blog</strong> (blog.psd)</li>
+			<li><strong>Single Post</strong> (blog-detail.psd)</li>
+			<li><strong>Contact</strong> (contact-us.psd)</li>
+			<li><strong>Back to Top button</strong> (back-to-top.psd)</li>
+			<li><strong>Icons</strong> (icons.psd)</li>
+			<li><strong>Post Format Icons</strong> (post-format-icons.psd)</li>
+		</ol>
+		
+		<hr>
+
+		<h2 id="credits"><strong>F) Source and Credits</strong> - <a href="#toc">top</a></h2>
+				
+		<p>People and their links who I wanna thank to.</p>
+		
+		<ol>
+			
+			<li><strong>jQuery Plugins/Scripts</strong></li>
+			
+			<ul>
+				<li><a href="http://modernizr.com/">modernizr</a> - <em>by Faruk Ates, Paul Irish, Alex Sexton</em></li>
+				<li><a href="http://selectivizr.com/">selectivizr</a> - <em>by Keith Clark</em></li>
+				<li><a href="http://www.keithclark.co.uk/labs/jquery-extended-selectors/">jQuery Extended Selectors</a> - <em>by Keith Clark</em></li>
+				<li><a href="https://github.com/scottjehl/Respond">Respond</a> - <em>by Scott Jehl</em></li>
+				<li><a href="http://gsgd.co.uk/sandbox/jquery/easing/">jQuery Easing Plugin</a> - <em>by George McGinley Smith</em></li>
+				<li><a href="http://fancybox.net/">Fancybox</a> - <em>by Janis Skarnelis</em></li>
+				<li><a href="http://tympanus.net/codrops/2011/07/03/sliding-background-image-menu/">Sliding Background Image Menu with jQuery</a> - <em>by Mary Lou </em></li>
+				<li><a href="http://sorgalla.com/jcarousel/">jCarousel</a> - <em>by Jan Sorgalla</em></li>
+				<li><a href="http://isotope.metafizzy.co/">Isotope</a> - <em>by David DeSandro</em></li>
+				<li><a href="http://www.malsup.com/jquery/cycle/">jQuery Cycle Plugin</a> - <em>by Mike Alsup</em></li>
+				<li><a href="http://videojs.com/">VideoJS</a> - <em>by Zencoder</em></li>
+				<li><a href="http://codecanyon.net/item/simple-html5-audio-player-v1/495024">Simple HTML5 Audio Player V1</a> - <em>by Ivan da Silveira</em></li>
+				<li><a href="http://labs.skinkers.com/touchSwipe/">TouchSwipe</a> - <em>by Matt Bryson</em></li>
+			</ul>
+			
+			<li><strong>PHP Scripts</strong></li>
+			
+			<ul>
+				<li><a href="https://github.com/devinsays/options-framework-theme">Options Framework</a> - <em>by Devin Price</em></li>
+				<li><a href="https://github.com/thomasgriffin/TGM-Plugin-Activation">TGM-Plugin-Activation</a> - <em>by Thomas Griffin & Gary Jones</em></li>
+				<li><a href="http://www.deluxeblogtips.com/meta-box-script-for-wordpress/">Meta Box Script For WordPress</a> - <em>by Rilwis</em></li>
+				<li><a href="https://github.com/unisphere/unisphere_notifier">Unisphere Notifier</a> - <em>by Joao Araujo</em></li>
+				<li><a href="http://f6design.com/journal/2010/10/07/display-recent-twitter-tweets-using-php/">Twitter Feed Parser</a> - <em>by Jonathan Nicol</em></li>
+			</ul>
+			
+			<li><strong>Icons</strong></li>
+			
+			<ul>
+				<li><a href="http://www.iconsweets2.com/">iconSweets 2</a> - <em>by Yummygum</em></li>
+				<li><a href="http://www.alexpeattie.com/projects/justvector_icons/">JustVector Social Icons 1.5</a> - <em>by Alex Peattie</em></li>
+			</ul>
+				
+		</ol>
+		
+		<hr>
+		
+		<h2 id="changelog"><strong>G) Changelog</strong> - <a href="#toc">top</a></h2>
+		
+		<h4>v1.08 - 18.1.2013</h4>
+		
+		<ul>
+			<li><strong>Added:</strong> Basic table styles</li>
+			<li><strong>Added:</strong> Pinterest social icon</li>
+			<li><strong>Fixed/Improved:</strong> All reported bugs/issues</li>
+			<li><strong>Improved:</strong> <code>[accordion_content]</code>, <code>[post_carousel]</code> & <code>[projects_carousel]</code> shortcodes (added new attributes)</li>
+			<li><strong>Updated:</strong> JS & PHP plugins</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>content.php <em>(Lines 10-11)</em></li>
+					<li>content-image.php <em>(Lines 12-13)</em></li>
+					<li>functions.php <em>(Lines 99-103 & 233-263)</em></li>
+					<li>page.php <em>(Line 13)</em></li>
+					<li>style.css <em>(Lines 9, 243, 448-480, 575-578, 584-587, 589-591, 645-649, 654-656, 791-793, 881, 960-970, 1316, 1834, 2524, 2540-2541, 2776, 2817, 2821, 2970-2971, 3237-3253, 3315, 3490, 3954 & 4078)</em></li>
+					<li>css/jquery.fancybox.css</li>
+					<li>css/jquery.fancybox.min.css</li>
+					<li>functions/admin.php <em>(Line 92)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 96-97, 779, 781, 803, 809, 815, 922, 942, 950, 966, 972, 978, 1020, 1083-1093, 1106, 1121-1122, 1127, 1136-1137, 1151, 1163-1164, 1169-1170 & 1289)</em></li>
+					<li>functions/custom-post-types.php <em>(Lines 216-218)</em></li>
+					<li>functions/meta-boxes.php <em>(Lines 43 & 380-386)</em></li>
+					<li>functions/shortcodes.php <em>(Lines 324-328, 340, 653-654, 673, 710-711, 748, 768, 777, 874, 899, 1026, 1060-1081 & 1116-1137)</em></li>
+					<li>functions/widgets.php <em>(Lines 118, 121, 134, 142, 202, 205, 217 & 225)</em></li>
+					<li>functions/update-notifier.php</li>
+					<li>functions/meta-box/css/ <em>(folder)</em></li>
+					<li>functions/meta-box/inc/ <em>(folder)</em></li>
+					<li>functions/meta-box/js/ <em>(folder)</em></li>
+					<li>functions/tinymce/tinymce.php <em>(Lines 584-600 1130-1145 & 1125-1242)</em></li>
+					<li>functions/tinymce/js/scripts.js <em>(Lines 94, 279, 288, 519-520, 529-530, 571, 729-730, 740-747, 760-761 & 771-778)</em></li>
+					<li>img/icon-social-links.png</li>
+					<li>js/custom.js <em>(Lines 52-53, 221-233, 287-324, 429-458, 858-869, 890 & 901-939)</em></li>
+					<li>js/jquery.cycle.all.js</li>
+					<li>js/jquery.cycle.all.min.js</li>
+					<li>js/jquery.fancybox.js</li>
+					<li>js/jquery.fancybox.pack.js</li>
+					<li>js/jquery.isotope.js</li>
+					<li>js/jquery.isotope.min.js</li>
+					<li>js/jquery.smartStartSlider.js <em>(Line 807)</em></li>
+					<li>js/jquery.smartStartSlider.min.js</li>
+					<li>languages/en_EN.pot</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Added Files:</strong>
+				<ol>
+					<li>functions/meta-box/css/select-advanced.css</li>
+					<li>functions/meta-box/css/select2/ <em>(folder)</em></li>
+					<li>functions/meta-box/inc/fields/file_single.php</li>
+					<li>functions/meta-box/inc/fields/map.php</li>
+					<li>functions/meta-box/inc/fields/number.php</li>
+					<li>functions/meta-box/inc/fields/select-advanced.php</li>
+					<li>functions/meta-box/js/select2/ <em>(folder)</em></li>
+					<li>functions/meta-box/js/jquery.validate.min.js</li>
+					<li>functions/meta-box/js/map.js</li>
+					<li>functions/meta-box/js/select-advanced.js.js</li>
+					<li>functions/meta-box/js/validate.js</li>
+					<li>functions/meta-box/lang/sv_SE.mo</li>
+					<li>functions/meta-box/lang/sv_SE.po</li>
+					<li>img/fancybox_overlay.png</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Removed Files:</strong>
+				<ol>
+					<li>functions/assets/plugins/wp-gmappity-easy-google-maps.zip</li>
+					<li>functions/tinymce/quicktags.js</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.07 - 19.6.2012</h4>
+		
+		<ul>
+			<li><strong>Added:</strong> <em>icons.psd</em> & <em>post-format-icons.psd</em> source files</li>
+			<li><strong>Fixed/Improved:</strong> All reported bugs/issues</li>
+			<li><strong>Updated:</strong> JS & PHP plugins</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>comments.php <em>(Line 7)</em></li>
+					<li>functions.php <em>(Lines 430-444)</em></li>
+					<li>style.css <em>(Lines 9, 197-205, 230, 242, 542, 549, 551, 607-608, 613, 772, 851-859, 921-929, 1253, 1686, 1698, 1709, 1712, 1719, 1952-1957, 2256, 2265, 2277, 2607, 2820-2912, 3258-3270, 3333-3363, 3493-3497, 3522-3526, 3609-3631, 3787-3795 & 3812-3840)</em></li>
+					<li>css/jquery.fancybox.css</li>
+					<li>css/jquery.fancybox.min.css</li>
+					<li>functions/custom-functions.php <em>(Lines 772, 1091, 1144, 1153, 1157, 1166, 1191 & 1196)</em></li>
+					<li>functions/shortcodes.php <em>(Lines 421, 433, 806-807, 812-813, 819-820 & 916-919)</em></li>
+					<li>functions/admin/options.php <em>(Lines 248-253)</em></li>
+					<li>functions/admin/options-interface.php</li>
+					<li>functions/meta-box/class.php</li>
+					<li>functions/meta-box/inc/classes/meta-box.php</li>
+					<li>functions/meta-box/inc/fields/hidden.php</li>
+					<li>functions/meta-box/inc/fields/thickbox-image.php</li>
+					<li>functions/meta-box/lang/default.mo</li>
+					<li>functions/meta-box/lang/default.po</li>
+					<li>functions/meta-box/lang/vi.mo</li>
+					<li>functions/meta-box/lang/vi.po</li>
+					<li>functions/tinymce/tinymce.php <em>(Lines 1261-1276)</em></li>
+					<li>functions/tinymce/scripts.js <em>(Lines 297, 778-779 & 791-792)</em></li>
+					<li>images/icon-tweets.png</li>
+					<li>js/custom.js <em>(Lines 52-53, 217-268, 436-437, 577-587, 591-598, 623, 679, 710-711, 758, 785, 789-790 & 911-921)</em></li>
+					<li>js/jquery.fancybox.js</li>
+					<li>js/jquery.fancybox.pack.js</li>
+					<li>languages/en_EN.pot</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Added Files:</strong>
+				<ol>
+					<li>functions/meta-box/common.php</li>
+					<li>functions/meta-box/helpers.php</li>
+					<li>functions/meta-box/inc/taxonomy.php</li>
+					<li>images/icon-social-links.png</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Removed Files:</strong>
+				<ol>
+					<li>images/icon-behance.png</li>
+					<li>images/icon-delicious.png</li>
+					<li>images/icon-deviantart.png</li>
+					<li>images/icon-digg.png</li>
+					<li>images/icon-dribbble.png</li>
+					<li>images/icon-dropbox.png</li>
+					<li>images/icon-email.png</li>
+					<li>images/icon-facebook.png</li>
+					<li>images/icon-flickr.png</li>
+					<li>images/icon-forrst.png</li>
+					<li>images/icon-github.png</li>
+					<li>images/icon-google.png</li>
+					<li>images/icon-googleplus.png</li>
+					<li>images/icon-ichat.png</li>
+					<li>images/icon-lastfm.png</li>
+					<li>images/icon-linkedin.png</li>
+					<li>images/icon-mobypicture.png</li>
+					<li>images/icon-myspace.png</li>
+					<li>images/icon-picasa.png</li>
+					<li>images/icon-plixi.png</li>
+					<li>images/icon-rss.png</li>
+					<li>images/icon-skype.png</li>
+					<li>images/icon-stumbleupon.png</li>
+					<li>images/icon-tumblr.png</li>
+					<li>images/icon-twitter.png</li>
+					<li>images/icon-vimeo.png</li>
+					<li>images/icon-youtube.png</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.06 - 28.5.2012</h4>
+		
+		<ul>
+			<li><strong>Fixed:</strong> Minor zoom icon bug</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>style.css <em>(Lines 9, 349, 356, 363, 721, 735, 1666, 1670, 1675 & 2240-2241)</em></li>
+					<li>js/custom.js <em>(Lines 214-231)</em></li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.05 - 22.5.2012</h4>
+		
+		<ul>
+			<li><strong>Added:</strong> Lightbox support for WP Gallery</li>
+			<li><strong>Added:</strong> Option to modify blog post meta section</li>
+			<li><strong>Added:</strong> Option to hide slider bottom navigation buttons</li>
+			<li><strong>Fixed/Improved:</strong> Miscellaneous bugs</li>
+			<li><strong>Improved:</strong> iPad usability</li>
+			<li><strong>Improved:</strong> Support for Google Web Fonts subsets <span style="color:red;">(requires re-selecting Heading Fonts in the Theme Options)</span></li>
+			<li><strong>Improved:</strong> <code>[button]</code>, <code>[lightbox]</code>, <code>[team_member]</code>, <code>[post_carousel]</code> & <code>[projects_carousel]</code> shortcodes (added new attributes)</li>
+			<li><strong>Updated:</strong> JS & PHP plugins</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>content-audio.php <em>(Line 11)</em></li>
+					<li>content-video.php <em>(Line 9)</em></li>
+					<li>functions.php <em>(Lines 88, 102-103, 145, 151, 156, 172, 174, 198, 204, 223, 230, 232, 267, 269, 279, 281, 294, 300, 334, 336, 370, 372, 384, 386, 399, 401, 411, 413, 423, 425, 443, 445, 457, 462 & 475)</em></li>
+					<li>style.css <em>(Lines 9, 103, 120, 141, 197-261, 410, 415, 417, 424-425, 721, 726-731, 740, 744, 983, 1216, 1314, 1341, 1439, 1478, 1558, 1567, 1601, 1629, 1666, 1670, 1675, 1778, 1783, 1863-1868, 1917, 2385, 2395-2396, 2638, 2651, 2655, 2895-2944, 3322 & 3882-3907)</em></li>
+					<li>css/jquery.fancybox.css</li>
+					<li>css/jquery.fancybox.min.css</li>
+					<li>functions/admin.php <em>(Lines 8-13 & 42-45)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 221, 230, 233, 236, 239, 242-243, 341, 774, 792, 927, 949, 1011, 1027, 1093-1094, 1136, 1152, 1230-1232, 1246-1248, 1266-1268, 1294-1296, 1304, 1323 & 1368-1370)</em></li>
+					<li>functions/custom-post-types.php <em>(Lines 45, 82, 187 & 303)</em></li>
+					<li>functions/meta-boxes.php <em>(Lines 623-629)</em></li>
+					<li>functions/plugin-activation.php</li>
+					<li>functions/shortcodes.php <em>(Lines 207, 213, 307-308, 311, 362, 586, 649-650, 664-669, 705-706, 738-743, 939, 1000-1001, 1021-1037 & 1060)</em></li>
+					<li>functions/admin/cache/google-web-fonts.txt</li>
+					<li>functions/admin/js/options-custom.js</li>
+					<li>functions/admin/options.php <em>(Lines 26-121, 219, 226 & 312-340)</em></li>
+					<li>functions/admin/options-framework.php</li>
+					<li>functions/admin/options-interface.php</li>
+					<li>functions/admin/options-medialibrary-uploader.php</li>
+					<li>functions/admin/options-sanitize.php</li>
+					<li>functions/metabox/class.php <em>(Line 6)</em></li>
+					<li>functions/metabox/css/plupload-image.css</li>
+					<li>functions/metabox/css/taxonomy.css</li>
+					<li>functions/metabox/inc/classes/meta-box.php</li>
+					<li>functions/metabox/inc/fields/checkbox-list.php</li>
+					<li>functions/metabox/inc/fields/color.php</li>
+					<li>functions/metabox/inc/fields/date.php</li>
+					<li>functions/metabox/inc/fields/datetime.php</li>
+					<li>functions/metabox/inc/fields/file.php</li>
+					<li>functions/metabox/inc/fields/image.php</li>
+					<li>functions/metabox/inc/fields/plupload-image.php</li>
+					<li>functions/metabox/inc/fields/project-slider.php</li>
+					<li>functions/metabox/inc/fields/radio-image.php</li>
+					<li>functions/metabox/inc/fields/select.php</li>
+					<li>functions/metabox/inc/fields/slider.php</li>
+					<li>functions/metabox/inc/fields/slider-slides.php</li>
+					<li>functions/metabox/inc/fields/time.php</li>
+					<li>functions/metabox/inc/fields/wysiwyg.php</li>
+					<li>functions/metabox/js/file.js</li>
+					<li>functions/metabox/js/image.js</li>
+					<li>functions/metabox/js/plupload-image.js</li>
+					<li>functions/tinymce/tinymce.php <em>(Lines 183-197, 476-495, 1067-1082, 1098, 1100, 1147-1162, 1178, 1080, 1247, 1249 & 1327-1257)</em></li>
+					<li>functions/tinymce/js/scripts.js <em>(Lines 41, 85, 279, 288, 315, 389, 400-401, 490, 506-507, 724, 735-736, 751, 762-763, 814-815 & 822-826)</em></li>
+					<li>js/custom.js <em>(Lines 119-150, 158-230, 270-275, 811, 814 & 823)</em></li>
+					<li>js/jquery.cycle.all.js</li>
+					<li>js/jquery.cycle.all.min.js</li>
+					<li>js/jquery.fancybox.js</li>
+					<li>js/jquery.fancybox.pack.js</li>
+					<li>js/jquery.isotope.js</li>
+					<li>js/jquery.isotope.min.js</li>
+					<li>js/jquery.smartStartSlider.js <em>(Lines 614-615 & 669-670)</em></li>
+					<li>js/jquery.smartStartSlider.min.js</li>
+					<li>languages/en_EN.pot</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Added Files:</strong>
+				<ol>
+					<li>functions/admin/css/optionsframework.css</li>
+					<li>functions/assets/plugins/wp-gmappity-easy-google-maps.zip</li>
+					<li>functions/metabox/img/loader.gif</li>
+					<li>functions/metabox/inc/fields/thickbox-image.php</li>
+					<li>functions/metabox/js/thickbox-image.js</li>
+					<li>js/jquery.touchSwipe.js</li>
+					<li>js/jquery.touchSwipe.min.js</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Removed Files:</strong>
+				<ol>
+					<li>functions/admin/css/admin-style.css</li>
+					<li>js/jquery.touchSwipe-1.2.5.js</li>
+					<li>js/jquery.touchSwipe-1.2.5.min.js</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.04 - 19.4.2012</h4>
+		
+		<ul>
+			<li><strong>Added:</strong> Field for custom JS</li>
+			<li><strong>Fixed:</strong> All known Slider issues</li>
+			<li><strong>Fixed:</strong> All known shortcode issues</li>
+			<li><strong>Fixed:</strong> Some miscellaneous CSS bugs</li>
+			<li><strong>Fixed/Improved:</strong> Localization</li>
+			<li><strong>Improved:</strong> Portfolio</li>
+			<li><strong>Improved:</strong> Projects Carousel</li>
+			<li><strong>Improved:</strong> Image Gallery Slider</li>
+			<li><strong>Improved:</strong> Team members</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>style.css <em>(Lines 9, 739-742, 749, 1267-1270, 1354, 1359, 1373, 1402, 1413, 1417-1418, 1620, 1657, 1663, 1668, 1750, 1901-1904, 2224-2225, 2306, 2308, 2315, 2715-2723, 3028-3079, 3148-3155 & 3864-3879)</em></li>
+					<li>taxonomy-portfolio-categories.php <em>(Lines 15 & 25)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 324, 422, 425, 435, 438, 656, 659, 661, 735-761, 765, 772-775, 1162-1163, 1172, 1192 & 1228-1242)</em></li>
+					<li>functions/shortcode.php <em>(Lines 337-340, 352-353, 700-727, 733-735, 741-753, 757-762, 772-776, 797-818, 873-881, 963 & 1016-1020)</em></li>
+					<li>functions/widgets.php <em>(Line 328)</em></li>
+					<li>functions/admin/options.php <em>(Lines 108-111)</em></li>
+					<li>functions/tinymce/tinymce.php <em>(Lines 367-368, 1107, 1162-1188 & 1334-1335)</em></li>
+					<li>functions/tinymce/js/scripts.js <em>(Lines 297, 498-499, 737-750 & 760-772)</em></li>
+					<li>js/custom.js <em>(Lines 327, 377, 456-457, 470-479 & 753-772)</em></li>
+					<li>js/jquery.smartStartSlider.js <em>(Lines 4-46, 103-121, 125-134, 149-153, 170-180, 185, 574-584, 652, 656, 715-716, 739-749, 761, 768, 777, 801-803, 809-877, 882, 884, 963-966 & 983-1099)</em></li>
+					<li>js/jquery.smartStartSlider.min.js</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Added Files:</strong>
+				<ol>
+					<li>languages/en_EN.pot</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Removed Files:</strong>
+				<ol>
+					<li>languages/en_EN.mo</li>
+					<li>languages/en_EN.po</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.03 - 11.4.2012</h4>
+		
+		<ul>
+			<li><strong>Fixed:</strong> Some miscellaneous CSS bugs</li>
+			<li><strong>Improved:</strong> IE7 usability</li>
+			<li><strong>Improved:</strong> Widgets styling</li>
+			<li><strong>Improved:</strong> Slider loading</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>style.css <em>(Lines 9, 784, 1211-1212, 1262, 1439, 1941, 1969, 2180, 2193-2198, 2207, 2420-2439, 2467-2468, 2472-2476, 2490-2495, 2650, 2666 & 2699-2703)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 1031, 1149, 1165-1181 & 1270)</em></li>
+					<li>js/custom.js <em>(Line 173)</em></li>
+					<li>js/jquery.smartStartSlider.js <em>(Lines 61-70, 107-112 & 145-150)</em></li>
+					<li>js/jquery.smartStartSlider.min.js</li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.02 - 10.4.2012</h4>
+		
+		<ul>
+			<li><strong>Fixed:</strong> Prevent multiple slider initialization</li>
+			<li><strong>Fixed:</strong> Swipe gestures in blog & project sliders</li>
+			<li><strong>Fixed:</strong> Blog post content formatting</li>
+			<li><strong>Fixed:</strong> Incorrect lightbox image in Portfolio (caused by previous update)</li>
+			<li><strong>Fixed:</strong> Some color scheme bugs</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>style.css <em>(Lines 9 & 1260)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 183-187, 1162, 1167-1168 & 1240-1245)</em></li>
+					<li>functions/shortcodes.php <em>(Lines 818-849)</em></li>
+					<li>js/custom.js <em>(Lines 388-414)</em></li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.01 - 9.4.2012</h4>
+		
+		<ul>
+			<li><strong>Added:</strong> Option to enable/disable lightbox in portfolio pages</li>
+			<li><strong>Added:</strong> Field for Custom CSS</li>
+			<li><strong>Fixed:</strong> Theme doesn't require <code>allow_url_fopen</code> function anymore (fix for unable to save Theme Options)</li>
+			<li><strong>Fixed:</strong> Removed unnecessary <em>Edit</em> links</li>
+			<li><strong>Fixed:</strong> Error when project doesn't have a thumbnail</li>
+			<li><strong>Improved:</strong> Force display of description field in WordPress menus</li>
+			<li><strong>Improved:</strong> Main navigation dropdown</li>
+			<li><strong>Improved:</strong> Twitter widget styling</li>
+		</ul>
+		
+		<ul>
+			<li><strong>Updated Files:</strong>
+				<ol>
+					<li>functions.php <em>(Lines 400-409)</em></li>
+					<li>style.css <em>(Lines 9, 2512-2528)</em></li>
+					<li>functions/custom-functions.php <em>(Lines 177, 179, 194, 277-278, 564, 586, 634, 652, 657, 1168-1171)</em></li>
+					<li>functions/shortcodes.php <em>(Lines 805-815, 819-827 & 852)</em></li>
+					<li>functions/update-notifier.php <em>(Lines 30 & 50)</em></li>
+					<li>functions/admin/options.php <em>(Lines 11, 31, 152-155 & 170-182)</em></li>
+					<li>functions/admin/options-framework.php <em>(Line 239)</em></li>
+					<li>js/custom.js <em>(Line 98)</em></li>
+				</ol>
+			</li>
+		</ul>
+		
+		<hr />
+		
+		<h4>v1.0 - Initial version</h4>
+		
+		<hr>	
+		
+		<p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes on ThemeForest, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p> 
+		
+		<p class="append-bottom alt large"><strong><a href="http://samuli.me/">Samuli Saarinen</a></strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+	</div><!-- end div .container -->
+
+	<script type="text/javascript" src="assets/prettify/prettify.js"></script>
+	<script> prettyPrint(); </script>
+	
+</body>
+</html>

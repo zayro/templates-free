@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sk" lang="sk">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="sk" />
+	
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	
+    <!-- css -->
+	<link rel="stylesheet" media="screen" type="text/css" href="css/style.css" />
+    <!--[if lte IE 6]>
+  		<link rel="stylesheet" type="text/css" media="screen" href="css/style-ie.css" />
+  	<![endif]-->
+
+	<!-- ie png fix -->
+    <!--[if lt IE 7.]>
+		<script defer type="text/javascript" src="js/pngfix.js"></script>
+    <![endif]-->
+	
+	<script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="js/jquery.cluetip.js"></script>
+    <script type="text/javascript" src="js/jquery.dimensions.pack.js"></script>
+    <script type="text/javascript" src="js/jquery.history_remote.pack.js"></script>
+    <script type="text/javascript" src="js/jquery.tabs.pack.js"></script>
+    <script type="text/javascript" src="js/init.js"></script>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAA6RAQF4ms23MnNU2WTfAP6hRCkFpVuCiplMLli3Xi-PDj6ndVtRSKJRMXtIfkoVq7raX6uRm0t5hkcw" type="text/javascript"></script>
+
+    <!-- icons -->
+    <link rel="shortcut icon" href="favicon.gif" type="image/vnd.microsoft.icon" />
+	<link rel="icon" href="favicon.gif" type="image/vnd.microsoft.icon" /> 
+
+    <title>breezy gourmet - kontakt</title>
+<meta charset="UTF-8"></head>
+
+<body class="blue-skin">
+<div id="wrap">
+	<div id="header">
+        <div id="logo">
+        	<a href="index.html" title="breezy gourmet"><strong>breezy gourmet</strong><span></span></a></div><!-- end: #logo -->
+         
+            <div id="navigation">
+                <ul>
+                    <li><a href="index.html">Homepage</a></li>
+                    <li><a href="content.html">About us</a></li>
+                    <li><a href="subpage.html">Services</a></li>
+                    <li><a href="full-width.html">Full width</a></li>
+                    <li><a href="reference.html">Reference</a></li>
+                    <li class="last active"><a href="kontakt.html">Contact</a></li>
+                </ul>
+	        </div><!-- end: #naviagtion -->
+            <div id="sub-nav">
+                <ul>
+                    <li><a class="print" href="#">Print page</a></li>
+                    <li class="last"><a class="search" href="#">Search</a></li>
+                </ul>
+	        </div><!-- end: #lang -->
+    </div><!-- end: #header --> 
+    <div class="cleaner"></div>
+
+    <div id="content">  
+        
+        <div class="white-area">
+            <h1>CONTACT</h1>
+            <div class="content-left content-left-full-width">
+                <div class="inner">
+                    
+                    <div class="kontakt-left">
+                        <p class="left"><strong>Breezy New Media</strong><br />Na Hřebenkách 72<br />150 00 Praha 5 - Smíchov</p>
+                        <p class="right">IČO: 123 34 654<br />DIČ: CZ123 34 654</p>
+                        <div class="cleaner">&#160;</div>
+                        <h2>About us</h2>
+                        <p>Zabývá profesionálními webovými prezentacemi a aplikacemi již několik let a má za sebou téměř 90 úspěšných projektů i pro takové klienty, jako je Apple, Mitsubishi nebo České dráhy.</p>
+                        <p><a href="#">přejít na www.breezy.cz</a></p>
+                        <div class="cleaner">&#160;</div>
+                    </div>
+                    
+                    <div class="kontakt-right" id="google_map">&#160;</div>
+                    <script type="text/javascript">
+                        var map = new GMap2(document.getElementById("google_map"));
+                        var point = new GLatLng(50.077243611111111, 14.39046944444444);
+                        map.setCenter(point, 15);
+                        map.setUIToDefault();
+                        map.setMapType(G_SATELLITE_MAP);
+                        
+                        function createMarker(point) {
+                            var marker = new GMarker(point);
+                            var message = ["This","is","the","secret","message"];
+                            GEvent.addListener(marker, "click", function() {
+                                var myHtml = "&#60;b&#62;;Breezy s.r.o.&#60;/b&#62;;&#60;br /&#62;;Kanceláře Praha&#60;br /&#62;;Na Hřebenkách 2288/72&#60;br /&#62;;Praha 5 - Smíchov&#60;br /&#62;;150 00";
+                                map.openInfoWindowHtml(point, myHtml);
+                            });
+                            return marker;
+                        }
+                        
+                        map.addOverlay(createMarker(point)); 
+                    </script>
+                    
+                    <div class="cleaner">&#160;</div>
+                    
+                    <h2>Contact us</h2>
+                    
+                    <div class="kontakt-box">
+                        <div class="img"><img src="images/ico/kontakt.png" alt=""/></div>
+                        <p><strong>Jméno osoby</strong><br />Tel. +420 123 456 789<br />e-mail: info@breezy.cz<br />ICQ: 648 46 964<br />Skype: nick</p>
+                        <div class="cleaner">&#160;</div>
+                    </div>
+                    <div class="kontakt-box">
+                        <div class="img"><img src="images/ico/kontakt.png" alt=""/></div>
+                        <p><strong>Jméno osoby</strong><br />Tel. +420 123 456 789<br />e-mail: info@breezy.cz<br />ICQ: 648 46 964<br />Skype: nick</p>
+                        <div class="cleaner">&#160;</div>
+                    </div>
+                    <div class="kontakt-box">
+                        <div class="img"><img src="images/ico/kontakt.png" alt=""/></div>
+                        <p><strong>Jméno osoby</strong><br />Tel. +420 123 456 789<br />e-mail: info@breezy.cz<br />ICQ: 648 46 964<br />Skype: nick</p>
+                        <div class="cleaner">&#160;</div>
+                    </div>
+                    <div class="cleaner">&#160;</div>
+                    
+                </div>
+            </div>
+            
+            
+        </div>
+        <div class="cleaner">&#160;</div>
+                
+        
+			             
+    </div><!-- end: #content -->
+    <div class="clear"></div>
+
+</div><!-- end: #wrap -->
+<div id="foot">
+      <div class="in closed">
+
+        <ul>
+          <li class="fl">&copy; 2010 <a href="http://www.breezy.cz/">Breezy, s.r.o.</a></li>
+          <li class="fr"><a href="kontakt.html">Contact us</a> | <a href="subpage.html#tabs-content3">Order</a></li>
+        </ul>
+      </div> <!-- /.in -->
+                      
+      <script type="text/javascript">
+        /* <![CDATA[ */
+        $(document).ready(function(){ 
+        
+    
+                });    
+        /* ]]> */
+       </script> 
+       
+       <div class="in formBox hidden"> 
+			<div id="contact-form">	
+				<form action="">
+					<div class="column-left">	
+						<div class="column-small">
+							<label for="jmeno">Your first name</label>
+								<input type="text" id="jmeno" />
+						</div><!-- end: .column-small -->
+						
+						<div class="column-small2">
+							<label for="restaurace">Your surname</label>
+								<input type="text" id="restaurace" />
+						</div><!-- end: .column-small -->
+						<div class="clear"></div>
+	
+						<div class="column-small">
+							<label for="telefon">Phone</label>
+								<input type="text" id="telefon" />
+						</div><!-- end: .column-small -->
+	
+						<div class="column-small2">
+							<label for="email">E-mail</label>
+								<input type="text" id="email" />
+						</div><!-- end: .column-small -->
+					</div><!-- end: .column-left -->
+		
+					<div class="column-big">
+						<label for="zprava">Message</label>
+							<textarea id="zprava" rows="" cols=""></textarea><div class="clear"></div>
+					<input type="submit" class="button" value="" />
+					</div><!-- end: .column-big -->
+				</form>
+				<div class="clear"></div>
+			</div><!-- end: #contact-form -->
+ 
+            <div id="footer-links">
+                <p id="copyright">&copy; 2010 <a href="http://www.breezy.cz/">Breezy, s.r.o.</a></p>
+                <p id="footer-nav"><a href="kontakt.html">Contact us</a> | <a href="subpage.html#tabs-content3">Order</a></p>
+            </div><!-- end: #footer-links -->
+
+
+       </div>
+       <!-- /.in -->
+      <a href="#" id="foot-close"><span class="breezy"></span></a> 
+</div> <!-- /#foot -->
+</body>
+</html>

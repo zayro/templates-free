@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<elements>
+<scroll_data>
+		Dummy holder
+		
+	</scroll_data>
+<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>SCREEN-SHOTS OF MY LATEST ADD CAMPAIGN.<br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: CAFE DAY</TEXTFORMAT>]]></name>
+		<img>swf/anim_01.swf</img>
+		<URL>http://www.flashden.net</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+		
+	</scroll_data>
+	
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>SCREEN-SHOTS OF MY LATEST ADD CAMPAIGN.<br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: CAFE DAY</TEXTFORMAT>]]></name>
+		<img>swf/anim_01.swf</img>
+		<URL>http://www.flashden.net</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+		
+	</scroll_data>
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>INTERACTIVE EXTERNAL SWF FILE <br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: MEDIA SOLUTIONS</TEXTFORMAT>]]></name>
+		<img>swf/avoid_mouse.swf</img>
+		<URL>http://www.flashden.net/item/avoid-circles/2955</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+	</scroll_data>
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>SLIDE SHOW OF MY ARCHIVED PROJECTS. <br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: DIFFERENT ADD CAMPAIGNS </TEXTFORMAT>]]></name>
+		<img>images/scroll_imgs/ph_02.jpg</img>
+		<URL>http://www.yahoo.com</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+	</scroll_data>
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>DONEC NON LACUS NEC PURUS TEMPOR DIGNISSIM. <br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: STAR SOLUTIONS</TEXTFORMAT>]]></name>
+		<img>images/scroll_imgs/ph_03.jpg</img>
+		<URL>Dummy Text for pop up</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+	</scroll_data>
+        <scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>DONEC NON LACUS NEC PURUS TEMPOR DIGNISSIM. <br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: DREAM PHOTOS</TEXTFORMAT>]]></name>
+		<img>images/scroll_imgs/ph_05.jpg</img>
+		<URL>Dummy Text for pop up</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+	</scroll_data>
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>NEW DIOR ADD-CAMPAIGNS <br><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• </FONT>CLIENT: DIOR FRAGS</TEXTFORMAT>]]></name>
+		<img>images/scroll_imgs/ph_06.jpg</img>
+		<URL>Dummy Text for pop up</URL>
+<launch><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#555555">Project link...</a></TEXTFORMAT>]]></launch>
+	</scroll_data>
+	<scroll_data>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">> </FONT>DONEC NON LACUS NEC PURUS TEMPOR DIGNISSIM.</TEXTFORMAT>]]></name>
+		<img>images/scroll_imgs/ph_07.jpg</img>
+		<author>Aldehyde+DNA</author>
+	</scroll_data>
+
+</elements>
+<video>
+	<flv><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#999999">FLV-Video Player</FONT><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque facilisis cursus mauris. Nam rhoncus quam a quam.<a href="http://www.flashden.net/user/samss100"target="_blank"><FONT COLOR="#258CB8"><u>See more news</u></FONT></a> Suspendisse neque eros, porttitor eget, aliquet nec, ultrices eget, nisi. Integer pulvinar, metus et dapibus elementum, arcu magna auctor velit, quis hendrerit ipsum odio nec ligula. Mauris eu elit. </TEXTFORMAT>]]>
+	
+	<movie>images/scroll_imgs/ph_01.jpg</movie>
+	<URL>http://www.flashden.net</URL>
+	</flv>
+	
+	<flv><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• FLV-VIDEO PLAYER </FONT> VITAE PELLENTESQUE EGET, ULTRICES NON, MAGNA. CRAS NISL LACUS, SCELERISQUE EU FRINGILLA VITAE VULPUTATE ACCUMSAN LIGULA. <a href="http://www.flashden.net/item/blue-wave/2634"target="_blank"><FONT COLOR="#258CB8"><u>Hyperlink</u></FONT></a> SUSPENDISSE NEQUE EROS, PORTTITOR EGET, ALIQUET NEC, ULTRICES EGET, NISI. INTEGER PULVINAR, METUS ET DAPIBUS ELEMENTUM, ARCU MAGNA AUCTOR VELIT, QUIS HENDRERIT IPSUM ODIO NEC LIGULA.</TEXTFORMAT>]]>
+	
+	<movie>flv/aq_bottom1.flv</movie>
+	<desc>DONEC DOLOR RISUS MALESUADA VITAE PELLENTESQUE EGET, ULTRICES NON, MAGNA. CRAS NISL LACUS, SCELERISQUE EU FRINGILLA VITAE VULPUTATE ACCUMSAN, LIGULA. CRAS TURPIS TELLUS CONGUE UT CONSEQUAT IN, VIVERRA AT, IPSUM. ALIQUAM MALESUADA QUAM VITAE ORCI. AENEAN LAOREET IACULIS ODIO. NULLA LIGULA MAURIS, PRETIUM QUIS PULVINAR NEC INTERDUM SED, PEDE. INTEGER ULLAMCORPER PELLENTESQUE AENEAN UT AUGUE. LIGULA.</desc>
+	</flv>
+<flv><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="10" COLOR="#FF9900">• FLV-VIDEO PLAYER </FONT> LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT. PELLENTESQUE FACILISIS CURSUS MAURIS. <a href="http://www.flashden.net/item/blue-wave/2634"target="_blank"><FONT COLOR="#258CB8"><u>Hyperlink</u></FONT></a> NAM RHONCUS QUAM A QUAM. SUSPENDISSE NEQUE EROS, PORTTITOR EGET, ALIQUET NEC, ULTRICES EGET, NISI. INTEGER PULVINAR, METUS ET DAPIBUS ELEMENTUM, ARCU MAGNA AUCTOR VELIT, QUIS HENDRERIT IPSUM ODIO NEC LIGULA. MAURIS EU ELIT.
+</TEXTFORMAT>]]>
+	
+	<movie>flv/blue_wave.flv</movie>
+	<desc>AENEAN UT AUGUE. DONEC DOLOR RISUS MALESUADA VITAE PELLENTESQUE EGET, ULTRICES NON, MAGNA. CRAS NISL LACUS, SCELERISQUE EU FRINGILLA VITAE VULPUTATE ACCUMSAN, LIGULA. CRAS TURPIS TELLUS CONGUE UT CONSEQUAT IN, VIVERRA AT, IPSUM. ALIQUAM MALESUADA QUAM VITAE ORCI. AENEAN LAOREET IACULIS ODIO. NULLA LIGULA MAURIS, PRETIUM QUIS, PULVINAR NEC, INTERDUM SED, PEDE. INTEGER ULLAMCORPER PELLENTESQUE LIGULA.</desc>
+	</flv>
+	
+</video>

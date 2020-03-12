@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist bufferTime="5" loop="yes">
+	<playlistItem title="Lorem Ipsum" music="music/sample.mp3" />
+	<playlistItem title="Test Song" music="music/song1.mp3" />
+	<playlistItem title="Song 3" music="music/song2.mp3" />
+	<playlistItem title="Yest Another Song" music="music/sample.mp3" />
+	<playlistItem title="Lorem Ipsum" music="music/sample.mp3" />
+	<playlistItem title="Test Song" music="music/song1.mp3" />
+	<playlistItem title="Song 3" music="music/song2.mp3" />
+	<playlistItem title="Yest Another Song" music="music/sample.mp3" />
+	<playlistItem title="Lorem Ipsum" music="music/sample.mp3" />
+	<playlistItem title="Test Song" music="music/song1.mp3" />
+	<playlistItem title="Song 3" music="music/song2.mp3" />
+	<playlistItem title="Yest Another Song" music="music/sample.mp3" />
+</playlist>

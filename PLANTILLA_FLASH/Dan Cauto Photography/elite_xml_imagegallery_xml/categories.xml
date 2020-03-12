@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<category>
+		<title>COMMERCIAL</title>
+		<desc><![CDATA[Partial client list:
+Airmiles
+Daltile
+am/pm
+Listerine
+Vespa
+RadioShack
+Microsoft
+PrePaid Direct
+Advair
+Hewlett Packard
+Nestle's
+Guvernment Nightclub
+Circa Nightclub
+Tony Chaar Salon
+]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/commercial.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category1.xml</xml>
+	</category>
+	<category>
+		<title>DIGITAL</title>
+		<desc><![CDATA[]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/digital.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category2.xml</xml>
+	</category>
+	<category>
+		<title>EDITORIAL</title>
+		<desc><![CDATA[]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/editorial.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category3.xml</xml>
+	</category>
+        <category>
+		<title>NATURAL LIGHT</title>
+		<desc><![CDATA[]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/natural.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category4.xml</xml>
+	</category>
+        <category>
+		<title>PHOTO COMPETITION</title>
+		<desc><![CDATA[]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/nith.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category5.xml</xml>
+	</category>
+        <category>
+		<title>ARCHIVE</title>
+		<desc><![CDATA[]]></desc>
+		<picture>elite_xml_imagegallery_gallery/categories/archive.jpg</picture>
+		<xml>elite_xml_imagegallery_xml/category6.xml</xml>
+	</category>
+      
+
+	</content>

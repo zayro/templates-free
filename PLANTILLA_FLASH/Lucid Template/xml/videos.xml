@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+
+	<videoGallery>
+		
+		<videoItem>
+			<thumb>videos/thumbs/1.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/2.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/3.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/4.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/5.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/6.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+	  
+		<videoItem>
+			<thumb>videos/thumbs/7.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		<videoItem>
+			<thumb>videos/thumbs/8.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/9.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/10.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/7.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		<videoItem>
+			<thumb>videos/thumbs/8.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/9.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/10.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/7.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		<videoItem>
+			<thumb>videos/thumbs/8.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/9.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/10.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/7.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		<videoItem>
+			<thumb>videos/thumbs/8.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/9.jpg</thumb>
+			<video>videos/Clip1.flv</video>
+			<title>Hearts</title>
+		</videoItem>
+		
+		<videoItem>
+			<thumb>videos/thumbs/10.jpg</thumb>
+			<video>videos/Clip2.flv</video>
+			<title>Blue Streaks</title>
+		</videoItem>
+		
+	</videoGallery>
+
+</gallery>
+

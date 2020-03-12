@@ -1,0 +1,68 @@
+<config 
+	title="DeepLinking XML Photographer Template" 
+	mail="safahaliloglu@gmail.com"
+	logo="files/logo.png"
+	logoX=""
+	logoY=""
+	music="files/1.mp3"
+	scrollwidth="700"
+	scrollheight="350"
+	helpfirstopened="true"
+>
+
+<translates 
+	fullscreen="FULL SCREEN"
+	normalscreen="NORMAL SCREEN"
+	imagedownload="IMAGE DOWNLOAD" 
+	startslideshow="START SLIDESHOW" 
+	stopslideshow="STOP SLIDESHOW" 
+	description="IMAGE DESCRIPTION" 
+	aboutus="ABOUT US" 
+	contactus="CONTACT US" 
+	news="NEWS" 
+	team="TEAM"
+	images="Images"
+	link=""
+	close="CLOSE"
+	name="Name"
+	email="E-Mail"
+	message="Message"
+	mailsent="E-mail successfully sent..."
+	mailsend="E-MAIL SEND..."
+	clearform="CLEAR FORM"
+	fielderror="Please fill in all fields...:)"
+	help="HELP"
+	musicon="MUSIC ON"
+	musicoff="MUSIC OFF"
+/>
+
+<buttonactive 
+	slideshow="true"
+	imagedownload="true" 
+	fullscreen="true"  
+	aboutus="true"  
+	news="true" 
+	team="true"
+	contactus="true"
+	help="true"
+	zoomicon="true"
+	mousedrawing="true"
+	imagearrows="true"
+	contactformarrows="true"
+	newsarrows="true"
+	teamarrows="true"
+/>
+
+<aboutus>
+<![CDATA[<font size="+12">Welcome to my DeepLinking Photographer WebSite.</font><br>Hi! Everyone. I'm Safa. First thanks for visit my site.<br><img src="files/card.jpg"><br>   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took <font size="+4" color="#00CCFF">a galley</font> of type and scrambled it to make a type specimen <font color="#990000"><a href="http://www.flashden.net/user/DesignForLife" target="_blank">external link</a></font>. It has survived not only five centuries.<br><br><font size="+7">Contrary to popular belief,</font><br>   Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.<br><br><font size="+12">Services</font><br><ul><li>Portrait</li><li>Wending</li><li>Nature etc.</li></ul>]]>
+</aboutus>
+
+<contactus>
+<![CDATA[<font size="+12">Contact US</font><br><font size="+3">Name :</font> Safa HALILOGLU<br><font size="+3">E-Mail :</font> safahaliloglu@gmail.com<br><font size="+3">MSN :</font> admin@mdizayn.net<br><font size="+3">Phone :</font> +90 505 890 87 69<br><font size="+3">Fax :</font> +90 505 890 87 70<br><font size="+3">Address :</font> Dogantepe Mah. 1347. Sokak No:25<br>				    Altindag / ANKARA]]>
+</contactus>
+
+<help>
+<![CDATA[<font size="+8">Using your mouse, draw the symbol on the side,</font><br><ol><li>Next Image</li><li>Next News</li><li>Next Team Member</li><li>Send Contact Form</li></ol><br><font size="+8">Using your mouse, draw the symbol on the side,</font><br><ol><li>Previous Image</li><li>Previous News</li><li>Previous Team Member</li><li>Clear Contact Form</li></ol>]]>
+</help>
+
+</config>

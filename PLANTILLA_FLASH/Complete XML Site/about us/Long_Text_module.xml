@@ -1,0 +1,33 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+<option>
+<info><![CDATA[<p><Text_Preset_2>Lauren Lentini Photography Studio</Text_Preset_2></p><Text_Preset_3></Text_Preset_3><p><Text_Preset_3>Studio & On Location Photography</Text_Preset_3></p><p><Text_Preset_1>Over the past 15 years, professional photgrapher Lauren Lentini of Lauren Lentini Photography Sudios has gracefully earned her reputation as one of Houston's preferred photographers.  Her workd has been described as "refreshingly honest, pure & original".  Her warmth, patience and dedication to the craft allow her subjects to glow in her images.<br><a href="http://www.laurenlentini.com" target="_blank">Click here please</a></p>
+<p><Text_Preset_2>APPROACH</Text_Preset_2></p><p><Text_Preset_4>Italic headline with letter spacing</Text_Preset_4></p><p><Text_Preset_1>Morbi blandit pede. Donec fringilla. Fusce faucibus nisi nec neque. Sed felis lectus, tristique ut, feugiat sed, volutpat nec, magna. Morbi fermentum, elit venenatis laoreet sodales, orci mauris malesuada sapien, ac consectetuer ante urna eget mauris. Maecenas ultricies interdum tortor. Ut metus urna, convallis id, pharetra quis, facilisis eu, magna. Maecenas non purus eget eros lobortis pretium. Praesent quis turpis sed felis ornare mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam auctor. Proin sed massa. Donec fringilla arcu vitae nisi. Etiam eu tellus. Ut tempus, quam nec feugiat ornare, mi massa consectetuer urna, quis egestas ante ipsum eget elit.Mauris varius. Mauris sem felis, consectetuer sed, eleifend sit amet, bibendum sed, orci. Mauris dapibus nisi ac urna. Mauris a neque eget lectus accumsan vestibulum. Aliquam ultricies. Morbi vel nibh. Pellentesque ornare dolor sit amet mauris. Vestibulum accumsan. Donec tempus laoreet massa. In egestas.Cras blandit sapien ut velit. Quisque eget nibh sit amet ante scelerisque laoreet. Duis rhoncus volutpat arcu. Quisque condimentum fringilla purus. Integer malesuada mollis nibh. Nullam in enim semper velit gravida fringilla. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin aliquet. Duis tempus placerat lorem. Sed a ipsum. Phasellus dui. In neque ante, porttitor vel, cursus id, varius eu, nibh. In sit amet eros. Donec tortor diam, tristique vel, placerat mattis, ultricies sit amet, mauris. Donec orci mi, sollicitudin venenatis, pharetra eu, vehicula eu, magna. Aliquam mattis, nibh sit amet dapibus ultrices, arcu dui pellentesque erat, vel tristique elit urna in purus. Integer vitae dui quis erat.</Text_Preset_1></p>
+<p><Text_Preset_2>RATES</Text_Preset_2></p><p><Text_Preset_1></Text_Preset_1></p><p><Text_Preset_1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla adipiscing sem eget tortor. Sed nulla justo, ornare non, luctus vel, tristique in, enim. Ut at sapien. Maecenas facilisis orci ac odio. Nam nulla odio, tincidunt ac, gravida consequat, lacinia eget, orci. Donec viverra cursus ligula. Nulla tellus. Cras felis tellus, mollis quis, dignissim sit amet, fermentum sit amet, ante. Suspendisse venenatis. Maecenas vel mi. Sed ante ipsum, cursus sit amet, euismod sed, venenatis sit amet, nulla. Quisque non felis. Curabitur quis arcu. Fusce ornare condimentum urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Ut quis ipsum porttitor metus volutpat porttitor. Aliquam vitae eros. Pellentesque sollicitudin, ligula eget feugiat fringilla, ante tellus tempus magna, ut placerat ante urna non diam. Aenean ipsum. Mauris massa eros, interdum fringilla, gravida ut, tristique facilisis, erat. Morbi sit amet tortor. Curabitur porta urna. Suspendisse placerat dolor eu nulla. Integer a erat. Nunc feugiat. Pellentesque nunc sem, convallis sit amet, hendrerit vel, venenatis ac, turpis. Vivamus a enim sed lorem rutrum elementum. Nam luctus. Maecenas egestas pretium nunc. Maecenas tellus sapien, varius eu, scelerisque sit amet, sollicitudin quis, dolor. Nunc blandit. Vestibulum euismod elit sed velit. Praesent elit. Curabitur et lacus. Fusce varius elit eu magna ullamcorper egestas.</Text_Preset_1></p>
+<p><Text_Preset_2>REASONS TO CHOOSE LLP</Text_Preset_2></p><p><Text_Preset_1></Text_Preset_1></p><p><Text_Preset_1></Text_Preset_1></p>]]></info>
+<extraHeight>60</extraHeight>
+<!--  ______________GRADIENT SETTINGS_________________   -->
+<!--  DESCRIPTION GRADIENT  -->
+<descriptionGradient visible="true" />
+<!--  DRAGGER GRADIENT  -->
+<draggerGradient visible="true" />
+<!--  ______________STROKE SETTINGS_________________   -->
+<bgStroke visible="true"/>
+<draggerStroke visible="true"/>
+<!--  ______________COLOR SETTINGS_________________   -->
+<!--  DESCRIPTION BOX  -->
+<descriptionBackground>0x000000</descriptionBackground>
+<descriptionStroke>0x666666</descriptionStroke>
+<!--  BACKGROUND GRADIENT   -->
+<bgGradientColor>0x1E1E1E</bgGradientColor>
+<!--  DRAGGER  -->
+<arrowsOver>0xFFCC00</arrowsOver>
+<arrowsNormal>0xCCCCCC</arrowsNormal>
+<strokeOver>0x666666</strokeOver>
+<strokeNormal>0x333333</strokeNormal>
+<draggerBgOver>0x0D0D0D</draggerBgOver>
+<draggerBgNormal>0x000000</draggerBgNormal>
+<draggerGradientNormal>0x333333</draggerGradientNormal>
+<draggerGradientOver>0x404040</draggerGradientOver>
+
+</option>

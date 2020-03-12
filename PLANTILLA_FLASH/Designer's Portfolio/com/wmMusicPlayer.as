@@ -1,0 +1,207 @@
+﻿_global.MusicPlayer=function(){}
+var a=_global.MusicPlayer.prototype=new Object();
+a.setupPlayer=function(parent,startvolume){
+	this.parent=parent;
+	this.changing=false;
+	this.stopped=false;
+	this.isplaying=false;
+	this.onpause=false;
+	this.loaded=false;
+	this.inFade=true;
+	this.outFade=true;
+	this.stopFade=true;
+	this.pauseFade=true;
+	this.changeFade=true;
+	this.inFadeDuration=2;
+	this.outFadeDuration=5;
+	this.pauseFadeDuration=.5;
+	this.stopFadeDuration=.5;
+	this.changeFadeDuration=.5;
+	this.uselist=false;
+	this.mastervolume=startvolume;
+	this.tv=startvolume;
+}
+a.setVolume=function(v){
+	clearInterval(this.fD);
+	this.cv=v;
+	this.tv=v;
+	this.mastervolume=v;
+	if(this.isplaying){
+		this.snd.setVolume(v);
+	}
+}
+a.getVolume=function(){
+	return this.snd.getVolume();
+}
+a.usePlaylist=function(list,id){
+	this.c=(id==undefined)? 0 : id;
+	this.list=list;
+	this.uselist=true;
+	this.listnum=list.length;
+}
+a.startPlaylist=function(){
+	this.startSong(this.list[this.c]);
+}
+a.changeTrack=function(id){
+	this.newid=(isNaN(id))? id : this.list[id];
+	if(this.changing){return;}
+	if(this.changeFade){
+		this.changing=true;
+		this.c=(isNaN(id))? this.c : id;
+		this.fadeTo(0,this.changeFadeDuration);
+	}else{
+		this.c=(isNaN(id))? this.c : id;
+		this.doStop();
+		this.startSong(this.newid);
+	}
+}
+a.startSong=function(s){
+	this.stopped=false;
+	this.changing=false;
+	this.isplaying=true;
+	this.loaded=false;
+	this.pos=this.dur=0;
+	this.createEmptyMovieClip("sndholder",2);
+	this.snd=new Sound(this.sndholder);
+	this.snd.parent=this;
+	this.snd.loadSound(s,true);
+	if(this.inFade){
+		this.cv=0;
+		this.snd.setVolume(0);
+	}else{
+		this.cv=this.mastervolume;
+		this.snd.setVolume(this.mastervolume);
+	}
+	this.snd.onSoundComplete=this.songEnded;
+	this.mD=setInterval(this,"traceProps",5);
+}
+a.traceProps=function(){
+	if(this.snd.duration>5){
+		this.tS=setInterval(this,"trackSong",20);
+		if(this.inFade){
+			this.fadeTo(this.mastervolume,this.inFadeDuration);
+		}
+		this.parent.songStarted(this.c);
+		clearInterval(this.mD);
+	}else{
+		this.dur=0;
+	}
+}
+a.trackSong=function(){
+	var t=this.snd.getBytesTotal();
+	var g=this.snd.getBytesLoaded();
+	this.dur=this.snd.duration;
+	if(!this.loaded){
+		if(t>5&&t==g){
+			this.loaded=true;
+			this.mD=setInterval(this,"loadingDone",100);
+		}else{
+			this.parent.songLength(this.dur,this.c,false);
+		}
+	}
+	this.pos=this.snd.position;
+	if(this.outFade){
+		if(this.pos>this.anchor){
+			delete this.anchor;
+			this.fadeTo(0,this.outFadeDuration);
+		}
+	}
+}
+a.loadingDone=function(){
+	clearInterval(this.mD);
+	if(this.outFade&&this.anchor==undefined){
+		this.anchor=this.dur-(this.outFadeDuration*1000);
+	}
+	this.parent.songLength(this.dur,this.c,true);
+}
+a.fadeTo=function(t,s){
+	clearInterval(this.fD);
+	this.tv=t;
+	this.count=0;
+	var dif=this.tv-this.cv;
+	this.fstep=dif/(s*100);
+	this.end=Math.round(s*100);
+	this.fD=setInterval(this,"isFading",10);
+}
+a.isFading=function(){
+	this.cv+=this.fstep;
+	this.count++;
+	if(this.count==this.end){
+		this.cv=this.tv;
+		clearInterval(this.fD);
+		if(this.onpause){
+			clearInterval(this.tS);
+			this.isplaying=false;
+			this.snd.stop();
+		}
+		if(this.changing){
+			this.doStop();
+			this.startSong(this.newid);
+		}
+		if(this.stopped){
+			this.doStop();
+		}
+	}
+	this.snd.setVolume(this.cv);
+}
+a.playSong=function(){
+	if(!this.isplaying){
+		if(this.stopped){
+			this.startSong(this.list[this.c]);
+		}else{
+			this.tS=setInterval(this,"trackSong",20);
+			this.snd.start(this.pos/1000);
+			this.isplaying=true;
+		}
+	}
+	if(this.onpause){
+		this.onpause=false;
+		this.fadeTo(100,this.pauseFadeDuration);
+	}
+}
+a.stopSong=function(){
+	if(this.stopped){return;}
+	if(this.stopFade){
+		this.stopped=true;
+		this.fadeTo(0,this.stopFadeDuration);
+	}else{
+		this.doStop();
+	}
+}
+a.doStop=function(){
+	clearInterval(this.fD);
+	clearInterval(this.tS);
+	this.isplaying=false;
+	this.snd.stop();
+	delete this.snd;
+}
+a.pauseSong=function(){
+	this.onpause=true;
+	if(this.pauseFade){
+		this.fadeTo(0,this.pauseFadeDuration);
+	}else{
+		clearInterval(this.tS);
+		this.isplaying=false;
+		this.snd.stop();
+	}
+}
+a.songEnded=function(){
+	this.parent.checkNew();
+}
+a.checkNew=function(){
+	this.parent.songEnded();
+	this.doStop();
+	if(this.uselist){
+		this.c++;
+		if(this.list[this.c]==undefined){
+			this.c=0;
+			this.startSong(this.list[this.c]);
+		}else{
+			this.startSong(this.list[this.c]);
+		}
+	}
+}
+a.getPosition=function(){
+	return this.pos;
+}
+trace("Webmarbles MP3 Player Initialised (v01beta march09)...");

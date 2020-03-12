@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<downloads>
+	<settings
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xffffff"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<title><![CDATA[Downloads]]></title>
+	<items>
+		<item>
+			<title><![CDATA[Download one]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download two]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download three]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download four]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download five]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download six]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download seven]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download eight]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download nine]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download ten]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download eleven]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+		<item>
+			<title><![CDATA[Download twelve]]></title>
+			<file><![CDATA[downloads/file.zip]]></file>
+			<type><![CDATA[zip]]></type>
+			<size><![CDATA[10.0 MB]]></size>
+		</item>
+	</items>
+</downloads>

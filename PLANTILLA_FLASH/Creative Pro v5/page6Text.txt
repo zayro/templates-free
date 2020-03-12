@@ -1,0 +1,2 @@
+myHTMLdata=<font size="24" color="#666666">ANOTHER HEADER</font>
+Here is another image.<img src="news_images/image6.jpg">

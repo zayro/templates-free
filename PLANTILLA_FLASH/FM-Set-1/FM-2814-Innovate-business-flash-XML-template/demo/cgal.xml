@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>nec id ornare lorem. Cras at sapien lacus.</b> Sed scelerisque mollis est sit amet consequat. Praesent at augue eget dolor. eleifend scelerisque non in erat. Curabitur faucibus odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar a vitae ante. In dignissim lobortis sapien eu fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, turpis ac tempus]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>onec id ornare lorem. Cras at sapien lacus.</b> Sed scelerisque mollis est sit amet consequat. Praesent at augue eget dolor. eleifend scelerisque non in erat. Curabitur faucibus odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar a vitae ante. In dignissim lobortis sapien eu fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, turpis ac tempus]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb3.jpg" pic="im3.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Donec id ornare lorem. Cras at sapien lacus.</b> Sed scelerisque mollis est sit amet consequat. Praesent at augue eget dolor. eleifend scelerisque non in erat. Curabitur faucibus odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar a vitae ante. In dignissim lobortis sapien eu fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, turpis ac tempus]]></description>
+</item>
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Donec id ornare lorem. Cras at sapien lacus.</b> Sed scelerisque mollis est sit amet consequat. Praesent at augue eget dolor. eleifend scelerisque non in erat. Curabitur faucibus odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar a vitae ante. In dignissim lobortis sapien eu fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, turpis ac tempus]]></description>
+</item>
+
+</gallery>

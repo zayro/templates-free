@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+	<item>
+
+		<title>Company Phone:</title>
+		<value>9+999+999+9999</value>
+
+	</item>
+
+	<item>
+
+		<title>Offices:</title>
+		<value>9+999+999+9999</value>
+
+	</item>
+
+	<item>
+
+		<title>Fax:</title>
+		<value>9+999+999+9999</value>
+
+	</item>
+
+	<item>
+
+		<title>Email Us:</title>
+		<value>email_address@server.net</value>
+
+	</item>
+
+	
+	<item>
+
+		<title>Alternate Email:</title>
+		<value>email_address2@server.com</value>
+
+	</item>
+
+
+</list>
+
+
+
+<information info="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing."></information>

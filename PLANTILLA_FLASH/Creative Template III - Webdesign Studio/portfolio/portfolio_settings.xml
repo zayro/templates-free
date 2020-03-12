@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+	
+	<settings
+	
+		menuColor="0x000000"
+		menuHoverColor="0xd12839"
+		
+		thumbnailWidth="250"
+		thumbnailHeight="200"
+		thumbnailMargin="50"
+		thumbnailBorder="4"
+		
+		thumbnailColor="0xdadada"
+		thumbnailRollColor="0xf21d5b"
+		thumbnailTitleColor="0xe40043"
+		thumbnailTextColor="0x010101"
+		
+		scrollerLineColor="0xb60b3c"
+		scrollerHandleColor="0x010101"
+		
+		videoBack="0x000000"
+		videoButtons="0xffffff"
+		videoButtonsRoll="0xf129b0"
+		videoSeekBack="0xffffff"
+		videoSeekBuffered="0xfcd8f3"
+		videoSeekPlayed="0xf129b0"
+		videoSeekHandle="0x000000"
+		videoCurrentTime="0xffffff"
+		videoTotalTime="0xf129b0"
+	
+	/>
+	
+	
+	<folio>
+	
+		<category name="Web design">
+		
+			<project title="Rockable website" thumbnail="webdesign/thumb1.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://www.http://rockablepress.com/">
+				<asset url="webdesign/1/preview1.jpg" />
+				<asset url="webdesign/1/preview2.jpg" />
+				<asset url="webdesign/1/preview3.jpg" />
+			</project>
+			
+				<project title="Freelance Switch" thumbnail="webdesign/thumb2.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://www.freelanceswitch.com/">
+				<asset url="webdesign/2/preview1.jpg" />
+				<asset url="webdesign/2/preview2.jpg" />
+				<asset url="webdesign/2/preview3.jpg" />
+				<asset url="webdesign/2/preview4.jpg" />
+				<asset url="webdesign/2/preview5.jpg" />
+				<asset url="webdesign/2/preview6.jpg" />
+			</project>
+			
+				<project title="TUTS+" thumbnail="webdesign/thumb3.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://tutsplus.com/">
+				<asset url="webdesign/3/preview0.jpg" />
+				<asset url="webdesign/3/preview1.jpg" />
+				<asset url="webdesign/3/preview2.jpg" />
+				<asset url="webdesign/3/preview3.jpg" />
+				<asset url="webdesign/3/preview4.jpg" />
+				<asset url="webdesign/3/preview5.jpg" />
+				<asset url="webdesign/3/preview6.jpg" />
+			</project>
+			
+				<project title="Envato blogs" thumbnail="webdesign/thumb4.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://blog.flashden.net/">
+				<asset url="webdesign/4/preview1.jpg" />
+				<asset url="webdesign/4/preview2.jpg" />
+				<asset url="webdesign/4/preview3.jpg" />
+				<asset url="webdesign/4/preview4.jpg" />
+				<asset url="webdesign/4/preview5.jpg" />
+			</project>
+			
+				<project title="Rockable website" thumbnail="webdesign/thumb1.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://www.http://rockablepress.com/">
+				<asset url="webdesign/1/preview1.jpg" />
+				<asset url="webdesign/1/preview2.jpg" />
+				<asset url="webdesign/1/preview3.jpg" />
+			</project>
+			
+				<project title="Freelance Switch" thumbnail="webdesign/thumb2.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://www.freelanceswitch.com/">
+				<asset url="webdesign/2/preview1.jpg" />
+				<asset url="webdesign/2/preview2.jpg" />
+				<asset url="webdesign/2/preview3.jpg" />
+				<asset url="webdesign/2/preview4.jpg" />
+				<asset url="webdesign/2/preview5.jpg" />
+				<asset url="webdesign/2/preview6.jpg" />
+			</project>
+			
+				<project title="TUTS+" thumbnail="webdesign/thumb3.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://tutsplus.com/">
+				<asset url="webdesign/3/preview0.jpg" />
+				<asset url="webdesign/3/preview1.jpg" />
+				<asset url="webdesign/3/preview2.jpg" />
+				<asset url="webdesign/3/preview3.jpg" />
+				<asset url="webdesign/3/preview4.jpg" />
+				<asset url="webdesign/3/preview5.jpg" />
+				<asset url="webdesign/3/preview6.jpg" />
+			</project>
+			
+				<project title="Envato blogs" thumbnail="webdesign/thumb4.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see." online="http://blog.flashden.net/">
+				<asset url="webdesign/4/preview1.jpg" />
+				<asset url="webdesign/4/preview2.jpg" />
+				<asset url="webdesign/4/preview3.jpg" />
+				<asset url="webdesign/4/preview4.jpg" />
+				<asset url="webdesign/4/preview5.jpg" />
+			</project>
+			
+		</category>
+		
+		<category name="Photography">
+		
+			<project title="Flowers" thumbnail="photography/thumb1.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/flowers/madness_flower1.jpg" />
+				<asset url="photography/flowers/madness_flower2.jpg" />
+				<asset url="photography/flowers/scottwills_bee.jpg" />
+				<asset url="photography/flowers/scottwills_makeawish.jpg" />
+				<asset url="photography/flowers/scottwills_plant.jpg" />
+				<asset url="photography/flowers/scottwills_whiteflower2.jpg" />
+				<asset url="photography/flowers/scottwills_whiteflower.jpg" />
+			</project>
+			
+			<project title="Architecture" thumbnail="photography/thumb2.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/architecture/madness_arch2.jpg" />
+				<asset url="photography/architecture/scottwills_gardens.jpg" />
+				<asset url="photography/architecture/scottwills_fountain.jpg" />
+				<asset url="photography/architecture/scottwills_lichterman.jpg" />
+				<asset url="photography/architecture/scottwills_modern_sculpture.jpg" />
+				<asset url="photography/architecture/scottwills_building1.jpg" />
+				<asset url="photography/architecture/scottwills_building2.jpg" />
+			</project>
+			
+			<project title="Winter" thumbnail="photography/thumb3.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/winter/scottwills_bussnow.jpg" />
+				<asset url="photography/winter/scottwills_riverbank.jpg" />
+				<asset url="photography/winter/scottwills_rockcreek.jpg" />
+				<asset url="photography/winter/scottwills_snowscene20.jpg" />
+			</project>
+			
+			<project title="Flowers" thumbnail="photography/thumb1.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/flowers/madness_flower1.jpg" />
+				<asset url="photography/flowers/madness_flower2.jpg" />
+				<asset url="photography/flowers/scottwills_bee.jpg" />
+				<asset url="photography/flowers/scottwills_makeawish.jpg" />
+				<asset url="photography/flowers/scottwills_plant.jpg" />
+				<asset url="photography/flowers/scottwills_whiteflower2.jpg" />
+				<asset url="photography/flowers/scottwills_whiteflower.jpg" />
+			</project>
+			
+			<project title="Architecture" thumbnail="photography/thumb2.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/architecture/madness_arch2.jpg" />
+				<asset url="photography/architecture/scottwills_gardens.jpg" />
+				<asset url="photography/architecture/scottwills_fountain.jpg" />
+				<asset url="photography/architecture/scottwills_lichterman.jpg" />
+				<asset url="photography/architecture/scottwills_modern_sculpture.jpg" />
+				<asset url="photography/architecture/scottwills_building1.jpg" />
+				<asset url="photography/architecture/scottwills_building2.jpg" />
+			</project>
+			
+			<project title="Winter" thumbnail="photography/thumb3.jpg" summary="This template is focused on content, not on text. This is a short description for the current project and should include only a summary. Don't give your visitors a lot to read, but a lot to see.">
+				<asset url="photography/winter/scottwills_bussnow.jpg" />
+				<asset url="photography/winter/scottwills_riverbank.jpg" />
+				<asset url="photography/winter/scottwills_rockcreek.jpg" />
+				<asset url="photography/winter/scottwills_snowscene20.jpg" />
+			</project>
+			
+		</category>
+		
+		<category name="Video">
+		
+			<project type="video" title="Boat at sea" thumbnail="video/6.jpg" summary="This is not a video gallery, but a video player. Each thumb represents just one video. Videos can be flv, mp4, or mov." online="http://videohive.net/item/passing-yacht-hd/27357">
+			
+				<asset url="video/6.flv" width="480" height="360" />
+			
+			</project>
+			
+			<project type="video" title="Squirrel" thumbnail="video/2.jpg" summary="This is not a video gallery, but a video player. Each thumb represents just one video. Videos can be flv, mp4, or mov." online="http://videohive.net/item/black-squirrel-hd-loop/27241">
+			
+				<asset url="video/2.flv" width="480" height="360" />
+			
+			</project>
+			
+			<project type="video" title="Rails" thumbnail="video/1.jpg" summary="This is not a video gallery, but a video player. Each thumb represents just one video. Videos can be flv, mp4, or mov." online="http://videohive.net/item/rail-enchanting/14525">
+			
+				<asset url="video/1.flv" width="480" height="360" />
+			
+			</project>
+			
+			<project type="video" title="World Map" thumbnail="video/5.jpg" summary="This is not a video gallery, but a video player. Each thumb represents just one video. Videos can be flv, mp4, or mov." online="http://videohive.net/item/streaming-continents-hd-loop/28926">
+			
+				<asset url="video/5.flv" width="480" height="360" />
+			
+			</project>
+		
+		</category>
+		
+	</folio>
+	
+</portfolio>

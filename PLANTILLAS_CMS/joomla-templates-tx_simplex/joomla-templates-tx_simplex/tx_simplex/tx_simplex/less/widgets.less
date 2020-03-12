@@ -1,0 +1,83 @@
+/*----------------------------------
+        Widget Specific
+-----------------------------------*/
+/* Logo */
+.widget-logo{ margin: 0; }
+#logo{
+    margin: 0;font-size: 45px;line-height: 45px;.gfont-noticia();
+    a{
+        display: block;color: #fff;
+        &:hover {color: #fff;}
+    }
+  .logo-tagline{ display: block; font-size: 16px;}
+}
+.widget-logo .image a{ .hide-text; .nopadding; }
+
+/* Copyright info, designed by and expose logo widget settings */
+.widget-copyrightinfo,
+.widget-designedby,
+.widget-exposelogo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 25px
+}
+
+/*Date*/
+#ex-date,
+#font-resizer{margin-top: 5px; }
+
+/*Font Resizer*/
+#font-resizer{text-align: right;}
+/* Designed by - ThemeXpert */
+.designed-by a{
+    background: url(../images/themexpert.png) no-repeat;
+    width: 75px;
+    height: 18px;
+    display: inline-block;
+    text-indent: -9999px;
+    font-size: 0;
+}
+/* Powered by - Expose */
+/* Core Widgets
+-------------------------------------------*/
+.expose-logo, .expose-logo a{width: 152px;height: 40px;display: block}
+    .expose-logo-light{background: url(../../../libraries/expose/interface/images/expose_logo_light.png) no-repeat;}
+    .expose-logo-dark{background: url(../../../libraries/expose/interface/images/expose_logo_dark.png) no-repeat;}
+    .expose-logo span{display: none;}
+
+#poweredby{margin: 0 auto;}
+
+/* Scroll to top */
+#scrolltop{
+    background: url(../images/totop.png) 100% 0 no-repeat;
+    display: block;
+    width: 110px;
+    line-height: 25px;
+    margin: 30px auto 0;
+
+    &:hover{}
+}
+
+/* Social */
+.widget-social {padding: 0;float: right;}
+.social-icons{
+    list-style: none;
+    margin: 0;
+
+    li{ float: left; }
+    li a{
+        margin-right: 10px;
+        display: block;
+        width: 32px;
+        height: 32px;
+        padding: 5px;
+        text-indent: -9999px;
+        border-style: solid;border-width: 0 1px 1px 0;
+        background-position: 50% 50%;background-color: #1e222e;background-repeat: no-repeat;
+    }
+
+    li.twitter a{background-image: url(../images/social-icons/twitter.png);}
+    li.facebook a{background-image: url(../images/social-icons/facebook.png);}
+    li.rss a{background-image: url(../images/social-icons/rss.png);}
+    li.gplus a{background-image: url(../images/social-icons/gplus.png);}
+}

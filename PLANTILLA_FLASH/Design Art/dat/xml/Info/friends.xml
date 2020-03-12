@@ -1,0 +1,36 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img5.jpg">
+			<title>Friend Name 1</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img6.jpg">
+			<title>Friend Name 2</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img3.jpg">
+			<title>Friend Name 3</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img4.jpg">
+			<title>Friend Name 4</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		
+				<data img="dat/Images/Home/img2.jpg">
+			<title>Friend Name 5</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img6.jpg">
+			<title>Friend Name 6</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+</Section>
+
+</DynamicWeb>

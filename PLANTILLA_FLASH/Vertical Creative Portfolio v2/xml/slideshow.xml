@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+<photo url="images/autoslide-show/slide-show-1.jpg" theText="SLIDESHOW: PUT THE CAPTION HERE  |  SCREEN 01 - 05" />
+<photo url="images/autoslide-show/slide-show-2.jpg" theText="SLIDESHOW: ALL TEXT ARE COMING FROM XML  |  SCREEN 02 - 05" />
+<photo url="images/autoslide-show/slide-show-3.jpg" theText="SLIDESHOW: ADD AS MANY IMAGES BY APPENDING THE XML  |  SCREEN 03 - 05" />
+<photo url="images/autoslide-show/slide-show-4.jpg" theText="SLIDESHOW: YOU CAN PAUSE AND PLAY THE SLIDE-SHOW  |  SCREEN 04 - 05" />
+<photo url="images/autoslide-show/slide-show-5.jpg" theText="SLIDESHOW: YOU CAN EASILY CONTROLL THE DELAY  |  SCREEN 05 - 05" />
+</slideshow>

@@ -1,0 +1,98 @@
+body,
+body.home
+{
+  background-color:#dbdbdb;
+  color:#000000;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:#1c1c1c;
+  border-color:#1c1c1c;
+}
+
+th, td
+{
+	border:1px solid #ffb27b;
+	color:#1c1c1c;
+}
+
+th
+{
+	background:#feeaba;
+	color:#1c1c1c;
+}
+
+a
+{
+  color:#fb7600;
+}
+
+a:hover
+{
+  color:#f3ac00;
+}
+
+#menu ul li a
+{
+  color:#feeaba;
+}
+
+#menu ul li a:hover
+{
+  color:#FFFFFF;
+}
+
+#menu ul li.selected a
+{
+  color:#FFFFFF;
+}
+
+#menu ul ul li a,
+#menu ul li.selected ul li a
+{
+  color:#8e490b;
+}
+
+#menu ul ul li a:hover,
+#menu ul li.selected ul li a:hover
+{
+  color:#000000;
+}
+
+
+.sidebar ul li a:hover
+{
+  color:#5e2004;
+}
+
+.minipost .comments,
+.minipost .readmore,
+.button,
+.button-right,
+ul.pagination li a
+{
+  background-color:#fb7600;
+  border-bottom:4px solid #fb6800;
+}
+
+.minipost .comments:hover,
+.minipost .readmore:hover,
+.button:hover,
+.button-right:hover,
+ul.pagination li a:hover
+{
+  color:#FFFFFF;
+  background-color:#fb6800;
+}
+
+#footer,
+#footer a
+{
+  color:#a3a3a3;
+}
+
+#footer a:hover
+{
+  color:#5c5c5c;
+}

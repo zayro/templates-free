@@ -1,0 +1,20 @@
+﻿<DynamicWeb>
+	<Sections>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf" namex="Lorem Ipsum Laboriosam Architecto Beat">Lorem ipsum<br/>5</data>
+		<data Img="dat/Images/Folio/img2.jpg" bgf="bgf2" namex="Laboriosam">Laboriosam<br/>3</data>
+		<data Img="dat/Images/Folio/img3.jpg" bgf="bgf" namex="Commodo">Commodo cons<br/>7</data>
+		<data Img="dat/Images/Folio/img4.jpg" bgf="bgf2" namex="Veritatis">Veritatis et<br/>6</data>
+		<data Img="dat/Images/Folio/img2.jpg" bgf="bgf" namex="Architecto">Architecto beat<br/>5</data>
+		<data Img="dat/Images/Folio/img3.jpg" bgf="bgf2" namex="Veritatis">Veritatis et<br/>9</data>
+		<data Img="dat/Images/Folio/img4.jpg" bgf="bgf" namex="Architecto">Architecto beat<br/>2</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Ipsum">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Lorem">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Ipsum">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Lorem">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Ipsum">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Lorem">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Ipsum">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Lorem">Lorem ipsum<br/>1</data>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf2" namex="Ipsum">Lorem ipsum<br/>1</data>
+	</Sections>
+</DynamicWeb>

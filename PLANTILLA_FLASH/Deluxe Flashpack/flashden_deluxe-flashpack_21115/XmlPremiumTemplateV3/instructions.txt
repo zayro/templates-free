@@ -1,0 +1,53 @@
+﻿Instructions:
+
+THANK YOU FOR PURCHASE XML PREMIUM TEMPLATE
+
+To customize your template you don't need to have much knowledge of action script programming.
+Because all is edited in the xml files. But if you need change fla file, the most important symbols in the library
+are the first ones. 1 - 2 - 3 - ... to  9
+
+Follow this steps and your site is done!
+
+1 - To edit menu navigation: open menu.xml file in the xml folder of the package.
+
+2 - To change, add or delete itens in each submenu  you need to edit menuWeb.xml, menuPrint.xml, menuVideo.xml,
+and menuExp.xml. And that's it, new buttons with new names will be added in your site.
+
+3 - Edit company.xml, team.xml, and privacy.xml with your information. You can add html formatted text here, but never
+never forget open and close your tags.
+
+4 - for each category ( web, print, video, exp), you need create folders for each project, you must name it p1, p2, p3,
+... pn...
+
+5 - in the folders "web", "print", " video" and "exp", you will see the description.xml file too, you need to edit 
+this file with the description and url for each project in this category. If you want the "Visit Url" button disable, 
+just leave the ProjectUrl value empty, like: ProjectUrl="".
+
+6 - in each project folder you need to provide your photos and edit photos.xml with the name of each photo file. For Video projects
+you need to edit videos.xml and set your path from site.swf directory. Put your flvs in each
+
+
+7 - if you need to change video player open Video.fla file.
+
+8- Create your logo and background and change in the site.fla library symbols: logo.png and BACK
+
+9 - To change the parameters to your e-mail in contact form (contacts) you need to edit symbol "5 - CONTACT FORM"
+double click here and edit actions to send button (line 16):
+
+*********************************************************************************************************
+recipient = "info@yourcompany.com"; // your e-mail to recieve  messages from the site
+
+subject = "Message from my site."; // message in the subject when you recieve new message
+
+loadVariables("http://www.yourcompany.com/form.php3", "", "POST"); // your domain, and form.php3 location
+in this case form.php3 is in the public html folder of the server.
+*********************************************************************************************************
+
+
+If you need more help, contact me:
+
+jorge@webideias.net
+
+
+
+ 

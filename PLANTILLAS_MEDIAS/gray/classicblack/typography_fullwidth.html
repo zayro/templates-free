@@ -1,0 +1,612 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Anytime - Full Width Page Without Gallery</title>
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/formcheck.css" rel="stylesheet" type="text/css" />
+
+
+
+<!--Form Type Starts -->
+<script type="text/javascript" src="./js/core.js"></script>
+<script type="text/javascript" src="./js/more.js"></script>
+<script type="text/javascript" src="./js/en.js"></script>
+<script type="text/javascript" src="./js/formcheck.js"></script> 
+<script type="text/javascript"> 
+			window.addEvent('domready', function(){
+    new FormCheck('myform');
+});
+		</script> 
+<!--Form Type Ends -->
+
+<!--Header & Footer Slider Starts -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/jquery.cycle.all.js"></script>
+<script type="text/javascript"> 
+$(function($){   
+	$('#slideshow_g').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		next: '#next',  // selector for element to use as click trigger for next slide
+	   prev: '#previous',  // selector for element to use as click trigger for previous slide
+		pager: '#pager',  // selector for element to use as pager container
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	  
+	$('#slideshow').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollDown', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 
+	
+	$('#slideshow2').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollUp', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 	
+	
+})(jQuery);  
+</script>
+<!--Header & Footer Slider Ends -->
+
+<!--On hover Effect starts -->
+<script type="text/javascript" src="./js/easy.js"></script>
+<script type="text/javascript">
+	$(document).ready(function($){		
+		$.easy.tooltip();	
+})(jquery);
+</script>
+<!--On hover Effect ends -->
+
+
+
+<!--For Moving Top Starts -->
+<script type="text/javascript">
+(function($){
+	$(document).ready(function() {
+	$("a.anchorLink").anchorAnimate()
+});
+
+jQuery.fn.anchorAnimate = function(settings) {
+
+ 	settings = jQuery.extend({
+		speed : 800
+	}, settings);	
+	
+	return this.each(function(){
+		var caller = this
+		$(caller).click(function (event) {	
+			event.preventDefault()
+			var locationHref = window.location.href
+			var elementClick = $(caller).attr("href")			
+			var destination = $(elementClick).offset().top;
+			$("html:not(:animated),body:not(:animated)").animate({ scrollTop: destination}, settings.speed, function() {
+				window.location.hash = elementClick
+			});
+			
+		  	return false;
+		})
+	})
+}
+})(jQuery); 
+</script>
+<!--For Moving Top Ends -->
+
+<!--For No Conflict -->
+<script type="text/javascript"> 
+			jQuery.noConflict();
+		</script> 
+<!--For No Conflict -->
+
+
+
+<!--Navigation DropDown Starts -->
+<script type="text/javascript" src="./js/superfish.js"></script>
+<script type="text/javascript" src="./js/effects.js"></script>
+<!--Navigation DropDown Ends -->
+
+
+
+<!--PNG Fix Starts -->
+<script type="text/javascript" src="./js/dd_belatedpng_0.0.8a.js"></script>
+<script type="text/javascript">
+	DD_belatedPNG.fix('.topportion, img');	
+	DD_belatedPNG.fix('.logo, img');
+	DD_belatedPNG.fix('.header, img');
+	DD_belatedPNG.fix('.topfooter, img');
+	DD_belatedPNG.fix('input, img');
+	DD_belatedPNG.fix('textarea, img');
+	DD_belatedPNG.fix('.right, a, img');
+	DD_belatedPNG.fix('.newscontainer, img');
+	DD_belatedPNG.fix('#pager, li, a, img');
+</script>
+<!--PNG Fix Ends -->
+
+<!--Cufon Starts -->
+<script type='text/javascript' src='./js/cufon-yui.js'></script>
+<script type="text/javascript" src="./js/museo_300_300.font.js"></script>
+<script type="text/javascript">    
+        Cufon.replace('h1');  
+		Cufon.replace('h2');  
+		Cufon.replace('h3'); 
+    </script>	
+<script type="text/javascript" src="./js/heisei_maru_gothic_standard_opentype_400.font.js"></script>
+<script type="text/javascript">
+	Cufon.replace('h6');   
+</script>
+<!--Cufon Ends -->
+
+
+<meta charset="UTF-8"></head>
+
+<body>
+<!--Top Portion Starts -->
+<div id="topportion_wrap">
+	<div class="topportion">
+		<!--Logo Portion Starts -->
+			<div class="logo" id="top">
+				<a href="./index01.html" title="anytime"><img src="./images/logo.png" alt="anytime" /></a>
+			</div>
+		<!--Logo Portion Ends -->	
+		<!--Search Panel Starts -->
+			<div class="top">
+			<!--Search Starts -->			
+					<div class="searchpannel">			
+						<form action="" method="get">			
+						<input type="text" value="Search Here..." onfocus="if(this.value=='Search Here...'){this.value=''};" onblur="if	(this.value==''){this.value='Search Here...'};" tabindex="1"  />
+						<input type="image" src="./images/search_btn.png" class="searchBtn" title="search" />
+						</form>	
+						<br class="spacer"/>				
+					</div>
+			<!--Search Ends -->			
+			<ul class="icon">
+				<li><a href="#" title="rss"><img src="./images/rss_icon.gif" alt="" /></a></li>
+			</ul>			
+		<!--Search Panel Ends -->
+		<br class="spacer" />
+		</div>		
+		<!--Main Navigation Starts -->
+			<div class="topbar">
+				<div class="top-nav">				
+				<ul class="sf-menu">
+					<li><a href="./index01.html">HOME<br /><span>Start Here</span></a></li>
+					<li><a href="./features.html" class="nav-design">FEATURES<br /><span>Whats Included</span></a>
+						<ul>
+							<li><a href="./index01.html">Homepage Styles</a>
+								<ul>
+									<li><a href="./index01.html">Home Style 1</a></li>
+									<li><a href="./index02.html">Home Style 2</a></li>
+									<li><a href="./index03.html">Home Style 3</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./typography_fullwidth.html">Typography</a>
+								<ul>
+									<li><a href="./typography_fullwidth.html">Full Width Style</a></li>
+									<li><a href="./typography_column.html">Column Style</a></li>
+									<li><a href="./typography_teamstyle.html">Team Style</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./portfolio_gallerystyle.html">Portfolio</a>
+								<ul>
+									<li><a href="./portfolio_gallerystyle.html">Gallery Style</a></li>
+									<li><a href="./portfolio_detailstyle.html">Detailed Style</a></li>
+									<li><a href="./portfolio_fullview.html">Full View</a></li>
+									<li><a href="./portfolio_slideshow.html">3D Slideshow</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="./pages_functionality.html">Layout Pages</a>
+								<ul>
+									<li><a href="./pages_functionality.html">Dynamic Page</a></li>
+									<li><a href="./pages_services.html">Services Page</a></li>
+									<li><a href="./pages_textsngallery.html">Text, Gallery View</a></li>
+									<li><a href="./pages_tables.html">Tables Data</a></li>
+									
+								</ul>
+							</li>
+							
+							<li><a href="./error404.html">Miscelleneous</a>
+								<ul>
+									<li><a href="./error404.html">Error 404</a></li>
+									<li><a href="./sitemap.html">Sitemap</a></li>
+																		
+								</ul>
+							</li>
+							<li><a href="./features.html">View Features</a></li>
+											
+						</ul>
+					</li>
+					<li><a href="./blog.html" class="nav-design">BLOG<br /><span>Read, Write</span></a>
+						<ul>
+							<li><a href="./blog.html" title="blog index">Blog Index</a></li>
+							<li><a href="./blog_single.html" title="blog single page">Blog Single Page</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../index.html" class="nav-design">SKINS <br /><span>Choose Color</span></a>
+						<ul>
+							<li><a href="../../red/crimson/index01.html">Red</a>
+								<ul>
+									<li><a href="../../red/crimson/index01.html">Crimson</a></li>
+									<li><a href="../../red/darkred/index01.html">Dark Red</a></li>
+									<li><a href="../../red/brightred/index01.html">Bright Red</a></li>
+									<li><a href="../../red/darkgrapes/index01.html">Dark Grapes</a></li>
+									<li><a href="../../red/maroon/index01.html">Maroon</a></li>
+									<li><a href="../../red/firestone/index01.html">Fire Stone</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../blue/deepcerulean/index01.html">Blue</a>
+								<ul>
+									<li><a href="../../blue/deepcerulean/index01.html">Deep Cerulean</a></li>
+									<li><a href="../../blue/deepcadetblue/index01.html">Deep Cadet Blue</a></li>
+									<li><a href="../../blue/prussianblue/index01.html">Prussian Blue</a></li>
+									<li><a href="../../blue/bondiblue/index01.html">Bondi Blue</a></li>
+									<li><a href="../../blue/deepdenim/index01.html">Deep Denim</a></li>
+									<li><a href="../../blue/deepdodgerblue/index01.html">Deep Dodger Blue</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../orange/deeppumpkin/index01.html">Orange</a>
+								<ul>
+									<li><a href="../../orange/deeppumpkin/index01.html">Deep Pumpkin</a></li>
+									<li><a href="../../orange/rustyorange/index01.html">Rusty Orange</a></li>
+									<li><a href="../../orange/darkvermilion/index01.html">Dark Vermilion</a></li>
+									<li><a href="../../orange/darksalmon/index01.html">Dark Salmon</a></li>
+									<li><a href="../../orange/gamboge/index01.html">Gamboge</a></li>
+									<li><a href="../../orange/burntorange/index01.html">Burnt Orange</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../pink/darklilac/index01.html">Pink</a>
+								<ul>
+									<li><a href="../../pink/darklilac/index01.html">Dark Lilac</a></li>
+									<li><a href="../../pink/terracotta/index01.html">TerraCotta</a></li>
+									<li><a href="../../pink/mountbattenpink/index01.html">Mountbatten Pink</a></li>
+									<li><a href="../../pink/lightpink/index01.html">Light Pink</a></li>
+									<li><a href="../../pink/palecardinal/index01.html">Pale Cardinal</a></li>
+									<li><a href="../../pink/brightscarlet/index01.html">Bright Scarlet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../green/deeppinegreen/index01.html">Green</a>
+								<ul>
+									<li><a href="../../green/deeppinegreen/index01.html">Deep Pine Green</a></li>
+									<li><a href="../../green/darkasparagus/index01.html">Dark Asparagus</a></li>
+									<li><a href="../../green/bottlegreen/index01.html">Bottle Green</a></li>
+									<li><a href="../../green/darkspringgreen/index01.html">Dark Spring Green</a></li>
+									<li><a href="../../green/darkolivegreen/index01.html">Dark Olive Green</a></li>
+									<li><a href="../../green/olivegreen/index01.html">Olive Green</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../yellow/paleyellow/index01.html">Yellow</a>
+								<ul>
+									<li><a href="../../yellow/paleyellow/index01.html">Pale Yellow</a></li>
+									<li><a href="../../yellow/creamyyellow/index01.html">Creamy Yellow</a></li>
+									<li><a href="../../yellow/brightsaffron/index01.html">Bright Saffron</a></li>
+									<li><a href="../../yellow/burntyellow/index01.html">Burnt Yellow</a></li>
+									<li><a href="../../yellow/deepyellow/index01.html">Deep Yellow</a></li>
+									<li><a href="../../yellow/brightyellow/index01.html">Bright Yellow</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../brown/sienna/index01.html">Brown</a>
+								<ul>
+									<li><a href="../../brown/sienna/index01.html">Sienna</a></li>
+									<li><a href="../../brown/saddlebrown/index01.html">Saddle Brown</a></li>
+									<li><a href="../../brown/chocolatebrown/index01.html">Chocolate Brown</a></li>
+									<li><a href="../../brown/burlywood/index01.html">Burly Wood</a></li>
+									<li><a href="../../brown/peru/index01.html">Peru</a></li>
+									<li><a href="../../brown/darktan/index01.html">Dark Tan</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./index01.html">Gray</a>
+								<ul>
+									<li><a href="./index01.html">Classic Black</a></li>
+									<li><a href="../gray/index01.html">Gray</a></li>
+									<li><a href="../silver/index01.html">Silver</a></li>
+									<li><a href="../slategray/index01.html">Slate Gray</a></li>
+									<li><a href="../steelgray/index01.html">Steel Gray</a></li>
+									<li><a href="../darkslategray/index01.html">Dark Slate Gray</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../bonus/shinyplate/index01.html">Bonus</a>
+								<ul>
+									<li><a href="../../bonus/shinyplate/index01.html">Shiny Plate</a></li>
+									<li><a href="../../bonus/glazepurple/index01.html">Glaze Purple</a></li>
+									<li><a href="../../bonus/puregold/index01.html">Pure Gold</a></li>
+									<li><a href="../../bonus/glazepink/index01.html">Glaze Pink</a></li>
+									<li><a href="../../bonus/glazecyan/index01.html">Glaze Cyan</a></li>
+									<li><a href="../../bonus/glossyviolet/index01.html">Glossy Violet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../../index.html">View All Colors</a></li>
+							
+						</ul>
+					</li>
+					<li class="last"><a href="./contact.php.html">CONTACT US<br /><span>Get in Touch</span></a></li>
+				</ul>	
+				</div>						
+			</div>
+		<!--Main Navigation Ends -->
+		<br class="spacer" />
+	</div>
+</div>
+<!--Top Portion Ends -->
+
+
+<!--Body Portion Starts -->
+	<div id="inner_body_wrap">
+		<div class="bodycontent">
+			<!--Top Body Content Starts-->
+				<div class="pathway_content">
+					<div class="pc_left">
+						<h3 class="head">Full Width Page</h3>
+						<p class="link"><a href="http://www.9dlabs.net/tfdemos/anytime/skins/gray/classicblack/index.html" title="home">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="#" title="typography">Typography</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="#" title="full width style">Full Width Style</a></p>
+					</div>
+					<div class="pc_right">
+						<p>The page shows you the various types of typography styles that is included with this theme...</p>
+					</div>
+					<br class="spacer" />
+				</div>			
+			<!--Top Body Content Starts-->
+			
+			
+			
+			<!--Text Portion Starts -->
+				<div class="bodytext">
+					<div class="gap"></div>
+					<!--First Portion Starts -->
+					<div class="first_portion">
+						<div class="set">
+							<h3>Heading 1</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor incididun ut laboreet dolore magna. Quis nostrud exercitum  ullamco laboris nisi ut que aliquip ex que odit commodo consequat duis aut irurum dolorum reprehenderit voluptate.</p>
+						</div>
+						<div class="set">
+							<h3>Heading 2</h3>
+							<p>Eligendi optio cumque nihil impedit quo min que quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor rep oditse dus. Temporibus autem quibusdam et aut offico debitis aut rerum necessitatibus saepe eveniut et voluptates repudian dolor.</p>
+						</div>
+						<div class="set setlast">
+							<h3>Heading 3</h3>
+							<p>Quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.</p>
+						</div>		
+						<br class="spacer"/>				
+					</div>
+					<!--First Portion Ends -->
+					
+					<!--Second Portion Starts -->
+					<div class="second_portion">
+						<div class="sp_left">
+							<h2 class="headingtype2">Large Paragraph</h2>
+							<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam luuar que voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi quela aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehender qui in ea voluptate veli esse quam nihil molestiae consequatur vel illum fugiat.</p>
+							<p>Quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae</p>
+						
+						</div>
+						<div class="sp_right">
+							<h2 class="headingtype3">About the Author</h2>
+							<p>Quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam. Enim ad minima veniam, quis nostrum corporis.</p>
+							<p class="visit">Visit My Other Sites</p>
+							<ul>
+								<li><a href="#" onmouseover="site1.src='./images/visit_img1_hover.png'" onmouseout="site1.src='./images/visit_img1.png'"><img src="./images/visit_img1.png" alt="" name="site1" /></a></li>
+								<li><a href="#" onmouseover="site2.src='./images/visit_img2_hover.png'" onmouseout="site2.src='./images/visit_img2.png'"><img src="./images/visit_img2.png" alt=""  name="site2" /></a></li>
+								<li><a href="#" onmouseover="site3.src='./images/visit_img3_hover.png'" onmouseout="site3.src='./images/visit_img3.png'"><img src="./images/visit_img3.png" alt=""  name="site3"/></a></li>
+								<li class="last"><a href="#" onmouseover="site4.src='./images/visit_img4_hover.png'" onmouseout="site4.src='./images/visit_img4.png'"><img src="./images/visit_img4.png" alt=""  name="site4" /></a></li>
+							</ul>
+						</div>
+						<br class="spacer" />
+					</div>
+					<!--Second Portion Ends -->
+					
+					<!--Third Portion Starts -->
+					<div class="thirdportion">
+						<div class="tp_left">
+							<h2 class="headingtype4">Choose your Fun Stuffs</h2>
+							<ul>
+								<li class="top"><a href="#">Amazing Site Template Themes</a></li>
+								<li><a href="#">Premium Wordpress Products</a></li>
+								<li><a href="#">VCard For Your Online Identity</a></li>
+								<li><a href="#">Free High Quality Wallpapers</a></li>
+								<li><a href="#">Desktop Themes &amp; Icons</a></li>
+								<li><a href="#">Free Vector Illustrations</a></li>
+							</ul>
+						</div>
+						<div class="tp_right">
+						<p>Etiam rhoncus maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.<br/> 
+Nullam quis ante <span>etiam sit amet orci eget eros faucibus</span> tincidunt.Duis leo. Sed fringilla que sed odit nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapi <span>vestibulum purus quamium,</span> scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.</p>
+						</div>
+						<br class="spacer" />
+					</div>
+					<!--Third Portion Ends -->
+					
+					<!--Fourth Portion Starts-->
+					<div class="fourthportion">
+					<h2 class="headingtype5">Full Length Typography</h2>
+					<p>Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum quaerat voluptatem. Ut enim ad <a href="#">links inside paragraph</a>, quis nostrum exercitationem ullam etim corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae, consequatur vel illum qui dolorem eum fugiat</p>
+					</div>
+					<!--Fourth Portion Ends-->
+					
+					<!--Fifth Portion Starts-->
+					<div class="fifthportion">
+						<h2 class="headingtype6">Table Data</h2>
+						<div class="table">
+							<table width="100%" border="0" cellspacing="0" class="table1" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td class="topic">Topic</td>
+    <td class="topic">Detail 1</td>
+    <td class="topic">Detail 2</td>
+    <td class="topic">Detail 3</td>
+    <td class="topic">Detail 4</td>
+    <td class="topic">Detail 5</td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td class="product">Plan 1</td>
+    <td>Data</td>
+    <td>Value</td>
+    <td>Yes</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td class="product">Plan 2</td>
+    <td>Data</td>
+    <td>Value</td>
+    <td>Yes</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td class="product">Plan 3</td>
+     <td>Data</td>
+    <td>Value</td>
+    <td>Yes</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+   <td class="product">Plan 4</td>
+     <td>Data</td>
+    <td>Value</td>
+    <td>Yes</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td class="product">Plan 5</td>
+    <td>Data</td>
+    <td>Value</td>
+    <td>No</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+   <td class="product">Plan 6</td>
+    <td>Data</td>
+    <td>Value</td>
+    <td>Yes</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td class="product">Plan 7</td>
+    <td>Data</td>
+    <td>Value</td>
+    <td>No</td>
+    <td>Quantity</td>
+    <td>Data/value</td>
+  </tr>
+</table>
+
+						</div>
+					</div>
+					<!--Fifth Portion Ends -->
+					
+					<br class="spacer"/>
+				</div>
+			<!--Text Portion Ends -->
+			
+		</div>
+		<br class="spacer"/>
+	</div>
+	
+<!--Body Portion Ends -->
+
+
+		
+
+<!--Footer Portion Starts -->
+	<div id="footer_wrap">
+		<div class="footer">
+			<div class="topfooter">
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Pages</li>
+					<li><a href="./index01.html">Home</a></li>
+					<li><a href="./features.html">Features</a></li>
+					<li><a href="./pages_tables.html">Tables</a></li>
+					<li><a href="./blog.html">Blog</a></li>
+					<li><a href="./pages_services.html">Services</a></li>
+					<li><a href="./contact.php.html">Contact Us</a></li>
+				</ul>
+			</div>	
+			
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Categories</li>
+					<li><a href="#">Web Hoting</a></li>
+					<li><a href="#">Mobile Applications</a></li>
+					<li><a href="#">Network Security</a></li>
+					<li><a href="#">Dedicated Hosting</a></li>
+					<li><a href="#">Cloud Servers</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+					<li><a href="#">SSL Certificates</a></li>
+					<li><a href="#">Payment Gateways</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+				</ul>
+			</div>
+			
+			
+			<div class="tweets">
+			<p class="latest">Latest Tweet</p>
+				<div id="slideshow">				
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+									<ul>
+										<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+									</ul>
+					</div>					
+				</div>				
+				<ul class="social">
+					<li><a href="#" class="tooltip" title="Facebook"><img src="./images/social_icon1.png" alt="facebook" /></a></li>
+					<li><a href="#" class="tooltip" title="Ziki"><img src="./images/social_icon2.png" alt="ziki" /></a></li>
+					<li><a href="#" class="tooltip" title="Linkedin"><img src="./images/social_icon3.png" alt="linkedin" /></a></li>
+					<li><a href="#" class="tooltip" title="Flickr"><img src="./images/social_icon4.png" alt="flickr" /></a></li>
+					<li class="last"><a href="#" class="tooltip" title="RSS"><img src="./images/social_icon5.png" alt="rss" /></a></li>
+				</ul>			
+			</div>
+			
+			<div class="contact">
+				<p class="quick">Quick Contact</p>
+					<div class="form">
+								<form name="contact" id="myform" class="myform" method="post" action="mail.php" enctype="multipart/form-data" onsubmit="return checkForm(this);">
+								<label><input type="text" class="validate['required']" name="name"/><span>Name<strong>*</strong></span></label>								
+								<label><input type="text" class="validate['required','email']" name="email"/><span>Email<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','digit']" name="phone"/><span>Ph No<strong>*</strong></span></label>
+								<label class="last"><textarea name="message" class="validate['required']" cols="" rows="" >Type Your Message Here...</textarea>
+								</label>
+								<label class="last"><input name="" type="submit" title="submit" class="submission" /></label>									 
+								</form>
+								</div>			
+			</div>
+			<br class="spacer" />			
+			</div>
+			
+			<div class="bottomfooter">
+			<div class="left"><p>&copy; 2010 Anytime Business Inc.</p></div>
+			<div class="right"><a href="#top" class="anchorLink">Back to Top</a></div>
+			<br class="spacer" />	
+			</div>
+			<br class="spacer" />
+		</div>	
+	</div>
+<!--Footer Portion Ends -->
+</body>
+</html>

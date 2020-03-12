@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact_form>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" buttonMailIcon="true" buttonMailColor="0xffffff" buttonMailRollOverColor="0xa06900" textScrollButtonsIconColor="0xffffff" formTextColor="0x727272" formBackGroundsAlpha="2" formBackGroundsColor="0xffffff" formTextScrollButtonsIconColor="0xffffff" formButtonsColor="0xffffff" formAlertColor="0xa06900" backGroundHeight="310" backGroundAlpha="100" backGroundColor="0x1a1b1d"/>
+	<title><![CDATA[<b>parker&kent</b>]]></title>
+	<email button_label="Send us an email"><![CDATA[name@yourdomain.com]]></email>
+	<numbers><![CDATA[T. 0041 123 456 78 90<br>F. 0041 123 456 78 90<br>C. 0041 123 456 78 90]]></numbers>
+	<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</font>]]></text>
+	<admin_email><![CDATA[name@yourdomain.com]]></admin_email>
+</contact_form>

@@ -1,0 +1,7 @@
+﻿<template cols="4" rows="4" v_pos="center" h_pos="center" mdelay="1.5" default_menu_id="0">
+<copyright><![CDATA[© 2008 <font color="$accent_color">Color Accent XML Website Template</font>]]></copyright>
+<accent_color>FF6600</accent_color>
+<audiotrack>loop/adg3.com_freeForm.mp3</audiotrack>
+<tile_image>materials/stone.jpg</tile_image>
+<menu_xml>menu.xml</menu_xml>
+</template>

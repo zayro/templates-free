@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<singleVideo>
+	<config>
+		//IF TRUE, VIDEO WILL KEEP REPEATING//
+		<repeat>false</repeat>
+	</config>
+	
+//vid src - LOCATION OF VIDEO (flv or f4v)//
+//info - HTML FORMATTED TEXT THAT IS IN THE "INFO" PANEL//
+//still - LOCATION OF THE STILL IMAGE THAT DSPLAYS IF THE "stillImage" VARIABLE ABOVE IS SET TO "true"//
+//width - WIDTH OF THE VIDEO//
+//height - HEIGHT OF THE VIDEO//
+	
+	<video>
+		<vid src="videos/preview1.f4v"/>
+		<info><![CDATA[<font color="#FFFF00" size="16">HTML FORMATTED TEXT</font><br/><br/><font color="#00CCCC" size="12">Text is edited through XML file with standard HTML tags.</font>  This gallery supports all Flash video formats. The window will adjust to the amount of text you supply in the XML file.<a href="http://www.flashden.net/user/nosrevlah08" target="_blank"><font color="#00CCCC" size="12">   Example of URL link.</font></a>]]></info>
+		<width>436</width>
+		<height>270</height>
+	</video>
+</singleVideo>

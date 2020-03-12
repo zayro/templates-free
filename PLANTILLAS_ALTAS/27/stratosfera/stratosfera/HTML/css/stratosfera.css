@@ -1,0 +1,163 @@
+.stratosfera_tabs {
+	list-style: none;
+	padding: 0;
+	background:url("../images/slide_bg_orange.png") repeat;
+	font-size: 18px;
+	list-style: none;
+	margin: 0 auto 50px;
+	max-width: 940px;
+	padding: 10px 0;
+	width: 100%;
+	height:80px;
+	padding:0;
+	margin:0;
+}
+
+.stratosfera_tabs li {
+	float: left;
+	width: 25%;
+	padding:0;
+	margin:0;
+}
+
+.stratosfera_tabs li a {
+	width: auto;
+	height: 75px;
+	display:block;
+	padding:0;
+	margin:0;
+	border-top:5px solid #f04b45;
+}
+
+.stratosfera_tabs li a:hover {
+	border-top:5px solid #ef4c46;
+	background:#e5e5e5;
+	text-decoration:none;
+	margin:0;
+	padding:0;
+}
+
+.stratosfera_tabs li a h1 {
+	color:#414141;
+	font-size:14px;
+	margin:0;
+	line-height:22px;
+	padding-top:17px;
+}
+
+.stratosfera_tabs li a img {
+	float:left;
+	margin:7px 10px 0 10px;
+}
+
+.stratosfera_tabs li a h2 {
+	color:#595959;
+	font-size:11px;
+	margin:0;
+}
+
+.stratosfera_tabs .stratosfera_here a {
+	background:url("../images/slide1_arrow.png") no-repeat top center;
+	margin-top:-10px;
+	padding-top:15px;
+	z-index:999999;
+	position:relative;
+	border:0;
+}
+ 
+.stratosfera_tabs .stratosfera_here a h1 {
+	color:#d93e39;
+}
+ 
+.stratosfera_tabs .stratosfera_here a:hover{
+	background:url("../images/slide1_arrow.png") no-repeat top center;
+	margin-top:-10px;
+	padding-top:15px;
+	z-index:999999;
+	position:relative;
+	border:0;
+ }
+
+
+.portfolio_slider_container, .stratosfera_container {
+	margin-bottom:0px;
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.portfolio_slider, .stratosfera {
+	position: relative;
+	list-style: none;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.portfolio_slider li, .stratosfera li {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+.portfolio_slider img, .stratosfera img {
+	display: block;
+	position: relative;
+	z-index: 1;
+	height: auto;
+	width: 100%;
+	border: 0;
+}
+
+.portfolio_slider .caption, .stratosfera .caption {
+	display: block;
+	position: absolute;
+	z-index: 2;
+	font-size: 20px;
+	text-shadow: none;
+	background: red;
+	color: #fff;
+	background: #000;
+	background: rgba(0,0,0, .4);
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 10px 20px;
+	margin: 0;
+	max-width: none;
+	font-size:14px;
+}
+
+.portfolio_slider_nav, .stratosfera_nav {
+	position: absolute;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	top: 45%;
+	left: 0;
+	opacity: 0.7;
+	z-index: 3;
+	text-indent: -9999px;
+	overflow: hidden;
+	text-decoration: none;
+	height: 50px;
+	width: 38px;
+	background: transparent url("../images/themes.png") no-repeat left top;
+	margin-top: -45px;
+}
+
+.portfolio_slider_nav:active, .stratosfera_nav:active {
+	opacity: 1.0;
+}
+
+.portfolio_slider_nav.next, .stratosfera_nav.next {
+	left: auto;
+	background-position: right top;
+	right: 0;
+}
+
+@media screen and (max-width: 600px) {
+	.portfolio_slider_nav, .stratosfera_nav {
+		top: 47%;
+	}
+}

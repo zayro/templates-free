@@ -1,0 +1,192 @@
+Can be open with Flash8+
+
+The content of this portfolio is completely and easily customizable and editable via XML files.
+Any text or image can be dynamically changed.
+You can add as many parts in the menu as you want. You can duplicate my parts to creat new ones or create your own ones.
+Logo sticks to the top left of the page, side bars stick on the sides. Content stays in the middle. Preloader sticks to to the top.
+Customized right-click menu.
+Audio Player included, read ID3 Tags, doesn't need XML, PHP does everything for you.
+Background can be a gradient or a FLV video.
+Enjoy the smooth sliding transitions in some parts :)
+Cleanly designed and coded.
+EVERY AS CODE IS COMMENTED AND EXPLAINED.
+
+This website is composed of 6 parts (you can add as many as you want) :
+- about us w/ external links
+- news w/ external links and a gallery for each news (can handle SWF so videos)
+- portoflio w/ external links and gallery for each project (can handle SWF so videos)
+- contact w/ a e-mail form
+- meet the team w/ external links to blogs and gallery for each teamate (can handle SWF so videos)
+- showreel w/ video player loading flv
+The menu is in the leftside bar, can handle as many parts as you want it and slides vertically if there are too many buttons.
+Dynamic additional contents are in the rightside bar with options and are vertically centered.
+You can add as many teamates, abouts, news and projects as you want.
+All these parts can be renamed as you want and all the content can be changed.
+Every image which is dynamically loaded can be replaced by a SWF file (yes, it can handle video).
+
+Fonts are free to download on Dafont.comS
+ome images are free to download on Morguefile.com (great free photos stock website)
+Tracks can be purchased on the page of Adrien (http://www.flashden.net/user/ADG3studios?ref=wildwise)
+HD background video can be purchased on the page of xdozex (http://www.flashden.net/user/xdozex?ref=wildwise).
+
+
+
+***************************
+OPTIONS
+***************************
+
+On the first lines of the first frame of "main.fla" are some "init vars" options you can modify easily to make this template fit to your exact needs.
+
+Side bars :
+- you can display or not the rightside bar (with additional content and options)
+- you can choose if the side bars slide with ease or appear
+- you can choose the side bars sliding speed
+Right Click menu :
+- you can change the URL of the right click menu credits
+- you can change the name of the right click menu credits
+MP3 player :
+- you can set the default volume level you want for the mp3 player
+- you can set the default buffertime you want for the mp3 player
+- you can choose to autoplay or not the mp3 player
+Text effect :
+- you can choose if you want the typewriter effect or not
+- you can choose the typewriter effect speed
+
+
+
+***************************
+Folders' structure
+***************************
+
+Folders must not be renamed or moved
+- img (contains all images of the site)
+- img/imgBig (contains big images/swf of teamates, news and projects / 266PX*176PX)
+- img/menu (contains the images/swf of the leftside bar menu / 250PX*90PX)
+- img/imgRef (contains images/swf of each project which will appear in the gallery / the size you want)
+- js (contains the js file to activate activx control)
+- mp3 (contains your mp3)
+All the flv files must be on the root (even if it's an extra file of a news/project/teamate) because that's the place where the flv player (ClearOverPlaySeekMute.swf) is.
+
+
+
+***************************
+Editable XML and PHP files
+***************************
+
+- myParts.xml :
+It handles the menu parts. Each part has a name, a swf file to load and an image for the rollover.
+
+- myShowreel.xml :
+It handles a title and a description of the showreel part.
+
+- myProjects.xml :
+It handles a title and a description of the projects part.
+
+- projects.xml :
+It handles all your projects. Each project has a date, a title, a link (not obligatory), an image, an extra (which is the array of the images you want to show in the gallery. Images' names have to be seperated by "*|*" and images have to be in the img/imgRef folder)
+and a CDATA html text.
+You can add as many projects as you want.
+
+- myNews.xml :
+It handles a title and a description of the news part.
+
+- news.xml :
+It handles all your news. Each news has a date, a title, a link (not obligatory), an extra, an image and a CDATA html text.
+You can add as many news as you want.
+
+- myAbout.xml :
+It handles a title and a description of the about us part.
+
+- about.xml :
+It handles all your abouts. Each about has a title, a link (not obligatory) and a CDATA html text.
+You can add as many abouts as you want.
+
+- myTeam.xml :
+It handles a title and a description of the meet the team part.
+
+- team.xml :
+It handles all your teamates. Each teamate has a title/name, a link to its blog (not obligatory), an extra, an image and a CDATA html text.
+You can add as many teamates as you want.
+
+- myRightBarContent.xml :
+It handles an CDATA html text where you can write what you want about your company or anything.
+
+- mp3List.php :
+This file lists all the ".mp3" files which are in the mp3 folder, orders them and sends them to flash.
+
+- send_mail.php :
+This file sends e-mails users will type in the contact form. Just edit your e-mail address in it and you will receive a formatted mail with user's informations and message.
+
+
+
+***************************
+FLVs
+***************************
+Don't change names and locations of showreel2007.flv and bgVideo.flv, unless you also change them in the FLA files (main.fla and reel.fla).
+
+WHERE IS this wonderfull watermarked background video from ?
+- you would like to get this great looped video for your own without the FD watermark, for a very cheap price huh ?
+Go to the Den of my friend xdozex, he has got some beautifull loops ! http://www.flashden.net/user/xdozex?ref=wildwise
+
+
+
+***************************
+MP3's
+***************************
+That's really simple to use and doesn't even need an XML file. Just need to prepare your MP3 files and ID3 tags.
+
+1. HOW TO prepare your MP3 files
+- Here is the way to name you MP3 files correctly :
+The 5 first characters of the name of the file are dedicated to order your MP3s in the playlist.
+Then arrives the name of your song.
+Finally, it ends with the extension ".mp3"
+For example: 00001mySong.mp3
+the 5 digits allows you to add till 99 999 songs. The MP3player will order the files in the playlist according to this number.
+The extension ".mp3" allows the PHP file to browse the directory, to pick all the ".mp3" files, then to send all file names to flash.
+
+- Here is the way to prepare your mp3's ID3 tags :
+They will appear in the scrolling text once a MP3 is loaded.
+Go to your favorite MP3player on your computer (mine is winamp). Open the files you'd like to put in your flash MP3player.
+Now you can edit ID3 tags by right-clicking your file name and click "view file info" (always in winamp huh ? I don't know how works the other players, but it should be the same).
+Fill the ID3 v1 and v2 fields, save, and that's it !
+The flash MP3player will load and display the title, the artist and the year of the song !
+If ID3 tags are not filled, the textfield will display the name of the mp3 without digits and extension ("mySong" in my example).
+
+2. HOW TO organize your MP3 files
+- Put your MP3s in the mp3 directory.
+
+3. WHAT ARE this MP3player features ?
+- REPEAT ALL
+- NO SHUFFLE
+- TYPING TEXT INFORMATIONS ABOUT SONG AND TIME
+- SLIDING VOLUME
+- PRELOAD STATUS BAR
+- PLAY, STOP, NEXT, PREVIOUS
+- ELAPSED TIME
+
+4. WHERE ARE these wonderfull watermarked MP3s from ?
+- you would like to get these great tracks for your own without the FD watermark, for a very cheap price huh ?
+Go to the Den of my friend Adrien (ADG3 Studios), he has got some bombing sounds ! http://www.flashden.net/user/ADG3studios?ref=wildwise
+
+
+
+***************************
+Fonts
+***************************
+Fonts used in this website are free and can be downloaded on www.dafont.com. They are called "grixel kyrou" and "bitdust one".
+
+
+
+***************************
+Credits
+***************************
+
+- Made by wildwise studio with Flash8, http://www.flashden.net/user/wildwise?ref=wildwise, thanks to 0h, http://www.00h00.net, for his help.
+- Thanks for buying my file(s).
+- I am available for support when a bug is reported. When this happens, usually, I send a fixed version to my buyers and the file is updated by the FlashDen Team.
+If you need to adapt any application to your needs, you need to have knowledge in Flash and ActionScript coding.
+I am only available to adapt an application to your needs based on its hourly rates.
+As described in my profile I am available for freelance work.
+
+Arnaud, wildwise studio
+contact@wildwisestudio.com

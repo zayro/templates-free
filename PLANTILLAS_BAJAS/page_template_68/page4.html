@@ -1,0 +1,187 @@
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<SCRIPT language=JavaScript1.2>
+
+//Browsercheck
+ie=document.all?1:0
+n=document.layers?1:0
+
+/*********************************************************************************
+These are the variables you have to set:
+*********************************************************************************/
+
+//The speed of the timeout between each scroll.
+timSpeed=50
+
+//The height of the container (change this when it scrolls to much or to little)
+contHeight=100
+
+/*********************************************************************************
+This is the object constructor function, which applies
+methods and properties to the crossbrowser layer object
+*********************************************************************************/
+function makeScrollObj(obj,nest){
+        nest=(!nest) ? '':'document.'+nest+'.'
+        this.css=(n) ? eval(nest+'document.'+obj):eval('document.all.'+obj+'.style')
+        this.scrollHeight=n?this.css.document.height:eval('document.all.'+obj+'.offsetHeight')
+        this.top=b_gettop
+        return this
+}
+//Getting the top for the top method
+function b_gettop(){
+        var gleft=(n) ? eval(this.css.top):eval(this.css.pixelTop);
+        return gleft;
+}
+//Variables
+var scrollTim;
+var active=0;
+/*********************************************************************************
+The scroll function. Checks what way to scroll and checks if the
+layer is not already on top or bottom.
+*********************************************************************************/
+function scroll(speed){
+        clearTimeout(scrollTim)
+        way=speed>0?1:0
+        if((!way && oScroll[active].top()>-oScroll[active].scrollHeight+contHeight) || (oScroll[active].top()<0 && way)){
+                oScroll[active].css.top=oScroll[active].top()+speed
+                scrollTim=setTimeout("scroll("+speed+")",timSpeed)
+        }
+}
+//Clears the timeout so the scroll stops, this is called onmouseout.
+function noScroll(){
+        clearTimeout(scrollTim)
+}
+
+/*********************************************************************************
+Initilizes the page, makes a oScroll Array and calls the object constructor.
+Here you can add as many scrollObjects as you want
+*********************************************************************************/
+function scrollInit(){
+        oScroll=new Array()
+        oScroll[0]=new        makeScrollObj('divScroll1','divCont')
+        oScroll[0].css.visibility='visible'
+}
+/*********************************************************************************
+Executes the scrollInit function on pageload.
+*********************************************************************************/
+onload=scrollInit;
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</SCRIPT>
+
+<STYLE>#divControl {
+	LEFT: 579px; WIDTH: 50px; POSITION: absolute; TOP: 18px}
+#divCont {
+	LEFT: 187px; WIDTH: 383px; CLIP: rect(0px 400px 205px 0px); POSITION: absolute; TOP: 18px; HEIGHT: 205px; align: center
+}
+.clScroll {
+	FONT-SIZE: 10px; LEFT: 0px; VISIBILITY: hidden; COLOR: #90aace; FONT-FAMILY: verdana, Arial; POSITION: absolute; TOP: 0px
+}
+A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+</STYLE>
+
+<META content="Microsoft FrontPage 4.0" name=GENERATOR></HEAD>
+<BODY text=#ffffff bgColor=#000033 leftMargin=0 topMargin=0 marginwidth="0">
+<DIV id=divControl>
+<P><A 
+onmouseover="up.src='images/up_over.gif';scroll(10);MM_displayStatusMsg('Up');return" 
+onfocus=if(this.blur)this.blur() onmouseout="up.src='images/up.gif';noScroll()" 
+href="javascript:void(0)" document.MM_returnValue><IMG height=12 
+src="images/up.gif" width=17 border=0 name=up></A><BR><A 
+onmouseover="down.src='images/down_over.gif';scroll(-10);MM_displayStatusMsg('Down');return" 
+onfocus=if(this.blur)this.blur() 
+onmouseout="down.src='images/down.gif';noScroll()" href="javascript:void(0)" 
+document.MM_returnValue><IMG height=12 src="images/down.gif" width=17 
+border=0 name=down></A></P></DIV>
+	<DIV id=divCont>
+	<DIV class=clScroll id=divScroll1> 
+	<P align=justify><font color="#00FF00">Welcome</font></P>
+	<P align=justify><font color="#00FF00">This template is providen by <a href="http://www.ok-webdesign.co.uk" target="_blank">O.K.Web Design</a> 
+	and supplied by <a href="http://www.WebDesignHelper.co.uk" target="_blank">WebDesignHelper.co.uk</a> 
+	You can use it, modify, do anything you like, but please leave a link to</font></P>
+	<P align=center><font color="#00FF00"><a href="http://www.ok-webdesign.co.uk" target="_blank">O.K.Web Design</a> and 
+	<a href="http://www.WebDesignHelper.co.uk" target="_blank">WebDesignHelper.co.uk</a></font></P>
+	<P align=justify><font color="#00FF00">Best Regards,<br>
+	<br>Webmaster @ O.K. Web Design<br>
+	templates@ok-webdesign.co.uk</font></P>
+	<P align=justify>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod 
+	tincidunt ut lacreet dolore magna aliguam erat volutpat. <br><br>
+	Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+	<br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna 
+	aliguam erat volutpat. <br><br></P>
+	<P align=justify>&nbsp;</P>
+	<P align=justify>The end! ;)</P>
+	</DIV>
+	</DIV>
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width=578 border=0>
+  <!--DWLayoutTable-->
+  <TBODY>
+    <TR> 
+      <TD width="64" rowSpan=2 vAlign=top><IMG height=1 src="images/spacer.gif" 
+      width=64 border=0> </TD>
+      <TD width=108 rowSpan=2 align=right vAlign=top><IMG height=16 
+      src="images/3dot.gif" width=3 border=0><BR> <IMG height=1 
+      src="images/spacer.gif" width=108 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR> <IMG height=18 
+      src="images/dots.gif" width=3 border=0><BR></TD>
+      <TD width=406 height="35" vAlign=top><IMG height=16 src="images/dot_4.gif" width=400 
+      border=0> </TD>
+    </TR>
+    <TR> 
+      <TD height="268">&nbsp;</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</BODY></HTML>

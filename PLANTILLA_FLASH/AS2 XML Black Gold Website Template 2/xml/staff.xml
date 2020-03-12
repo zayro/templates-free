@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" buttonMailIcon="true" buttonMailColor="0x626262" buttonMailRollOverColor="0xa06900" staffSlideButtonsIconColor="0xffffff" staffCloseDetailButtonIconColor="0xffffff" staffTextScrollButtonsIconColor="0xffffff" staffDetailLineAlpha="100" staffDetailLineColor="0x2b2c2e" thumbsPreloaderColor="0xffffff" thumbsBackGroundColor="0x000000" backGroundHeight="300" backGroundAlpha="100" backGroundColor="0x1a1b1d"/>
+	<items>
+		<item>
+			<unique_deep_link><![CDATA[John Poe]]></unique_deep_link>
+			<name><![CDATA[<b>John Poe</b>]]></name>
+			<role><![CDATA[Art director]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/01.jpg]]></photo>
+			<email button_label="Email"><![CDATA[john.poe@domain.com]]></email>
+		</item>	
+		<item>
+			<unique_deep_link><![CDATA[Smith Sanders]]></unique_deep_link>
+			<name><![CDATA[<b>Smith Sanders</b>]]></name>
+			<role><![CDATA[Flash <br>developer]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/02.jpg]]></photo>
+			<email button_label="Email"><![CDATA[smith.sanders@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Gill Renoir]]></unique_deep_link>
+			<name><![CDATA[<b>Gill Renoir</b>]]></name>
+			<role><![CDATA[Creative <br>director]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/03.jpg]]></photo>
+			<email button_label="Email"><![CDATA[gill.renoir@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Billy Bo]]></unique_deep_link>
+			<name><![CDATA[<b>Billy Bo</b>]]></name>
+			<role><![CDATA[Actionscript <br>developer]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/04.jpg]]></photo>
+			<email button_label="Email"><![CDATA[billy.bo@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Jaky Joe]]></unique_deep_link>
+			<name><![CDATA[<b>Jaky Joe</b>]]></name>
+			<role><![CDATA[Graphic <br>designer]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/05.jpg]]></photo>
+			<email button_label="Email"><![CDATA[jaky.joe@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Criss Dolly]]></unique_deep_link>
+			<name><![CDATA[<b>Criss Dolly</b>]]></name>
+			<role><![CDATA[Account <br>manager]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/06.jpg]]></photo>
+			<email button_label="Email"><![CDATA[criss.dolly@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Carl Brown]]></unique_deep_link>
+			<name><![CDATA[<b>Carl Brown</b>]]></name>
+			<role><![CDATA[Motion <br>grapher]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</font>]]></caption>
+			<bio><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>]]></bio>
+			<photo><![CDATA[images/staff_photos/07.jpg]]></photo>
+			<email button_label="Email"><![CDATA[carl.brown@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Mark Muller]]></unique_deep_link>
+			<name><![CDATA[<b>Mark Muller</b><br>Without thumb and biography]]></name>
+			<role><![CDATA[Web developer]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore.</font>]]></caption>
+			<bio><![CDATA[]]></bio>
+			<photo><![CDATA[]]></photo>
+			<email button_label="Email"><![CDATA[mark.muller@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Jessy Wunderbar]]></unique_deep_link>
+			<name><![CDATA[<b>Jessy Wunderbar</b><br>Without thumb and biography]]></name>
+			<role><![CDATA[Graphic designer]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore.</font>]]></caption>
+			<bio><![CDATA[]]></bio>
+			<photo><![CDATA[]]></photo>
+			<email button_label="Email"><![CDATA[jessy.wunderbar@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Tony Streamer]]></unique_deep_link>
+			<name><![CDATA[<b>Tony Streamer</b><br>Without thumb and biography]]></name>
+			<role><![CDATA[Account manager]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore.</font>]]></caption>
+			<bio><![CDATA[]]></bio>
+			<photo><![CDATA[]]></photo>
+			<email><![CDATA[tony.streamer@domain.com]]></email>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[Mike Sullivan]]></unique_deep_link>
+			<name><![CDATA[<b>Mike Sullivan</b><br>Without thumb and biography]]></name>
+			<role><![CDATA[Motiongrapher]]></role>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore.</font>]]></caption>
+			<bio><![CDATA[]]></bio>
+			<photo><![CDATA[]]></photo>
+			<email button_label="Email"><![CDATA[mike.sullivan@domain.com]]></email>
+		</item>
+	</items>
+</staff>

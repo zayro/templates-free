@@ -1,0 +1,22 @@
+<images>
+	<image path="slideShowImages/image1.jpg" title="Your Title 1" >
+		<description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</description>
+	</image>
+
+	<image path="slideShowImages/image2.jpg" title="Your Title 2" >
+		<description>When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</description>
+	</image>
+
+	<image path="slideShowImages/image3.jpg" title="Your Title 3" >
+		<description> Your image description here </description>
+	</image>
+	
+	<image path="slideShowImages/image4.jpg" title="Your Title 4" >
+		<description> Your image description here </description>
+	</image>
+	
+		<image path="slideShowImages/swf1.swf" title="Your Title 5" >
+		<description> Your image description here </description>
+	</image>
+	
+</images>

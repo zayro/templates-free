@@ -1,0 +1,12 @@
+a {
+  color: #FFFF00;
+}
+
+a:hover {
+	color: #33FFAA;
+	text-decoration: underline;
+}
+.green {
+	color: #CCFF00;
+	font-weight: bold;
+}

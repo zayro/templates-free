@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+	<item>
+		<unique_deep_link><![CDATA[Image 1]]></unique_deep_link>
+		<title><![CDATA[Image 1]]></title>
+		<text><![CDATA[Info: html text]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/01.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/01.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 2]]></unique_deep_link>
+		<title><![CDATA[Image 2]]></title>
+		<text><![CDATA[Info: html text<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/02.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/02.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 3]]></unique_deep_link>
+		<title><![CDATA[Image 3]]></title>
+		<text><![CDATA[Info: html text<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/03.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/03.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 4]]></unique_deep_link>
+		<title><![CDATA[Image 4]]></title>
+		<text><![CDATA[Info: html text]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/04.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/04.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 5]]></unique_deep_link>
+		<title><![CDATA[Image 5]]></title>
+		<text><![CDATA[Info: html text<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/05.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/05.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 6]]></unique_deep_link>
+		<title><![CDATA[Image 6]]></title>
+		<text><![CDATA[Info: html text<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/06.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/06.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+	<item>
+		<unique_deep_link><![CDATA[Image 7]]></unique_deep_link>
+		<title><![CDATA[Image 7]]></title>
+		<text><![CDATA[Info: html text]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_2/07.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_2/07.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+</gallery>

@@ -1,0 +1,5 @@
+<flash_project name="~24264" version="1">
+    <project_file path="./~24264.fla" filetype="fla" profile="" />
+    <project_file path="./.\gs\dataTransfer\XMLParser.as" filetype="as" />
+    <project_file path="./.\mx\utils\Delegate.as" filetype="as" />
+</flash_project>

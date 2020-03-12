@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+	<settings
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_clips_back_ground_color = "0xfaf6f7"
+		setting_caption_back_ground_color = "0xffffff"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xfaf6f7"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<items>
+		<item 
+			item_title = "ADVERTISE"
+			item_xml = "xml/gallery_home.xml"
+			item_thumb = "portfolio/thumbs/galleries/01.jpg"
+			item_caption = "Lorem ipsum dolor sit amet, consectetur adipisici elit sed eiusmod tempor ..."
+			item_slide_show_interval_duration = "5000"
+			item_slide_show_autostart = "true"
+		/>
+	</items>
+</portfolio>

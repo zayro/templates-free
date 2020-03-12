@@ -1,0 +1,6 @@
+﻿<slideshow wait="3" repeat="true"  show_time="true" interaction="true">
+<item wait="10" url="none" target="" object="text_html_image.swf" params="news4.xml"><![CDATA[<font color="$accent_color">06-May-2008</font> The idea is what matters the most<br>Slideshow running. Labels can be applied to slideshow items and to gallery items.]]></item>
+<item wait="10" url="none" target="" object="text_html_image.swf" params="news3.xml"><![CDATA[<font color="$accent_color">10-July-2008</font> Preliminary work<br>Slideshow running. Labels can be applied to slideshow items and to gallery items.]]></item>
+<item wait="10" url="none" target="" object="text_html_image.swf" params="news2.xml"><![CDATA[<font color="$accent_color">25-July-2008</font> Long and exhausting planning<br>Slideshow running. Labels can be applied to slideshow items and to gallery items.]]></item>
+<item wait="10" url="none" target="" object="text_html_image.swf" params="news1.xml"><![CDATA[<font color="$accent_color">07-August-2008</font> Release of the Color Accent XML website template<br>Slideshow running. Labels can be applied to slideshow items and to gallery items.]]></item>
+</slideshow>

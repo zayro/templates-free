@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<configuration>
+	
+	
+	<!-- thumb width -->
+	<THUMB_WIDTH>200</THUMB_WIDTH>
+	
+	<!-- thumb height -->
+	<THUMB_HEIGHT>150</THUMB_HEIGHT>	
+		
+     <!--  time slide [ms]  ( 1s=1000ms ) -->
+	<TIMESLIDE>1000</TIMESLIDE>   
+	
+	<!-- preloader image -->
+	<COLOR_PRELOADER_CURRENT>0XFFFFFF,100</COLOR_PRELOADER_CURRENT>
+    <COLOR_BCG_PRELOADER>0xFFFFFF,40</COLOR_BCG_PRELOADER>
+	
+	<!-- color button close descriptions -->
+	<COLOR_BUTTON_CLOSE_DESC>0xFFFFFF,100</COLOR_BUTTON_CLOSE_DESC>
+	
+	<!-- color background descriptions -->
+	<COLOR_BCG_DESC>0X313331,100</COLOR_BCG_DESC>
+	
+	<!-- color slide circle -->
+	<COLOR_SLIDE_CIRCLE>0xFFFFFF,70</COLOR_SLIDE_CIRCLE>
+	
+	<!-- color background big image -->
+	<COLOR_BCG_BIG_IMAGE>0X000000,80</COLOR_BCG_BIG_IMAGE>
+	
+	<!-- color background thumb -->
+	<COLOR_BCG_THUMB>0x000000,80</COLOR_BCG_THUMB>
+	
+	<!-- color background button -->
+	<COLOR_BACKGROUND_BUTTON>0X000000,42</COLOR_BACKGROUND_BUTTON>
+	
+	<!-- color symbol button -->
+	<COLOR_SYMBOL_BUTTON>0xFFFFFF,80</COLOR_SYMBOL_BUTTON>
+
+	<!-- URL_CONFIG_FLV -->
+	<URL_CONFIG_FLV>xml/configuration_flv_gallery.xml</URL_CONFIG_FLV>	
+	
+	<!-- time intro big image-->
+	<TIME_INTRO>1000</TIME_INTRO>
+	
+	<!-- time exit big image-->
+	<TIME_EXIT>100</TIME_EXIT>
+	
+	<!-- URL FOR_PLAYER_FLV -->
+	<URL_PLAYER_FLV>player_flv.swf</URL_PLAYER_FLV>
+	
+	<!-- color background player move ( full area ) -->
+	<COLOR_BCG_PLAYER>0Xff0000,100</COLOR_BCG_PLAYER>
+		
+	<!-- color over thumb -->
+	<COLOR_ROL>0x6D706D</COLOR_ROL>
+		
+	<!-- color out  thumb-->
+    <COLOR_OUT>0x404240</COLOR_OUT>
+	
+	<!-- rotate thumb onRollOver -->
+	<ROTATE_THUMB>true</ROTATE_THUMB>
+	
+	<!-- COLUMNS LENGTH ( if value empty its automatic columns length ) -->
+	<COLUMNS_LENGTH></COLUMNS_LENGTH>
+	
+	<!-- ROWS LENGTH   ( if value empty its automatic rows length )   -->
+	<ROWS_LENGTH></ROWS_LENGTH>
+		
+	<!-- POSITION NETWORK X nad Y  ( if value its empty ==> center align )-->
+	<POSITION_NETWORK_X></POSITION_NETWORK_X>
+	<POSITION_NETWORK_Y></POSITION_NETWORK_Y>
+	
+	<!-- POSITION X AND Y BIG IMAGE / VIDEO -->
+	<POSITION_IMAGE_X></POSITION_IMAGE_X>
+	<POSITION_IMAGE_Y></POSITION_IMAGE_Y>
+	
+	
+	<!-- MARGIN VERTICAL AND HORIZONTAL BIG IMAGE -->
+	<MARGIN_HORIZONTAL_BIG_IMAGE>150</MARGIN_HORIZONTAL_BIG_IMAGE>
+	<MARGIN_VERTICAL_BIG_IMAGE>280</MARGIN_VERTICAL_BIG_IMAGE>
+	
+	<!-- MARGIN VERTICAL AND HORIZONTAL THUMB -->
+	<MARGIN_HORIZONTAL_THUMB>200</MARGIN_HORIZONTAL_THUMB>
+	<MARGIN_VERTICAL_THUMB>200</MARGIN_VERTICAL_THUMB>
+	
+	
+	<!-- TITLE_COLOR_THUMB -->
+	<TITLE_COLOR_THUMB>0xFFFFFF</TITLE_COLOR_THUMB>
+	
+	<!-- SPACE X AND Y THUMB -->
+	<SPACE_X_THUMB>0</SPACE_X_THUMB>
+	<SPACE_Y_THUMB>0</SPACE_Y_THUMB>
+	
+	<!-- smoothing all image -->
+	<SMOOTHING>true</SMOOTHING>
+	
+
+</configuration>
+
+

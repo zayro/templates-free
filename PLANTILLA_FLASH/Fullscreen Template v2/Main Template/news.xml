@@ -1,0 +1,141 @@
+<!-- 
+----------------------------------------------------------------------------
+NEWS XML:
+----------------------------------------------------------------------------
+
+|||||||MAIN ATTRIBUTES||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+originalMenuTitleColor == Color of menu title when mouse is NOT over
+originalMenuDateColor == Color of menu date when mouse is NOT over
+currentMenuTitleColor == Color of menu title when mouse IS over
+currentMenuDateColor == Color of menu date when mouse IS over
+arrowOutColor == Color of menu arrows when mouse is NOT over
+arrowOverColor == Color of menu arrows when mouse IS over
+mainTitleColor == Color of the TITLE in the MAIN text
+menuSpacing == Spacing in pixels between menu items
+textHolderXStart == Transition start of main text
+textHolderXFinish == Transition end of main text
+mainTextWidth == The width of the main text
+scrollbarX == The X position of the scrollbar
+
+|||||||NEWS ATTRIBUTES||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+title == Title of the news
+date == Date of the news
+description == Main Title - Title viewed above the main text
+main == Main news text
+
+-----------------------------------------------------------------------
+-->
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<news originalMenuTitleColor = "0xCCCC33" 
+      originalMenuDateColor = "0x666666" 
+      currentMenuTitleColor = "0x00CCFF" 
+      currentMenuDateColor = "0xCCCCCC" 
+      arrowOutColor = "0x999999"
+      arrowOverColor = "0xCCCC33"
+      mainTitleColor = "0xCCCC33"
+      menuSpacing = "40"
+      textHolderXStart = "220"
+      textHolderXFinish = "240"
+	  mainTextWidth = "600"
+	  scrollbarX = "855">
+	  
+	<content>  
+		<title>+About The Text</title>
+		<date>January 1, 2009</date>
+		<description>About The Text</description>
+		<main><![CDATA[This text is read from an XML file called news.xml which is the same XML file which holds the rest of the data for the news.<br><br>The text is also within <font color="#00CCFF"> CDATA tags</font> meaning not only is it super easy to add text, but customizing it is as simple and advanced as HTML text - including adding <font color="#FF3366">  colors</font>, <font color="#CCCC33"><a "class"="link" href="http://www.flashden.net" target="_blank">links</a></font>, images, swf files, fonts, font sizes, etc... <br><br>Another feature that makes this news reader so advanced is the scrollbar feature. In the later news, there is a title called "Viewing Long Text" which shows that whenever there is more text than the mask can hold, a scrollbar appears that eases the text as it scrolls.<br><br><font color="#00CCFF">You can also use the UP and DOWN Keyboard arrows to navigate through menu!</font>]]></main>
+	</content>
+	<content>  
+		<title>+News With Images</title>
+		<date>January 2, 2009</date>
+		<description>News With Images</description>
+		<main><![CDATA[<img src="news_content/news1.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding Images is as easy as anything else with HTML. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+News With .Swf Files</title>
+		<date>January 3, 2009</date>
+		<description>news With .Swf Files</description>
+		<main><![CDATA[<img src="news_content/swfFile.swf" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding SWF Files is just as easy as adding images. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+Viewing Long Text</title>
+		<date>January 4, 2009</date>
+		<description>Viewing Long Text</description>
+		<main><![CDATA[<img src="news_content/news2.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.<br><br><img src="news_content/news3.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></main>
+	</content>
+	<content>  
+		<title>+About The Text</title>
+		<date>January 5, 2009</date>
+		<description>About The Text</description>
+		<main><![CDATA[This text is read from an XML file called news.xml which is the same XML file which holds the rest of the data for the news.<br><br>The text is also within <font color="#00CCFF"> CDATA tags</font> meaning not only is it super easy to add text, but customizing it is as simple and advanced as HTML text - including adding <font color="#FF3366">  colors</font>, <font color="#CCCC33"><a "class"="link" href="http://www.flashden.net" target="_blank">links</a></font>, images, swf files, fonts, font sizes, etc... <br><br>Another feature that makes this news reader so advanced is the scrollbar feature. In the later news, there is a title called "Viewing Long Text" which shows that whenever there is more text than the mask can hold, a scrollbar appears that eases the text as it scrolls.<br><br><font color="#00CCFF">You can also use the UP and DOWN Keyboard arrows to navigate through menu!</font>]]></main>
+	</content>
+	<content>  
+		<title>+News With Images</title>
+		<date>January 6, 2009</date>
+		<description>News With Images</description>
+		<main><![CDATA[<img src="news_content/news1.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding Images is as easy as anything else with HTML. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+News With .Swf Files</title>
+		<date>January 7, 2009</date>
+		<description>news With .Swf Files</description>
+		<main><![CDATA[<img src="news_content/swfFile.swf" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding SWF Files is just as easy as adding images. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+Viewing Long Text</title>
+		<date>January 8, 2009</date>
+		<description>Viewing Long Text</description>
+		<main><![CDATA[<img src="news_content/news2.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.<br><br><img src="news_content/news3.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></main>
+	</content>
+	<content>  
+		<title>+About The Text</title>
+		<date>January 9, 2009</date>
+		<description>About The Text</description>
+		<main><![CDATA[This text is read from an XML file called news.xml which is the same XML file which holds the rest of the data for the news.<br><br>The text is also within <font color="#00CCFF"> CDATA tags</font> meaning not only is it super easy to add text, but customizing it is as simple and advanced as HTML text - including adding <font color="#FF3366">  colors</font>, <font color="#CCCC33"><a "class"="link" href="http://www.flashden.net" target="_blank">links</a></font>, images, swf files, fonts, font sizes, etc... <br><br>Another feature that makes this news reader so advanced is the scrollbar feature. In the later news, there is a title called "Viewing Long Text" which shows that whenever there is more text than the mask can hold, a scrollbar appears that eases the text as it scrolls.<br><br><font color="#00CCFF">You can also use the UP and DOWN Keyboard arrows to navigate through menu!</font>]]></main>
+	</content>
+	<content>  
+		<title>+News With Images</title>
+		<date>January 10, 2009</date>
+		<description>News With Images</description>
+		<main><![CDATA[<img src="news_content/news1.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding Images is as easy as anything else with HTML. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+News With .Swf Files</title>
+		<date>January 11, 2009</date>
+		<description>news With .Swf Files</description>
+		<main><![CDATA[<img src="news_content/swfFile.swf" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding SWF Files is just as easy as adding images. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+Viewing Long Text</title>
+		<date>January 12, 2009</date>
+		<description>Viewing Long Text</description>
+		<main><![CDATA[<img src="news_content/news2.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.<br><br><img src="news_content/news3.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></main>
+	</content>
+	<content>  
+		<title>+About The Text</title>
+		<date>January 13, 2009</date>
+		<description>About The Text</description>
+		<main><![CDATA[This text is read from an XML file called news.xml which is the same XML file which holds the rest of the data for the news.<br><br>The text is also within <font color="#00CCFF"> CDATA tags</font> meaning not only is it super easy to add text, but customizing it is as simple and advanced as HTML text - including adding <font color="#FF3366">  colors</font>, <font color="#CCCC33"><a "class"="link" href="http://www.flashden.net" target="_blank">links</a></font>, images, swf files, fonts, font sizes, etc... <br><br>Another feature that makes this news reader so advanced is the scrollbar feature. In the later news, there is a title called "Viewing Long Text" which shows that whenever there is more text than the mask can hold, a scrollbar appears that eases the text as it scrolls.<br><br><font color="#00CCFF">You can also use the UP and DOWN Keyboard arrows to navigate through menu!</font>]]></main>
+	</content>
+	<content>  
+		<title>+News With Images</title>
+		<date>January 14, 2009</date>
+		<description>News With Images</description>
+		<main><![CDATA[<img src="news_content/news1.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding Images is as easy as anything else with HTML. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+News With .Swf Files</title>
+		<date>January 15, 2009</date>
+		<description>news With .Swf Files</description>
+		<main><![CDATA[<img src="news_content/swfFile.swf" align="right" width="200"><br><br><br><br><br><br><br><br><br>Adding SWF Files is just as easy as adding images. All you have to do is use the "img src=" tags, and you are set!]]></main>
+	</content>
+	<content>  
+		<title>+Viewing Long Text</title>
+		<date>January 16, 2009</date>
+		<description>Viewing Long Text</description>
+		<main><![CDATA[<img src="news_content/news2.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.<br><br><img src="news_content/news3.jpg" align="right" width="200"><br><br><br><br><br><br><br><br><br>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></main>
+	</content>
+</news>

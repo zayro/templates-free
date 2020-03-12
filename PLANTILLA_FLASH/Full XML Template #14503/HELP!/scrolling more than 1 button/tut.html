@@ -1,0 +1,35 @@
+
+<h1>Menu. Scrolling more that one button</h1>
+<p>In this one, I'm going to show you how to scroll more than 1 button when pressing the up/down buttons of the menu.</p>
+
+
+<h3>Introduction</h3>
+<p>Alright! There are 2 buttons that scroll the menu (<b>more_btn</b> and <b>less_btn</b>). Each of them scroll the menu with <b>31</b> pixels right now (because each menu item has that height). We need to change the amount of that. Come on! Let me show you how:</p>
+<div class="tutorial_image"><img src="1.jpg" border="0" /></div>
+
+
+<h3>Step 1</h3>
+<p>Let's open our <b>index.fla</b> file and let's open the AS pan. We are interested in these lines (<b>219</b>,<b>221</b>). As you can see, everytime we release the more_btn, our menu <b>container</b> goes up <b>31 pixels</b>. Also we have another variable, <b>n</b>, that counts how many times we pressed the up/down buttons. That variables helps us in stoping the menu when the maximum(last XML node) is reached.</p>
+<div class="tutorial_image"><img src="2.jpg" border="0" /></div>
+
+<h3>Step 2</h3>
+<p>And now the fun part! Let's say we want to move up with 6 buttons. All we gotta do is multiply by 6 all these variables. Let's make all the changes neccesary. The lines are: <b>219,221,240,242,317,319,337,339.</b></p><br>
+<h3>Lines 219, 221</h3>
+<p>contNewY -= 31; 	<b>becomes</b>	contNewY -= 186; (that's 31*6)</p><br>
+<p>n = n+1;			<b>becomes</b>	n = n+6; (that's 1*6)</p>
+<div class="tutorial_image"><img src="3.jpg" border="0" /></div>
+<br>
+<h3>Lines 240, 242</h3>
+<div class="tutorial_image"><img src="4.jpg" border="0" /></div>
+<br>
+<h3>Lines 317, 319</h3>
+<div class="tutorial_image"><img src="5.jpg" border="0" /></div>
+<br>
+<h3>Lines 337, 339</h3>
+<div class="tutorial_image"><img src="6.jpg" border="0" /></div>
+<br>
+<p>Now test your movie! :) Cool, ain't it?</p>
+
+
+<h3>Conclusion</h3>
+<p>So the process is simple. It's just about multiplying correct those variables. My code will do the rest of it. I chose to multiply by 6 because the default lenght of the menu is 6 buttons. I thought you may want to scroll all of it ;) That's all! Thanks for buying my stuff! Q</p>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<playlist>
+
+	<music> 
+		<title>01 - Imagine</title>
+		<url>audio/Imagine.mp3</url>
+	</music>
+	<music> 
+		<title>02 - Adore</title>
+		<url>audio/Adore.mp3</url>
+	</music>
+	<music> 
+		<title>03 - American_Dream</title>
+		<url>audio/American_Dream.mp3</url>
+	</music>
+<music> 
+		<title>04 - Cosmic</title>
+		<url>audio/Cosmic.mp3</url>
+	</music>
+
+<music> 
+		<title>05 - Sleepy Meadows of Buxton</title>
+		<url>audio/Sleepy_Meadows_Of_Buxton.mp3</url>
+	</music>
+
+<music> 
+		<title>06 - Weird Fishez</title>
+		<url>audio/Weird_Fishez.mp3</url>
+	</music>
+
+		
+</playlist>

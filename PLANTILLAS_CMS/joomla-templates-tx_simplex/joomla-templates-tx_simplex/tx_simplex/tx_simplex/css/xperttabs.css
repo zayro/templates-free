@@ -1,0 +1,25 @@
+@import "../../../modules/mod_xperttabs/assets/css/common.css";
+.txtabs-nav {
+  border-bottom: 2px solid #D0D0D0;
+  border-radius: 0 0 5px 5px;
+  background: #fff;
+  text-align: center;
+}
+.txtabs-nav li {
+  float: none;
+  display: inline-block;
+}
+.txtabs-nav li a {
+  padding: 0px 25px;
+  color: #8B8B8B;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 60px;
+}
+.txtabs-nav li.active a,
+.txtabs-nav li a:hover {
+  color: #222;
+}
+.txtabs-content {
+  padding: 30px 15px;
+}

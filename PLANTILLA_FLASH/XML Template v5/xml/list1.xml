@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<gallery url_config="xml/configuration_list.xml">
+
+
+
+	
+	
+<item picsmall="image_list/1_.jpg" redirect_to_menu_id="637">
+<intro><![CDATA[<body><head_newsy>Tom Smith (click back button in browser to come back here )</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+
+
+
+
+
+<item picsmall="image_list/2_.jpg" redirect_to_menu_id="638">
+<intro><![CDATA[<body><head_newsy>James Jane</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+	
+	
+	
+	
+	
+	
+<item picsmall="image_list/3_.jpg" redirect_to_menu_id="639">
+			
+		
+<intro><![CDATA[<body><head_newsy>Jane Smith</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+
+
+</item>
+	
+	
+	
+	
+<item picsmall="image_list/4_.jpg" redirect_to_menu_id="640">
+		
+<intro>
+<![CDATA[<body><head_newsy>John Smith</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci
+</body>]]>
+</intro>
+		
+</item>
+	
+		
+
+
+	
+<item picsmall="image_list/5_.jpg" redirect_to_menu_id="641">
+	
+<intro><![CDATA[<body><head_newsy>Jane Smith</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+		
+</item>
+	
+
+
+	
+
+		
+	
+	
+</gallery>

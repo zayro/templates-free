@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlObject>
+	<teamGroup>
+		<name>MANAGEMENT</name>
+			<member>
+				<name>Manager 1 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager1@gmail.com</email>
+				<web>www.manager1BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Manager 2 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager2@gmail.com</email>
+				<web>www.manager2BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Manager 3 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager3@gmail.com</email>
+				<web>www.manager3BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Manager 4 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager4@gmail.com</email>
+				<web>www.manager4BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Manager 5 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager5@gmail.com</email>
+				<web>www.manager5BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>		
+			</member>
+			<member>
+				<name>Manager 6 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager6@gmail.com</email>
+				<web>www.manager6BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Manager 7 name</name>
+				<title>Management Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>manager7@gmail.com</email>
+				<web>www.manager7BlogSite.com</web>
+				<thumbURL>./site_images/ericThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/ericFull.jpg</fullIMAGE>	
+			</member>
+	</teamGroup>
+	<teamGroup>
+		<name>DIRECTORS</name>
+			<member>
+				<name>Director 1 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director1@gmail.com</email>
+				<web>www.director1BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 2 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director2@gmail.com</email>
+				<web>www.director2BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 3 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director3@gmail.com</email>
+				<web>www.director3BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 4 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director4@gmail.com</email>
+				<web>www.director4BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 5 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director5@gmail.com</email>
+				<web>www.director5BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 6 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director6@gmail.com</email>
+				<web>www.director6BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Director 7 name</name>
+				<title>Director Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>director7@gmail.com</email>
+				<web>www.director7BlogSite.com</web>
+				<thumbURL>./site_images/janeThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/janeFull.jpg</fullIMAGE>	
+			</member>
+	</teamGroup>
+	<teamGroup>
+		<name>DEVELOPERS</name>
+			<member>
+				<name>Developer 1 name</name>
+				<title>Developer Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>developer1@gmail.com</email>
+				<web>www.developer1BlogSite.com</web>
+				<thumbURL>./site_images/rodneyThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/rodneyFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Developer 2 name</name>
+				<title>Developer Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>developer2@gmail.com</email>
+				<web>www.developer2BlogSite.com</web>
+				<thumbURL>./site_images/rodneyThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/rodneyFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Developer 3 name</name>
+				<title>Developer Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>developer3@gmail.com</email>
+				<web>www.developer3BlogSite.com</web>
+				<thumbURL>./site_images/rodneyThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/rodneyFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Developer 4 name</name>
+				<title>Developer Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>developer4@gmail.com</email>
+				<web>www.developer4BlogSite.com</web>
+				<thumbURL>./site_images/rodneyThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/rodneyFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Developer 5 name</name>
+				<title>Developer Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>developer5@gmail.com</email>
+				<web>www.developer5BlogSite.com</web>
+				<thumbURL>./site_images/rodneyThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/rodneyFull.jpg</fullIMAGE>	
+			</member>
+	</teamGroup>
+	<teamGroup>
+		<name>ARTISTS</name>
+			<member>
+				<name>Artist 1 name</name>
+				<title>Artist Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>artist1@gmail.com</email>
+				<web>www.artist1BlogSite.com</web>
+				<thumbURL>./site_images/michaelThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/michaelFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Artist 2 name</name>
+				<title>Artist Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>artist2@gmail.com</email>
+				<web>www.artist2BlogSite.com</web>
+				<thumbURL>./site_images/michaelThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/michaelFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Artist 3 name</name>
+				<title>Artist Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>artist3@gmail.com</email>
+				<web>www.artist3BlogSite.com</web>
+				<thumbURL>./site_images/michaelThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/michaelFull.jpg</fullIMAGE>		
+			</member>
+			<member>
+				<name>Artist 4 name</name>
+				<title>Artist Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>artist4@gmail.com</email>
+				<web>www.artist4BlogSite.com</web>
+				<thumbURL>./site_images/michaelThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/michaelFull.jpg</fullIMAGE>	
+			</member>
+			<member>
+				<name>Artist 5 name</name>
+				<title>Artist Title</title>
+				<bio>This is filler text all about the selected crew member and what he /she contributes to the team. He could be the CEO or the art-director, you are the one who will be painting this crew member’s web portrait. Jimmy could have his MBA from Harvard, or he could be an intense RIA developer, that is passionate about cutting-edge XML driven apps.</bio>
+				<phone>T 598.438.3333</phone>
+				<cell>C 598.438.5629</cell>
+				<email>artist5@gmail.com</email>
+				<web>www.artist5BlogSite.com</web>
+				<thumbURL>./site_images/michaelThumb.jpg</thumbURL>
+				<fullIMAGE>./site_images/michaelFull.jpg</fullIMAGE>	
+			</member>
+	</teamGroup>
+</xmlObject>

@@ -1,0 +1,222 @@
+body,
+body.home
+{
+  background-color:#674d2a;
+  color:#ffeacc;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:#e1c12c;
+  border-color:#e1c12c;
+}
+
+blockquote,
+q
+{
+  background-color:#8b6c43;
+}
+
+code,
+pre
+{
+  border-color:#e1c12c;
+}
+
+abbr,
+acronym
+{
+  border-color:#FFEACC;
+}
+
+input,
+div input.small,
+.widget input.search,
+textarea
+{
+  border-color:#3a270e;
+  background-color:#6b5334;
+  color:#FFFFFF;
+}
+
+th, td
+{
+  background:#5c4423;
+	border:1px solid #9c7849;
+	color:#f4d7ae;
+}
+
+td.alt,
+tr:nth-child(even) td
+{
+  background:#795628;
+}
+
+th
+{
+	background:#85602f;
+	color:#d5ac80;
+}
+
+a
+{
+  color:#ffa200;
+}
+
+a:hover
+{
+  color:#c07a00;
+}
+
+#menu ul li a
+{
+  color:#c07a00;
+}
+
+#menu ul li a:hover
+{
+  color:#FFFFFF;
+}
+
+#menu ul li.selected a
+{
+  color:#FFFFFF;
+}
+
+#menu ul ul li a,
+#menu ul li.selected ul li a
+{
+  color:#34230d;
+}
+
+#menu ul ul li a:hover,
+#menu ul li.selected ul li a:hover
+{
+  color:#000000;
+}
+
+.sidebar ul li a
+{
+  color:#ffa200;
+}
+
+.sidebar ul li a:hover
+{
+  color:#c07a00;
+}
+
+ul.post-list li img
+{
+  border-color:#e1c12c;
+}
+
+ul.post-list li
+{
+  border-color:#e1c12c;
+}
+
+.slider-gallery
+{
+  background-color:#6b5334;
+}
+
+.minipost .comments,
+.minipost .readmore,
+.button,
+.button-right,
+ul.pagination li a
+{
+  background-color:#9c8226;
+  border-bottom:4px solid #907321;
+}
+
+.minipost .comments:hover,
+.minipost .readmore:hover,
+.button:hover,
+.button-right:hover,
+ul.pagination li a:hover
+{
+  color:#FFFFFF;
+  background-color:#907321;
+}
+
+.button-red,
+.minipost .date
+{
+  background-color:#2b1b06;
+  border-bottom:4px solid #231605;
+}
+
+.button-red:hover
+{
+  background-color:#231605;
+}
+
+.box,
+.post,
+.minipost,
+.fullwidth,
+.full-page,
+.widget,
+ul.tabs-nav li.tabs-selected,
+.tabs-container,
+#footer
+{
+  background-color:#4d391e;
+}
+
+ul.pagination li a.selected,
+ul.pagination li a.selected:hover
+{
+  background-color:#4d391e;
+  color:#ffeacc;
+}
+
+
+ul.tabs-nav
+{
+  background-color:#3b2a14;
+}
+
+ul.tabs-nav li a
+{
+  color:#ffeacc;
+}
+
+ul.comments li .comment
+{
+  background-color:#7A5C34;
+}
+
+ul.comments li .reply
+{
+  color:#FFFFFF;
+}
+
+
+.alert-error,
+.alert-info,
+.alert-success
+{
+  color:#130c02;
+  border-color:#e1c12c;
+}
+
+.alert-error h2,
+.alert-info h2,
+.alert-success h2
+{
+  color:#3a270e;
+  border-color:#3a270e;
+}
+
+#footer,
+#footer a
+{
+  color:#ffeacc;
+}
+
+#footer a:hover
+{
+  color:#c07a00;
+}

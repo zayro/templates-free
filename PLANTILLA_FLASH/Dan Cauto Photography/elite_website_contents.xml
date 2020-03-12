@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xml>
+
+	
+	<mainmenu>
+		<title><![CDATA[GALLERIES]]></title>
+		<content>elite_xml_imagegallery.swf</content>
+	</mainmenu>
+         <mainmenu>
+		<title><![CDATA[PHOTO COMPETITION & VIDEO]]></title>
+		<content>elite_powerful_dynamic_xml_video_gallery.swf</content>
+	</mainmenu>
+         <mainmenu>
+<title><![CDATA[PRESS]]></title>
+		<content>elite_powerful_dynamic_xml_gallery.swf</content>
+	 </mainmenu>
+	 <mainmenu>
+		<title><![CDATA[MERCHANDISE]]></title>
+		<content>elite_xml_news.swf</content>
+	</mainmenu>
+<mainmenu>
+		<title><![CDATA[CONTACT]]></title>
+		<content>elite_contact_form.swf</content>
+	</mainmenu>
+<mainmenu>
+		<title><![CDATA[SUBSCRIBE/UNSUBSCRIBE]]></title>
+		<content>elite_subscribe_form.swf</content>
+	</mainmenu>
+      
+	
+	
+	
+</xml>

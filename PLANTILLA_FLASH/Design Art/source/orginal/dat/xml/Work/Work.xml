@@ -1,0 +1,99 @@
+<DynamicWeb>
+	<Sections>
+			
+		<Menu btnName="VIDEOS" f="Videos" h="VIDEOS" video="on">
+			<MidData>
+				<thumbtitle>Videos</thumbtitle>
+				<Image>dat/Images/Home/img2.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		<Menu btnName="VIDEOS2" f="Videos" h="VIDEOS2" video="on">
+			<MidData>
+				<thumbtitle>Videos2</thumbtitle>
+				<Image>dat/Images/Home/img2.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		<Menu btnName="WEB DESIGN" f="webdesing" h="WEB DESIGN">
+			<MidData>
+				<thumbtitle>Web Design</thumbtitle>
+				<Image>dat/Images/Home/img.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="3D GRAPHIX" f="webdesing" h="3D GRAHICS">
+			<MidData>
+				<thumbtitle>3D Graphix</thumbtitle>
+				<Image>dat/Images/Home/img2.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+
+		<Menu btnName="ILLUSTRATION" f="webdesing" h="ILLUSTRATION">
+			<MidData>
+				<thumbtitle>Illustration</thumbtitle>
+				<Image>dat/Images/Home/img3.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		<Menu btnName="PRINTMEDIA" f="webdesing" h="PRINTMEDIA">
+			<MidData>
+				<thumbtitle>Printmedia <font color="#FF0066">New</font></thumbtitle>
+				<Image>dat/Images/Home/img4.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		
+	<Menu btnName="MOTION GRAPHIX" f="webdesing" h="MOTION GRAPHIX">
+			<MidData>
+				<thumbtitle>Motion Graphix</thumbtitle>
+				<Image>dat/Images/Home/img5.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		<Menu btnName="CASE STUDY" f="Case study" h="CASE STUDY" p="95">
+			<MidData>
+				<thumbtitle>Case Study</thumbtitle>
+				<Image>dat/Images/Home/img6.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		<Menu btnName="DOWNLOADS" f="downloads" h="DOWNLOADS" p="95">
+			<MidData>
+				<thumbtitle>Downloads</thumbtitle>
+				<Image>dat/Images/Home/img3.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		
+		<Menu btnName="ALL PROJECTS" f="all" h="ALL PROJECTS" p="105">
+			<MidData>
+				<thumbtitle>All Projects</thumbtitle>
+				<Image>dat/Images/Home/img.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+
+		
+	</Sections>
+</DynamicWeb>

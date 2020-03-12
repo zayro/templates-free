@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<asset type="image" thumbnail="images/thumbnails/animals_1.jpg" large="images/animals_1.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_2.jpg" large="images/animals_2.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_3.jpg" large="images/animals_3.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_4.jpg" large="images/animals_4.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_5.jpg" large="images/animals_5.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_6.jpg" large="images/animals_6.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_7.jpg" large="images/animals_7.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_8.jpg" large="images/animals_8.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_9.jpg" large="images/animals_9.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_10.jpg" large="images/animals_10.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_11.jpg" large="images/animals_11.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_12.jpg" large="images/animals_12.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_13.jpg" large="images/animals_13.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/animals_14.jpg" large="images/animals_14.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+</gallery>

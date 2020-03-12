@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlObject>
+<features>
+
+<feature>
+<header><![CDATA[<h1>TEAM MEMBERS</h1>]]></header>
+<imageURL>site_images/ft_team.png</imageURL>
+<imageURL2>site_images/feature_team.png</imageURL2>
+<f1t><![CDATA[<h2>Multiple Categories</h2><h3>Setup as many or as few categories as you want. In this template I created a category for Management, Directors, Developers, and Artists. A submenu button will be created for each category you setup in the configuration file.</h3>
+<h2>Scroll Panel</h2><h3>The inclusion of a smooth scrolling thumbnail panel allows you to add as many or as few team members as you like.</h3>
+<h2>XML Driven</h2><h3>Text, Photos, Thumbnails, and Fullsized Images are all XML driven, so there is no need to recompile your .swf everytime you want to change a team members text or photo!</h3>
+]]>
+</f1t>
+</feature>
+
+<feature>
+<header><![CDATA[<h1>IMAGE GALLERY</h1>]]></header>
+<imageURL>site_images/ft_images.png</imageURL>
+<imageURL2>site_images/feature_images.jpg</imageURL2>
+<f1t><![CDATA[<h2>Multiple Galleries</h2><h3>Create as many galleries as you want. A subNav button will animate in for each gallery you create.</h3>
+<h2>Images Auto Resized</h2><h3>Images are <strong>automatically resized</strong> based on the user’s screen dimensions! Since photos are automatically resized, photo galleries look great at 1024x768 or 1920x1200</h3>
+<h2>Unlimited Photos per Gallery</h2><h3>Each Gallery has its own thumbnail panel, which allows you to load an unlimited number of photos per gallery.</h3>]]></f1t>
+</feature>
+	
+	
+<feature>
+<header><![CDATA[<h1>BG IMAGES</h1>]]></header>
+<imageURL>site_images/ft_bg.png</imageURL>
+<imageURL2>site_images/feature_bg.jpg</imageURL2>
+<f1t><![CDATA[<h2>Random BG Images</h2><h3>Every time a visitor hits your site, a different background image will be served up. How many is up to you!</h3>
+<h2>Visitors can select a different background image</h2><h3>Three buttons are located at the bottom right of the your screen, where your visitors can choose from 3 of your favorite bg images.</h3>
+<h2>Full Size Bg Images</h2><h3>You can use full size background images for your site or tiled images. All 3 of the bg images featured here are tiled images, and load lightning fast!</h3>
+]]></f1t>
+</feature>
+	
+
+<feature>
+<header><![CDATA[<h1>BLOG / NEWS</h1>]]></header>
+<imageURL>site_images/ft_blog.png</imageURL>
+<imageURL2>site_images/feature_blog.jpg</imageURL2>
+<f1t><![CDATA[<h2>Unlimited Number of News Pges</h2><h3>Every blog category you add will create a subnav button under the header.</h3>
+<h2>External CSS</h2><h3>I wanted to make it as easy to edit the font, font-color, hyperlink attriubtes, etc. So all text for your news pages can be edited via an external CSS file.</h3>
+<h2>External XML</h2><h3>Each News Page has its own XML file so you can edit images, text, hyperlinks, dates, and titles without opening flash.</h3>]]></f1t>
+</feature>
+
+
+<feature>
+<header><![CDATA[<h1>CONTACT</h1>]]></header>
+<imageURL>site_images/ft_contact.png</imageURL>
+<imageURL2>site_images/feature_contact.jpg</imageURL2>
+<f1t><![CDATA[<h2>Validation</h2><h3>Each field is validated to make sure your visitor has entered information in all three fields before the email is sent.</h3>
+<h2>PHP enabled</h2><h3>This contact form uses a super simple PHP script to shoot an email to you once a user has filled out the form.</h3>
+<h2>Email link</h2><h3>A link for your email address is provided under the details section if the user prefers to just send you an email from there default email application.</h3>]]></f1t>
+</feature>
+
+
+<feature>
+<header><![CDATA[<h1>MP3 PLAYER</h1>]]></header>
+<imageURL>site_images/ft_mp3.png</imageURL>
+<imageURL2>site_images/feature_mp3.jpg</imageURL2>
+<f1t><![CDATA[<h2>Footer Controls</h2><h3>Audio Controls are located on top of the footer so that they are unobtrusive and not wasting content space!</h3>
+<h2>Playlist and Visual Background Buttons</h2><h3>The playlist button drops down the full version MP3 player, and the visualization button toggles a neat background audio visualization.</h3>
+<h2>Unlimited Playlist</h2><h3>XML driven Playlist allows for an infinite number of tracks</h3>]]></f1t>
+</feature>
+
+<feature>
+<header><![CDATA[<h1>VIDEO GALLERY</h1>]]></header>
+<imageURL>site_images/ft_video.png</imageURL>
+<imageURL2>site_images/feature_video.jpg</imageURL2>
+<f1t><![CDATA[<h2>Unlimited Videos</h2><h3>Each Video Album features a vertical scroll panel. So you can load as many videos per gallery as you like.</h3>
+<h2>Controlled via XML</h2><h3>Change your video thumbnails and videos from an external XML file.  No need to recompile or even open flash to do this!</h3>
+<h2>Feature Rich</h2><h3>Play | Pause | Rewind | FullScreen | SeekBar | VolumeBar | Ellapsed Time | Total Time</h3>
+]]></f1t>
+</feature>
+
+</features>
+</xmlObject>

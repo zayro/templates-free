@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+<!--
+// This is only the CSS for the no script warning to turn on JS.
+// Except for the body one, it is what makes there no margins so
+// the flash is full screen. Otherwise there would be edges. To
+// bring back the margins, just delete or comment the code.
+-->
+
+<!--
+
+.text 
+{
+	color: #009999;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+	
+body {margin: 0;}
+
+-->

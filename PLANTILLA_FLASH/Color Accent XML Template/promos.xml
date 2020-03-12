@@ -1,0 +1,6 @@
+<promos window_width="300" window_height="70">
+<promo command="change_object" attribut1="text_html_image.swf" attribut2="news1.xml"><![CDATA[<font color="$accent_color">07-August-2008</font> Release of the Color Accent XML website template]]></promo>
+<promo command="change_object" attribut1="text_html_image.swf" attribut2="news2.xml"><![CDATA[<font color="$accent_color">25-July-2008</font> Long and exhausting planning]]></promo>
+<promo command="change_object" attribut1="text_html_image.swf" attribut2="news3.xml"><![CDATA[<font color="$accent_color">10-July-2008</font> Preliminary work]]></promo>
+<promo command="change_object" attribut1="text_html_image.swf" attribut2="news4.xml"><![CDATA[<font color="$accent_color">06-May-2008</font> The idea is what matters the most]]></promo>
+</promos>

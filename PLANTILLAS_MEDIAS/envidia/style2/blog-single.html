@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Envidia &raquo; HTML + CSS</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+  <link rel="stylesheet" type="text/css" href="./reset.css" />
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <link rel="stylesheet" type="text/css" href="./color.css" />
+  
+  <script type="text/javascript" src="./javascripts/jquery.min.js"></script>
+  
+  <!-- For Cufon -->
+  <script type="text/javascript" src="./javascripts/cufon/cufon-yui.js"></script>
+  <script type="text/javascript" src="./javascripts/cufon/qlassik_medium_500.font.js"></script>
+  <!-- End Cufon -->
+
+
+  <!-- For Slider -->
+  <script type="text/javascript" src="./javascripts/customslider/jquery.customslider.js"></script>
+  <!-- End Slider -->
+
+
+  <!-- For Tabs -->
+  <script type="text/javascript" src="./javascripts/tabs/jquery.tabs.pack.js"></script>
+  <!-- End Tabs -->
+  
+ 
+  <!-- For Lightbox -->
+  <script type="text/javascript" src="./javascripts/lightbox/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="./javascripts/lightbox/sexylightbox.v2.4.jquery.js"></script>
+  <link rel="stylesheet" href="./javascripts/lightbox/sexylightbox.css" type="text/css" media="all" />
+  <script type="text/javascript">
+    $(document).ready(function(){
+      SexyLightbox.initialize({
+        color : 'white',
+        find  : 'lightbox',
+        dir   : 'javascripts/lightbox/sexyimages' // THIS IS IMPORTANT
+      });
+    });
+  </script>
+  <!-- End Lightbox -->
+
+
+  <!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="http://www.aerowebstudio.net/themes/html-envidia/style2/iehack.css" />
+  <script type="text/javascript">
+    var ie6config = { shim: 'images/blank.gif' };
+  </script>
+  <script type="text/javascript" src="http://www.aerowebstudio.net/themes/html-envidia/style2/javascripts/pngfix.js"></script>
+  <![endif]-->
+
+
+  <!-- Init JS Theme -->
+  <script type="text/javascript" src="./javascripts/theme.js"></script>
+  <!-- End Theme -->
+  
+<meta charset="UTF-8"></head>
+
+<body>
+
+  <div id="wrapper">
+    
+
+
+    <div id="header">
+        
+        <div id="logo">
+          <a href="./index.html"><img src="./images/logo.png" alt=""/></a>
+        </div>
+        
+        <div id="menu">
+          <ul>
+            <li><a href="./contact.html">Contact</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./portfolio.html">Portfolio</a></li>
+            <li><a href="./services.html">Services</a></li>
+            <li class="selected"><a href="./blog.html">Blog</a></li>
+            <li><a href="#">Features</a>
+              <ul>
+                <li><a href="./index-alternative.html">Home / alternative</a></li>
+                <li><a href="./blog-archive.html">Blog / archive</a></li>
+                <li><a href="./blog-single.html">Blog / single post</a></li>
+                <li><a href="./portfolio-single.html">Portfolio / single</a></li>
+                <li><a href="./css-styles.html">CSS styles</a></li>
+                <li><a href="./layout-options.html">Content Layout options</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Skins</a>
+              <ul>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style1/index.html">Skin 1</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style1/index.html"><img src="./assets/preview-skin1.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="./index.html">Skin 2</a>
+                  <ul><li><a href="./index.html"><img src="./assets/preview-skin2.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style3/index.html">Skin 3</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style3/index.html"><img src="./assets/preview-skin3.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style4/index.html">Skin 4</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style4/index.html"><img src="./assets/preview-skin4.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style5/index.html">Skin 5</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style5/index.html"><img src="./assets/preview-skin5.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style6/index.html">Skin 6</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style6/index.html"><img src="./assets/preview-skin6.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="http://www.aerowebstudio.net/themes/html-envidia/style7/index.html">Skin 7</a>
+                  <ul><li><a href="http://www.aerowebstudio.net/themes/html-envidia/style7/index.html"><img src="./assets/preview-skin7.jpg" alt=""/></a></li></ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="./index.html">Home</a></li>
+          </ul>
+        </div><!--/menu-->
+    
+    </div><!--/header-->
+    
+    
+    
+    
+    
+    <div class="page-title">
+      <h1>Latest news</h1>
+    </div>
+  
+  
+  
+  
+
+
+
+
+
+
+    <div class="sidebar">
+
+        <div class="widget">
+            <h2>Categories</h2>
+            <ul>
+              <li><a href="./blog-archive.html">Latest News</a></li>
+              <li><a href="./blog-archive.html">Wordpress</a></li>
+              <li><a href="./blog-archive.html">ThemeForest</a></li>
+              <li><a href="./blog-archive.html">Nettuts</a></li>
+              <li><a href="./blog-archive.html">Miscellaneous</a></li>
+            </ul>
+        </div><!--/widget-->
+
+        <div class="widget">
+            <h2>Search</h2>
+            <form action="#" method="post">
+              <p><input type="text" class="search" name="s" value="START SEARCHING..." onclick="this.value=''" /></p>
+            </form>
+        </div><!--/widget-->
+
+        <div class="widget">
+            <h2>Social Networking</h2>
+            <p><a href="#"><img src="./images/twitter_32.png" alt=""/></a> <a href="#"><img src="./images/rss_32.png" alt=""/></a> </p>
+        </div><!--/widget-->
+
+        <div class="widget">
+            <h2>Sponsors</h2>
+            <p class="center">
+              <a href="http://graphicriver.net/?ref=aeroalquimia"><img src="./assets/gr_180x100_v4.gif" alt=""/></a>
+            </p>
+            <p class="center">
+              <a href="http://themeforest.net/?ref=aeroalquimia"><img src="./assets/tf_180x100_v2.gif" alt=""/></a>
+            </p>
+        </div><!--/widget-->
+    </div>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    <div class="post">
+      <div class="date"><span>30</span> dic</div>
+      <div class="comments"><a href="./blog-single.html#comments">25</a></div>
+    
+      <h1>h1 Donec nec justo eget felis</h1>
+      <p><img src="./assets/post1.jpg" alt=""/></p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a orci nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec scelerisque dictum turpis accumsan adipiscing. </p>
+      
+      <h2>h2 Excepturi sint occaecati lobortis</h2>
+      <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis top praesentium <em>"voluptatum"</em> delen atque corrupti quos dolores et quas molestias <strong>excepturi</strong> sint occaecati cupiditate non provident, <a href="#">similique sunt culpa</a> tofficia deserunt mollitia animi, id est laborum et are dolorum fuga. Et harum quidem rerum est et expedita in distinctmolest excepturi sint occaecati lobortis for Cras <abbr title="Et harum quidem">facilis</abbr> lobortis mauris vel diam malesuada mattis aliquam urna imperdiet. Nullam tempor velit sit amet libero are aretra dignissim. Suspendisse suscipit, dui et mattis fringilla erat dolor Class aptent taciti sociosqu ad litora torquent per conubiaa, per inceptos himenaeos. </p>
+      
+      <ul>
+        <li>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis top praesentium voluptatum delen atque corrupti quos dolores et quas molestias.</li>
+        <li>Excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia deserunt mollitia animi.</li>
+        <li>Id est laborum et are dolorum fuga.</li>
+        <li>Et harum quidem rerum facilis est et expedita in distinctmolest excepturi sint occaecati lobortis for Cras lobortis mauris vel diam.</li>
+        <li>Malesuada mattis aliquam urna imperdiet. Nullam tempor velit sit amet libero are aretra dignissim.</li>
+      </ul>
+      
+      <blockquote>
+        <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      </blockquote>
+      
+<pre>
+body
+{
+  background:#dedede url(images/background.jpg) repeat-x center top;
+  font-family:Verdana, Arial;
+  font-size:11px;
+  line-height:16px;
+  color:#000000;
+}
+</pre>
+      
+      <p><img src="./assets/postimage1.jpg" alt="" class="left"/> Aenean a risus neque. Fusce non eros leo, ut suscipit neque. Nullam rhoncus semper rutrum. Donec id ultricies lorem. Nulla facilisi. Etiam eu est sed sem eleifend eleifend. Nam pretium consequat odio. Morbi et risus quis dui porttitor mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vitae faucibus neque. Nunc metus enim, lacinia commodo laoreet eu, mattis et justo. Praesent venenatis, ante nec interdum luctus, neque turpis rhoncus neque, ac ultrices tellus nibh a augue. Nulla facilisi. Suspendisse potenti. Nunc ligula purus, pellentesque id scelerisque ut, condimentum eu sem. Mauris ut tortor massa, vitae mattis turpis. Quisque nec eros libero. Integer vitae risus risus, a molestie quam. Nunc a leo tortor, quis faucibus sem. </p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a orci nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec scelerisque dictum turpis accumsan adipiscing. </p>
+      <h3>h3 Excepturi sint occaecati lobortis</h3>
+      <p><img src="./assets/postimage3.jpg" alt="" class="right"/> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a orci nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec scelerisque dictum turpis accumsan adipiscing. </p>
+      <p>Nunc luctus, sapien in dignissim pretium, turpis lectus rutrum elit, at blandit dui nisi eu odio. In porta facilisis libero, in mollis mi vulputate ut. Proin sed lectus at mauris porta auctor fringilla vehicula erat. Vivamus convallis rutrum est sed aliquam. Etiam tristique aliquet egestas. Mauris ultricies feugiat massa, sed semper velit pretium malesuada. Duis arcu magna, sagittis blandit tristique a, luctus sit amet quam. Maecenas in risus urna. Aenean placerat tempor massa et egestas. Nulla ut tortor ac sem consectetur fringilla eu facilisis nisi. </p>
+      <p><a href="#" class="button-red">Button</a> <a href="#" class="button">Button</a></p>
+      
+    </div><!--/post-->
+    
+    
+
+
+
+
+
+
+
+
+    <div class="post" id="comments">
+      <div class="icon-comments"></div>
+      <h2>25 Comments for "Donec nec justo eget felis"</h2>
+      
+      <ul class="comments">
+        
+        <li id="comment-0001">
+          <div class="meta">
+            <p>02/02/2010</p>
+            <p>01:23 am</p>
+          </div>
+        
+          <div class="author">
+            <img src="./images/avatar_comment.gif" alt="" class="avatar"/>
+            <span>Visitor</span>
+
+            <a href="#" class="reply">Reply</a>
+          </div>
+          <div class="comment">
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer laoreet aliquet augue ac ultrices. Nam nisi eros, molestie ut convallis nec, fringilla pharetra nibh.</p>
+            <p>Praesent nulla neque, luctus non sollicitudin nec, mattis eget dui. Aenean congue diam venenatis risus convallis pharetra.</p>
+          </div>
+        </li>
+
+        <li id="comment-0002">
+          <div class="meta">
+            <p>11/02/2010</p>
+            <p>03:45 pm</p>
+            <p><a href="#">http://www.yahoo.com</a></p>
+          </div>
+        
+          <div class="author">
+            <img src="./images/avatar_comment.gif" alt="" class="avatar"/>
+            <span>Arnaldo Esteban Raymundo Lopez</span>
+
+            <a href="#" class="reply">Reply</a>
+          </div>
+          <div class="comment">
+            <p>Nice theme!</p>
+          </div>
+        </li>
+        <li class="children" id="comment-0003">
+          <div class="meta">
+            <p>13/02/2010</p>
+            <p>22:29 pm</p>
+            <p><a href="#">http://www.themefores.com</a></p>
+          </div>
+        
+          <div class="author">
+            <img src="./assets/me_avatar_comment.jpg" alt="" class="avatar"/>
+            <span>Eduardo Sada</span>
+
+            <a href="#" class="reply">Reply</a>
+          </div>
+          <div class="comment">
+            <blockquote><p>Nice theme!</p></blockquote>
+            <p>Thanks!</p>
+          </div>
+        </li>
+      
+      
+      </ul>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+    <div class="post" id="respond">
+      <div class="icon-response"></div>
+      <h2>Leave your comment:</h2>
+      <form action="#" method="post">
+        <fieldset>
+          <label>Name (required):
+          <input type="text" name="name" /></label>
+          
+          <label>E-mail (Won't be published) (required):
+          <input type="text" name="email" /></label>
+          
+          <label>Website:
+          <input type="text" name="web" /></label>
+
+          <label>Your Message:
+          <textarea name="comments" rows="6" cols="60"></textarea></label>
+
+          <input type="submit" class="button" value="Send"/>
+        </fieldset>
+      </form>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div class="fullwidth">
+      <div class="threecolumns">
+        <h2>About</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+        <p><a href="#">www.yourwebsitename.com</a></p>
+      </div>
+      <div class="threecolumns">
+        <h2>Contact</h2>
+        <p>Contact us: <a href="#">hello@yourprovidername.com</a></p>
+        <p><a href="#"><img src="./images/facebook_32.png" alt=""/></a> <a href="#"><img src="./images/twitter_32.png" alt=""/></a> <a href="#"><img src="./images/delicious_32.png" alt=""/></a> <a href="#"><img src="./images/digg_32.png" alt=""/></a> <a href="#"><img src="./images/flickr_32.png" alt=""/></a> <a href="#"><img src="./images/rss_32.png" alt=""/></a> </p>
+      </div>
+      <div class="threecolumns">
+        <h2>Updates</h2>
+        <form action="#" method="post">
+          <p>Our newsletter is awesome. Subscribe and get the latest updates.</p>
+          <p><input type="text" class="small" name="email" value="ENTER YOUR EMAIL" onclick="this.value=''" /></p>
+          <p><input type="submit" class="button-right" value="Subscribe"/></p>
+        </form>
+      </div>
+    </div><!--/fullwidth-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <div id="footer">
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./blog.html">Blog</a></li>
+        <li><a href="./services.html">Services</a></li>
+        <li><a href="./portfolio.html">Portfolio</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+      <p>Copyright (C) 2010 Eduardo Daniel Sada. Remove after purchase.</p>
+    </div>
+    
+    
+  </div><!--/wrapper-->
+
+  <script type="text/javascript">Cufon.now();</script>
+
+</body>
+</html>

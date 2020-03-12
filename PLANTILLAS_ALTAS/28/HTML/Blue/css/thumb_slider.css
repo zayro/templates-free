@@ -1,0 +1,277 @@
+/*-------------------------------------
+	THUMB SLIDER
+-------------------------------------*/
+
+.sliderbox2 {
+	z-index:1;
+	position:relative;
+	height: 320px;
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	margin-top: 30px;
+}
+
+.lof_featured {
+	position:absolute;
+	top:0;
+	right:0;
+	z-index:9999;
+	width:68px;
+	height:68px;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.lof-slidecontent{
+	position:relative;
+	overflow:hidden;
+	width: 940px;
+	height:320px;
+}
+.lof-slidecontent .preload{
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:100000;
+	text-align:center
+}
+.lof-slidecontent .preload div{
+	height:100%;
+	width:100%;
+}
+
+.lof-main-outer{
+	position:relative;
+	height:100%;
+	width:690px;
+	z-index:3;
+	overflow:hidden;
+}
+
+.lof-main-item-desc{
+	z-index:100;
+}
+
+.lof-main-date {
+	font-size:18px;
+	position:absolute;
+	top:170px;
+	right:0;
+	text-align:right;
+	display:block;
+	padding:10px 15px;
+}
+
+.lof-main-title {
+	cursor:pointer;
+	display:block;
+	font-size:24px;
+	position:absolute;
+	width:680px;
+	top:256px;
+	right:0;
+	text-align:right;
+	display:block;
+	padding:8px 55px;
+	background-repeat: no-repeat;
+	background-position: right top;
+	text-decoration:none;
+}
+
+.lof-main-title:hover {
+	cursor:pointer;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+ul.lof-main-wapper{
+	overflow:hidden;
+	padding:0px;
+	margin:0;
+	height:340px;
+	width:980px;
+	position:absolute;
+	overflow:hidden;
+}
+
+ul.lof-main-wapper li{
+	overflow:hidden;
+	padding:0px;
+	margin:0px;
+	margin-top: 1px;
+	height:100%;
+	width:710px;
+	float:left;
+}
+.lof-opacity  li{
+	position:absolute;
+	top:0;
+	left:0;
+	float:inherit;
+}
+
+/* item navigator */
+
+ul.lof-navigator{
+	top:0;
+	padding:0;
+	margin:0;
+	position:absolute;
+	width:100%;
+}
+ul.lof-navigator li{
+	cursor:hand; 
+	cursor:pointer;
+	list-style:none;
+	width:100%;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+.lof-navigator-outer{
+	position:absolute;
+	right:0;
+	top:0;
+	z-index:100;
+	height:340px;
+	width:275px;
+	overflow:hidden;
+}
+
+ul.lof-navigator li.active{
+	background-attachment: scroll;
+}
+
+ul.lof-navigator li div{
+	position:relative;
+	width:275px;
+	height:100%;
+	position:relative;
+	padding-left:15px;
+}
+
+ul.lof-navigator li.active div{
+	position:relative;
+	padding-left:15px;
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+.lof-navigator li img{
+	height:65px;
+	width:110px;
+	margin:12px 15px 0 0px;
+	float:left;
+}
+
+.lof-navigator .lof-categ {
+	position:absolute;
+	top:15px;
+	left:105px;
+	padding-left:17px;
+	display:block;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+.lof-navigator .lof-comm {
+	font-size:10px;
+	width:21px;
+	height:19px;
+	position:absolute;
+	top:15px;
+	left:260px;
+	display:block;
+	text-align:center;
+	padding:2px 2px 0 0;
+	background-repeat: no-repeat;
+	background-position: left center;	
+	}
+	
+.lof-navigator p {
+	width:135px;
+	padding:0px;
+	margin:0px;
+	font-size:11px;
+	position:absolute;
+	line-height:15px;	
+	top:15px;
+	left:145px;
+	display:block;
+	}
+
+.lof-snleft  .lof-main-outer{
+	float:right;
+	}
+	
+
+.lof-snleft .lof-navigator-outer{
+	left:0;
+	top:0;
+	right:inherit;
+	}
+	
+ul.lof-main-wapper li {
+	position:relative;	
+	}
+	
+	
+.lof-snleft .lof-navigator li div{
+	margin-left:inherit;
+	margin-right:18px;
+	}
+	
+.lof-snleft .lof-navigator li.active div{
+	margin-left:inherit;
+	margin-right:18px;
+	}
+
+/* -- Item navigator -- */
+
+.lof-navigator-outer{
+	color:#FFF
+}
+
+ul.lof-navigator li div{
+	background-color:#c6c6c6;
+	color:#FFF;
+	border-top:1px solid #e6e6e6;
+}
+
+ul.lof-navigator li.active div{
+	border-top: 1px solid #e6e6e6;
+	background-color:#1c1c1c;
+	color:#FFF;
+	background-image: url(../images/lof_activebg.gif);
+}
+
+.lof-navigator li img{
+	border:#dedede solid 4px;
+}
+.lof-navigator li.active img{
+	border:#bcbcbc solid 4px;
+}
+
+.lof-navigator .lof-categ {
+	color:#999999;
+	background-image: url(../images/sl2_categicon.gif);
+}
+
+.lof-navigator .lof-comm {
+	color:#141414;
+	background-image: url(../images/slider_com_icon2.gif);
+	}
+	
+.lof-navigator p {
+	color:#666666;
+}
+
+.lof-snleft .lof-navigator .active{
+	background:url(../images/arrow-bg.png) center right no-repeat;
+}
+
+.lof-snleft .lof-navigator li.active div{
+	background-color:#dedede;
+}

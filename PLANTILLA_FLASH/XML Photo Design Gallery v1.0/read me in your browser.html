@@ -1,0 +1,123 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>XML Gallery 1.0 Read Me file</title>
+
+<style>
+
+	.header
+	{
+		padding-top:50px;
+		font-size:25px;
+		color:#666666;
+		font-weight:bold;
+		padding-left:10px;
+		
+		font-family:Arial, Helvetica, sans-serif;
+	}
+	
+	className
+	{
+		color:#000000;
+		
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:15px;
+		font-weight:bold;
+	}
+	
+	.section
+	{
+		padding-top:40px;
+		font-size:16px;
+		font-weight:bold;
+		
+		font-family:Arial, Helvetica, sans-serif;
+		color:#996666;
+		padding-left:40px;
+	}
+	
+	.text
+	{
+		padding-top:10px;
+		font-size:14px;
+		color:#333333;
+		font-family:Arial, Helvetica, sans-serif;
+		padding-left:50px;
+	}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="header">Introduction</div>
+
+<div class="section">What is this template?</div>
+	
+	<div class="text">This template is Flash 9 based XML driven web site, with the main intention to be an interactive gallery of images.</div>
+	
+	<div class="text">The customization of this web site is handled completely by editing an XML file named galleries.xml that sits right alongside where you found this documentation file.</div>
+
+	<div class="text">You can (and for most people, should) edit and completely customize this website without ever opening it in Flash, you don't even need to own Flash. Just edit the XML! </div>
+
+    <div class="section">An XML Overview</div>
+
+	<div class="text">For the un-initiated, I want to cover the basics of XML. XML is not like like HTML in the sense that every tag has no predefined meaning. If I make a tag &lt;strong/&gt; it does not necessarily mean that it will be bold like in HTML. In XML, all it does is hold data in a way that it can be easily accessed by a program. This flash program reads the XML and interprets the data it needs to make the program run, which is perfect for templates, because I can make it generic and you can just fill in the XML. That's the idea behind XML driven templates!</div>
+	
+	<div class="text">XML has tags just like HTML, and the important things you need to know is that each tag can hold data in two main ways: sub-nodes and attributes. In the example &lt;image icon="images/image1.jpg" full="images/image2.jpg"/&gt; there is no sub-nodes, and it is just using attributes to hold its data. The attributes are icon and full, the values are always enclosed in quotes, and in the case of my template, that is a tag for defining an image, and the paths to its icon view and full size view. The example &lt;node&gt;&lt;subnode/&gt;&lt;/node&gt; is how nodes nest within each other. For more in depth examples of how to work with XML go <a href="http://www.w3schools.com/xml/default.asp" target="_blank">here</a></div>
+	
+<div class="header">The galleries.xml XML file</div>
+
+<div class="section">Overview</div>
+
+	<div class="text">This XML file contains data for the title of the page, the displayed phone number, the displayed email, the three images displayed as the home page, and every menu item except for the "home" link. Inside the data for each menu item, the XML also defines everything that is done when that menu item is clicked. I will now cover all of these areas. NOTE: This is also documented in the XML itself.</div>
+
+<div class="section">The home Attribute</div>
+
+	<div class="text">The home attribute on the root xml node determines whether or not there will automatically be a home page consisting of 3 images that show (as in the example). If you change it to false, whatever you make as the first menu item will just be considered the "homepage" and when the Flash is opened it will default to that. That item will still show whatever name you gave it though.</div>
+
+<div class="section">The title Node</div>
+	
+	<div class="text">The very first node inside the main &lt;xml&gt; node is the &lt;title&gt; node. Inside of it you will find what is called a CDATA node which holds literal text. To change the title node, you simply swap out the literal text inside the brackets in the CDATA. Such as &lt;![CDATA[Old Title]]&gt; gets changed to &lt;![CDATA[New Title]]&gt;</div>
+	
+<div class="section">The email Node</div>
+	
+	<div class="text">The second node inside the main &lt;xml&gt; node is the &lt;email&gt; node. Inside of it you will find what is called a CDATA node which holds literal text. To change the email node, you simply swap out the literal text inside the brackets in the CDATA. Such as &lt;![CDATA[old@email.com]]&gt; gets changed to &lt;![CDATA[new@email.com]]&gt;</div>
+	
+<div class="section">The phone Node</div>
+	
+	<div class="text">The third node inside the main &lt;xml&gt; node is the &lt;phone&gt; node. Inside of it you will find what is called a CDATA node which holds literal text. To change the phone node, you simply swap out the literal text inside the brackets in the CDATA. Such as &lt;![CDATA[1 800 old numb]]&gt; gets changed to &lt;![CDATA[1 800 new numb]]&gt;. Keep in mind that the formatting of the number is completely up to how you type it!</div>
+	
+<div class="section">The 3 Home image Nodes</div>
+	
+	<div class="text">The fourth, fifth, and sixth nodes inside the main &lt;xml&gt; node are all &lt;image&gt; nodes. These nodes determine what 3 images display as the homepage's 3 images. Each of these 3 nodes has two attributes named icon and full. These two attributes are the paths to the the icon view of the image and the full size view of the image respectively.</div>
+	
+	<div class="text">DIMENSION DATA: Each image to display has an icon view and full view. The icon view is automatically resized so that largest dimension gets lowered to 250 pixels, and the other dimension gets lowered so that the aspect ratio is maintained (no distorting). In light of that, I highly recommend that you resize all icon images so that their largest dimension is 250 pixels. The full size images are displayed as large as the browser will allow them to, as long as that is not larger than their actual size. For that I would recommend that you make their largest dimension about 700-1000 pixels. If you fail to resize image for either icon or full they will still work, but download times will increase exponentially, and the quality of the displayed images could possibly be less, because if flash has to drastically resize them to fit they could pixelate slightly.</div>
+	
+    <div class="section">The Menu's button Nodes</div>
+
+	<div class="text">From the seventh node on is all nodes for the menu, called &lt;button&gt; nodes. Each of these nodes has one common attribute named type. The type attribute can have 3 possible values, link, gallery or swf. For each different type, you get a different menu item, and have to format its XML differently. I will cover each of them below.</div>
+
+<div class="section">The link Type Button</div>
+
+	<div class="text">The link button type makes a menu button that will open a link, and is quite easy to do. In addition to the type attribute, it has two more attributes, name and window. The name attribute is just what text is displayed for that item in the menu. The window attribute determines how the link opens, _blank for in a new window, and _self to make the current window just change to the link. The actual link itself is held within a CDATA tag. To change the link, you simply swap out the literal text inside the brackets in the CDATA. Such as &lt;![CDATA[oldlink.com]]&gt; gets changed to &lt;![CDATA[newlink.com]]&gt;</div>
+	
+<div class="section">The swf Type Button</div>
+
+	<div class="text">The swf button type makes the flash load in an external swf to use as the page. In addition to the type attribute, it has four more attributes, name, link, width, and height. The name attribute is just what text is displayed for that item in the menu. The link attribute is the path to the swf to be loaded. And the width and height attributes are for you to tell it the width and height of the swf, for placement purposes. This can use ANY swf, AS2, AS3, or even SwishMax.</div>
+	
+<div class="section">The gallery Type Button</div>
+
+	<div class="text">The gallery type button allows you to set up an image gallery. This is the most complex XML you will have to deal with, and that being said, it's not hard as long as you look through the examples that are already done in the galleries.xml file, and see how they relate to what is being shown on the screen.</div>
+
+	<div class="text">Each gallery type button node itself holds one attribute in addition to the type attribute, and that is its name. After that it is to be filled with as many client nodes as neccessary. Client nodes are what end up as the small pictures that appear along the bottom that you click on to view a group of images. The idea is that you would have a gallery for say, weddings, then a list of clients like the smith wedding, the johnson wedding, etc. If you're a designer, you make make a button named Print Work, with the clients being, Sprint, General Motors, etc. Of course, you could abandon convention altogether, and group things however you like :)</div>
+
+	<div class="text">Each client node has a name attribute, which shows as a rollover, and an icon attribute, which is a link to the icon to be displayed for that client group. Inside each client group is any neccessary number of image tags, denoting the images in that group. For more info on the images tags, see "The 3 Home image Nodes" a little ways up this page, it will tell you how they work.</div>
+
+<div class="header">Advice</div>
+
+	<div class="text">The best way to learn is to make an experimental copy of the template somewhere (don't experiment on the original) and just try things, explore what happens when you change what in the XML, and look at the relation to the XML file and what displays in the website. If you get any specific questions, I'll be glad to help - bryan@madbunny.us</div>
+
+</body>
+</html>

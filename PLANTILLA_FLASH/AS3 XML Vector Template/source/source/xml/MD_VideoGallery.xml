@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+	<!-- Don't forget the ending "/" when changing paths -->
+	<pathToVids>video/</pathToVids>
+	<pathToPics>images/</pathToPics>
+	<pathToThumbPics>images/thumbs/</pathToThumbPics>
+	<autoPlay>true</autoPlay>
+	<showPlayerHint>false</showPlayerHint>
+	<controlsAuto>true</controlsAuto>
+	<showFullscreen>true</showFullscreen>
+	<showTime>true</showTime>
+	<borderColor>0x333333</borderColor>
+	<highlightColor>0x2497d8</highlightColor>
+	<timerColor>0xFFFFFF</timerColor>
+	<allowKeyboard>true</allowKeyboard>
+	<videoSmoothing>true</videoSmoothing>
+	
+	<videos>
+		<item fileName="GelilaHair.flv" posterFrame="posterframe_1.jpg" thumbPath="thumb_1.jpg">
+			<title><![CDATA[A Beautiful Gallery That Just Works]]></title>
+			<description><![CDATA[This video gallery was designed for people who are looking for a robust video solution that just works, without sacrificing looks or usability. With a solid AS3 code base, this file is fast, stable, and responsive. Try it out for yourself.]]></description>
+		</item>
+		<item fileName="lava.flv" posterFrame="posterframe_2.jpg" thumbPath="thumb_2.jpg">
+			<title><![CDATA[Custom Poster Frames & Thumbnails]]></title>
+			<description><![CDATA[The gallery supports custom poster frames and thumbnail images for each video presented. Don't want a poster frame? No problem. Simply leave the field blank in the XML file.]]></description>
+		</item>
+		<item fileName="lights.flv" posterFrame="posterframe_3.jpg" thumbPath="thumb_3.jpg">
+			<title><![CDATA[Simple to Edit]]></title>
+			<description><![CDATA[Most aspects of the video gallery, including video titles and descriptions, are easily controlled through a simple to edit XML file. You can also add <a href="http://www.flashden.net" target="_self">inline anchor tags</a> formatted with an external CSS file.]]></description>
+		</item>
+		<item fileName="ORGANIC_1b.flv" posterFrame="posterframe_4.jpg" thumbPath="thumb_4.jpg">
+			<title><![CDATA[Keyboard Shortcuts, Autoplay, & So Much More]]></title>
+			<description><![CDATA[Enable or disable features like keyboard shortcuts, autoplay, fullscreen, and video smoothing with ease. Use the keyboard to navigate the gallery: Left & Right arrows switch between thumbnails. Enter loads the video. Space bar plays and pauses the selected video.]]></description>
+		</item>
+		<item fileName="CLOUD_2.flv" posterFrame="posterframe_5.jpg" thumbPath="thumb_5.jpg">
+			<title><![CDATA[Room for Long Titles]]></title>
+			<description><![CDATA[Room for long descriptions <a href="http://www.flashden.net" target="_self">(approximately 85 word-count)</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum ]]></description>
+		</item>
+		<item fileName="CLOUD_3c.flv" posterFrame="posterframe_6.jpg" thumbPath="thumb_6.jpg">
+			<title><![CDATA[Lorem Ipsum Dolor Sit]]></title>
+			<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum ]]></description>
+		</item>
+		<item fileName="CLOUD_4.flv" posterFrame="posterframe_7.jpg" thumbPath="thumb_7.jpg">
+			<title><![CDATA[Lorem Ipsum Dolor Sit]]></title>
+			<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum ]]></description>
+		</item>
+		<item fileName="ski_video.flv" posterFrame="posterframe_1.jpg" thumbPath="thumb_1.jpg">
+			<title><![CDATA[Lorem Ipsum Dolor Sit]]></title>
+			<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum ]]></description>
+		</item>
+																				
+	</videos>
+	
+	
+</gallery>

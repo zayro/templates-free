@@ -1,0 +1,1 @@
+myVariable=DYNAMIC HTML FOOTER. <a href="mailto:INFO@YOUREMAIL.COM"><font color="#ffffff">INFO@YOUREMAIL.COM</font></a>

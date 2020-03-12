@@ -1,0 +1,352 @@
+body {
+color:#777;
+background-color:#111;
+background-image: url(../images/bck.jpg);
+background-repeat: repeat-x;
+background-position:top;
+width:100%;
+height:100%;
+font-weight:normal;
+}
+
+/************** Typography styles **************/
+h1, h2, h3, h4, h5, h6, .contentheading, .componentheading {font-weight:normal;color:#fff; margin:0; padding:0; line-height:1em;}
+h1 {font-size:4em; }
+h2, .contentheading {font-size:3em; }
+h3, .componentheading {font-weight:normal;
+	font:16px "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+	line-height:28px;
+	letter-spacing:-1px;
+	color:#f5f5f5;}
+h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6 {font-size:1em;font-weight:bold;}
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
+.small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em;}
+.centered {text-align: center;}
+.wrapper {
+background-image: url(../images/top_bck.jpg);
+background-position: top center;
+background-repeat:no-repeat;
+}
+
+a:link, a:visited {
+color:#ddd;
+text-decoration: none;
+}
+
+a:hover {
+color:#ee5b01;
+}
+
+p {margin:0em; padding:0;}
+
+.main hr{
+background-color:#161616;
+}
+
+.footer hr {
+background-color:#222;
+}
+
+hr.dark {
+background-color:#161616;
+}
+
+.top, .header, .main, .footer {
+float:left;
+width:100%;
+border-bottom:0px dashed #666;
+}
+
+.container {
+background-color: #000;
+}
+
+.top .container, .header .container, .footer .container {
+background: none;
+}
+
+.footer .container {
+font-size:.88em;
+background-image: url(../images/footerbck.jpg);
+background-position: top;
+background-repeat: no-repeat;
+}
+
+.main .container{
+padding-bottom:10px;
+}
+
+
+.block0, .block1, .block34, .block23, .block2, .block3, .block4, .block5, .block6, .block8 {
+margin-right:2%;
+padding:10px 1%;
+background: none;
+float:left;
+}
+
+.block0 {
+width:100%;
+margin:0;
+padding:0;
+}
+
+.block0 img {
+line-height: 1em;
+}
+
+.block1 {
+width:98%;
+margin:0;
+}
+
+.block34 {
+width:72.5%;
+}
+
+.block23 {
+width:64%;
+}
+
+.block2 {
+width:47%;
+}
+
+.block3 {
+width:30%;
+}
+
+.border3 {
+width:29.9%;
+border-right:0.1em solid #111;
+}
+
+
+.block4 {
+
+}
+
+.block5 {
+width:16.4%;
+}
+
+.block6 {
+width:13%;
+}
+
+.block8 {
+width:8.75%;
+}
+
+
+.border {
+border-right:1px solid #161616;
+margin-right:1.89%;
+}
+
+.nopadding {
+padding:0;
+}
+
+.nomargin{
+margin:0;
+}
+
+.header .block1 {
+width:100%;
+padding:0;
+margin:0;
+}
+
+.logo {
+margin-right:4%;
+}
+
+.header .block3 {
+margin-right:0%;
+padding:10px 1.45% 10px 1%;
+margin-right:1.44%;
+border-right:1px solid #444;
+}
+
+.header .lastblock {
+padding:10px 1%;
+margin:0;
+border:none;
+}
+
+.empty_header {
+height:24px;
+float:left;
+display:block;
+width:100%;
+}
+
+.main .block0{
+background-image: url(../images/medgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+}
+
+.grey {
+background-color:#333;
+background-image: url(../images/lightgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+}
+
+.pathwaynav {
+background-image: url(../images/medgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+}
+
+.lastblock {
+margin:0;
+padding:10px 1%;
+}
+
+.header .block3 .lastblock{
+margin-right:0%;
+padding:10px 1% 10px 1%;
+background-color:#ddd;
+}
+
+.floatright {
+float:right;
+}
+
+.floatleft {
+float:left;
+}
+
+/************** Module Suffixes **************/
+
+.main .moduletable, .contentpaneopen {
+background-image: url(../images/bottom_gradient.png);
+background-repeat: repeat-x;
+background-position: bottom;
+padding:10px 8px;
+border-top:1px solid #161616;
+}
+
+.main .moduletable .bck {
+background-image: url(../images/medgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+border-top:1px solid #161616;
+}
+
+.bck h3 {
+padding:2px 8px;
+background-color:#111;
+background-position: bottom;
+border-bottom:1px solid #222;
+margin:0 -8px 4px -8px;
+background-image: url(../images/medgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+}
+
+.main .moduletable .nobck {
+border-top:none;
+}
+
+.nobck h3{
+padding:2px 8px;
+background-color:#111;
+background-position: bottom;
+border-bottom:1px solid #222;
+margin:0 -8px 4px -8px;
+
+}
+
+/************** Navigation styles **************/
+
+.topmenu ul{
+float:right;
+padding:0;
+margin:30px 0 0 0;
+z-index:100000;
+position: relative;
+}
+
+.topmenu ul li {
+float:left;
+list-style: none;
+}
+
+.topmenu ul li a:link, .topmenu ul li a:visited {
+color:#fff;
+text-decoration: none;
+display:block;
+padding:5px 8px;
+margin:0 0 0 1px;
+}
+
+.topmenu ul li a:hover {
+background-color:#ee1c24;
+color:#fff;
+background-image: url(../images/active.png);
+background-repeat: repeat-x;
+background-position: bottom;
+}
+
+.topmenu ul li#current a:link, .topmenu ul li#current a:visited {
+background-color:#ee1c24;
+color:#fff;
+background-image: url(../images/active.png);
+background-repeat: repeat-x;
+background-position: bottom;
+}
+
+.topmenu ul li#current a:hover {
+background-color:#ee1c24;
+color:#fff;
+background-image: url(../images/active.png);
+background-repeat: repeat-x;
+background-position: bottom;
+}
+
+/************** Slider **************/
+#myController {
+width:100%;
+text-align: center;
+background-image: url(../images/medgrey_gardient.png);
+background-repeat: repeat-x;
+background-position: top;
+background-color:#333;
+float:left;
+display:block;
+height:30px;
+line-height:24px;
+border-bottom:1px solid #000;
+}
+
+span.jFlowControl {
+background-image: url(../images/inactive.png);
+background-repeat: no-repeat;
+background-position: center;
+width:16px;
+height:16px;
+padding:5px;
+}
+
+/************* Suckerfish Menu **************/
+ul#nav li ul li a:link, ul#nav li ul li a:visited, .mainmenu ul#nav li.active ul li a:link, .mainmenu ul#nav li.active ul li a:visited  {
+
+color:#ddd;
+display:block;
+width:10em;
+border-top:none;
+padding:5px 4px;
+background-color: #000;
+border-bottom:1px dotted #222;
+margin-top:0px;
+}
+
+/************* Image Classes **************/
+img.icon {
+margin:0 10px 0px 0;
+}

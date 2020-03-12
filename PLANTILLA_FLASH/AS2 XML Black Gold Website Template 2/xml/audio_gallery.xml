@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio_gallery>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" soundVolume="100" songDurationTextColor="0x727272" songTitleTextColor="0xffffff" songsSlideButtonsIconColor="0xffffff" albumControlsColor="0x727272" albumControlsBackGroundColor="0x151618" albumsSlideButtonsIconColor="0xffffff" thumbsPreloaderColor="0xffffff" thumbsBackGroundColor="0x000000" coverBackGroundAlpha="60" coverBackGroundColor="0x000000" backGroundHeight="380" backGroundAlpha="100" backGroundColor="0x1a1b1d" preloaderColor="0xa06900"/>
+	<items>
+		<item>
+			<title><![CDATA[<b>Album one</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/01.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_01.jpg]]></cover>
+			<songs showDurationText="true">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+		<item>
+			<title><![CDATA[<b>Album two</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/02.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_02.jpg]]></cover>
+			<songs showDurationText="true">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+		<item>
+			<title><![CDATA[<b>Album three</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/03.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_03.jpg]]></cover>
+			<songs showDurationText="true">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+		<item>
+			<title><![CDATA[<b>Album four</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/04.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_01.jpg]]></cover>
+			<songs showDurationText="false">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+		<item>
+			<title><![CDATA[<b>Album five</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/05.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_02.jpg]]></cover>
+			<songs showDurationText="false">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+		<item>
+			<title><![CDATA[<b>Album six</b>]]></title>
+			<author><![CDATA[<font color="#727272">ADG3 studios</font>]]></author>
+			<thumb><![CDATA[images/covers/06.jpg]]></thumb>
+			<cover><![CDATA[images/covers/cover_03.jpg]]></cover>
+			<songs showDurationText="false">
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+				<item title="Busted chump" mp3="audio/adg3.com_bustedChump.mp3" duration="01:25"/>
+			</songs>
+		</item>
+	</items>
+</audio_gallery>

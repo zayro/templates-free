@@ -1,0 +1,15 @@
+<DynamicWeb>
+
+<Section head="CLIENTS" btntxt="SHOW ALL CLIENTS" p="45" f="Clients" subf="Latest clients" subDisplay="on" lefthead="CLENTS" allp="25">
+		<data img="dat/Images/Home/img.jpg" f="company">
+			<title>Mercedes project 2011</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+		
+		<data img="dat/Images/Home/img2.jpg" f="company">
+			<title>Mercedes project 2011</title>
+			<des>Vonsec tetur Adipi sicing Elit lorem Ipsum Dolor Sit Amet.</des>
+		</data>
+</Section>
+
+</DynamicWeb>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactFormStructure>
+	
+	<formItems>
+ 
+		<item id="1" label="Your Name" required="true">	
+		</item>
+
+		<item id="2" label="E-Mail Address" required="true">
+	                <validator>EmailValidator</validator>
+		</item>
+
+		<item id="3" label="Home Phone">	
+			<restrict>\+-/. 0-9()</restrict>		
+                </item>
+
+		<item id="4" label="Length of Stay" type="select" required="true">
+	                <firstItem>Nights</firstItem>
+			<dataProvider>24134-numbers.xml</dataProvider>		
+                </item>
+
+		<item id="5" label="Number in Party" type="select" "required="true">                                            
+			<firstItem>Persons</firstItem>
+			<dataProvider>24134-numbers.xml</dataProvider>	
+		</item>
+
+		<item id="6" label="Month" type="select" required="true">	
+			<firstItem>Month</firstItem>
+                        <dataProvider>24134-months.xml</dataProvider>		
+                </item>
+
+		<item id="7" label="Day" type="select" required="true">
+	                <firstItem>Day</firstItem>
+			<dataProvider>24134-days.xml</dataProvider>		
+                </item>
+
+		<item id="8" label="Year" type="select" required="true">
+	                <firstItem>Year</firstItem>
+			<dataProvider>24134-years.xml</dataProvider>		
+                </item>
+
+		<item id="9" label="Comments" required="true">			
+                </item>
+		
+	</formItems>
+	
+</contactFormStructure>

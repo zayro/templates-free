@@ -1,0 +1,41 @@
+<DynamicWeb>
+
+<!--
+p=15 Products
+p=25 Videos
+p=35 Events
+p=45 News
+p=55 Contact
+p=65 About
+-->
+
+
+
+<Sections id="menu">
+		<Menu btnName="PRODUCTS" p="15" f="Products" css="news" bgImg="dat/Images/BG/img2.jpg"></Menu>
+		<Menu btnName="VIDEO" p="25" f="Videos" css="news" bgImg="dat/Images/BG/img5.jpg"></Menu>
+		<Menu btnName="ABOUT US" p="65" f="About" css="news" bgImg="dat/Images/BG/img3.jpg"></Menu>
+		<Menu btnName="EVENTS" p="35" f="Events" css="news" bgImg="dat/Images/BG/img3.jpg"></Menu>
+		<Menu btnName="NEWSLETTER" p="45" f="News" css="news" bgImg="dat/Images/BG/img4.jpg"></Menu>
+
+		<Menu btnName="CONTACT" p="55" f="" css="news" bgImg="dat/Images/BG/img6.jpg"></Menu>
+</Sections>
+
+<Sections id="logo">
+		<data>FURNITURE_</data>
+		<data>Product  Expo</data>
+</Sections>
+
+
+<Sections id="contact">
+		<data>Lorem Ipsum Dolor Sit Amet,<br />Vonsectetur Adipisicing Elit.<br />Country <br /><br /><br /><font color='#CCCCCC'>Enquiries &amp; New Business</font><br /><a href="mailto:demo@demo.com">demo@demo.com</a><br /><br /><br /><font color='#CCCCCC'>TelePhone</font><br />+33 (0) 33 - 66 99 333</data>
+
+</Sections>
+
+<Sections id="copy">
+		<data>(C) 2012. All Right Reserved</data>
+</Sections>
+
+
+
+</DynamicWeb>

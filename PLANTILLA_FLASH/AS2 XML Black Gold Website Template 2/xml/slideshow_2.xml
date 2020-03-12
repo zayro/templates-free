@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+	<settings slideshowMode="false" linksTarget="_blank" verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" nextPrevArrowsColor="0xffffff" filesWidth="569" filesHeight="200" filesBackGroundColor="0x000000" videoOnComplete="loop" videoControlsColor="0x727272" videoControlsBackGroundColor="0x151618" backGroundHeight="370" backGroundAlpha="100" backGroundColor="0x1a1b1d" preloaderColor="0xa06900"/>
+	<items>
+		<item>
+			<file><![CDATA[images/slideshow/slideshow_2/01.jpg]]></file>
+			<caption><![CDATA[<font color="#727272"><b>Slideshow: title one</b><br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></caption>
+			<link><![CDATA[http://flashden.net/user/ParkerAndKent]]></link>
+			<duration><![CDATA[]]></duration>
+			<slideshowInterval><![CDATA[5]]></slideshowInterval>
+		</item>
+		<item>
+			<file><![CDATA[images/slideshow/slideshow_2/02.jpg]]></file>
+			<caption><![CDATA[<font color="#727272"><b>Slideshow: title two</b><br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</font>]]></caption>
+			<link><![CDATA[http://flashden.net/user/ParkerAndKent]]></link>
+			<duration><![CDATA[]]></duration>
+			<slideshowInterval><![CDATA[5]]></slideshowInterval>
+		</item>
+		<item>
+			<file><![CDATA[images/slideshow/slideshow_2/03.jpg]]></file>
+			<caption><![CDATA[<font color="#727272"><b>Slideshow: title three</b><br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></caption>
+			<link><![CDATA[http://flashden.net/user/ParkerAndKent]]></link>
+			<duration><![CDATA[]]></duration>
+			<slideshowInterval><![CDATA[5]]></slideshowInterval>
+		</item>
+	</items>
+</slideshow>

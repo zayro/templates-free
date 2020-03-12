@@ -1,0 +1,20 @@
+p {
+ fontFamily:Arial;
+ color:#000000;
+ fontSize:12;
+}
+.h1 {
+ fontSize:18;
+ color:#FF3366;
+ fontWeight:bold;
+}
+a {
+ color:#FF0000;
+}
+.t1 {
+ color:#FF3399;
+}
+.t2 {
+ color:#FFCEE7;
+ fontSize:14;
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<setup background="0x262827"/>
+	<logo source="logo.png"/>
+	
+	<footer fontcolor="0xFFFFFF" bgcolor="0x000000">
+		<copyrights url="http://www.massiveProCreation.com" target="_blank">
+			<![CDATA[Copyright 2009 massiveProCreation]]>
+		</copyrights>	
+	</footer>
+			
+	<menu fontcolor="0xFFFFFF" buttoncolor="0x000000">
+		<section name="Home" type="home" source="home.xml" effect="fade"/>
+		<section name="About">
+			<subsection name="Template Features" type="text" background="images/33.jpg" fontcolor="0xFFFFFF" 				bgcolor="0x000000" opacity="0.38">
+			<![CDATA[<a href="http://www.google.pl">Welcome this is our first XML Template</a>, it’s called <font color="0xFF6600">AS3 XML Vector Template</font>, it’s fully xml driven. We have put allot of work into it to ensure all your needs are fulfilled. 
+
+<font size="14">Main Features:</font>
+<ul>
+<li>fully xml driven (colors, text, opacity, images etc.)</li><li>clean and simple design,</li><li>you can simply adjust all the colors to your needs (also the opacity/alpha) through the xml file,</li><li>it gives you ability to use simple animated menu with subsections,</li><li>contains 6 different modules (described at the bottom),</li><li>full screen option,</li><li>background images,</li><li>it’s ActionScript 3.0,</li><li>detailed help file included.</li></ul>
+
+<font size="14">Modules:</font>
+
+<li><font size="12">Home</font> - this module provides the ability to show your users image slide show. The images are loaded in the background and displayed one after another. You can choose between three different type of transitions: fade, slide-right and slide-left. Also the images are scaled to fit the screen.</li>
+<li><font size="12">Text</font> - this module gives you ability to display long text, when the text is longer then the section provided for it the scroll up automatically is shown on the side. You can use the html tags in your text. You can easily adjust the color of the text and background. </li>
+<li><font size="12">Gallery</font> - this module enables you to create advanced galleries. The images are loading in the background. They are being scaled to the screen so they always fit perfectly. There is a slide show option that can be enabled easily. You can use the controls in the footer to navigate through the gallery or the thumbnails panel on the right.</li>
+<li><font size="12">Link</font> - this section enables you redirect user to any url you specify in the xml file.</li>
+<li><font size="12">Swf</font> - this module provides ability to load any external swf into your website. For example if you need video player you can just load external video player.</li>
+<li><font size="12">Contact</font> - this module enables you to insert a contact form into your website, you can also provide the image that will be displayed in the background. </li>
+			 
+Enjoy!			
+]]>
+		</subsection>
+		
+		<subsection name="About Us" type="text" background="images/29.jpg" fontcolor="0xFFFFFF" bgcolor="0x000000">
+			<![CDATA[ Fusce nec tincidunt sem. Ut rhoncus turpis id tellus tristique ultrices. In tellus odio, hendrerit nec volutpat id, viverra sed libero. Vestibulum varius, turpis nec varius commodo, ligula ipsum facilisis quam, vitae pretium felis purus vel sem. Pellentesque euismod, nisi id fringilla viverra, erat dolor facilisis purus, eget pulvinar dolor diam vel enim. Cras dictum porta sem, quis viverra risus interdum quis. Suspendisse non scelerisque nunc. Cras sem nisi, molestie sit amet dignissim quis, eleifend quis tortor. Suspendisse sapien neque, venenatis at tristique vel, consectetur sed urna. Phasellus placerat, turpis vitae ullamcorper congue, sem velit imperdiet libero, quis fringilla ipsum turpis eget magna. In scelerisque tempor fringilla. Nulla ultricies auctor tortor, et viverra turpis elementum ac. Integer tristique velit eu mi consequat sed lobortis sapien laoreet. Aenean imperdiet sagittis arcu ac ullamcorper. Maecenas quis tristique velit. Nullam at faucibus massa. Sed scelerisque nunc ut nulla aliquet a dapibus odio ullamcorper. Pellentesque et neque nisl. Cras commodo erat ac dolor posuere condimentum. Vivamus dignissim viverra velit in egestas.  ]]>
+		</subsection>
+	</section>
+		<section name="Gallery" type="gallery" source="gallery.xml" slideshow="true" fontcolor="0xFFFFFF" bgcolor="0x000000" opacity="0.38" thumbnails="thumbnails"/>
+		<section name="Video Player" type="swf" source="MD_VideoGallery.swf"/>
+		<section name="Links" type="">
+			<subsection name="FlashDen" type="url" source="http://www.flashden.net/" target="_blank"/>
+			<subsection name="ThemeForest" type="url" source="http://themeforest.net/" target="_blank"/>
+			<subsection name="Envato" type="url" source="http://envato.com/" target="_blank"/>
+		</section>	
+		<section name="Contact" type="contact" background="images/24.jpg" fontcolor="0xFFFFFF" bgcolor="0x000000" opacity="0.38" nick="name" email="email" message="message" send="send" errormessage="Please fill this field" sendmessage="Your message was sent.">
+			<![CDATA[e-mail: vectorTemplate@mpc.com
+cell: 123 3456789
+</br>
+Invia un messaggio per prenotare il tuo servizio fotografico o chiedere ulteriori dettagli.]]>
+		</section>	
+	</menu>
+</data>

@@ -1,0 +1,197 @@
+﻿<categories>
+
+	<category name="Portrait ÃÈÚãéù" tooltipimage="files/portrait/t_1.jpg" thumbsheight="120" autoplay="true">
+		<image 
+			tsrc="files/portrait/t_1.jpg" 
+			src="files/portrait/1.jpg" 
+			link="http://flashden.net/user/DesignForLife/portfolio"
+			target="_blank" 
+			tooltiptext="UNLIMITED CATEGORIES AND IMAGES" 
+			delaytime="18">
+			<![CDATA[<font size="+12">DeepLinking XML Photographer Template</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_2.jpg" 
+			src="files/portrait/2.jpg" 
+			link="http://graphicriver.net/user/DesignForLife/" 
+			target="_blank" 
+			tooltiptext="CAN BE WRITE LONG DESCRIPTION TEXT" 
+			delaytime="25">
+			<![CDATA[<font size="+12">Long Description Text</font><br>It is a long established fact that a <u>reader</u> will be distracted by the <b>readable</b> content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use <font color="#FF3300">Lorem Ipsum as their default model text,</font> and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br><br>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. <font color="#330000">If you are going to use a passage of Lorem Ipsum,</font> you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_3.jpg" 
+			src="files/portrait/3.jpg" 
+			link="http://www.google.com" 
+			target="_blank" 
+			tooltiptext="FOR EACH IMAGE DIFFERENT DELAY TIME" 
+			delaytime="20">
+			<![CDATA[<font size="+12">For Each Image Different Delay Time</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_4.jpg" 
+			src="files/portrait/4.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="CAN BE BLANK IMAGE LINK / NEXT IMAGE CAN BE BLANK TOOLTIP TEXT :)" 
+			delaytime="25">
+			<![CDATA[<font size="+12">Can Be Blank Image Link</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_1.jpg" 
+			src="files/portrait/1.jpg" 
+			link="http://flashden.net/user/DesignForLife/portfolio" 
+			target="_blank" 
+			tooltiptext="" 
+			delaytime="18">
+			<![CDATA[<font size="+12">DeepLinking XML Photographer Template</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_2.jpg"
+			src="files/portrait/2.jpg" 
+			link="www.envato.com" 
+			target="_blank" 
+			tooltiptext="CAN BE BLANK IMAGE DESCRIPTION" 
+			delaytime="12">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_3.jpg" 
+			src="files/portrait/3.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="CAN BE BLANK IMAGE DESCRIPTION AND LINK" 
+			delaytime="20">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_4.jpg" 
+			src="files/portrait/4.jpg" 
+			link="www.google.com.tr" 
+			target="_blank" 
+			tooltiptext="" 
+			delaytime="25">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_1.jpg" 
+			src="files/portrait/1.jpg" 
+			link="http://flashden.net/user/DesignForLife/portfolio" 
+			target="_blank" 
+			tooltiptext="" 
+			delaytime="18">
+			<![CDATA[<font size="+12">DeepLinking XML Photographer Template</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_2.jpg" 
+			src="files/portrait/2.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="" 
+			delaytime="12">
+			<![CDATA[<font size="+12">Long Description Text</font><br>It is a long established fact that a <u>reader</u> will be distracted by the <b>readable</b> content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use <font color="#FF3300">Lorem Ipsum as their default model text,</font> and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br><br>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. <font color="#330000">If you are going to use a passage of Lorem Ipsum,</font> you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.<br><br>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_3.jpg" 
+			src="files/portrait/3.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="SENI COOOK SEVIYORUM MELTEM" 
+			delaytime="20">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="files/portrait/t_4.jpg" 
+			src="files/portrait/4.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="" 
+			delaytime="25">
+			<![CDATA[]]>
+		</image>
+	</category>
+	
+	<category name="Wending - Automatic Created Thumbsnail in This Category" tooltipimage="files/wending/t_1.jpg" thumbsheight="150" autoplay="true">
+		<image 
+			tsrc="" 
+			src="files/wending/1.jpg" 
+			link="www.flashden.net" 
+			target="_blank" 
+			tooltiptext="THIS IMAGE CREATED FOR THUMBSNAIL IMAGE" 
+			delaytime="20">
+			<![CDATA[<font size="+12">DeepLinking XML Photographer Template</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]>
+		</image>
+		<image 
+			tsrc="" 
+			src="files/wending/2.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="THIS IMAGE NOT DESCRIPTION TEXT AND LINK" 
+			delaytime="20">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="" 
+			src="files/wending/3.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="ALL BUTTONS AND MODULES ENABLE OR DISABLE SET IN CONFIG XML FILE" 
+			delaytime="20">
+			<![CDATA[]]>
+		</image>
+		<image 
+			tsrc="" 
+			src="files/wending/4.jpg" 
+			link="" 
+			target="" 
+			tooltiptext="" 
+			delaytime="20">
+			<![CDATA[]]>
+		</image>
+		<image tsrc="" src="files/wending/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/wending/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/wending/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/wending/4.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+	</category>
+
+	<category name="Nature - Diffirent Thumbsnail Size" tooltipimage="files/nature/t_1.jpg" thumbsheight="80" autoplay="true">
+		<image tsrc="files/nature/t_1.jpg" src="files/nature/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[<font size="+12">DeepLinking XML Photographer Template</font><br>Unlimited Category and Images, CDATA tags in can be write HTML code<font size="+5" color="#5599dd"> Text Color and Size Change</font><a href="http://flashden.net/user/DesignForLife/portfolio" target="_blank"> External Link</a><br><br><ul><li>Can be blank description text</li><li>Can be blank a image link</li><li>For each images different delay time</li><li>Can be write long description text</li><li>Can be write here deeplinking</li><li>All buttons enabled/disabled set in xml</li></ul>]]></image>
+		<image tsrc="files/nature/t_2.jpg" src="files/nature/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_3.jpg" src="files/nature/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_4.jpg" src="files/nature/4.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_5.jpg" src="files/nature/5.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_6.jpg" src="files/nature/6.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_1.jpg" src="files/nature/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_2.jpg" src="files/nature/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_3.jpg" src="files/nature/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_4.jpg" src="files/nature/4.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_5.jpg" src="files/nature/5.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_6.jpg" src="files/nature/6.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+	</category>
+	
+	<category name="3D - AutoPlay Off in This Category" tooltipimage="files/3d/t_1.jpg" thumbsheight="120" autoplay="false">
+		<image tsrc="" src="files/3d/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/3d/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/3d/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/3d/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/3d/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="" src="files/3d/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+	</category>
+	
+	<category name="No Tooltip Image" tooltipimage="" thumbsheight="130" autoplay="false">
+		<image tsrc="files/nature/t_2.jpg" src="files/nature/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_3.jpg" src="files/nature/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_1.jpg" src="files/nature/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_2.jpg" src="files/nature/2.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_3.jpg" src="files/nature/3.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/nature/t_1.jpg" src="files/nature/1.jpg" link="" target="" tooltiptext="" delaytime="20"><![CDATA[]]></image>
+	</category>
+	
+	<category name="Features - XML Files" tooltipimage="" thumbsheight="80" autoplay="false">
+		<image tsrc="files/feature/t_config.jpg" src="files/feature/config.jpg" link="" target="" tooltiptext="CONFIG XML" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/feature/t_gallery.jpg" src="files/feature/gallery.jpg" link="" target="" tooltiptext="GALLERY XML" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/feature/t_newsandteam.jpg" src="files/feature/newsandteam.jpg" link="" target="" tooltiptext="NEWS AND TEAM XML" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/feature/t_library.jpg" src="files/feature/library.jpg" link="" target="" tooltiptext="LIBRARY" delaytime="20"><![CDATA[]]></image>
+		<image tsrc="files/feature/t_layers.jpg" src="files/feature/layers.jpg" link="" target="" tooltiptext="LAYERS" delaytime="20"><![CDATA[]]></image>
+	</category>
+</categories>

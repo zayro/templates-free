@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<services>
+
+	<item>
+		<title>Web Devlopment</title>
+		<text>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla sodales gravida sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam eu dui. Aliquam egestas. Proin pretium.</text>
+	</item>
+
+
+	<item>
+		<title>Graphic Design</title>
+		<text>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing. 
+
+Suspendisse sit amet enim. Nam pretium consequat elit. Morbi at risus eget ligula fermentum tempus. Duis malesuada, massa vitae sagittis scelerisque, lacus diam condimentum sem, sed feugiat lorem massa a magna.</text>
+	</item>
+
+
+	<item>
+		<title>3D Design</title>
+		<text>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing. </text>
+	</item>
+
+
+	<item>
+		<title>Multimedia</title>
+		<text>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing. 
+
+Duis tempus tellus vitae metus. Mauris sed massa. Phasellus gravida felis vel ligula volutpat rutrum. Morbi a mauris a nunc sagittis viverra. Fusce et metus. Integer tincidunt libero. </text>
+	</item>
+
+
+
+
+</services>

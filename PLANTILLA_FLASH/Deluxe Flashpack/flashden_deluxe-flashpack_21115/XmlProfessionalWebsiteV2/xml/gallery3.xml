@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Photos>
+  <Node PhotoUrl="gallery3/1.jpg">PHOTO 1 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/2.jpg">PHOTO 2 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/3.jpg">PHOTO 3 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/4.jpg">PHOTO 4 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/5.jpg">PHOTO 5 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/6.jpg">PHOTO 6 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/7.jpg">PHOTO 7 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/8.jpg">PHOTO 8 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/9.jpg">PHOTO 9 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/10.jpg">PHOTO 10 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/11.jpg">PHOTO 11 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/12.jpg">PHOTO 12 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery3/13.jpg">PHOTO 13 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+
+
+</Photos>

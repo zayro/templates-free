@@ -1,0 +1,27 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+<items>
+	<item>
+	  <text>HOME</text> 
+	  <url>home.swf</url> 
+	</item>
+	
+	<item>
+	  <text>ABOUT US</text> 
+	  <url>about.swf</url> 
+	</item>
+	
+	<item>
+	  <text>SERVICES</text> 
+	  <url>services.swf</url> 
+	</item>
+	
+	<item>
+	  <text>SHOP</text> 
+	  <url>shop.swf</url> 
+	</item>
+	
+	<item>
+	  <text>CONTACT US</text> 
+	  <url>contact.swf</url> 
+	</item>
+</items>

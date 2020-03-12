@@ -1,0 +1,7 @@
+h1 { background: url(../images/orange/header-bg.png) repeat-x 0 0; }
+#content .article .text { background: #e16500 url(../images/orange/article-bg.png) repeat-x left top; }
+
+h2, a, .info a:hover, #formReturn, #nav li a:hover, #nav li.active a, #nav li.active ul li a:hover,
+#nav li ul li.active a:hover, #sidebar .box:hover h2, #sidebar .box .inner ul li a:hover, #nav li.active ul li.active a { color: #e16500; }
+
+#content .article p { color: #ffdcbf; }

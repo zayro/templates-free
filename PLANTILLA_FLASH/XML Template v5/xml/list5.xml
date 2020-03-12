@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<gallery url_config="xml/configuration_list.xml">
+
+	
+	
+<item picsmall="image_list/1_.jpg"  redirect_to_menu_id="901">
+<intro><![CDATA[<body><head_newsy>Category 1   (click back button in browser to come back here )</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+
+ 
+
+
+
+<item picsmall="image_list/2_.jpg" redirect_to_menu_id="902">
+<intro><![CDATA[<body><head_newsy>Category 2</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+	
+	
+	
+	
+	
+	
+<item picsmall="image_list/3_.jpg" redirect_to_menu_id="903">
+			
+		
+<intro><![CDATA[<body><head_newsy>Category 3</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+
+
+</item>
+	
+	
+	
+	
+<item picsmall="image_list/4_.jpg" redirect_to_menu_id="904">
+		
+<intro>
+<![CDATA[<body><head_newsy>Category 3</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci
+</body>]]>
+</intro>
+		
+</item>
+	
+		
+
+
+	
+<item picsmall="image_list/5_.jpg" redirect_to_menu_id="905">
+	
+<intro><![CDATA[<body><head_newsy>Category 4</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+		
+</item>
+	
+
+		
+</item>
+	
+
+		
+	
+	
+</gallery>

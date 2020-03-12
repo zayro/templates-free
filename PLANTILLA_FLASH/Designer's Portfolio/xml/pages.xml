@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<page template="1" des="News" xmlfeed="xml/news.xml" deeplink="news" pagetitle="Designer's Portfolio - News"/>
+	<page template="2" des="Portfolio" xmlfeed="xml/portfolio.xml" deeplink="portfolio" pagetitle="Designer's Portfolio - Portfolio"/>
+	<page template="3" des="About" xmlfeed="xml/about.xml" deeplink="about" pagetitle="Designer's Portfolio - About"/>
+	<page template="5" des="SWF" xmlfeed="xml/swf.xml" deeplink="swf" pagetitle="Designer's Portfolio - Your own SWF"/>
+	<page template="6" des="Link" ref="http://www.flashden.net/user/Webmarbles" tgt="_blank"/>
+	<page template="4" des="Contact" xmlfeed="xml/contact.xml" deeplink="contact" pagetitle="Designer's Portfolio - Contact"/>
+</content>

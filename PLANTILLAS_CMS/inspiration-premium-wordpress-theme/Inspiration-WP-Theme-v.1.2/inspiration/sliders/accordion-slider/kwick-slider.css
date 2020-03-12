@@ -1,0 +1,80 @@
+.slideContainer	{
+				width:952px;
+				height:392px;
+				position:relative;
+				overflow:hidden;
+				}
+
+.kwicks {
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+.kwicks li{
+	display: block;
+	overflow: hidden;
+	color: #fff;
+	padding: 0;
+    border-left:1px solid #fff;
+    -moz-box-shadow:1px 3px 15px #555;
+    -webkit-box-shadow:1px 3px 15px #555;
+    box-shadow:1px 3px 15px #555;
+}
+
+.kwicks li img{
+	display: block;
+}
+
+.kwicks li a {
+	display: block;
+	position: relative;
+	text-decoration: none;
+	color: #fff;
+}
+
+.kwicks li p {
+	margin: 0;
+	padding: 0;
+}
+
+.kwicks .slide_title {
+	width: 100%;
+	background:#000;
+	margin:0;
+	padding:15px;
+	left:0;
+	top:50px;
+	filter:alpha(opacity=70);
+	-moz-opacity:0.7;
+	-khtml-opacity: 0.7;
+	opacity: 0.7;
+    position: absolute;
+    font-style:normal;
+    font-size:16px;
+    color:#fff;
+    text-align:left;
+}
+
+.kwicks .slide_caption {
+	position: absolute;
+	left: 0;
+	bottom: -100%;
+	background: black;
+	width: 230px;
+	padding: 15px;
+	margin: 0;
+	opacity: 0.8;
+}
+
+.kwicks .slider_title {
+	font-size:16px;
+	display:block;
+	font-style: italic;
+	font-weight:normal;
+	margin-bottom:10px;
+    padding: 0;
+    color:#fff;
+}

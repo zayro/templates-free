@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="4" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="on"
+	buttons="on" 
+	>
+	<slide>
+		<asset>slideshow/image1.jpg</asset>
+		<caption><![CDATA[v3.5 Released!]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>slideshow/image2.jpg</asset>
+		<caption><![CDATA[This is a <a href="http://www.google.com" target="_blank">slideshow</a> module activated for the home page. Special Characters àáâ<B>ãäß</B> é <I>ê</I> í <B><I>ü</I></B>.]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>slideshow/image3.jpg</asset>
+		<caption><![CDATA[Caption 3]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>slideshow/image4.jpg</asset>
+		<caption><![CDATA[Caption 4]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>slideshow/image5.jpg</asset>
+		<caption><![CDATA[Caption 5]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+</slideshow>

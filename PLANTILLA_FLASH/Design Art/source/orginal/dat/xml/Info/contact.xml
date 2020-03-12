@@ -1,0 +1,6 @@
+<DynamicWeb>
+	<Sections>
+		<online image="dat/Images/Home/img.jpg"/>
+		<offline image="dat/Images/Home/img2.jpg"><font color="#333333"><b>XML Name</b></font><br/><br/>Mobile +33 333 - 6666 333<br/>Email<br/><a href="mailto:demo@demo.com">demo@demo.com</a></offline>
+	</Sections>
+</DynamicWeb>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" pic="im1.jpg"/>
+<item name="Item 2" pic="im2.jpg"/>
+<item name="Item 3" pic="im3.jpg"/>
+
+</gallery>

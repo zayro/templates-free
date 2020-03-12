@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+<configuration 
+
+background_block="no"
+background_img="yes"
+multiple_background="yes"
+Background="background/3.jpg"
+background_color="0x999999"
+grid="yes"
+grid_color="0x333333"
+grid_alpha="10"
+shadow="yes" 
+
+logo_type="image"
+name="Company Name"
+logo="logo/logo.png"
+rights="All rights reserved 2008. Alex Gurghis"
+music="cloudlessDays.mp3"
+
+/>
+
+</config>

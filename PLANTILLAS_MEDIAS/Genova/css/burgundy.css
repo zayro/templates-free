@@ -1,0 +1,7 @@
+h1 { background: url(../images/burgundy/header-bg.png) repeat-x 0 0; }
+#content .article .text { background: #7f1728 url(../images/burgundy/article-bg.png) repeat-x left top; }
+
+h2, a, .info a:hover, #formReturn, #nav li a:hover, #nav li.active a, #nav li.active ul li a:hover,
+#nav li ul li.active a:hover, #sidebar .box:hover h2, #sidebar .box .inner ul li a:hover, #nav li.active ul li.active a { color: #7f1728; }
+
+#content .article p { color: #cfb3b8; }

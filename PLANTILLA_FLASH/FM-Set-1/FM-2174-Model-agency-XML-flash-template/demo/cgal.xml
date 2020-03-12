@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+<gallery id="1" name="Women">
+
+	<image id="1" title="GLORIA MANN" path="gallery/1/1/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="27 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+      <object id="4" thumb="thumb4.jpg" img="img4.jpg"/>
+
+	</image>
+<image id="2" title="INGA NORTH" path="gallery/1/2/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="25 " height="5.1 " waist="25.55 " bust="23 " hairColor="blonde " hairLengs="long " hips="33.3 " shoesSize="6.9 " eyeColour="blye " dress="34 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+      <object id="4" thumb="thumb4.jpg" img="img4.jpg"/>
+
+	</image>
+<image id="3" title="JULIA BERZKALNA" path="gallery/1/3/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="23 " height="6.4 " waist="25.31 " bust="24 " hairColor="blonde " hairLengs="short " hips="33.7 " shoesSize="6.8 " eyeColour="green " dress="34 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+      <object id="4" thumb="thumb4.jpg" img="img4.jpg"/>
+
+	</image>
+<image id="4" title="LAURA STEGNER" path="gallery/1/4/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="26 " height="6.5 " waist="25.45 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="32 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+      
+
+	</image>
+	
+<image id="5" title="MARTA HEALY" path="gallery/1/5/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="24 " height="6.1 " waist="25.75 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="31 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="6" title="DAYLE PETERS" path="gallery/1/6/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="27 " height="6.1 " waist="25.75 " bust="24 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="32 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      
+
+	</image>
+
+<image id="7" title="HELEN TOMPSON" path="gallery/1/7/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="24 " height="6.1 " waist="25.55 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="31 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+<image id="8" title="ANETE PUGA" path="gallery/1/8/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="21 " height="6.1 " waist="25.65 " bust="24 " hairColor="blonde " hairLengs="short " hips="33.6 " shoesSize="6.8 " eyeColour="green " dress="32 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+<image id="9" title="CHANDRA VANCOVA" path="gallery/1/9/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="24 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.8 " shoesSize="6.8 " eyeColour="green " dress="35 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+</gallery>
+
+<gallery id="2" name="Men" path="gallery/2/">
+	<image id="1" title="MARK JOHNSON" path="gallery/2/1/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="25 " height="6.1 " waist="25.75 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.9 " shoesSize="6.8 " eyeColour="green " dress="35 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+      <object id="4" thumb="thumb4.jpg" img="img4.jpg"/>
+
+	</image>
+<image id="2" title="BRADLEY GROSH" path="gallery/2/2/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="27 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+<image id="3" title="PATRICK POOL" path="gallery/2/3/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="28 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.6 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+<image id="4" title="SAM KROMSTAIN" path="gallery/2/4/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="24 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+	
+<image id="5" title="PATRICK POOL" path="gallery/2/5/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="27 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+<image id="6" title="JOHN ANDERSON" path="gallery/2/6/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="25 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+<image id="7" title="SAM KROMSTAIN" path="gallery/2/7/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="26 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="8" title="BRADLEY GROSH" path="gallery/2/8/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="25 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+<image id="9" title="JOHN ANDERSON" path="gallery/2/9/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="28 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+</gallery>
+
+
+<gallery id="3" name="Children" path="gallery/3/">
+	<image id="1" title="MARK" path="gallery/3/1/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="12 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+<image id="2" title="LETIZIA" path="gallery/3/2/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="10 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+<image id="3" title="MARK" path="gallery/3/3/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="13 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+<image id="4" title="NIKKI" path="gallery/3/4/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="12 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+	
+<image id="5" title="WENDY" path="gallery/3/5/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="10 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="6" title="CARMEN" path="gallery/3/6/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="11 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="7" title="ALAN" path="gallery/3/7/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="13 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="8" title="OLIVIA" path="gallery/3/8/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="14 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+
+	</image>
+
+<image id="9" title="PATRICK " path="gallery/3/9/" description="Sed gravida nulla eget eros. Aenean iaculis lacinia orci. Sed accumsan. Nulla viverra." age="10 " height="6.1 " waist="25.35 " bust="25 " hairColor="blonde " hairLengs="short " hips="33.1 " shoesSize="6.8 " eyeColour="green " dress="36 ">
+      <object id="1" thumb="thumb1.jpg" img="img1.jpg"/> 
+      <object id="2" thumb="thumb2.jpg" img="img2.jpg"/>
+      <object id="3" thumb="thumb3.jpg" img="img3.jpg"/>
+
+	</image>
+
+</gallery>
+
+</albums>

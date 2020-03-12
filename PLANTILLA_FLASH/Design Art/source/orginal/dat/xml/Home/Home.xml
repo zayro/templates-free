@@ -1,0 +1,8 @@
+﻿<DynamicWeb>
+	<Sections>
+		<Menu btnName="CLIENTS" p="25" f="Clients" subf="webdesing" subDisplay="on" lefthead="CLIENTS" h="CLIENTSX"></Menu>
+		<Menu btnName="FEATURED PROJECTS" p="35" f="Work" subf="webdesing" subDisplay="on"lefthead="WORK" h="FEATURED PROJECTSX"></Menu>
+		<Menu btnName="CASE STUDY" p="95" f="Work" subf="Case Study" subDisplay="on" lefthead="WORK" h="CASE STUDY"></Menu>
+		<Menu btnName="DOWNLOAD" p="95" f="Work" subf="downloads" subDisplay="on" lefthead="WORK" h="DOWNLOADX"></Menu>
+
+</DynamicWeb>

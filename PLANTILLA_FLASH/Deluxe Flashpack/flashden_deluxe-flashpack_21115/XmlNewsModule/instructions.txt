@@ -1,0 +1,76 @@
+﻿
+
+THANK YOU FOR PURCHASE  MY ACCORDION XML NEWS MODULE
+
+This is a full customizable flash news module by xml. You can edit the follow parameters:
+
+
+* Time for the auto play transitions
+* Date , title and description for each news
+* Photo url path
+* Destination link when you click in each photo
+* Set auto play on or off when module is loaded
+
+
+*FEATURES*
+
+* Full xml driven
+* You can add unlimited number of news
+* Loader for each photo
+* Accordion style transitions
+* Fonts included
+* All code in the fla file is commented
+
+
+
+HOW TO CUSTOMIZE THIS FILE?
+
+1 - In the "xml" folder you need edit gallery.xml file:
+
+    Example for news nr. 1:
+    <Node PhotoUrl="gallery/1.jpg" DateText="07/13/2008" TitleText="XML Title 1" DestUrl="http://flashden.net/user/JorgePires">Description for photo 1 goes here. You can edit by XML the follow parameters: NEWS TITLE, NEWS DATE, DESCRIPTION, LINK URL AND PHOTO URL PATH. Thank you for purchase this file. </Node>
+    
+    PhotoUrl="gallery/1.jpg : Is the path of your photo nr 1, in this case it is in the folder "gallery" ,named 1.jpg
+    Note: you must put your photos in the folder that you define here. Photo Dimensions: 340x300 
+
+    DateText="07/13/2008" : Date for news
+ 
+    TitleText="XML Title 1" : Title in up/right corner or when news is closed
+
+    DestUrl="http://flashden.net/user/JorgePires" : link when you click in the photo nr 1.
+
+    "Description for photo 1 goes here. You can edit by..." : That's it :)
+
+
+2 - To edit time for the autoplay slider open "preview.fla" file and go to first frame in the timeline actions:
+
+    slide = "on"; // slide is on by default, set to off if you want the slide stopped in the first load
+    timer = 6000; // DEFINE HERE SLIDE TIMER DELAY ( 6 SECONDS IN THIS CASE);
+
+
+
+3 - If you need edit fla file, most important symbols are the first ones in the library:
+    1 -  PHOTOS(foto)
+    3 - GALLERY
+    Must important actionscript functions are commented.
+
+
+
+AND THATS ALL, I HOPE YOU ENJOY ;)
+
+
+
+BEST REGARDS,
+Jorge Pires
+
+
+
+
+
+If you need more help, contact me:
+
+jorge@webideias.net
+
+
+
+ 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum.]]></description>
+</item>
+<item name="Item 2" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 3" thumbnail="thumb3.jpg" pic="im3.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET.</font></b> Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 4" thumbnail="thumb4.jpg" pic="im4.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS ETIAM.</font></b> Etiam cursus metus. Nulla facilisi. Aenean nec eros. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum.]]></description>
+</item>
+<item name="Item 5" thumbnail="thumb5.jpg" pic="im5.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel me Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 6" thumbnail="thumb6.jpg" pic="im6.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum.]]></description>
+</item>
+<item name="Item 2" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 3" thumbnail="thumb3.jpg" pic="im3.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET.</font></b> Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 4" thumbnail="thumb4.jpg" pic="im4.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS ETIAM.</font></b> Etiam cursus metus. Nulla facilisi. Aenean nec eros. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum.]]></description>
+</item>
+<item name="Item 5" thumbnail="thumb5.jpg" pic="im5.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel me Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+<item name="Item 6" thumbnail="thumb6.jpg" pic="im6.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b><font color="#ffffff">VIVAMUS EGET NIBH.</font></b> Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></description>
+</item>
+</gallery>

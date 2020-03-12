@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<link type="text">
+		<name><![CDATA[<b>Mission Statement</b>]]></name>
+		<asset>text/mission.xml</asset>
+	</link>
+	<link type="staff">
+		<name><![CDATA[<b>Board of Directors</b>]]></name>
+		<asset>staff/staff.swf</asset>
+	</link>
+	<link type="news">
+		<name><![CDATA[<b>Upcoming Events</b>]]></name>
+		<asset>news/main.swf</asset>
+	</link>
+</menu>

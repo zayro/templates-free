@@ -1,0 +1,2378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiGrid v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-08-28 09:08:00+0000\n"
+"Last-Translator: admin <wwwww@wwwww.www>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:6
+#@ themeton
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:15
+#@ themeton
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:16
+#@ themeton
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: admin/admin-interface.php:92
+#: admin/admin-interface.php:109
+#: admin/comp-admin-interface.php:90
+#: admin/comp-admin-interface.php:107
+#: admin/seo-admin-interface.php:93
+#: admin/seo-admin-interface.php:110
+#@ themeton
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/admin-interface.php:110
+#: admin/comp-admin-interface.php:108
+#: admin/seo-admin-interface.php:111
+#@ themeton
+msgid "Options Reset"
+msgstr ""
+
+#: admin/admin-interface.php:609
+#: admin/comp-admin-interface.php:616
+#: admin/seo-admin-interface.php:653
+#@ themeton
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: admin/admin-interface.php:656
+#: admin/comp-admin-interface.php:663
+#: admin/seo-admin-interface.php:700
+#@ themeton
+msgid "Warning: All of your current options will be replaced with the data from your last backup! Proceed?"
+msgstr ""
+
+#: admin/admin-interface.php:745
+#: admin/comp-admin-interface.php:752
+#: admin/seo-admin-interface.php:789
+#@ themeton
+msgid "Click OK to reset. All settings will be lost!"
+msgstr ""
+
+#: admin/admin-interface.php:1374
+#: admin/comp-admin-interface.php:1365
+#: admin/seo-admin-interface.php:1408
+#@ themeton
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/composer/composer/build.php:190
+#: admin/composer/composer/build.php:198
+#@ js_composer
+msgid "Theme Elements"
+msgstr ""
+
+#: admin/composer/composer/build.php:198
+#@ js_composer
+msgid "Theme Elements Settings"
+msgstr ""
+
+#: admin/composer/composer/lib/helpers.php:12
+#@ js_composer
+msgid "Wrong wpb_map object. Base attribute is required"
+msgstr ""
+
+#: admin/composer/composer/lib/helpers.php:288
+#: admin/composer/composer/lib/helpers.php:308
+#@ js_composer
+msgid "Added"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:15
+#@ js_composer
+msgid "Wrong layout params"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:88
+#: admin/composer/composer/lib/shortcodes.php:319
+#: admin/composer/composer/lib/shortcodes.php:509
+#@ js_composer
+msgid "Save"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:89
+#@ js_composer
+msgid "Save current page as a Template"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:91
+#@ js_composer
+msgid "Load Template"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:100
+#@ js_composer
+msgid "No custom templates yet."
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:161
+#@ js_composer
+msgid "Popular Layouts"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:167
+#@ js_composer
+msgid "Content Elements"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:176
+#@ js_composer
+msgid "Templates"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:203
+#@ js_composer
+msgid "<h2>No content yet! You should add some...</h2>"
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:203
+#@ js_composer
+msgid "<p>Use the buttons under <a href='javascript:open_elements_dropdown();' class='open-dropdown-content-element'><i class='icon'></i> Content Elements</a> on the top or add <a href='#' class='add-text-block-to-content'><i class='icon'></i> Text block</a> with single click."
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:215
+#: admin/composer/composer/lib/layouts.php:242
+#: admin/composer/composer/lib/media_tab.php:118
+#@ js_composer
+msgid "Loading, please wait..."
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:218
+#@ js_composer
+msgid "No content yet! You should add some..."
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:221
+#@ js_composer
+msgid "This is a visual preview of your page. Currently, you don't have any content elements. Use the buttons under <a href='javascript:open_elements_dropdown();' class='open-dropdown-content-element'><i class='icon'></i> Content Elements</a> on the top to add content elements on your page, or add predefined layouts from <a href='javascript:open_layouts_dropdown();' class='open-dropdown-popular-layouts'><i class='icon'></i> Popular Layouts</a>. Alternativly add <a href='#' class='add-text-block-to-content' parent-container='#visual_composer_content'><i class='icon'></i> Text block</a> with single click."
+msgstr ""
+
+#: admin/composer/composer/lib/layouts.php:226
+#@ js_composer
+msgid "Click the pencil icon on the content elements to change their properties."
+msgstr ""
+
+#: admin/composer/composer/lib/mapper.php:25
+#: admin/composer/composer/lib/mapper.php:68
+#@ js_composer
+msgid "Wrong name for shortcode:. Name required"
+msgstr ""
+
+#: admin/composer/composer/lib/mapper.php:27
+#@ js_composer
+msgid "Wrong base for shortcode:. Base required"
+msgstr ""
+
+#: admin/composer/composer/lib/mapper.php:70
+#@ js_composer
+msgid "Wrong attribute for '' shortcode. Attribute 'param_name' required"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:29
+#@ js_composer
+msgid "WPB Images"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:111
+#@ default
+msgid "&laquo;"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:112
+#@ default
+msgid "&raquo;"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:158
+#@ js_composer
+msgid "Click image from media library or drag it to the \"Selected images\" area"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:170
+#@ js_composer
+msgid "or add images from your computer."
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:188
+#@ default
+msgid "Save all changes"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:229
+#@ js_composer
+msgid "Selected images"
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:230
+#@ js_composer
+msgid "Use your mouse to drag images around to place them in the desired order."
+msgstr ""
+
+#: admin/composer/composer/lib/media_tab.php:238
+#@ js_composer
+msgid "Update files list"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/accordion.php:16
+#: admin/composer/composer/lib/shortcodes/accordion.php:35
+#@ js_composer
+msgid "Section"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/accordion.php:91
+#: admin/composer/composer/lib/shortcodes/accordion.php:96
+#: admin/composer/composer/lib/shortcodes/tabs.php:41
+#: admin/composer/composer/lib/shortcodes/tabs.php:47
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:64
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:69
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:154
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:159
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:237
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:242
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:312
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:317
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:383
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:388
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:451
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:456
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:527
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:533
+#: admin/composer/composer/lib/shortcodes.php:47
+#: admin/composer/composer/lib/shortcodes.php:52
+#@ js_composer
+msgid "value"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/buttons.php:20
+#: admin/composer/composer/lib/shortcodes/buttons.php:66
+#: admin/composer/config/map.php:888
+#: admin/composer/config/map.php:892
+#: admin/composer/config/map.php:949
+#: admin/composer/config/map.php:951
+#@ js_composer
+msgid "Text on the button"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/default.php:59
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:741
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:787
+#: admin/composer/config/map.php:97
+#: admin/composer/config/map.php:100
+#@ js_composer
+msgid "Title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/default.php:95
+#@ js_composer
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:94
+#@ js_composer
+msgid "Hello World"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:102
+#@ js_composer
+msgid "Foo attribute"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:104
+#@ js_composer
+msgid "I'm foo attribute"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:105
+#@ js_composer
+msgid "Enter foo value."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:111
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:826
+#: admin/composer/config/map.php:20
+#: admin/composer/config/map.php:1012
+#@ js_composer
+msgid "Text"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:113
+#@ js_composer
+msgid "I'm hello world"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:114
+#: admin/composer/config/map.php:23
+#: admin/composer/config/map.php:1015
+#@ js_composer
+msgid "Enter your content."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:118
+#@ js_composer
+msgid "Drop down example"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/example.php:121
+#@ js_composer
+msgid "One, two or three?"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/images_galleries.php:165
+#@ js_composer
+msgid "No image yet! Click here to select it now."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/posts_slider.php:150
+#@ js_composer
+msgid "No Featured image set."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/posts_slider.php:155
+#: admin/composer/composer/lib/shortcodes/teaser_grid.php:172
+#: admin/composer/composer/lib/shortcodes/teaser_grid.php:175
+#: admin/composer/composer/lib/shortcodes/teaser_grid.php:176
+#, php-format
+#@ js_composer
+msgid "Permalink to %s"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/posts_slider.php:188
+#: admin/composer/composer/lib/shortcodes/teaser_grid.php:295
+#@ js_composer
+msgid "Nothing found."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/social.php:35
+#@ js_composer
+msgid "Follow us on twitter"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/social.php:68
+#@ js_composer
+msgid "Tweet"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/tabs.php:8
+#: admin/composer/composer/lib/shortcodes/tabs.php:20
+#@ js_composer
+msgid "Tab"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/tabs.php:141
+#@ default
+msgid "Previous slide"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/tabs.php:141
+#@ default
+msgid "Next slide"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/teaser_grid.php:171
+#@ themeton
+msgid "View project"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:497
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:875
+#@ js_composer
+msgid "Testimonials"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:506
+#@ js_composer
+msgid "Testimonial"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:629
+#@ js_composer
+msgid "Table"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:636
+#@ js_composer
+msgid "Select table style"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:639
+#@ js_composer
+msgid ""
+"\n"
+"                <p><b>Default table: </b>No styles, just columns and rows</p>\n"
+"                <p><b>Striped table: </b>Only horizontal lines between rows</p>\n"
+"                <p><b>Bordered table: </b>Rounds corners and adds outer border</p>\n"
+"                <p><b>Condensed table: </b>Adds light gray background color to odd rows (1, 3, 5, etc)</p>\n"
+"                <p><b>Combine them all!: </b>Cuts vertical padding in half, from 8px to 4px, within all td and th elements</p>\n"
+"            "
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:650
+#@ js_composer
+msgid "Table content"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:682
+#@ js_composer
+msgid "Table content."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:686
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:722
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:769
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:808
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:840
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:865
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:897
+#: admin/composer/config/map.php:27
+#: admin/composer/config/map.php:68
+#: admin/composer/config/map.php:112
+#: admin/composer/config/map.php:149
+#: admin/composer/config/map.php:277
+#: admin/composer/config/map.php:406
+#: admin/composer/config/map.php:465
+#: admin/composer/config/map.php:516
+#: admin/composer/config/map.php:825
+#: admin/composer/config/map.php:930
+#: admin/composer/config/map.php:1019
+#: admin/composer/config/map.php:1059
+#: admin/composer/config/map.php:1111
+#@ js_composer
+msgid "Extra class name"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:689
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:725
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:772
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:811
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:843
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:868
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:900
+#: admin/composer/config/map.php:30
+#: admin/composer/config/map.php:71
+#: admin/composer/config/map.php:115
+#: admin/composer/config/map.php:152
+#: admin/composer/config/map.php:280
+#: admin/composer/config/map.php:409
+#: admin/composer/config/map.php:468
+#: admin/composer/config/map.php:519
+#: admin/composer/config/map.php:828
+#: admin/composer/config/map.php:933
+#: admin/composer/config/map.php:1022
+#: admin/composer/config/map.php:1062
+#: admin/composer/config/map.php:1114
+#@ js_composer
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:696
+#@ js_composer
+msgid "Progress bars"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:704
+#@ js_composer
+msgid "Select progress style"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:707
+#@ js_composer
+msgid ""
+"\n"
+"                <p><b>Basic: </b>Default progress bar with a vertical gradient.</p>\n"
+"                <p><b>Striped: </b>Uses a gradient to create a striped effect (no IE).</p>\n"
+"                <p><b>Animated: </b>Takes the striped example and animates it (no IE).</p>\n"
+"            "
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:715
+#@ js_composer
+msgid "Progress size"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:718
+#@ js_composer
+msgid "Enter progress size. Example: 0-100"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:733
+#@ js_composer
+msgid "Hero unit"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:744
+#@ js_composer
+msgid "Hero unit title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:748
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:751
+#@ js_composer
+msgid "Tagline"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:755
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:758
+#@ js_composer
+msgid "Button text"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:762
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:765
+#@ js_composer
+msgid "Button URL"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:779
+#@ js_composer
+msgid "Popover"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:790
+#@ js_composer
+msgid "Popover title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:794
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:833
+#@ js_composer
+msgid "Content"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:797
+#@ js_composer
+msgid "Popover content"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:801
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:804
+#@ js_composer
+msgid "Popover text"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:818
+#@ js_composer
+msgid "Tooltip"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:829
+#@ js_composer
+msgid "Tooltip title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:836
+#@ js_composer
+msgid "Tooltip content"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:850
+#@ js_composer
+msgid "Space"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:858
+#@ js_composer
+msgid "Space heigh"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:861
+#@ js_composer
+msgid "Enter space height"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:883
+#: admin/composer/config/map.php:47
+#: admin/composer/config/map.php:392
+#: admin/composer/config/map.php:451
+#: admin/composer/config/map.php:509
+#: admin/composer/config/map.php:811
+#: admin/composer/config/map.php:1038
+#: admin/composer/config/map.php:1077
+#@ js_composer
+msgid "Widget title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:886
+#: admin/composer/config/map.php:50
+#: admin/composer/config/map.php:395
+#: admin/composer/config/map.php:454
+#: admin/composer/config/map.php:512
+#: admin/composer/config/map.php:814
+#@ js_composer
+msgid "What text use as widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:890
+#: admin/composer/config/map.php:399
+#: admin/composer/config/map.php:458
+#@ js_composer
+msgid "Auto rotate slides"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:893
+#: admin/composer/config/map.php:402
+#: admin/composer/config/map.php:461
+#@ js_composer
+msgid "Auto rotate slides each X seconds. Select 0 to disable."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:905
+#@ js_composer
+msgid "Add testimonial"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:906
+#@ js_composer
+msgid "Edit current testimonial title"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:907
+#@ js_composer
+msgid "Delete current testimonial"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:915
+#@ js_composer
+msgid "Testimonial 1"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:916
+#@ js_composer
+msgid "Testimonial 2"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:920
+#: admin/composer/composer/lib/shortcodes/theme_elements.php:924
+#: admin/composer/config/map.php:429
+#: admin/composer/config/map.php:433
+#: admin/composer/config/map.php:488
+#: admin/composer/config/map.php:492
+#: admin/composer/config/map.php:537
+#: admin/composer/config/map.php:545
+#@ js_composer
+msgid "I am text block. Click edit button to change this text."
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:209
+#@ js_composer
+msgid "Decrease width"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:209
+#@ js_composer
+msgid "Increase width"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:211
+#: admin/composer/composer/lib/shortcodes.php:304
+#: admin/composer/composer/lib/shortcodes.php:494
+#@ js_composer
+msgid "Edit"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:212
+#@ js_composer
+msgid "Pop up"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:213
+#@ js_composer
+msgid "Clone"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:213
+#@ js_composer
+msgid "Delete"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:330
+#@ js_composer
+msgid "heading"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:334
+#@ js_composer
+msgid "description"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:406
+#@ js_composer
+msgid "Add images"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:421
+#@ js_composer
+msgid "Add image"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:440
+#@ js_composer
+msgid "name"
+msgstr ""
+
+#: admin/composer/composer/lib/shortcodes.php:509
+#: framework/admin/lib/themeton_mega_menu.php:470
+#@ js_composer
+#@ tt-framework
+msgid "Cancel"
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:37
+#@ js_composer
+msgid "Theme Elements Settings VVVervsion"
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:43
+#@ js_composer
+msgid "Content types"
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:46
+#@ js_composer
+msgid "Post types"
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:67
+#@ js_composer
+msgid "Select for which content types Theme Elements should be available during post creation/editing."
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:80
+#@ js_composer
+msgid "Thank you"
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:81
+#@ js_composer
+msgid "Theme Elements will save you a lot of time while working with your sites content."
+msgstr ""
+
+#: admin/composer/composer/settings/js_composer_settings_menu.php:82
+#@ js_composer
+msgid "If you have comments or simply want to say \"Hi\", please check <a href=\"http://wpbakery.com/vc/\" title=\"\" target=\"_blank\">plugins homepage</a>."
+msgstr ""
+
+#: admin/composer/config/map.php:9
+#@ js_composer
+msgid "Text block"
+msgstr ""
+
+#: admin/composer/config/map.php:22
+#@ js_composer
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: admin/composer/config/map.php:40
+#@ js_composer
+msgid "Twitter widget"
+msgstr ""
+
+#: admin/composer/config/map.php:54
+#@ js_composer
+msgid "Twitter name"
+msgstr ""
+
+#: admin/composer/config/map.php:57
+#@ js_composer
+msgid "Type in twitter profile name from which load tweets."
+msgstr ""
+
+#: admin/composer/config/map.php:61
+#@ js_composer
+msgid "Tweets count"
+msgstr ""
+
+#: admin/composer/config/map.php:64
+#@ js_composer
+msgid "How many recent tweets to load."
+msgstr ""
+
+#: admin/composer/config/map.php:79
+#@ js_composer
+msgid "Separator (Divider)"
+msgstr ""
+
+#: admin/composer/config/map.php:89
+#@ js_composer
+msgid "Separator (Divider) with text"
+msgstr ""
+
+#: admin/composer/config/map.php:101
+#@ js_composer
+msgid "Separator title."
+msgstr ""
+
+#: admin/composer/config/map.php:105
+#@ js_composer
+msgid "Title position"
+msgstr ""
+
+#: admin/composer/config/map.php:107
+#@ js_composer
+msgid "Align center"
+msgstr ""
+
+#: admin/composer/config/map.php:107
+#: admin/composer/config/map.php:991
+#@ js_composer
+msgid "Align left"
+msgstr ""
+
+#: admin/composer/config/map.php:107
+#: admin/composer/config/map.php:991
+#@ js_composer
+msgid "Align right"
+msgstr ""
+
+#: admin/composer/config/map.php:108
+#@ js_composer
+msgid "Select title location."
+msgstr ""
+
+#: admin/composer/config/map.php:124
+#@ js_composer
+msgid "Message box"
+msgstr ""
+
+#: admin/composer/config/map.php:133
+#@ js_composer
+msgid "Message box type"
+msgstr ""
+
+#: admin/composer/config/map.php:135
+#@ js_composer
+msgid "Informational"
+msgstr ""
+
+#: admin/composer/config/map.php:135
+#@ js_composer
+msgid "Warning"
+msgstr ""
+
+#: admin/composer/config/map.php:135
+#@ js_composer
+msgid "Success"
+msgstr ""
+
+#: admin/composer/config/map.php:135
+#@ js_composer
+msgid "Error"
+msgstr ""
+
+#: admin/composer/config/map.php:136
+#@ js_composer
+msgid "Select message type."
+msgstr ""
+
+#: admin/composer/config/map.php:142
+#@ js_composer
+msgid "Message text"
+msgstr ""
+
+#: admin/composer/config/map.php:144
+#@ js_composer
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: admin/composer/config/map.php:145
+#@ js_composer
+msgid "Message text."
+msgstr ""
+
+#: admin/composer/config/map.php:161
+#@ js_composer
+msgid "Facebook like"
+msgstr ""
+
+#: admin/composer/config/map.php:169
+#: admin/composer/config/map.php:188
+#@ js_composer
+msgid "Button type"
+msgstr ""
+
+#: admin/composer/config/map.php:171
+#: admin/composer/config/map.php:209
+#@ js_composer
+msgid "Standard"
+msgstr ""
+
+#: admin/composer/config/map.php:171
+#@ js_composer
+msgid "Button count"
+msgstr ""
+
+#: admin/composer/config/map.php:171
+#@ js_composer
+msgid "Box count"
+msgstr ""
+
+#: admin/composer/config/map.php:172
+#: admin/composer/config/map.php:191
+#: admin/composer/config/map.php:210
+#: admin/composer/config/map.php:236
+#@ js_composer
+msgid "Select button type."
+msgstr ""
+
+#: admin/composer/config/map.php:180
+#@ js_composer
+msgid "Tweetmeme button"
+msgstr ""
+
+#: admin/composer/config/map.php:190
+#: admin/composer/config/map.php:235
+#@ js_composer
+msgid "Horizontal"
+msgstr ""
+
+#: admin/composer/config/map.php:190
+#: admin/composer/config/map.php:235
+#@ js_composer
+msgid "Vertical"
+msgstr ""
+
+#: admin/composer/config/map.php:190
+#: admin/composer/config/map.php:216
+#: admin/composer/config/map.php:837
+#@ js_composer
+msgid "None"
+msgstr ""
+
+#: admin/composer/config/map.php:199
+#@ js_composer
+msgid "Google+ button"
+msgstr ""
+
+#: admin/composer/config/map.php:207
+#@ js_composer
+msgid "Button size"
+msgstr ""
+
+#: admin/composer/config/map.php:209
+#: admin/composer/config/map.php:875
+#@ js_composer
+msgid "Small"
+msgstr ""
+
+#: admin/composer/config/map.php:209
+#@ js_composer
+msgid "Medium"
+msgstr ""
+
+#: admin/composer/config/map.php:209
+#@ js_composer
+msgid "Tall"
+msgstr ""
+
+#: admin/composer/config/map.php:214
+#@ js_composer
+msgid "Annotation"
+msgstr ""
+
+#: admin/composer/config/map.php:216
+#@ js_composer
+msgid "Inline"
+msgstr ""
+
+#: admin/composer/config/map.php:216
+#@ js_composer
+msgid "Bubble"
+msgstr ""
+
+#: admin/composer/config/map.php:217
+#@ js_composer
+msgid "Select annotation type."
+msgstr ""
+
+#: admin/composer/config/map.php:225
+#@ js_composer
+msgid "Pinterest button"
+msgstr ""
+
+#: admin/composer/config/map.php:233
+#@ js_composer
+msgid "Button layout"
+msgstr ""
+
+#: admin/composer/config/map.php:235
+#@ js_composer
+msgid "No count"
+msgstr ""
+
+#: admin/composer/config/map.php:244
+#@ js_composer
+msgid "FAQ (Toggle)"
+msgstr ""
+
+#: admin/composer/config/map.php:254
+#: admin/composer/config/map.php:256
+#@ js_composer
+msgid "Toggle title"
+msgstr ""
+
+#: admin/composer/config/map.php:257
+#@ js_composer
+msgid "Toggle block title."
+msgstr ""
+
+#: admin/composer/config/map.php:263
+#@ js_composer
+msgid "Toggle content"
+msgstr ""
+
+#: admin/composer/config/map.php:265
+#@ js_composer
+msgid "<p>Toggle content goes here, click edit button.</p>"
+msgstr ""
+
+#: admin/composer/config/map.php:266
+#@ js_composer
+msgid "Toggle block content."
+msgstr ""
+
+#: admin/composer/config/map.php:270
+#@ js_composer
+msgid "Default state"
+msgstr ""
+
+#: admin/composer/config/map.php:272
+#@ js_composer
+msgid "Closed"
+msgstr ""
+
+#: admin/composer/config/map.php:272
+#@ js_composer
+msgid "Open"
+msgstr ""
+
+#: admin/composer/config/map.php:273
+#@ js_composer
+msgid "Select this if you want toggle to be open by default."
+msgstr ""
+
+#: admin/composer/config/map.php:287
+#@ js_composer
+msgid "Single image"
+msgstr ""
+
+#: admin/composer/config/map.php:294
+#@ js_composer
+msgid "Image"
+msgstr ""
+
+#: admin/composer/config/map.php:302
+#@ js_composer
+msgid "Image size"
+msgstr ""
+
+#: admin/composer/config/map.php:305
+#@ js_composer
+msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: admin/composer/config/map.php:384
+#@ js_composer
+msgid "Tabs"
+msgstr ""
+
+#: admin/composer/config/map.php:414
+#@ js_composer
+msgid "Add tab"
+msgstr ""
+
+#: admin/composer/config/map.php:415
+#@ js_composer
+msgid "Edit current tab title"
+msgstr ""
+
+#: admin/composer/config/map.php:416
+#@ js_composer
+msgid "Delete current tab"
+msgstr ""
+
+#: admin/composer/config/map.php:424
+#@ js_composer
+msgid "Tab 1"
+msgstr ""
+
+#: admin/composer/config/map.php:425
+#@ js_composer
+msgid "Tab 2"
+msgstr ""
+
+#: admin/composer/config/map.php:442
+#@ js_composer
+msgid "Tour section"
+msgstr ""
+
+#: admin/composer/config/map.php:473
+#@ js_composer
+msgid "Add slide"
+msgstr ""
+
+#: admin/composer/config/map.php:474
+#@ js_composer
+msgid "Edit current slide title"
+msgstr ""
+
+#: admin/composer/config/map.php:475
+#@ js_composer
+msgid "Delete current slide"
+msgstr ""
+
+#: admin/composer/config/map.php:483
+#@ js_composer
+msgid "Slide 1"
+msgstr ""
+
+#: admin/composer/config/map.php:484
+#@ js_composer
+msgid "Slide 2"
+msgstr ""
+
+#: admin/composer/config/map.php:500
+#@ js_composer
+msgid "Accordion section"
+msgstr ""
+
+#: admin/composer/config/map.php:524
+#@ js_composer
+msgid "Add section"
+msgstr ""
+
+#: admin/composer/config/map.php:525
+#@ js_composer
+msgid "Edit current section title"
+msgstr ""
+
+#: admin/composer/config/map.php:526
+#@ js_composer
+msgid "Delete current section"
+msgstr ""
+
+#: admin/composer/config/map.php:534
+#@ js_composer
+msgid "Section 1"
+msgstr ""
+
+#: admin/composer/config/map.php:542
+#@ js_composer
+msgid "Section 2"
+msgstr ""
+
+#: admin/composer/config/map.php:803
+#@ js_composer
+msgid "Widgetised Sidebar"
+msgstr ""
+
+#: admin/composer/config/map.php:818
+#@ js_composer
+msgid "Sidebar"
+msgstr ""
+
+#: admin/composer/config/map.php:821
+#@ js_composer
+msgid "Select which widget area output."
+msgstr ""
+
+#: admin/composer/config/map.php:838
+#@ js_composer
+msgid "Address book icon"
+msgstr ""
+
+#: admin/composer/config/map.php:839
+#@ js_composer
+msgid "Alarm clock icon"
+msgstr ""
+
+#: admin/composer/config/map.php:840
+#@ js_composer
+msgid "Anchor icon"
+msgstr ""
+
+#: admin/composer/config/map.php:841
+#@ js_composer
+msgid "Application Image icon"
+msgstr ""
+
+#: admin/composer/config/map.php:842
+#@ js_composer
+msgid "Arrow icon"
+msgstr ""
+
+#: admin/composer/config/map.php:843
+#@ js_composer
+msgid "Asterisk icon"
+msgstr ""
+
+#: admin/composer/config/map.php:844
+#@ js_composer
+msgid "Hammer icon"
+msgstr ""
+
+#: admin/composer/config/map.php:845
+#@ js_composer
+msgid "Balloon icon"
+msgstr ""
+
+#: admin/composer/config/map.php:846
+#@ js_composer
+msgid "Balloon Buzz icon"
+msgstr ""
+
+#: admin/composer/config/map.php:847
+#@ js_composer
+msgid "Balloon Facebook icon"
+msgstr ""
+
+#: admin/composer/config/map.php:848
+#@ js_composer
+msgid "Balloon Twitter icon"
+msgstr ""
+
+#: admin/composer/config/map.php:849
+#@ js_composer
+msgid "Battery icon"
+msgstr ""
+
+#: admin/composer/config/map.php:850
+#@ js_composer
+msgid "Binocular icon"
+msgstr ""
+
+#: admin/composer/config/map.php:851
+#@ js_composer
+msgid "Document Excel icon"
+msgstr ""
+
+#: admin/composer/config/map.php:852
+#@ js_composer
+msgid "Document Image icon"
+msgstr ""
+
+#: admin/composer/config/map.php:853
+#@ js_composer
+msgid "Document Music icon"
+msgstr ""
+
+#: admin/composer/config/map.php:854
+#@ js_composer
+msgid "Document Office icon"
+msgstr ""
+
+#: admin/composer/config/map.php:855
+#@ js_composer
+msgid "Document PDF icon"
+msgstr ""
+
+#: admin/composer/config/map.php:856
+#@ js_composer
+msgid "Document Powerpoint icon"
+msgstr ""
+
+#: admin/composer/config/map.php:857
+#@ js_composer
+msgid "Document Word icon"
+msgstr ""
+
+#: admin/composer/config/map.php:858
+#@ js_composer
+msgid "Bookmark icon"
+msgstr ""
+
+#: admin/composer/config/map.php:859
+#@ js_composer
+msgid "Camcorder icon"
+msgstr ""
+
+#: admin/composer/config/map.php:860
+#@ js_composer
+msgid "Camera icon"
+msgstr ""
+
+#: admin/composer/config/map.php:861
+#@ js_composer
+msgid "Chart icon"
+msgstr ""
+
+#: admin/composer/config/map.php:862
+#@ js_composer
+msgid "Chart pie icon"
+msgstr ""
+
+#: admin/composer/config/map.php:863
+#@ js_composer
+msgid "Clock icon"
+msgstr ""
+
+#: admin/composer/config/map.php:864
+#@ js_composer
+msgid "Fire icon"
+msgstr ""
+
+#: admin/composer/config/map.php:865
+#@ js_composer
+msgid "Heart icon"
+msgstr ""
+
+#: admin/composer/config/map.php:866
+#@ js_composer
+msgid "Mail icon"
+msgstr ""
+
+#: admin/composer/config/map.php:867
+#@ js_composer
+msgid "Play icon"
+msgstr ""
+
+#: admin/composer/config/map.php:868
+#@ js_composer
+msgid "Shield icon"
+msgstr ""
+
+#: admin/composer/config/map.php:869
+#@ js_composer
+msgid "Video icon"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Grey"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Blue"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Turquoise"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Green"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Orange"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Red"
+msgstr ""
+
+#: admin/composer/config/map.php:873
+#@ js_composer
+msgid "Black"
+msgstr ""
+
+#: admin/composer/config/map.php:875
+#@ js_composer
+msgid "Regular size"
+msgstr ""
+
+#: admin/composer/config/map.php:875
+#@ js_composer
+msgid "Large"
+msgstr ""
+
+#: admin/composer/config/map.php:875
+#@ js_composer
+msgid "Mini"
+msgstr ""
+
+#: admin/composer/config/map.php:877
+#@ js_composer
+msgid "Same window"
+msgstr ""
+
+#: admin/composer/config/map.php:877
+#@ js_composer
+msgid "New window"
+msgstr ""
+
+#: admin/composer/config/map.php:880
+#@ js_composer
+msgid "Button"
+msgstr ""
+
+#: admin/composer/config/map.php:893
+#: admin/composer/config/map.php:952
+#@ js_composer
+msgid "Text on the button."
+msgstr ""
+
+#: admin/composer/config/map.php:897
+#: admin/composer/config/map.php:956
+#@ js_composer
+msgid "URL (Link)"
+msgstr ""
+
+#: admin/composer/config/map.php:900
+#: admin/composer/config/map.php:959
+#@ js_composer
+msgid "Button link."
+msgstr ""
+
+#: admin/composer/config/map.php:904
+#: admin/composer/config/map.php:963
+#@ js_composer
+msgid "Color"
+msgstr ""
+
+#: admin/composer/config/map.php:907
+#: admin/composer/config/map.php:966
+#@ js_composer
+msgid "Button color."
+msgstr ""
+
+#: admin/composer/config/map.php:911
+#: admin/composer/config/map.php:970
+#@ js_composer
+msgid "Size"
+msgstr ""
+
+#: admin/composer/config/map.php:914
+#: admin/composer/config/map.php:973
+#@ js_composer
+msgid "Button size."
+msgstr ""
+
+#: admin/composer/config/map.php:918
+#: admin/composer/config/map.php:977
+#@ js_composer
+msgid "Icon"
+msgstr ""
+
+#: admin/composer/config/map.php:924
+#: admin/composer/config/map.php:983
+#@ js_composer
+msgid "Target"
+msgstr ""
+
+#: admin/composer/config/map.php:941
+#@ js_composer
+msgid "Call to action button"
+msgstr ""
+
+#: admin/composer/config/map.php:989
+#@ js_composer
+msgid "Button position"
+msgstr ""
+
+#: admin/composer/config/map.php:991
+#@ js_composer
+msgid "Align bottom"
+msgstr ""
+
+#: admin/composer/config/map.php:992
+#: admin/composer/config/map.php:1101
+#@ js_composer
+msgid "Select button alignment."
+msgstr ""
+
+#: admin/composer/config/map.php:996
+#: admin/composer/config/map.php:999
+#@ js_composer
+msgid "Show button"
+msgstr ""
+
+#: admin/composer/config/map.php:1003
+#@ js_composer
+msgid "Button margin top"
+msgstr ""
+
+#: admin/composer/config/map.php:1006
+#@ js_composer
+msgid "Button margin top size. (0 or 15px)"
+msgstr ""
+
+#: admin/composer/config/map.php:1014
+#@ js_composer
+msgid "Click edit button to change this text."
+msgstr ""
+
+#: admin/composer/config/map.php:1031
+#@ js_composer
+msgid "Video player"
+msgstr ""
+
+#: admin/composer/config/map.php:1041
+#: admin/composer/config/map.php:1080
+#@ js_composer
+msgid "Heading text. Leave it empty if not needed."
+msgstr ""
+
+#: admin/composer/config/map.php:1045
+#@ js_composer
+msgid "Video link"
+msgstr ""
+
+#: admin/composer/config/map.php:1048
+#@ js_composer
+msgid "Link to the video. More about supported formats at <a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">WordPress codex page</a>."
+msgstr ""
+
+#: admin/composer/config/map.php:1052
+#@ js_composer
+msgid "Video size"
+msgstr ""
+
+#: admin/composer/config/map.php:1055
+#@ js_composer
+msgid "Enter video size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: admin/composer/config/map.php:1070
+#@ js_composer
+msgid "Google maps"
+msgstr ""
+
+#: admin/composer/config/map.php:1084
+#@ js_composer
+msgid "Google map link"
+msgstr ""
+
+#: admin/composer/config/map.php:1087
+#@ js_composer
+msgid "Link to your map. Visit <a href=\"http://maps.google.com\" target=\"_blank\">Google maps</a> find your address and then click \"Link\" button to obtain your map link."
+msgstr ""
+
+#: admin/composer/config/map.php:1091
+#@ js_composer
+msgid "Map height"
+msgstr ""
+
+#: admin/composer/config/map.php:1094
+#@ js_composer
+msgid "Enter map height in pixels. Example: 200)."
+msgstr ""
+
+#: admin/composer/config/map.php:1098
+#@ js_composer
+msgid "Map type"
+msgstr ""
+
+#: admin/composer/config/map.php:1100
+#@ js_composer
+msgid "Map"
+msgstr ""
+
+#: admin/composer/config/map.php:1100
+#@ js_composer
+msgid "Satellite"
+msgstr ""
+
+#: admin/composer/config/map.php:1100
+#@ js_composer
+msgid "Map + Terrain"
+msgstr ""
+
+#: admin/composer/config/map.php:1105
+#@ js_composer
+msgid "Map Zoom"
+msgstr ""
+
+#: admin/composer/config/map.php:1107
+#@ js_composer
+msgid "14 - Default"
+msgstr ""
+
+#: admin/composer/config/map.php:1120
+#@ js_composer
+msgid "Raw html"
+msgstr ""
+
+#: admin/composer/config/map.php:1131
+#@ js_composer
+msgid "Raw HTML"
+msgstr ""
+
+#: admin/composer/config/map.php:1134
+#@ js_composer
+msgid "Enter your HTML content."
+msgstr ""
+
+#: admin/composer/config/map.php:1140
+#: admin/composer/config/map.php:1151
+#@ js_composer
+msgid "Raw js"
+msgstr ""
+
+#: admin/composer/config/map.php:1154
+#@ js_composer
+msgid "Enter your Js."
+msgstr ""
+
+#: admin/medialibrary-uploader.php:16
+#@ themeton
+msgid "Options"
+msgstr ""
+
+#: admin/medialibrary-uploader.php:208
+#@ themeton
+msgid "Gallery"
+msgstr ""
+
+#: admin/medialibrary-uploader.php:208
+#@ themeton
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/seo-admin-interface.php:43
+#@ themeton
+msgid "Theme Options"
+msgstr ""
+
+#: admin/seo.php:62
+#@ themeton
+msgid "SEO title"
+msgstr ""
+
+#: admin/seo.php:62
+#@ themeton
+msgid "The <tt>Title</tt> field contains the information that will appear in the &lt;title&gt; tag of the page’s HTML. This is the title that appears at the top of your browser window, and is the title that is visible in search engine results pages (SERPs). For optimum SEO purposes, this should be a unique value for each and every page."
+msgstr ""
+
+#: admin/seo.php:63
+#@ themeton
+msgid "SEO description"
+msgstr ""
+
+#: admin/seo.php:63
+#@ themeton
+msgid "This field contains the information that will appear in the ‘description’ meta tag of the HTML. Typically this information will appear as a page summary on SERPs, and best practices dictate that this be unique for every page as well."
+msgstr ""
+
+#: admin/seo.php:64
+#@ themeton
+msgid "SEO keywords"
+msgstr ""
+
+#: admin/seo.php:64
+#@ themeton
+msgid "The <tt>Keywords</tt> field contains the information that will appear in the ‘keywords’ meta tag of the HTML. Best practices dictate that the list of keywords should be unique for each page, and ideally be comma-separated with each word capitalized."
+msgstr ""
+
+#: admin/seo.php:65
+#@ themeton
+msgid "SEO index"
+msgstr ""
+
+#: admin/seo.php:65
+#@ themeton
+msgid "This option helps you to specify the way your page will be crawled by the search engine."
+msgstr ""
+
+#: admin/seo.php:66
+#@ themeton
+msgid "SEO follow"
+msgstr ""
+
+#: admin/seo.php:66
+#@ themeton
+msgid "This option helps you to specify the way your page will be crawl the rest of the pages."
+msgstr ""
+
+#: admin/seo.php:72
+#: admin/seo.php:82
+#@ themeton
+msgid "SEO Options"
+msgstr ""
+
+#: archive.php:6
+#@ themeton
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:8
+#@ themeton
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:10
+#@ themeton
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:12
+#@ themeton
+msgid "Blog Archives"
+msgstr ""
+
+#: category.php:5
+#@ themeton
+msgid "Category"
+msgstr ""
+
+#: comments.php:24
+#@ themeton
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:33
+#@ themeton
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:33
+#@ themeton
+msgid "Responses to"
+msgstr ""
+
+#: comments.php:60
+#@ themeton
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+#@ themeton
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+#@ themeton
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:71
+#, php-format
+#@ themeton
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:71
+#@ themeton
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:71
+#@ themeton
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:75
+#@ themeton
+msgid "Name"
+msgstr ""
+
+#: comments.php:80
+#@ themeton
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+#@ themeton
+msgid "Website"
+msgstr ""
+
+#: comments.php:92
+#@ themeton
+msgid "Comment"
+msgstr ""
+
+#: comments.php:98
+#@ themeton
+msgid "Submit Comment"
+msgstr ""
+
+#: content-single.php:15
+#: post-title.php:4
+#, php-format
+#@ themeton
+msgid "%s"
+msgstr ""
+
+#: content-single.php:19
+#@ themeton
+msgid " ago"
+msgstr ""
+
+#: content-single.php:19
+#@ themeton
+msgid "by"
+msgstr ""
+
+#: content-single.php:19
+#@ themeton
+msgid "in"
+msgstr ""
+
+#: footer.php:8
+#@ themeton
+msgid "TOP"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/admin/lib/themeton_mega_menu.php:338
+#, php-format
+#@ default
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:363
+#@ tt-framework
+msgid "Column"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:364
+#@ tt-framework
+msgid "(Mega Menu)"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:365
+#@ tt-framework
+msgid "Widget"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:368
+#: framework/admin/lib/themeton_mega_menu.php:370
+#@ tt-framework
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:380
+#@ tt-framework
+msgid "URL"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:387
+#@ tt-framework
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:393
+#@ tt-framework
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:399
+#@ tt-framework
+msgid "Subtitle"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:405
+#@ tt-framework
+msgid "Link Target"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:407
+#@ tt-framework
+msgid "Same window or tab"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:408
+#@ tt-framework
+msgid "New window or tab"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:414
+#@ tt-framework
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:420
+#@ tt-framework
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:426
+#@ tt-framework
+msgid "Description"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:428
+#@ tt-framework
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:453
+#@ tt-framework
+msgid "Original:"
+msgstr ""
+
+#: framework/admin/lib/themeton_mega_menu.php:466
+#@ tt-framework
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/admin/category_option.php:5
+#@ themeton
+msgid "Category color"
+msgstr ""
+
+#: framework/includes/admin/category_option.php:5
+#@ themeton
+msgid "The background color of posts in this category."
+msgstr ""
+
+#: framework/includes/admin/category_option.php:6
+#@ themeton
+msgid "Is background color Dark? Or Light?"
+msgstr ""
+
+#: framework/includes/admin/category_option.php:6
+#: framework/multigrid.php:147
+#@ themeton
+msgid "This option controls your text color. If you pick darker color on previous field, you should select here dark choice. Then your text show white color."
+msgstr ""
+
+#: framework/includes/admin/post_format.php:9
+#@ themeton
+msgid "Post format fields"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:26
+#@ themeton
+msgid "Add video embed"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:31
+#@ themeton
+msgid "Example: <br/>&lt;frame src=\"http://player.vimeo.com/video/22379296?byline=0\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:42
+#@ themeton
+msgid "Is Audio Embedded?"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:52
+#@ themeton
+msgid "Post format audio url here"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:59
+#@ themeton
+msgid "Please upload only MP3 file, copy and paste audio url on the field. Insert into button doen't work, because uploader can work with only images."
+msgstr ""
+
+#: framework/includes/admin/post_format.php:63
+#@ themeton
+msgid "Add audio embed"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:75
+#@ themeton
+msgid "Status ULR"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:80
+#@ themeton
+msgid "Please provide here Twitter or Instagram url. Also you can put here some oEmbed links those provided for <a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">WordPress embed</a>"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:90
+#@ themeton
+msgid "Quote author"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:96
+#@ themeton
+msgid "Link"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:102
+#: framework/includes/admin/post_format.php:138
+#@ themeton
+msgid "Link target"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:114
+#@ themeton
+msgid "Quote text"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:126
+#@ themeton
+msgid "Link name"
+msgstr ""
+
+#: framework/includes/admin/post_format.php:132
+#@ themeton
+msgid "Link URL"
+msgstr ""
+
+#: framework/includes/functions.php:175
+#: functions.php:409
+#, php-format
+#@ twentyeleven
+#@ themeton
+msgid "Page %s"
+msgstr ""
+
+#: framework/includes/functions.php:253
+#@ themeton
+msgid "Select page"
+msgstr ""
+
+#: framework/includes/metaboxes/slide_meta.php:129
+#@ themeton
+msgid "Add another"
+msgstr ""
+
+#: framework/includes/metaboxes/slide_meta.php:155
+#@ themeton
+msgid "Slide image"
+msgstr ""
+
+#: framework/includes/metaboxes/slide_meta.php:159
+#@ themeton
+msgid "Upload"
+msgstr ""
+
+#: framework/multigrid.php:115
+#@ themeton
+msgid "Featured image slider"
+msgstr ""
+
+#: framework/multigrid.php:127
+#@ themeton
+msgid "If turn it ON, your page shows with title on top."
+msgstr ""
+
+#: framework/multigrid.php:127
+#@ themeton
+msgid "Show page title?"
+msgstr ""
+
+#: framework/multigrid.php:128
+#@ themeton
+msgid "Please enter teaser your text here."
+msgstr ""
+
+#: framework/multigrid.php:128
+#@ themeton
+msgid "Teaser text"
+msgstr ""
+
+#: framework/multigrid.php:129
+#@ themeton
+msgid "If turn it ON, post show without author link on page"
+msgstr ""
+
+#: framework/multigrid.php:129
+#: framework/multigrid.php:149
+#@ themeton
+msgid "Hide post author ?"
+msgstr ""
+
+#: framework/multigrid.php:130
+#@ themeton
+msgid "If turn it ON, this page shows with <tt>Post Filter</tt> on left sidebar."
+msgstr ""
+
+#: framework/multigrid.php:130
+#@ themeton
+msgid "Show post filter?"
+msgstr ""
+
+#: framework/multigrid.php:131
+#@ themeton
+msgid "Choose the sidebar layout for this specific post. You can choose Full width or Right sidebar."
+msgstr ""
+
+#: framework/multigrid.php:131
+#@ themeton
+msgid "Page layout"
+msgstr ""
+
+#: framework/multigrid.php:132
+#@ themeton
+msgid "Select sidebar"
+msgstr ""
+
+#: framework/multigrid.php:133
+#@ themeton
+msgid "Including blog categories"
+msgstr ""
+
+#: framework/multigrid.php:133
+#@ themeton
+msgid "Selecte categories include in this page. If you didn't select anyone from those categories, page shows with posts from all the categories."
+msgstr ""
+
+#: framework/multigrid.php:134
+#@ themeton
+msgid "Pagination number"
+msgstr ""
+
+#: framework/multigrid.php:134
+#@ themeton
+msgid "The number is used for posts as displaying a limited number of results on this page."
+msgstr ""
+
+#: framework/multigrid.php:135
+#@ themeton
+msgid "If turn it ON, posts show without content on this page."
+msgstr ""
+
+#: framework/multigrid.php:135
+#@ themeton
+msgid "Hide content?"
+msgstr ""
+
+#: framework/multigrid.php:137
+#@ themeton
+msgid "Select order type of posts. If you select Random order here, your posts show random ordering every 5 minutes. If we don't know current random order, database query rendering new random order for your next page (pagination result) and we will see duplicate posts sometimes."
+msgstr ""
+
+#: framework/multigrid.php:137
+#@ themeton
+msgid "Order type"
+msgstr ""
+
+#: framework/multigrid.php:145
+#@ themeton
+msgid "If turn this option ON, your current post background color will define your selected color on Blog/Category page."
+msgstr ""
+
+#: framework/multigrid.php:145
+#@ themeton
+msgid "Custom background color?"
+msgstr ""
+
+#: framework/multigrid.php:146
+#@ themeton
+msgid "Please choose custom color here."
+msgstr ""
+
+#: framework/multigrid.php:146
+#@ themeton
+msgid "Background color"
+msgstr ""
+
+#: framework/multigrid.php:147
+#@ themeton
+msgid "Is your background color Dark? Or Light?"
+msgstr ""
+
+#: framework/multigrid.php:148
+#@ themeton
+msgid "If turn it ON, post will show without meta on single"
+msgstr ""
+
+#: framework/multigrid.php:148
+#@ themeton
+msgid "Hide post meta?"
+msgstr ""
+
+#: framework/multigrid.php:149
+#@ themeton
+msgid "If turn it ON, post will show without author link on blog/category pages"
+msgstr ""
+
+#: framework/multigrid.php:150
+#@ themeton
+msgid "If turn it ON, your post will show without Featured Image in single post entered. This option only refers to this single post/single page."
+msgstr ""
+
+#: framework/multigrid.php:150
+#@ themeton
+msgid "Hide featured images on single?"
+msgstr ""
+
+#: framework/multigrid.php:151
+#@ themeton
+msgid "If turn it ON, your post size displays larger than regular posts."
+msgstr ""
+
+#: framework/multigrid.php:151
+#@ themeton
+msgid "Is this featured?"
+msgstr ""
+
+#: framework/widgets/flickr_widget.php:21
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/flickr_widget.php:30
+#@ default
+msgid "Flickr user ID:"
+msgstr ""
+
+#: framework/widgets/flickr_widget.php:37
+#@ default
+msgid "How many pictures display:"
+msgstr ""
+
+#: framework/widgets/recent_posts_widget.php:99
+#@ themeton
+msgid "posted: "
+msgstr ""
+
+#: framework/widgets/recent_posts_widget.php:106
+#@ themeton
+msgid "liked: "
+msgstr ""
+
+#: framework/widgets/widget_custom_options.php:15
+#@ themeton
+msgid "Show/hide widget"
+msgstr ""
+
+#: framework/widgets/widget_custom_options.php:34
+#@ themeton
+msgid "Page"
+msgstr ""
+
+#: functions.php:107
+#@ themeton
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:135
+#@ themeton
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:137
+#@ themeton
+msgid "The default sidebar widget area"
+msgstr ""
+
+#: functions.php:146
+#@ themeton
+msgid "Left sidebar"
+msgstr ""
+
+#: functions.php:148
+#@ themeton
+msgid "The left sidebar widget area"
+msgstr ""
+
+#: functions.php:163
+#@ energy
+msgid "The page widget area"
+msgstr ""
+
+#: functions.php:184
+#, php-format
+#@ themeton
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:323
+#@ themeton
+msgid "Post Filter"
+msgstr ""
+
+#: functions.php:332
+#@ themeton
+msgid "Show all"
+msgstr ""
+
+#: functions.php:568
+#@ themeton
+msgid "NEXT"
+msgstr ""
+
+#: header.php:29
+#@ themeton
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: header.php:30
+#@ themeton
+msgid "No more pages to load."
+msgstr ""
+
+#: page-template-archive.php:23
+#@ themeton
+msgid "Last 10 Posts"
+msgstr ""
+
+#: page-template-archive.php:36
+#@ themeton
+msgid "Archives by Month"
+msgstr ""
+
+#: page-template-archive.php:42
+#@ themeton
+msgid "Archives by Category"
+msgstr ""
+
+#: post-author.php:5
+#@ themeton
+msgid "Author: "
+msgstr ""
+
+#: post-author.php:9
+#@ themeton
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: post-edit.php:1
+#@ themeton
+msgid "Edit content"
+msgstr ""
+
+#: post-meta.php:7
+#@ themeton
+msgid "No comment"
+msgstr ""
+
+#: post-meta.php:10
+#@ themeton
+msgid "1 comment"
+msgstr ""
+
+#: post-meta.php:12
+#@ themeton
+msgid "comments"
+msgstr ""
+
+#: post-meta.php:30
+#@ themeton
+msgid "More"
+msgstr ""
+
+#: search.php:15
+#@ themeton
+msgid "Search result"
+msgstr ""
+
+#: search.php:40
+#@ themeton
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: sidebar.php:14
+#@ themeton
+msgid "Archives"
+msgstr ""
+
+#: tag.php:5
+#@ themeton
+msgid "Tag"
+msgstr ""
+

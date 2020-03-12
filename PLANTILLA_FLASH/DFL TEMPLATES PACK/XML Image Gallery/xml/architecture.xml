@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<config>
+	<width>800</width>
+	<height>450</height>
+	
+	<thumbslocation>down</thumbslocation>
+	<thumbswidth>50</thumbswidth>
+	<thumbsheight>50</thumbsheight>
+	<thumbsspace>10</thumbsspace>
+</config>
+
+<images>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/2.jpg</thumbs>
+<src>img/architecture/b/2.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/3.jpg</thumbs>
+<src>img/architecture/b/3.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/4.jpg</thumbs>
+<src>img/architecture/b/4.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+
+<image>
+<thumbs>img/architecture/t/5.jpg</thumbs>
+<src>img/architecture/b/5.jpg</src>
+<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+</image>
+</images>

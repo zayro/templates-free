@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menuOptions maxVisibleOptions="5" menuDirection="down">
+	<!-- Note: the values are optional if you just want to show labels in the combo then you can leave the value of the value attribute mpty like value="" but you cannot leave the values of the label attributes -->
+	<option label="Flash" value="Flash" />
+	<option label="Photoshop" value="Photoshop" />
+	<option label="Fireworks" value="Fireworks" />
+	<option label="Illustrator" value="Illustrator" />
+	<option label="After Effects" value="After Effects" />
+	<option label="Audition" value="Flash" />
+	<option label="Encore" value="Photoshop" />
+	<option label="Acrobat" value="Fireworks" />
+	<option label="Flex Builder" value="Illustrator" />
+</menuOptions>

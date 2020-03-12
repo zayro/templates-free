@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+		<item name="copyright"><![CDATA[
+GLOBAL BIZ© 2009  <font color="#09b1eb"><a href="asfunction:_root.more_click_func, privacyPolicy">PRIVACY POLICY</a></font> 
+		]]></item>
+		<item name="companyName"><![CDATA[Global <font color="#09b1eb">Biz</font>
+		]]></item>
+		<item name="slogan"><![CDATA[WE HAVE PROPOSITIONS FOR EVERYBODY!]]></item>
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+Company
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+Services
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+Solutions
+]]></link>
+
+<link systemOrder="4">
+<![CDATA[
+Clients
+]]></link>
+
+<link systemOrder="5"><![CDATA[
+Contacts
+]]></link>
+
+</section>
+	
+	<!-- pages -->
+	<section name="pages">
+		
+
+
+		
+<page name="company">
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+welcome
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">LOREM IPSUMLOREM IPSUM DOLOR SIT AMET,</font><br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci. 
+<br><br>
+<font color="#ffffff">PSUMLOREM IPSUM DOLOR SIT AMET</font><br>
+Etuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet 
+]]></pageText>
+
+
+<pageText><![CDATA[
+<a href="asfunction:link">
+<font color="#65a4cf">&#8226;</font>  <u>MANAGEMENT CONSULTING</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>REGULATORY ANALYSIS</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>MARKET ASSESSMENT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>PROGRAM MANAGEMENT</u><br>
+</a>
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:link">
+<font color="#65a4cf">&#8226;</font>  <u>REGULATORY SUPPORT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>SCIENTIFIC AND RISK ASSESSMENT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CHANGE MANAGEMENT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>INFORMATION TECHNOLOGY</u><br>
+</a>
+]]></pageText>
+
+<pageText><![CDATA[
+latest news
+]]></pageText>
+
+<pageText><![CDATA[
+&#8226;  JULY 18, 2009
+<br><br><br><br><br><br><br><br>
+&#8226;  JULY 18, 2009
+]]></pageText>
+
+
+
+<pageText><![CDATA[
+<font color="#ffffff">LOREM IPSUM</font> DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM.
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">MORE ...</a></font>
+
+<br><br><br><br>
+
+<font color="#ffffff">LOREM IPSUM</font> DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM.
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,1">MORE ...</a></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color="#ffffff">LOREM IPSUMLOREM IPSUM DOLOR SIT AMET,</font><br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci. 
+<br><br>
+<font color="#ffffff">PSUMLOREM IPSUM DOLOR SIT AMET</font><br>
+Etuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet 
+<br><br><br><br><br><br><br><br>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="services">
+<image imageUrl="_pic3.png" link="asfunction:link"/>
+<image imageUrl="_pic4.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+services overview
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">QUIS NOSTRUM EXERCITATIONEM ULLAM CORPORIS SUSCIPIT LABORIOSAM</font><br>
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil.
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color="#ffffff">VESTIBULUM SED ANTE</font> 
+inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur 
+aut odit aut fugit.
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">MORE ...</a></font>
+<br><br><br>
+<font color="#ffffff">VESTIBULUM ANTE IPSUM PRIMIS</font> 
+Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. 
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,1">MORE ...</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+services list
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:link">
+<font color="#65a4cf">&#8226;</font>  <u>NEMO ENIM IPSAM VOLUPTATEM QUIA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>VOLUPTAS SIT ASPERNATUR AUT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>SED QUIA CONSEQUUNTUR</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>MAGNI DOLORES EOS QUI RATIONE</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>NEQUE PORRO QUISQUAM EST DOLOREM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CONSECTETUR ADIPISCI VELIT SED</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>QUIA NON NUMQUAM EIUS MODI TEMPORA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>DOLORE MAGNAM ALIQUAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>UT ENIM AD MINIMA VENIAM QUIS NOST</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>EXERCITATIONEM ULLAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CORPORIS SUSCIPIT LABORIOSAM NISI</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>ALIQUID EX EA COMMODI</u><br>
+
+<font color="#65a4cf">&#8226;</font>  <u>NEMO ENIM IPSAM VOLUPTATEM QUIA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>VOLUPTAS SIT ASPERNATUR AUT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>SED QUIA CONSEQUUNTUR</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>MAGNI DOLORES EOS QUI RATIONE</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>NEQUE PORRO QUISQUAM EST DOLOREM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CONSECTETUR ADIPISCI VELIT SED</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>QUIA NON NUMQUAM EIUS MODI TEMPORA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>DOLORE MAGNAM ALIQUAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>UT ENIM AD MINIMA VENIAM QUIS NOST</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>EXERCITATIONEM ULLAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CORPORIS SUSCIPIT LABORIOSAM NISI</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>ALIQUID EX EA COMMODI</u><br>
+</a>
+<br><br><br><br><br><br>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+<image imageUrl="_pic6.png" link="asfunction:link"/>
+<image imageUrl="_pic7.png" link="asfunction:link"/>
+<image imageUrl="_pic8.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+solutions showcase
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">VEL ILLUM QUI DOLOREM EUM FUGIAT QUO VOLUPTAS NULLA PARIATU</font><br>
+Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit aenean auctor wisi et urn
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color="#ffffff">INTEGRATIONS</font> 
+pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. 
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">MORE ...</a></font>
+<br><br><br>
+<font color="#ffffff">DOCUMENTATION</font> 
+sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,1">MORE ...</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">OUR PORTAL</font> 
+gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Donec accumsan malesuada orci. 
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,2">MORE ...</a></font>
+<br><br><br>
+<font color="#ffffff">PUBLISHING </font> 
+eaque ipsa quae ab illo inventore veritatis et dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,3">MORE ...</a></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br><br><br><br><br><br><br>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="clients">
+<image imageUrl="_pic9.png" link="asfunction:link"/>
+<image imageUrl="_pic10.png" link="asfunction:link"/>
+<image imageUrl="_pic11.png" link="asfunction:link"/>
+<image imageUrl="_pic12.png" link="asfunction:link"/>
+<image imageUrl="_pic13.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+company clients
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">PROIN DICTUM ELEMENTUM</font><br>
+Sed in lacus ut enim adipiscing aliqu
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,0">MORE ...</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">PROIN DICTUM ELEMENTUM</font><br>
+Sed in lacus ut enim adipiscing aliqu
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,1">MORE ...</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">PROIN DICTUM ELEMENTUM</font><br>
+Sed in lacus ut enim adipiscing aliqu
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,2">MORE ...</a></font>
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">PROIN DICTUM ELEMENTUM</font><br>
+Sed in lacus ut enim adipiscing aliqu
+<br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,3">MORE ...</a></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+about membership
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff">DONEC SAGITTIS EUIS </font> 
+nemo enim ipsam voluptatem voluptas sit aspernatur.
+]]></pageText>
+
+
+<pageText><![CDATA[
+<a href="asfunction:link">
+<font color="#65a4cf">&#8226;</font>  <u>NEMO ENIM IPSAM VOLUPTATEM QUIA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>VOLUPTAS SIT ASPERNATUR AUT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>SED QUIA CONSEQUUNTUR</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>MAGNI DOLORES EOS QUI RATIONE</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>NEQUE PORRO QUISQUAM EST DOLOREM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CONSECTETUR ADIPISCI VELIT SED</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>QUIA NON NUMQUAM EIUS MODI TEMPORA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>DOLORE MAGNAM ALIQUAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>UT ENIM AD MINIMA VENIAM QUIS NOST</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>EXERCITATIONEM ULLAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CORPORIS SUSCIPIT LABORIOSAM NISI</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>ALIQUID EX EA COMMODI</u><br>
+
+<font color="#65a4cf">&#8226;</font>  <u>NEMO ENIM IPSAM VOLUPTATEM QUIA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>VOLUPTAS SIT ASPERNATUR AUT</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>SED QUIA CONSEQUUNTUR</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>MAGNI DOLORES EOS QUI RATIONE</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>NEQUE PORRO QUISQUAM EST DOLOREM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CONSECTETUR ADIPISCI VELIT SED</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>QUIA NON NUMQUAM EIUS MODI TEMPORA</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>DOLORE MAGNAM ALIQUAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>UT ENIM AD MINIMA VENIAM QUIS NOST</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>EXERCITATIONEM ULLAM</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>CORPORIS SUSCIPIT LABORIOSAM NISI</u><br>
+<font color="#65a4cf">&#8226;</font>  <u>ALIQUID EX EA COMMODI</u><br>
+</a>
+<br><br><br><br><br><br>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="contacts">
+<image imageUrl="_pic14.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+postal address
+]]></pageText>
+
+<pageText><![CDATA[
+The Company Name Inc.<br>
+8901 Marmora Road,<br>
+Glasgow, D04 89GR.<br>
+ <br>
+Telephone:       +1 959 603 6035<br>
+E-mail: <u><a href="asfunction:link">mail@companyname.com</a></u>
+]]></pageText>
+
+<pageText><![CDATA[
+Argentina<br>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta.
+<br><br>
+Denmark <br>
+Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. 
+]]></pageText>
+
+<pageText><![CDATA[
+contact form
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+privacy policy
+ ]]></item>
+<item name="pageText"><![CDATA[
+Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+<br><br>
+Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis.
+<br><br>
+E-mail: <font color="#ffffff"><u><a href="asfunction:link">info@companyname.com</a></u></font>
+<br><br><br><br><br><br><br><br>
+]]></item>
+</section>
+<!-- privacy policy -->
+
+
+</content>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clients>
+
+	<settings 
+	
+		thumbWidth="150"
+		thumbHeight="70"
+		
+		rows="4"
+		cols="3"
+		
+		/>
+		
+		<list>
+		
+			<client src="clients_assets/1.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/2.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/3.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/4.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/5.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/6.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/7.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/8.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/9.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/10.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/11.jpg" url="http://www.flashden.net" />
+			<client src="clients_assets/12.jpg" url="http://www.flashden.net" />
+		
+		</list>
+
+</clients>

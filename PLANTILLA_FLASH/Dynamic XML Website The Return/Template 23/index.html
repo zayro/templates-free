@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>index</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript">
+function getById(idStr) { 
+   try { 
+      if (document.layers) { return document.layers[idStr]; } 
+      else if (document.all) { return document.all[idStr]; } 
+      else if (document.getElementById) { return 
+document.getElementById(idStr); } 
+   } 
+   catch (err) { } 
+   return null; 
+} 
+
+if (!swfobject.hasFlashPlayerVersion("9.0.124")) { 
+    swfobject.addDomLoadEvent(function() { 
+       getById("myStaticDOMId").style.display = "none"; 
+    }); 
+    swfobject.embedSWF("main_index.swf","main_index","100%","100%","8","js/expressInstall.swf"); 
+} 
+</script>
+
+
+</head>
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" scroll="no">
+	<div id="flashcontent">
+		<strong>You need to upgrade your Flash Player.</strong>
+	</div>
+	<script type="text/javascript">
+		var so = new SWFObject("main_index.swf", "main_index", "100%", "100%", "8", "#000000");
+		so.addParam("allowFullScreen", "true");
+		so.addParam("scale", "noscale");
+		so.addParam("menu", "false");
+		so.write("flashcontent");
+	</script>
+</body>
+</html>

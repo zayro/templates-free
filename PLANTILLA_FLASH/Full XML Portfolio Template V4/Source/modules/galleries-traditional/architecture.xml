@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch1.jpg" large="images/triworks_arch1.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch2.jpg" large="images/triworks_arch2.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch3.jpg" large="images/triworks_arch3.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch4.jpg" large="images/triworks_arch4.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch5.jpg" large="images/triworks_arch5.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch6.jpg" large="images/triworks_arch6.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch7.jpg" large="images/triworks_arch7.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch8.jpg" large="images/triworks_arch8.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch9.jpg" large="images/triworks_arch9.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/triworks_arch10.jpg" large="images/triworks_arch10.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+</gallery>

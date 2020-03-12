@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<menubutton link="news.swf" heading="NEWS"></menubutton>
+<menubutton link="about.swf" heading="ABOUT US"></menubutton>
+<menubutton link="gallery.swf" heading="GALLERY"></menubutton>
+<menubutton link="portfolio.swf" heading="PORTFOLIO"></menubutton>
+<menubutton link="contact.swf" heading="CONTACT"></menubutton>

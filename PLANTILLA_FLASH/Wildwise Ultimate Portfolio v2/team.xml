@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teamatesList>
+
+	<teamate titre="John Mitchell" img="video_1.swf" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of John, which can be <b>HTML text</b>]]>
+	</teamate>
+	
+	<teamate titre="Jason Kidd" img="face_2.jpg" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of Jason, which can be <b>HTML text</b>]]>
+	</teamate>
+	
+	<teamate titre="Aretha Frankleennn" img="face_3.jpg" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of Aretha, which can be <b>HTML text</b>]]>
+	</teamate>
+	
+	<teamate titre="Ben B. Benjamin" img="face_4.jpg" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of Ben, which can be <b>HTML text</b>]]>
+	</teamate>
+	
+	<teamate titre="Carla Jones" img="face_5.jpg" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of Carla, which can be <b>HTML text</b>]]>
+	</teamate>
+	
+</teamatesList>

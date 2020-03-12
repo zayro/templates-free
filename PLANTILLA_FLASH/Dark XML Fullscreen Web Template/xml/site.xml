@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<site>
+	<menu
+		myContentWidth="650"
+		myContentHeight="330"
+		itemheight="20"
+		menuwidth="110" 
+		activewidth="120"
+		yourLogo="images/logo.png"
+	/>
+		
+	<colors>
+		<highlight hColor="6da61b"/>
+	</colors>
+	
+	<pages>
+	
+		<page pagetype="textImageLeft" buttontitle="HOME" pagetitle="WELCOME TO DXC381's SITE!" imgSrc="blah.jpg" imageWidth="320" imageHeight="310" borderWidth="2"><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin purus. Morbi at quam a est convallis ultrices. In hac habitasse platea dictumst. Vivamus convallis feugiat lorem. Fusce magna erat, laoreet et, euismod et, molestie in, lectus. Sed tempus, ligula id adipiscing scelerisque, est lorem volutpat metus, at sodales lorem nulla eu odio. Duis blandit, justo in fringilla tincidunt, velit eros pharetra urna, sit amet gravida neque nisl vel urna. Cras pulvinar.
+Praesent condimentum. Proin dictum, orci vel hendrerit varius, libero enim malesuada turpis, eu blandit arcu mi quis purus. Ut aliquam eros ut massa. Nulla facilisi. Vestibulum lacinia, tortor vitae mattis cursus, est mi sodales nisl, a hendrerit nulla nisi ac augue. Quisque turpis pede, sodales et, laoreet sit amet, faucibus id, eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus vitae massa. Aliquam erat volutpat. Aliquam faucibus, purus sed dignissim vestibulum, odio dolor eleifend est, eget venenatis mauris massa et ligula. In non tellus. Praesent euismod. Nulla ac nunc. Suspendisse ultrices risus quis dolor. Proin rhoncus risus eget ante. Duis at tellus. In gravida sagittis nisl. Vestibulum ultricies malesuada sapien.
+Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus. Fusce vel diam eget sem elementum faucibus. Aliquam eget ante. Suspendisse id massa in nulla faucibus suscipit. Integer eget orci posuere eros viverra congue. Nunc fermentum.
+Mauris fermentum porta purus. Curabitur placerat lectus eget augue. Vestibulum arcu urna, pellentesque facilisis, aliquam id, lobortis quis, justo. Nulla tempor, nunc at venenatis ornare, nibh quam dignissim arcu, vitae consectetuer felis mauris et odio. Phasellus lacinia augue ut diam. Vestibulum vulputate gravida nibh. Mauris sit amet dolor eget magna commodo tincidunt. Curabitur et ligula. Ut condimentum, mi id molestie auctor, turpis metus luctus nunc, id fermentum neque dui vel mi. Aenean aliquam magna non nisl.
+Praesent quis augue et orci fringilla sagittis. Nunc sollicitudin. Nunc nulla nibh, accumsan ac, vehicula non, tincidunt sit amet, lorem. Sed congue. Nulla porttitor eros non felis. Praesent tristique molestie lorem. Morbi imperdiet urna vel mi. Phasellus ultricies diam eget nibh. Pellentesque porttitor mauris eget mi. Vestibulum libero nibh, gravida sed, eleifend et, imperdiet sed, lacus. Proin turpis mi, vestibulum ut, auctor et, ornare et, neque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam blandit tellus sed lectus. Morbi ligula. Sed tincidunt. Nunc hendrerit feugiat urna. Vestibulum ut velit. Duis in ligula. Aenean sagittis elementum mi. ]]></page>
+		
+		<page pagetype="textOnly" buttontitle="ABOUT" pagetitle="ABOUT DXC381"><![CDATA[Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus. Fusce vel diam eget sem elementum faucibus. Aliquam eget ante. Suspendisse id massa in nulla faucibus suscipit. Integer eget orci posuere eros viverra congue. Nunc fermentum.
+Mauris fermentum porta purus. Curabitur placerat lectus eget augue. Vestibulum arcu urna, pellentesque facilisis, aliquam id, lobortis quis, justo. Nulla tempor, nunc at venenatis ornare, nibh quam dignissim arcu, vitae consectetuer felis mauris et odio. Phasellus lacinia augue ut diam. Vestibulum vulputate gravida nibh. Mauris sit amet dolor eget magna commodo tincidunt. Curabitur et ligula. Ut condimentum, mi id molestie auctor, turpis metus luctus nunc, id fermentum neque dui vel mi. Aenean aliquam magna non nisl.
+Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus. Fusce vel diam eget sem elementum faucibus. Aliquam eget ante. Suspendisse id massa in nulla faucibus suscipit. Integer eget orci posuere eros viverra congue. Nunc fermentum.
+Mauris fermentum porta purus. Curabitur placerat lectus eget augue. Vestibulum arcu urna, pellentesque facilisis, aliquam id, lobortis quis, justo. Nulla tempor, nunc at venenatis ornare, nibh quam dignissim arcu, vitae consectetuer felis mauris et odio. Phasellus lacinia augue ut diam. Vestibulum vulputate gravida nibh. Mauris sit amet dolor eget magna commodo tincidunt. Curabitur et ligula. Ut condimentum, mi id molestie auctor, turpis metus luctus nunc, id fermentum neque dui vel mi. Aenean aliquam magna non nisl.]]></page>
+
+		<page pagetype="externalSwf" buttontitle="LINKS" pagetitle="LINKS RELATED TO DXC381" imgSrc="blah.swf" imageWidth="630" imageHeight="310" borderWidth="2"></page>
+		
+		<page pagetype="textImageRight" buttontitle="SERVICES" pagetitle="SERVICES PROVIDED BY DXC381" imgSrc="blah.jpg" imageWidth="320" imageHeight="310" borderWidth="2"><![CDATA[Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus. Fusce vel diam eget sem elementum faucibus. Aliquam eget ante. Suspendisse id massa in nulla faucibus suscipit. Integer eget orci posuere eros viverra congue. Nunc fermentum.]]></page>
+		
+		<page pagetype="contactForm" buttontitle="CONTACT" pagetitle="CONTACT DXC381" imgSrc="contact.swf" imageWidth="320" imageHeight="310" borderWidth="2"><![CDATA[Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus.]]></page>
+	
+	</pages>
+	
+	<music
+		useMusic="true"
+		autoPlayYN="true"
+		musicPath="music/adg3.com_cloudlessDays.mp3"
+	/>
+	
+</site>

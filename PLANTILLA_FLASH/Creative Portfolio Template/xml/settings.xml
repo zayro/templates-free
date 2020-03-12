@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<name>COMPANY NAME</name>
+	<button1>HOME</button1>
+	<button2>PORTFOLIO</button2>
+	<button3>SERVICES</button3>
+	<button4>CONTACT</button4>
+	<backGroundImage>background/bg.jpg</backGroundImage>
+</settings>

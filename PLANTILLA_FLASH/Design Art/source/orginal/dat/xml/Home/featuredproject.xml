@@ -1,0 +1,15 @@
+﻿<DynamicWeb>
+
+<Section head="FEATURED PROJECTS" btntxt="SHOW ALL FEATURED PROJECTS" p="95" f="Work" subf="webdesing" subDisplay="on" lefthead="WORK" allp="35">
+		<data img="dat/Images/Home/img3.jpg" f="company" >
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+		
+		<data img="dat/Images/Home/img4.jpg" f="company" >
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Vonsec tetur Adipi sicing Elit lorem Ipsum Dolor Sit Amet.</des>
+		</data>
+</Sections>
+
+</DynamicWeb>

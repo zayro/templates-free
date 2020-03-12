@@ -1,0 +1,53 @@
+/* 
+
+Elegance - CSS File
+
+USE THIS STYLE SHEET FOR SLIDER HOME PAGE
+
+*/
+
+#slider {
+    width: 920px; /* important to be same as image width */
+    height: 380px; /* important to be same as image height */
+    position: relative; /* important */
+	overflow: hidden; /* important */
+}
+#sliderContent {
+    width:920px; /* important to be same as image width or wider */
+    position: absolute;
+	top: 0;
+	margin-left: 0;
+}
+.sliderImage {
+    float: left;
+    position: relative;
+	display: none;
+}
+.sliderImage div {
+    position: absolute;
+    padding: 15px 10px 20px 10px;
+    width:900px;
+    display: none;
+    background-color: #000;
+    color: #fff;
+}
+.sliderImage span, .sliderImage a, .sliderImage a:visited{color:#fff; text-decoration:none}
+.clear {
+	clear: both;
+}
+.sliderImage div strong {
+    font-size: 14px;
+}
+.top {
+	top: 0;
+	left: 0;
+}
+.bottom {
+	bottom: 0;
+    left: 0;
+}
+
+.sliderImage .bottom span{padding:0px 10px; display:block; }
+.sliderImage .bottom  span.title_slider{font-size:18px; line-height:20px;}
+.desc_slider{ margin-top:-15px;}
+

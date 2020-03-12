@@ -1,0 +1,97 @@
+Can be open with Flash8+
+
+The content of this portfolio is completely and easily customizable and editable via XML files.
+Any text or image (except static layout images and texts) can be dynamically changed.
+It's fullscreen if clicked.
+Logo sticks to the top of the page, thumbs stick to the bottom. Content stays in the middle.
+Customized right-click menu.
+Nice 3 colors/effect mouse-tracer while preloading.
+Enjoy the smooth sliding transitions.
+Clean designed.
+The PSD file is provided (photoshop CS2).
+
+This website is composed of 4 parts :
+- about me w/ downloadable files and links
+- news w/ external links
+- portoflio w/ gallery
+- contact w/ e-mail form and links
+You can add as many news and projects as you want.
+All these parts can be renamed as you want and all the content can be changed.
+The 3 thumbs at the bottom display a brief resume, the last news and one of the 5 last projects added. Each thumb is linked to a part.
+Every image which is dynamically loaded can be replaced by a SWF file (yes, it can handle video).
+
+
+
+***************************
+Folders' structure
+***************************
+
+- docs (contains files to download like "resume" and "example" which are in the "about me" part)
+- img (contains all images of the site)
+- img/imgBig (contains big images/swf of news and projects / 266PX*176PX)
+- img/imgSmall (contains small images/swf of news, about me and projects / 95PX*60PX)
+- img/imgPart (contains the 4 blocks' images/swf of the homepage / 266PX*176PX)
+- img/imgRef (contains images/swf of each project which will appear in the gallery / the size you want)
+- js (contains the js file to activate activx control)
+
+
+
+***************************
+Editable XML and PHP files
+***************************
+
+- about.xml :
+The first entry is the text and image (which has to be in the img/imgPart folder) used on the homepage and in the first block of the "about me" part.
+The 3 next entries are the informations displayed in the 3 last blacks of the "about me" part. Each has a title, a rollover text, a link or a file to download.
+CDATA text can handle html.
+
+- aboutThumb.xml :
+This is the content you can see in the first thumbnail you can find at the bottom of the website.
+There's a small image to display (which hast to be in the img/imgSmall folder), and a CDATA text which can handle html.
+
+- contact.xml :
+The first entry is the text and image (which has to be in the img/imgPart folder) used on the homepage and in the first block of the "contact" part.
+The second entry is empty because it matches with the static content of this part (e-mail form).
+The 2 last entries matches with the 2 last blocks of the "contact" part. Title, rollover text, link or mailto, and CDATA text which can handle html.
+
+- news.xml :
+It handles all your news. Each news has a date, a title, a link, an image and a CDATA html text.
+(actually for each news you have to do 2 images, a small and a big one which have to be in the img/imgBig and img/imgSmall folders, so it can be displayed in the middle thumbnail at the bottom of the site)
+You can add as many news as you want.
+
+- newsHome.xml :
+It handles informations displayed on the homepage. An image (which have to be placed in the img/imgPart folder) and a rollover text.
+
+- portfolio.xml :
+It handles all your projects. Each project has a date, a title, an image, an extra (which is the array of the images you want to show in the gallery. Images names have to be seperated by "*|*" and images have to be in the img/imgRef folder)
+and a CDATA html text.
+(for each project you have to do 2 images, a small and a big one which have to be in the img/imgBig and img/imgSmall folders, so it can be displayed in the right thumbnail at the bottom of the site)
+You can add as many projects as you want.
+
+- portfolioHome.xml :
+It handles informations displayed on the homepage. An image (which have to be placed in the img/imgPart folder) and a rollover text.
+
+- send_mail.php :
+This file sends e-mails users will type in the contact form. Just edit your e-mail address in it and you will receive a formatted mail with user's informations and message.
+
+
+
+***************************
+Fonts
+***************************
+Fonts used in this website are free and can be downloaded on www.dafont.com. They are called "david sans" and "walkway".
+
+
+***************************
+Credits
+***************************
+
+- Made by wildwise studio with Flash8, http://www.flashden.net/user/wildwise?ref=wildwise, thanks to 0h, http://www.00h00.net, for his help.
+- Thanks for buying my file(s).
+- I am available for support when a bug is reported. When this happens, usually, I send a fixed version to my buyers and the file is updated by the FlashDen Team.
+If you need to adapt any application to your needs, you need to have knowledge in Flash and ActionScript coding.
+I am only available to adapt an application to your needs based on its hourly rates.
+As described in my profile I am available for freelance work.
+
+Arnaud, wildwise studio
+contact@wildwisestudio.com

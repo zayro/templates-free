@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+	<member>
+		<title><![CDATA[CEO]]></title>
+		<name><![CDATA[Henry Wilson]]></name>
+		<picture>staff/images/pic1.jpg</picture>
+		<info><![CDATA[<b><font color="#FFFFFF">Lorem ipsum dolor sit amet</font></b>
+Consectetuer adipiscing elit. Nam lacinia adipiscing odio. Special Characters àáâ<B>ãäß</B> é <I>ê</I> í <B><I>ü</I></B>.
+Vivamus sit amet mi ut quam rhoncus pellentesque. Phasellus iaculis accumsan erat. Vestibulum nec pede at justo cursus varius. Suspendisse venenatis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla sagittis erat id metus. Morbi lorem dolor, lobortis sed, fringilla at, ornare sed, massa. In mattis, lectus vitae sagittis sollicitudin, <i>leo risus egestas nisi</i>, <b><i>eget accumsan magna sem nec elit</i></b>. <B>Etiam dapibus sollicitudin tellus</B>.
+<a href="#">Test Link</a>
+Proin commodo tortor vitae magna. Cras rhoncus turpis ac lorem. Cras nunc justo, sodales et, venenatis nec, facilisis non, est. Maecenas condimentum magna. Phasellus arcu. Aliquam ullamcorper ornare enim. Nulla metus. In lectus nisi, porta vitae, fermentum ultricies, auctor eu, felis. Aliquam suscipit. Maecenas cursus elit ac massa.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam lacinia adipiscing odio. Vivamus sit amet mi ut quam rhoncus pellentesque. Phasellus iaculis accumsan erat. Vestibulum nec pede at justo cursus varius. Suspendisse venenatis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla sagittis erat id metus. Morbi lorem dolor, lobortis sed, fringilla at, ornare sed, massa. In mattis, lectus vitae sagittis sollicitudin, leo risus egestas nisi, eget accumsan magna sem nec elit. <B>Etiam dapibus sollicitudin tellus</B>.
+Proin commodo tortor vitae magna. Cras rhoncus turpis ac lorem. Cras nunc justo, sodales et, venenatis nec, facilisis non, est. Maecenas condimentum magna. Phasellus arcu. Aliquam ullamcorper ornare enim. Nulla metus. In lectus nisi, porta vitae, fermentum ultricies, auctor eu, felis. Aliquam suscipit. Maecenas cursus elit ac massa. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Executive Vice President]]></title>
+		<name><![CDATA[Gaius Cornelius Tacitus]]></name>
+		<picture>staff/images/pic2.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed pellentesque, risus vel malesuada porttitor, leo magna mattis odio, vel semper felis justo et arcu. Maecenas tempor suscipit nibh. Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Suspendisse aliquam, purus id laoreet rhoncus, ante libero molestie lacus, ac faucibus dui libero pulvinar ipsum. Maecenas pulvinar tincidunt turpis. Donec porta, sem ac fringilla placerat, odio augue iaculis arcu, id blandit pede turpis nec sem. Vivamus eget pede. Fusce eros orci, semper sed, vulputate in, eleifend convallis, enim. Sed laoreet iaculis pede. Duis feugiat rhoncus nisl. Duis suscipit orci pellentesque sem rhoncus dignissim. Fusce eu nisi. Donec euismod lorem nec elit. Fusce vitae est at dolor scelerisque cursus. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Executive Officer]]></title>
+		<name><![CDATA[Henry Woodson]]></name>
+		<picture>staff/images/pic3.jpg</picture>
+		<info><![CDATA[Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Creative Director]]></title>
+		<name><![CDATA[James Hill]]></name>
+		<picture>staff/images/pic4.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed pellentesque, risus vel malesuada porttitor, leo magna mattis odio, vel semper felis justo et arcu. Maecenas tempor suscipit nibh. Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Suspendisse aliquam, purus id laoreet rhoncus, ante libero molestie lacus, ac faucibus dui libero pulvinar ipsum. Maecenas pulvinar tincidunt turpis. Donec porta, sem ac fringilla placerat, odio augue iaculis arcu, id blandit pede turpis nec sem. Vivamus eget pede. Fusce eros orci, semper sed, vulputate in, eleifend convallis, enim. Sed laoreet iaculis pede. Duis feugiat rhoncus nisl. Duis suscipit orci pellentesque sem rhoncus dignissim. Fusce eu nisi. Donec euismod lorem nec elit. Fusce vitae est at dolor scelerisque cursus. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Project Manager]]></title>
+		<name><![CDATA[Bob Vance]]></name>
+		<picture>staff/images/pic5.jpg</picture>
+		<info><![CDATA[This is some information about Bob.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Accountant]]></title>
+		<name><![CDATA[Dorothy Wilks]]></name>
+		<picture>staff/images/pic6.jpg</picture>
+		<info><![CDATA[Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Office Manager]]></title>
+		<name><![CDATA[Jose Valdez]]></name>
+		<picture>staff/images/pic7.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque semper est dictum pede. Donec vel tellus. Curabitur diam. Etiam convallis dui in arcu. Donec et mauris. Etiam posuere justo malesuada eros. Aliquam vel diam. Curabitur ultricies dictum dolor. Morbi quam mauris, aliquam eu, consectetuer eu, sollicitudin quis, nisl. In egestas. Phasellus erat. Nulla nisi dui, suscipit eu, ultricies non, mattis et, tellus. Vivamus id dui a lacus blandit congue. Integer libero tortor, gravida eu, iaculis a, eleifend ac, dolor. Suspendisse sed lorem. Vivamus fermentum.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Project Manager]]></title>
+		<name><![CDATA[Kim Fletcher]]></name>
+		<picture>staff/images/pic8.jpg</picture>
+		<info><![CDATA[Sed commodo tellus. Duis porttitor ipsum sit amet nibh imperdiet suscipit. Curabitur vitae dolor vitae risus consectetuer porta. In eget odio. Suspendisse laoreet, tortor tristique aliquet porttitor, augue libero rutrum mauris, quis elementum odio arcu id ipsum. Nullam sollicitudin ultricies ante. Pellentesque molestie, turpis quis pretium suscipit, est urna molestie felis, et pharetra ligula neque ultrices ligula. Integer et orci. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut vitae tellus feugiat felis malesuada vehicula. Morbi ante felis, elementum eu, semper ultrices, vestibulum suscipit, ipsum. Vivamus dictum lacus eget nisl. Duis a nulla scelerisque dui commodo laoreet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris libero. 
+Sed eu libero sed quam tincidunt imperdiet. Vestibulum vitae turpis quis diam vehicula convallis. Cras faucibus luctus purus. Vestibulum ut massa eu quam sagittis venenatis.]]></info>
+	</member>
+		<member>
+		<title><![CDATA[Designer]]></title>
+		<name><![CDATA[Dorothy Wilks]]></name>
+		<picture>staff/images/pic9.jpg</picture>
+		<info><![CDATA[Morbi tempus, nibh id lacinia adipiscing, leo dui accumsan nisi, vitae tincidunt lectus odio eget tellus. Pellentesque convallis pede et purus. Donec tincidunt, quam eu dictum varius, enim enim commodo enim, eu ultricies nisl eros eu odio. Etiam vulputate. 
+Praesent sagittis. Vestibulum tellus. Phasellus vehicula. Nullam enim mi, lacinia dignissim, pretium ac, bibendum vel, nunc. Fusce rutrum. Donec tempor quam ut est. Donec pellentesque mauris sit amet mi. Vestibulum iaculis. Pellentesque sit amet sem. In ultricies. Ut mauris turpis, hendrerit ac, lacinia quis, volutpat eu, nunc. Ut quis metus. Donec magna est, dignissim a, congue a, mollis quis, odio. Phasellus et orci. Duis pede. Etiam tellus velit, facilisis vitae, tincidunt ac, placerat sed, lacus.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Programmer]]></title>
+		<name><![CDATA[Alice Fritz]]></name>
+		<picture>staff/images/pic10.jpg</picture>
+		<info><![CDATA[Quisque eleifend suscipit ipsum. Mauris nulla. Mauris eget velit. Praesent sed velit. Nam vehicula luctus mauris. Praesent id nunc eget erat mollis posuere. In hac habitasse platea dictumst. Integer erat libero, facilisis vitae, ornare sed, pharetra non, quam. 
+Mauris adipiscing, neque nec rutrum molestie, dolor risus commodo tortor, eu varius enim quam ut urna. Duis id odio. Ut pharetra tortor a libero. Mauris ullamcorper fermentum elit. Integer mattis, dui nec sagittis sodales, nisl lorem porta arcu, id varius lectus lacus non pede.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Intern]]></title>
+		<name><![CDATA[Jeremy O'Neil]]></name>
+		<picture>staff/images/pic11.jpg</picture>
+		<info><![CDATA[Proin congue. Morbi vitae tortor sit amet orci molestie pulvinar. Vivamus a mi. Quisque ultrices ipsum id lorem. Sed sed massa vel risus posuere commodo. Quisque et est. Morbi elementum. Morbi dictum velit condimentum metus hendrerit egestas. 
+Fusce pulvinar consectetuer urna. Vestibulum ac metus. Sed dignissim elit non felis. Duis at mi semper risus laoreet ullamcorper. Donec in pede. Ut purus. Duis accumsan eros sed libero gravida mattis.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[CEO]]></title>
+		<name><![CDATA[Henry Wilson]]></name>
+		<picture>staff/images/pic1.jpg</picture>
+		<info><![CDATA[<b><font color="#FFFFFF">Lorem ipsum dolor sit amet</font></b>
+Consectetuer adipiscing elit. Nam lacinia adipiscing odio. 
+Vivamus sit amet mi ut quam rhoncus pellentesque. Phasellus iaculis accumsan erat. Vestibulum nec pede at justo cursus varius. Suspendisse venenatis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla sagittis erat id metus. Morbi lorem dolor, lobortis sed, fringilla at, ornare sed, massa. In mattis, lectus vitae sagittis sollicitudin, <i>leo risus egestas nisi</i>, <b><i>eget accumsan magna sem nec elit</i></b>. <B>Etiam dapibus sollicitudin tellus</B>.
+<a href="#">Test Link</a>
+Proin commodo tortor vitae magna. Cras rhoncus turpis ac lorem. Cras nunc justo, sodales et, venenatis nec, facilisis non, est. Maecenas condimentum magna. Phasellus arcu. Aliquam ullamcorper ornare enim. Nulla metus. In lectus nisi, porta vitae, fermentum ultricies, auctor eu, felis. Aliquam suscipit. Maecenas cursus elit ac massa.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam lacinia adipiscing odio. Vivamus sit amet mi ut quam rhoncus pellentesque. Phasellus iaculis accumsan erat. Vestibulum nec pede at justo cursus varius. Suspendisse venenatis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla sagittis erat id metus. Morbi lorem dolor, lobortis sed, fringilla at, ornare sed, massa. In mattis, lectus vitae sagittis sollicitudin, leo risus egestas nisi, eget accumsan magna sem nec elit. <B>Etiam dapibus sollicitudin tellus</B>.
+Proin commodo tortor vitae magna. Cras rhoncus turpis ac lorem. Cras nunc justo, sodales et, venenatis nec, facilisis non, est. Maecenas condimentum magna. Phasellus arcu. Aliquam ullamcorper ornare enim. Nulla metus. In lectus nisi, porta vitae, fermentum ultricies, auctor eu, felis. Aliquam suscipit. Maecenas cursus elit ac massa. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Executive Vice President]]></title>
+		<name><![CDATA[Gaius Cornelius Tacitus]]></name>
+		<picture>staff/images/pic2.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed pellentesque, risus vel malesuada porttitor, leo magna mattis odio, vel semper felis justo et arcu. Maecenas tempor suscipit nibh. Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Suspendisse aliquam, purus id laoreet rhoncus, ante libero molestie lacus, ac faucibus dui libero pulvinar ipsum. Maecenas pulvinar tincidunt turpis. Donec porta, sem ac fringilla placerat, odio augue iaculis arcu, id blandit pede turpis nec sem. Vivamus eget pede. Fusce eros orci, semper sed, vulputate in, eleifend convallis, enim. Sed laoreet iaculis pede. Duis feugiat rhoncus nisl. Duis suscipit orci pellentesque sem rhoncus dignissim. Fusce eu nisi. Donec euismod lorem nec elit. Fusce vitae est at dolor scelerisque cursus. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Executive Officer]]></title>
+		<name><![CDATA[Henry Woodson]]></name>
+		<picture>staff/images/pic3.jpg</picture>
+		<info><![CDATA[Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Creative Director]]></title>
+		<name><![CDATA[James Hill]]></name>
+		<picture>staff/images/pic4.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed pellentesque, risus vel malesuada porttitor, leo magna mattis odio, vel semper felis justo et arcu. Maecenas tempor suscipit nibh. Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.
+Suspendisse aliquam, purus id laoreet rhoncus, ante libero molestie lacus, ac faucibus dui libero pulvinar ipsum. Maecenas pulvinar tincidunt turpis. Donec porta, sem ac fringilla placerat, odio augue iaculis arcu, id blandit pede turpis nec sem. Vivamus eget pede. Fusce eros orci, semper sed, vulputate in, eleifend convallis, enim. Sed laoreet iaculis pede. Duis feugiat rhoncus nisl. Duis suscipit orci pellentesque sem rhoncus dignissim. Fusce eu nisi. Donec euismod lorem nec elit. Fusce vitae est at dolor scelerisque cursus. ]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Project Manager]]></title>
+		<name><![CDATA[Bob Vance]]></name>
+		<picture>staff/images/pic5.jpg</picture>
+		<info><![CDATA[This is some information about Bob.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Accountant]]></title>
+		<name><![CDATA[Dorothy Wilks]]></name>
+		<picture>staff/images/pic6.jpg</picture>
+		<info><![CDATA[Sed tempus sollicitudin tortor. Curabitur lobortis semper velit. Maecenas est lorem, venenatis ut, pharetra non, ultrices vitae, mauris. Sed sagittis vestibulum lacus. Maecenas pulvinar ipsum a dui. Curabitur velit turpis, bibendum eget, vestibulum at, tempor in, mi. Sed enim. Aenean lectus dolor, facilisis at, hendrerit in, fermentum non, enim. Pellentesque semper laoreet lorem.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Office Manager]]></title>
+		<name><![CDATA[Jose Valdez]]></name>
+		<picture>staff/images/pic7.jpg</picture>
+		<info><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque semper est dictum pede. Donec vel tellus. Curabitur diam. Etiam convallis dui in arcu. Donec et mauris. Etiam posuere justo malesuada eros. Aliquam vel diam. Curabitur ultricies dictum dolor. Morbi quam mauris, aliquam eu, consectetuer eu, sollicitudin quis, nisl. In egestas. Phasellus erat. Nulla nisi dui, suscipit eu, ultricies non, mattis et, tellus. Vivamus id dui a lacus blandit congue. Integer libero tortor, gravida eu, iaculis a, eleifend ac, dolor. Suspendisse sed lorem. Vivamus fermentum.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Project Manager]]></title>
+		<name><![CDATA[Kim Fletcher]]></name>
+		<picture>staff/images/pic8.jpg</picture>
+		<info><![CDATA[Sed commodo tellus. Duis porttitor ipsum sit amet nibh imperdiet suscipit. Curabitur vitae dolor vitae risus consectetuer porta. In eget odio. Suspendisse laoreet, tortor tristique aliquet porttitor, augue libero rutrum mauris, quis elementum odio arcu id ipsum. Nullam sollicitudin ultricies ante. Pellentesque molestie, turpis quis pretium suscipit, est urna molestie felis, et pharetra ligula neque ultrices ligula. Integer et orci. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut vitae tellus feugiat felis malesuada vehicula. Morbi ante felis, elementum eu, semper ultrices, vestibulum suscipit, ipsum. Vivamus dictum lacus eget nisl. Duis a nulla scelerisque dui commodo laoreet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris libero. 
+Sed eu libero sed quam tincidunt imperdiet. Vestibulum vitae turpis quis diam vehicula convallis. Cras faucibus luctus purus. Vestibulum ut massa eu quam sagittis venenatis.]]></info>
+	</member>
+		<member>
+		<title><![CDATA[Designer]]></title>
+		<name><![CDATA[Dorothy Wilks]]></name>
+		<picture>staff/images/pic9.jpg</picture>
+		<info><![CDATA[Morbi tempus, nibh id lacinia adipiscing, leo dui accumsan nisi, vitae tincidunt lectus odio eget tellus. Pellentesque convallis pede et purus. Donec tincidunt, quam eu dictum varius, enim enim commodo enim, eu ultricies nisl eros eu odio. Etiam vulputate. 
+Praesent sagittis. Vestibulum tellus. Phasellus vehicula. Nullam enim mi, lacinia dignissim, pretium ac, bibendum vel, nunc. Fusce rutrum. Donec tempor quam ut est. Donec pellentesque mauris sit amet mi. Vestibulum iaculis. Pellentesque sit amet sem. In ultricies. Ut mauris turpis, hendrerit ac, lacinia quis, volutpat eu, nunc. Ut quis metus. Donec magna est, dignissim a, congue a, mollis quis, odio. Phasellus et orci. Duis pede. Etiam tellus velit, facilisis vitae, tincidunt ac, placerat sed, lacus.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Programmer]]></title>
+		<name><![CDATA[Alice Fritz]]></name>
+		<picture>staff/images/pic10.jpg</picture>
+		<info><![CDATA[Quisque eleifend suscipit ipsum. Mauris nulla. Mauris eget velit. Praesent sed velit. Nam vehicula luctus mauris. Praesent id nunc eget erat mollis posuere. In hac habitasse platea dictumst. Integer erat libero, facilisis vitae, ornare sed, pharetra non, quam. 
+Mauris adipiscing, neque nec rutrum molestie, dolor risus commodo tortor, eu varius enim quam ut urna. Duis id odio. Ut pharetra tortor a libero. Mauris ullamcorper fermentum elit. Integer mattis, dui nec sagittis sodales, nisl lorem porta arcu, id varius lectus lacus non pede.]]></info>
+	</member>
+	<member>
+		<title><![CDATA[Intern]]></title>
+		<name><![CDATA[Jeremy O'Neil]]></name>
+		<picture>staff/images/pic11.jpg</picture>
+		<info><![CDATA[Proin congue. Morbi vitae tortor sit amet orci molestie pulvinar. Vivamus a mi. Quisque ultrices ipsum id lorem. Sed sed massa vel risus posuere commodo. Quisque et est. Morbi elementum. Morbi dictum velit condimentum metus hendrerit egestas. 
+Fusce pulvinar consectetuer urna. Vestibulum ac metus. Sed dignissim elit non felis. Duis at mi semper risus laoreet ullamcorper. Donec in pede. Ut purus. Duis accumsan eros sed libero gravida mattis.]]></info>
+	</member>
+</staff>

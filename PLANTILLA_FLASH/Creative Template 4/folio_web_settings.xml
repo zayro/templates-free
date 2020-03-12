@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings
+
+	totalWidth="650"
+
+	playerWidth="421"
+	playerHeight="336"
+
+	slideTime="5"
+	
+	titleBack="0x000000"
+	titleText="0xffffff"
+	navButtonsBack="0x000000"
+	navButtonsText="0xffffff"
+	
+	videoBack="0x000000"
+	videoButtons="0xffffff"
+	videoButtonsRoll="0xf129b0"
+	videoSeekBack="0xffffff"
+	videoSeekBuffered="0xfcd8f3"
+	videoSeekPlayed="0xf129b0"
+	videoSeekHandle="0x000000"
+	videoCurrentTime="0xffffff"
+	videoTotalTime="0xf129b0"
+
+>
+	<folio>
+	
+		<project>
+			<title><![CDATA[Freelance Switch]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.freelanceswitch.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/freelanceswitch.com/preview0.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview1.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview2.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview3.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview4.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview5.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview6.jpg" />
+			</assets>
+		</project>
+		
+		<project>
+			<title><![CDATA[Rockable Press]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.rockable.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/rockable.com/preview1.jpg" />
+				<item src="folio_assets/web/rockable.com/preview2.jpg" />
+				<item src="folio_assets/web/rockable.com/preview3.jpg" />
+			</assets>
+		</project>
+		
+		<project>
+			<title><![CDATA[Tuts+ Network]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.tutsplus.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/tutsplus.com/preview0.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview1.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview2.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview3.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview4.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview5.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview6.jpg" />
+			</assets>
+		</project>
+		
+		
+		<project>
+			<title><![CDATA[Freelance Switch]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.freelanceswitch.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/freelanceswitch.com/preview0.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview1.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview2.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview3.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview4.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview5.jpg" />
+				<item src="folio_assets/web/freelanceswitch.com/preview6.jpg" />
+			</assets>
+		</project>
+		
+		<project>
+			<title><![CDATA[Rockable Press]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.rockable.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/rockable.com/preview1.jpg" />
+				<item src="folio_assets/web/rockable.com/preview2.jpg" />
+				<item src="folio_assets/web/rockable.com/preview3.jpg" />
+			</assets>
+		</project>
+		
+		<project>
+			<title><![CDATA[Tuts+ Network]]></title>
+			<description><![CDATA[<ul><li><font color="#ff0066"><a href="http://www.tutsplus.com" target="_blank">View online</a></font></li></ul><br><font color="#ff0066">Client: </font>FlashDen<br><font color="#ff0066">Year: </font>2009<br><font color="#ff0066">Type: </font>HTML/Photoshop/PHP<br><br><font color="#ff0066">Description: </font>This is the description for the current project. Regular html text, that gives you the possibility to change the color of the text and add <u><a href="http://www.flashden.net" target="_blank">hyperlinks</a></u>. You can also have unordered lists and special characters(with a different font family of course).<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+			<assets type="photo">
+				<item src="folio_assets/web/tutsplus.com/preview0.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview1.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview2.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview3.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview4.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview5.jpg" />
+				<item src="folio_assets/web/tutsplus.com/preview6.jpg" />
+			</assets>
+		</project>
+		
+	</folio>
+
+</settings>

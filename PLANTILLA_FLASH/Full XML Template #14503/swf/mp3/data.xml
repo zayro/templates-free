@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mp3>
+
+  <track source="swf/mp3/data/1.mp3"/>
+  <track source="swf/mp3/data/2.mp3"/>
+  <track source="swf/mp3/data/3.mp3"/>
+
+</mp3>

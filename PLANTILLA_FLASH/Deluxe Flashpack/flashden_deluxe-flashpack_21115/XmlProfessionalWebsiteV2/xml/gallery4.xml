@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Photos>
+  <Node PhotoUrl="gallery4/1.jpg">PHOTO 1 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery4/2.jpg">PHOTO 2 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery4/3.jpg">PHOTO 3 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery4/4.jpg">PHOTO 4 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+  
+  <Node PhotoUrl="gallery4/5.jpg">PHOTO 5 - You can add descriptions here by xml. JPG, PNG, SWF, GIF and more extensions can be loaded to the gallery, just edit url path in the xml file.</Node>
+   
+
+</Photos>

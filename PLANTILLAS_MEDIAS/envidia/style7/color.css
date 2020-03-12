@@ -1,0 +1,236 @@
+body,
+body.home
+{
+  background-color:#151515;
+  color:#d3d3d3;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:#b2e3ff;
+  border-color:#b2e3ff;
+}
+
+blockquote,
+q
+{
+  background-color:#404040;
+}
+
+code,
+pre
+{
+  border-color:#404040;
+}
+
+abbr,
+acronym
+{
+  border-color:#d3d3d3;
+}
+
+input,
+div input.small,
+.widget input.search,
+textarea
+{
+  border-color:#0b0b0b;
+  background-color:#2e2e2e;
+  color:#d3d3d3;
+}
+
+th, td
+{
+  background-color:#212121;
+	border:1px solid #3b3b3b;
+	color:#d3d3d3;
+}
+
+td.alt,
+tr:nth-child(even) td
+{
+  background:#323333;
+}
+
+th
+{
+	background:#1a1b1b;
+	color:#7abad2;
+}
+
+a
+{
+  color:#f73379;
+}
+
+a:hover
+{
+  color:#e90053;
+}
+
+#menu ul li a
+{
+  color:#74ccff;
+}
+
+#menu ul li a:hover
+{
+  color:#FFFFFF;
+}
+
+#menu ul li.selected a
+{
+  color:#FFFFFF;
+}
+
+#menu ul ul li a,
+#menu ul li.selected ul li a
+{
+  color:#054c74;
+}
+
+#menu ul ul li a:hover,
+#menu ul li.selected ul li a:hover
+{
+  color:#000000;
+}
+
+.sidebar ul li a
+{
+  color:#d3d3d3;
+}
+
+.sidebar ul li a:hover
+{
+  color:#f73379;
+}
+
+ul.post-list li img
+{
+  border-color:#74ccff;
+}
+
+ul.post-list li
+{
+  border-color:#74ccff;
+}
+
+.slider-gallery
+{
+  background-color:#323232;
+}
+
+.minipost .comments,
+.minipost .readmore,
+.button,
+.button-right,
+ul.pagination li a
+{
+  background-color:#008392;
+  border-bottom:4px solid #007485;
+}
+
+.minipost .comments:hover,
+.minipost .readmore:hover,
+.button:hover,
+.button-right:hover,
+ul.pagination li a:hover
+{
+  color:#FFFFFF;
+  background-color:#007485;
+}
+
+.button-red,
+.minipost .date
+{
+  background-color:#a80a42;
+  border-bottom:4px solid #980636;
+}
+
+.button-red:hover
+{
+  background-color:#980636;
+}
+
+.box,
+.post,
+.minipost,
+.fullwidth,
+.full-page,
+.widget,
+ul.tabs-nav li.tabs-selected,
+.tabs-container,
+#footer
+{
+  background-color:#212121;
+}
+
+ul.pagination li a.selected,
+ul.pagination li a.selected:hover
+{
+  background-color:#212121;
+  color:#d3d3d3;
+}
+
+
+ul.tabs-nav
+{
+  background-color:#121212;
+}
+
+ul.tabs-nav li a
+{
+  color:#d3d3d3;
+}
+
+ul.comments li .comment
+{
+  background-color:#323232;
+}
+
+ul.comments li .reply
+{
+  color:#abedf5;
+}
+
+.alert-error
+{
+  background-color:#AE082B;
+}
+
+.alert-info
+{
+  background-color:#9c9300;
+}
+
+.alert-success
+{
+  background-color:#4b9602;
+}
+
+.alert-error,
+.alert-info,
+.alert-success
+{
+  color:#ffffff;
+  border-color:#090909;
+}
+
+.alert-error h2,
+.alert-info h2,
+.alert-success h2
+{
+  color:#ffffff;
+  border-color:#ffffff;
+}
+
+#footer,
+#footer a
+{
+  color:#d3d3d3;
+}
+
+#footer a:hover
+{
+  color:#f73379;
+}

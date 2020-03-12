@@ -1,0 +1,86 @@
+﻿<?xml version=”1.0” encoding=”UTF-8”?>
+<music>
+<songs>
+
+<option>
+   <song>MAIN/music/songs/song.mp3</song>
+   <title>FIFTY TONS | Bonus track</title>
+</option>
+<option>
+   <song>MAIN/music/songs/1.mp3</song>
+   <title>FIFTY TONS | First sample</title>
+</option>
+<option>
+   <song>MAIN/music/songs/2.mp3</song>
+   <title>FIFTY TONS | Second sample</title>
+</option>
+<option>
+   <song>MAIN/music/songs/song.mp3</song>
+   <title>DEEP PURPLE | Child in time</title>
+</option>
+<option>
+   <song>MAIN/music/songs/1.mp3</song>
+   <title>EMINEM | Bonnie & Clyde</title>
+</option>
+<option>
+   <song>MAIN/music/songs/2.mp3</song>
+   <title>CELELALTE CUVINTE | Lupii</title>
+</option>
+<option>
+   <song>MAIN/music/songs/song.mp3</song>
+   <title>METALLICA | Unforgiven</title>
+</option>
+<option>
+   <song>MAIN/music/songs/1.mp3</song>
+   <title>METALLICA | Whiplash</title>
+</option>
+<option>
+   <song>MAIN/music/songs/2.mp3</song>
+   <title>NIRVANA | The man who sold the world</title>
+</option>
+<option>
+   <song>MAIN/music/songs/song.mp3</song>
+   <title>DIRE STRAITS | Calling Elvis</title>
+</option>
+<option>
+   <song>MAIN/music/songs/1.mp3</song>
+   <title>MICHAEL JACKSON | Liberian girl</title>
+</option>
+<option>
+   <song>MAIN/music/songs/2.mp3</song>
+   <title>50 CENT | In da club</title>
+</option>
+<option>
+   <song>MAIN/music/songs/song.mp3</song>
+   <title>DMX | Trina Moe</title>
+</option>
+
+</songs>
+<!--  ______________SETTINGS_________________   -->
+<!--  AUTOPLAY   -->
+<autoplay autoplay="true" />
+<!--  ______________COLOR SETTINGS_________________   -->
+<!--  MUSIC MENU BUTTON COLORS   -->
+<butColorNormal>0x0D0D0D</butColorNormal>
+<butColorOver>0x1E1E1E</butColorOver>
+<butTextColor>0x666666</butTextColor>
+<!--  PLAY AND STOP BUTTONS COLORS   -->
+<plstBtnColorNormal>0x0D0D0D</plstBtnColorNormal>
+<plstBtnColorOver>0x1E1E1E</plstBtnColorOver>
+<plstSymbolColorNormal>0x666666</plstSymbolColorNormal>
+<plstSymbolColorOver>0xFFFFFF</plstSymbolColorOver>
+<plstBtnStrokeColor>0x333333</plstBtnStrokeColor>
+<!--  PLAYLIST CONTROL ASSETS   -->
+<draggerColorNormal>0x666666</draggerColorNormal>
+<draggerColorOver>0xFFFFFF</draggerColorOver>
+<dragBarColor>0x333333</dragBarColor>
+<!--  VOLUME ASSTES COLORS   -->
+<currentVolumeColor>0xFFFFFF</currentVolumeColor>
+<activeVolBar>0xFFFFFF</activeVolBar>
+<inactiveVolBar>0x333333</inactiveVolBar>
+
+
+
+
+</music>
+

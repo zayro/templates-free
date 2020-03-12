@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<portfolio_list>
+	<config
+	auto_play_mode="yes"
+	auto_next_delay_time="3"
+	visible_portfolio_number="3"
+	visible_area_height="500"
+	image_width="224"
+	image_height="262"
+	image_space="30"
+	image_rollover_shine_percent="30"
+	image_border_color="0x000000"
+	image_border_thickness="10"
+	image_area_y_position="50" 
+	title_area_y_position="0"
+	description_area_y_position="340"
+	description_text_area_height="175"
+	navigation_button_y_position="440"
+	navigation_button_align="right"
+	navigation_button_space="5"
+	image_slide_speed="0.75"
+	title_slide_speed="0.5"
+	description_slide_speed="1.1"
+	/>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 1</main_title>
+		<second_title>This is long text example.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>trio_tall_images/1.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 2</main_title>
+		<second_title>This is short text example</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. ]]></description>
+		<image_path>trio_tall_images/2.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 3</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>trio_tall_images/3.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 4</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. ]]></description>
+		<image_path>trio_tall_images/4.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 5</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>trio_tall_images/5.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 6</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. ]]></description>
+		<image_path>trio_tall_images/6.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 7</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>trio_tall_images/7.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 8</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. ]]></description>
+		<image_path>trio_tall_images/8.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 9</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>trio_tall_images/9.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 10</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>trio_tall_images/10.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 11</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>trio_tall_images/11.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>TALL IMAGE 12</main_title>
+		<second_title>This is portfolio box second title.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. ]]></description>
+		<image_path>trio_tall_images/12.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+</portfolio_list>

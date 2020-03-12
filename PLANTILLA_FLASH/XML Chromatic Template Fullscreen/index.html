@@ -1,0 +1,57 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta http-equiv="Content-Language" content="en"/>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/swfmacmousewheel.js"></script>
+<style>
+/* hide from ie on mac \*/
+	
+html {		
+	height: 100%;
+	overflow: auto;
+	
+}
+
+#flash {
+	position: absolute;
+	top: 0px;
+	left: 0px;		
+	height: 100%;
+	width: 100%;
+}
+
+/* end hide */
+
+body {
+	background-color: #083137;
+	margin: 0;		
+	padding: 0;		
+	height: 100%;
+}
+</style>
+<title>CHROMATIC TEMPLATE - FLASHDEN</title>
+</head>
+
+<body>
+<!-- For info on swfoject visit http://blog.deconcept.com/swfobject/ - for info on swfMacMouseWheel visit http://blog.pixelbreaker.com/2006/11/08/flash/swfmacmousewheel/ -->
+
+<div id="flash">Replaces by swf...</div>
+
+<script type="text/javascript">
+// <![CDATA[
+      var a = new SWFObject("portfolio.swf", "FlashObj", "100%", "100%", "8", "#083137");
+      	a.addParam("allowScriptAccess", "always");
+      	a.addParam("quality", "best");
+      	a.addParam("scale", "noscale");
+		a.addParam("allowFullScreen", "true");
+     	a.write("flash");
+		if( a.write('flash') ){
+			var macmousewheel = new SWFMacMouseWheel( a );
+		}
+// ]]>
+</script>
+
+</body>
+
+</html>

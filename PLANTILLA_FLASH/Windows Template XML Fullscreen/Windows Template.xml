@@ -1,0 +1,102 @@
+﻿<windowsTemplate>
+
+	<!--
+	
+		First of all turn off the word wrap option of your XML editor to view this file properly
+	
+		----------------------------  Template Settings ----------------------------
+	
+		+ wallpaperImage:			This is the relative or absolute location of your wallpaperImage
+		+ windowAlpha: 				This is the alpha that you will get when draging a window. values go from 0 to 100
+		+ menuVerticalSpace: 		Vertical space in pixels between the menu items
+		+ menuHorizontalSpace: 		Horizontal space in pixels between the menu items
+		+ menuItemColorNormal:		This is the hexadecimal color for the menu items when the mouse is NOT over them or they have NOT been pressed
+		+ menuItemColorPressed:		This is the hexadecimal color for the menu items when the mouse IS over them or they HAVE been pressed
+		+ menuItemTextColor:		This is the hexadecimal color for the text of the menu items
+		+ taskBarColor:				This is the hexadecimal color for the taskbar
+		+ taskBarTextColor:			This is the hexadecimal color for text in the taskbar. This includes the word "START", the time and the fullscreen button
+	
+	-->
+
+	<templateSettings
+		wallpaperImage="WallpaperOptimized.jpg"
+		windowAlpha = "50"
+		menuVerticalSpace = "-1"
+		menuHorizontalSpace = "1"
+		menuItemNormalColor = "0x000000"
+		menuItemPressedColor = "0x0BCADC"
+		menuItemTextColor = "0xFFFFFF"
+		taskBarColor = "0x000000"
+		taskBarTextColor = "0xFFFFFF"
+	>
+	</templateSettings>
+	
+	
+	<!--
+		
+		----------------------------  Menu Items ----------------------------
+		
+		There are no limits menu's depth. You can have as many levels as you want. Just nest the <menuItem> tags as you please.
+		These are the attributes for each menuItem:
+	
+		+ menuItemName:				This is the text that will appear in the menu item
+		+ url: 						This is the relative or absolute location of the swf movie or image**
+		+ contentWidth: 			This is the width for the swf movie or image in pixels
+		+ contentHeight: 			This is the height for the swf movie or image in pixels
+		+ windowTitle: 				This is the text that will appear in the title bar of each window
+		+ info: 					This is the text that will appear in the bottom of the window. If you leave this parameter like this: info="" the info button won't appear 
+		+ displayInfoInitially:		This is a boolean parameter that determines weather the info is shown at the moment you open a window or util you press the info button. Posible values are 0 and 1. 0=false, 1=true
+		+ barColor: 				This is the hexadecimal color for the rectangle in the title bar of the window and also for the rectangle of the info
+		+ borderColor: 				This is the hexadecimal color for the border of the window
+		+ titleColor:  				This is the hexadecimal color for the title, the text info and the buttons on the top right corner.
+		
+		
+		** You can load a SWF, JPEG, progressive JPEG, unanimated GIF, or PNG. If you load an animated GIF, only the first frame is displayed. 
+
+	-->
+
+	<menuItems>
+		<menuItem menuItemName="HOME" url="Content/Home.swf" contentWidth="590" contentHeight="300" windowTitle="Title For Home" info="This is the info for the home window. Press the info button in the top right corner of this window to turn me on or off." displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+		<menuItem menuItemName="PORTFOLIO" url="Content/Portfolio.swf" contentWidth="590" contentHeight="300" windowTitle="Title for Portfolio" info="This is the info for the portfolio window. You can decide if you want the info to display initially or only after the user has clcked the info button." displayInfoInitially="0" barColor="0xFF9900" borderColor="0x000000" titleColor="0x000000" ></menuItem>
+		<menuItem menuItemName="ABOUT US" url="Content/AboutUs.swf" contentWidth="590" contentHeight="300" windowTitle="Title for About Us" info="This is the info for the about us window. If you double click the title bar of any window it's minimized or restored. If you don't specify any info then the info button wont appear, check the services window." displayInfoInitially="1" barColor="0xFF66FF" borderColor="0x000000" titleColor="0x000000" ></menuItem>
+		<menuItem menuItemName="SERVICES" url="Content/Services.swf" contentWidth="590" contentHeight="300" windowTitle="Title for Services" info="" displayInfoInitially="0" barColor="0x0BCADC" borderColor="0xFFFFFF" titleColor="0xFFFFFF" ></menuItem>
+		
+		<menuItem menuItemName="PICTURES">
+			<menuItem menuItemName="COLOR">
+				<menuItem menuItemName="COLOR 1" url="Pictures/COLOR1.jpg" contentWidth="700" contentHeight="464" windowTitle="Title for Picture Color 1" info="This is the info for picture Color 1" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="COLOR 2" url="Pictures/COLOR2.jpg" contentWidth="700" contentHeight="525" windowTitle="Title for Picture Color 2" info="This is the info for picture Color 2. The display_Info_Initially variable for this window is set to false." displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="COLOR 3" url="Pictures/COLOR3.jpg" contentWidth="525" contentHeight="700" windowTitle="Title for Picture Color 3" info="This is the info for picture Color 3" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>				
+				<menuItem menuItemName="COLOR 4" url="Pictures/COLOR4.jpg" contentWidth="525" contentHeight="700" windowTitle="Title for Picture Color 4" info="This is the info for picture Color 4. The display_Info_Initially variable for this window is set to false." displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="COLOR 5" url="Pictures/COLOR5.jpg" contentWidth="700" contentHeight="540" windowTitle="Title for Picture Color 5" info="This is the info for picture Color 5" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+			</menuItem>
+			<menuItem menuItemName="BLACK AND WHITE">
+				<menuItem menuItemName="BLACK AND WHITE 1" url="Pictures/BANDW1.jpg" contentWidth="693" contentHeight="520" windowTitle="Title for Picture Black and White 1" info="This is the info for picture Black and White 1" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="BLACK AND WHITE 2" url="Pictures/BANDW2.jpg" contentWidth="700" contentHeight="525" windowTitle="Title for Picture Black and White 2" info="This is the info for picture Black and White 2. The display_Info_Initially variable for this window is set to false." displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="BLACK AND WHITE 3" url="Pictures/BANDW3.jpg" contentWidth="700" contentHeight="525" windowTitle="Title for Picture Black and White 3" info="This is the info for picture Black and White 3" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>				
+				<menuItem menuItemName="BLACK AND WHITE 4" url="Pictures/BANDW4.jpg" contentWidth="483" contentHeight="700" windowTitle="Title for Picture Black and White 4" info="This is the info for picture Black and White 4. The display_Info_Initially variable for this window is set to false." displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+				<menuItem menuItemName="BLACK AND WHITE 5" url="Pictures/BANDW5.jpg" contentWidth="529" contentHeight="700" windowTitle="Title for Picture Black and White 5" info="This is the info for picture Black and White 5" displayInfoInitially="1" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+			</menuItem>
+		</menuItem>
+		
+		<menuItem menuItemName="VIDEOS">
+			<menuItem menuItemName="CLOUDS 1" url="Videos/Video1.swf" contentWidth="590" contentHeight="300" windowTitle="Title for Video 1" info="This is the info for Video 1" displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+			<menuItem menuItemName="CLOUDS 2" url="Videos/Video2.swf" contentWidth="400" contentHeight="500" windowTitle="Title for Video 2" info="This is the info for Video 2" displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>
+			<menuItem menuItemName="CLOUDS 3" url="Videos/Video3.swf" contentWidth="500" contentHeight="400" windowTitle="Title for Video 3" info="This is the info for Video 3" displayInfoInitially="0" barColor="0x000000" borderColor="0x000000" titleColor="0xFFFFFF" ></menuItem>				
+		</menuItem>
+		
+		<menuItem menuItemName="THIS">
+			<menuItem menuItemName="IS"></menuItem>
+			<menuItem menuItemName="JUST A"></menuItem>
+			<menuItem menuItemName="TEST">
+				<menuItem menuItemName="TO"></menuItem>
+				<menuItem menuItemName="SHOW YOU"></menuItem>
+				<menuItem menuItemName="HOW">
+					<menuItem menuItemName="THE MENU"></menuItem>
+					<menuItem menuItemName="WORKS"></menuItem>
+				</menuItem>
+			</menuItem>
+		</menuItem>
+		
+	</menuItems>
+	
+</windowsTemplate>

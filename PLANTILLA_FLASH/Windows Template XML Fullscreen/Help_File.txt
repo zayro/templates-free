@@ -1,0 +1,84 @@
+Hi!, thanks for buying, this is the help file
+
+
+- How to Modify/Use
+
+	To modify the content of the windows, the menu items and some template settings open the "Windows Tmeplate.xml" file
+	and read the documentation for each parameter before you make any changes. It's pretty easy to understand and it's well 
+	documented.
+
+	IMPORTANT: 
+		
+		- If you call external SWF it's important that you publish those SWF movies with Flash 8 or higher.
+
+		- When a SWF is loaded into the Windows Template movie all of the relative URLs for the SWF loadad are relative
+		  to the Windows Template directory. For example:
+
+			I have a SWF movie called Video1.swf that loads a FLV video called CLOUDS2.flv and both files are located
+			in a folder called Videos. The Windows Template is located in the Video's parent folder. Therefore when we load the 
+			SWF movie in the Windows Template we have to change the URL for the FLV video we are loading in the SWF movie
+			to: "Videos/Video1.flv" even though both files are in the same directory.
+		
+		- Don't worry about the use of "_root" in the ActionScript of your SWF movies. I've set the "_lockroot" property to true
+		  for all the SWF movies loaded into the Windows Template.
+
+		- The Windows Template frame rate is 25fps and all the movies loaded into the template will play at the same frame rate.
+		  Consider this before you start working on you SWF files or change the Windows Template frame rate if you must.
+
+	If you happen to have any problems with the fullscreen when recompiling the Windows Template with Flash 8 check this page:
+	http://julian.empiregn.com/2007/2/22/How-to-create-true-fullscreen-movies-with-Flash 
+
+	The font i'm using for this template is called Supernatural1002 and you can downloaded it for free in this page:
+	http://www.bestflashanimationsite.com/pixel-fonts/37.php
+
+
+
+- Files Included
+	
+	Content Folder
+		- AboutUs.fla
+		- Home.fla
+		- Portfolio.fla
+		- Services.fla
+		- AboutUs.swf
+		- Home.swf
+		- Portfolio.swf
+		- Services.swf
+
+	Pictures Folder
+		- BANDW1.jpg
+		- BANDW2.jpg
+		- BANDW3.jpg
+		- BANDW4.jpg
+		- BANDW5.jpg
+		- COLOR1.jpg
+		- COLOR2.jpg
+		- COLOR3.jpg
+		- COLOR4.jpg
+		- COLOR5.jpg
+
+	Videos Folder
+		- ClearOverAll.swf
+		- CLOUD 2.flv
+		- CLOUD 3c.flv
+		- CLOUD 4.flv
+		- Video1.fla
+		- Video1.swf
+		- Video2.fla
+		- Video2.swf
+		- Video3.fla
+		- Video3.swf
+
+	- Windows Template.fla
+	- Windows Template.swf
+	- Windows Template.xml
+	- Index.html
+	- WallpaperOptimized.jpg
+	- AC_RunActiveContent.js**
+	- Help_File.txt
+
+	**The AC_RunActiveContent.js file is for the Windows Explorer users so they don't have to click the movie to activate the content.
+
+- Contact 
+
+	If you have any questions or problems you can send me an email to: betillo555@gmail.com

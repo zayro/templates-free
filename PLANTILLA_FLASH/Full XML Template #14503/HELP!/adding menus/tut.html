@@ -1,0 +1,31 @@
+
+<h1>Adding menu items</h1>
+<p>In this one, I'm going to show you how to add new menu buttons.</p>
+
+
+<h3>Step 1</h3>
+<p>Inside the root directory, there's the <b>items.xml</b> file. Open it and let's have a look at it's structure. Alright! Our menu has 3 levels.</p>
+<div class="tutorial_image"><img src="1.jpg" border="0" /></div>
+
+
+<h3>Step 2</h3>
+<p>Now that we know how our levels (nodes) look like, let's add a first level item under the contact button (at the bottom)! Open the items.xml file and scroll down to the bottom. You will see this:</p>
+<p>	<mainmenu menutitle="Contact" path="swf/contact.swf">		
+	</mainmenu>
+</p>
+In order to add a new menu button, we'll copy the contact node, paste it under, change it's name (caption) to "New first" and  it's path to other external swf file. Save changes! After this operations, your xml should look like this:
+<p>
+	<mainmenu menutitle="Contact" path="swf/contact.swf">		
+	</mainmenu>
+
+	<mainmenu menutitle="New first" path="swf/html.swf">		
+	</mainmenu>
+</p>
+
+If we test our movie now, your menu will look like this:
+
+<div class="tutorial_image"><img src="2.jpg" border="0" /></div>
+
+
+<h3>Conclusion</h3>
+<p>Ok! For the rest of the menu level, the adding operation is the same. Basically, you just have to copy and paste nodes, change it's name and path to the external swf file and Voila!</p>

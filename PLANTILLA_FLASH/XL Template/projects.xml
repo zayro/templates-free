@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item>
+	<set title="Beta XP" client="Limon Nada" date="February 15th" url="" description="Phasellus eu elit eget tortor vulputate semper. Proin tristique. Sed nisl purus, gravida eu, sodales eget, viverra ac, mi. Cras vitae dolor volutpat neque pulvinar pharetra. Pellentesque urna erat, laoreet id, mattis sed, facilisis sed, ante. In pede sem, faucibus vitae, dignissim quis, elementum non, ante. ">
+		<entry image="items/projects/project_a1.jpg" />
+		<entry image="items/projects/project_a2.jpg" />
+		<entry image="items/projects/project_a3.jpg" />
+	</set>
+	<set title="Gamma 09" client="Orange Juice" date="February 10th" url="www.flashden.net" description="Praesent et nisl. Morbi non augue. Donec bibendum. Quisque sem. Vestibulum ac dui in ipsum interdum aliquet. Nullam bibendum mauris at enim. Donec porttitor consequat est. Vestibulum pede nisl, iaculis nec, rutrum id, egestas ac, nibh. Integer sed eros quis nisi consectetur varius. Suspendisse in nisi. Donec arcu lacus, blandit vitae, congue ut, varius a, diam.">
+		<entry image="items/projects/project_b1.jpg" />
+		<entry image="items/projects/project_b2.jpg" />
+
+	</set>
+	<set title="Cooper's way" client="Icy Tomato" date="February 4th" url="www.flashden.net" description="Vestibulum diam. Integer semper pede nec nunc. Quisque sapien. Cras blandit, felis at ornare vestibulum, lacus urna blandit ante, et porttitor massa turpis at enim. Sed est justo, facilisis ut, suscipit nec, imperdiet non, nibh. Donec suscipit, magna sed commodo facilisis, felis tortor eleifend dolor, et dapibus lorem ante sed erat.">
+		<entry image="items/projects/project_c0.jpg" />
+		<entry image="items/projects/project_c1.jpg" />
+		<entry image="items/projects/project_c2.jpg" />
+	</set>
+	<set title="Teddy 911" client="Banana Why" date="January 25th" url="www.flashden.net" description="Mauris consectetur velit non pede pharetra blandit. Curabitur tristique risus sagittis nunc. Praesent lacus diam, elementum consequat, malesuada sed, congue nec, sapien. Integer a turpis eu lacus tincidunt aliquet. Quisque et massa sit amet mauris luctus ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.">
+		<entry image="items/projects/project_d1.jpg" />
+		<entry image="items/projects/project_d2.jpg" />
+
+	</set>
+	<set title="Fly away" client="Apple Tea" date="January 17th" url="www.flashden.net" description="Praesent vel turpis quis ligula condimentum luctus. Pellentesque sodales adipiscing nibh. Integer porttitor dignissim nisl. Fusce tempor rutrum massa. Suspendisse risus dolor, ullamcorper non, varius nec, porta non, nibh. Suspendisse nec leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.">
+		<entry image="items/projects/project_e1.jpg" />
+		<entry image="items/projects/project_e2.jpg" />
+		<entry image="items/projects/project_e3.jpg" />
+		<entry image="items/projects/project_e4.jpg" />
+	</set>
+	<set title="Zero-Zero" client="Tangerine dream" date="January 5th" url="www.flashden.net" description="Pellentesque ullamcorper elit eget diam. Curabitur at sapien. Nam ut pede. In vel nisl. Aenean imperdiet tincidunt augue. Sed convallis hendrerit ligula. Nullam ante. Vestibulum in ante ut tortor accumsan lobortis. Etiam metus nunc, laoreet sed, lacinia vitae, consectetur at, odio. Duis fermentum erat eget sapien. Sed justo ipsum, ornare a, tempor ut, mattis ut, tortor.">
+		<entry image="items/projects/project_f0.jpg" />
+
+		<entry image="items/projects/project_f1.jpg" />
+		<entry image="items/projects/project_f2.jpg" />
+	</set>
+</item>

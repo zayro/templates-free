@@ -1,0 +1,621 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Anytime -Contact  Page</title>
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/formcheck.css" rel="stylesheet" type="text/css" />
+
+
+
+<!--Form Type Starts -->
+<script type="text/javascript" src="./js/core.js"></script>
+<script type="text/javascript" src="./js/more.js"></script>
+<script type="text/javascript" src="./js/en.js"></script>
+<script type="text/javascript" src="./js/formcheck.js"></script> 
+<script type="text/javascript"> 
+			window.addEvent('domready', function(){
+    new FormCheck('myform');
+	new FormCheck('mainform');
+});
+		</script> 
+<!--Form Type Ends -->
+
+
+<!--Header & Footer Slider Starts -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/jquery.cycle.all.js"></script>
+<script type="text/javascript"> 
+$(function($){   
+	$('#slideshow_g').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		next: '#next',  // selector for element to use as click trigger for next slide
+	   prev: '#previous',  // selector for element to use as click trigger for previous slide
+		pager: '#pager',  // selector for element to use as pager container
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	  
+	$('#slideshow').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollDown', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 
+	
+	$('#slideshow2').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollUp', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 	
+	
+})(jQuery);  
+</script>
+<!--Header & Footer Slider Ends -->
+
+<!--On hover Effect starts -->
+<script type="text/javascript" src="./js/easy.js"></script>
+<script type="text/javascript">
+	$(document).ready(function($){		
+		$.easy.tooltip();	
+})(jquery);
+</script>
+<!--On hover Effect ends -->
+
+
+
+<!--For Moving Top Starts -->
+<script type="text/javascript">
+(function($){
+	$(document).ready(function() {
+	$("a.anchorLink").anchorAnimate()
+});
+
+jQuery.fn.anchorAnimate = function(settings) {
+
+ 	settings = jQuery.extend({
+		speed : 800
+	}, settings);	
+	
+	return this.each(function(){
+		var caller = this
+		$(caller).click(function (event) {	
+			event.preventDefault()
+			var locationHref = window.location.href
+			var elementClick = $(caller).attr("href")			
+			var destination = $(elementClick).offset().top;
+			$("html:not(:animated),body:not(:animated)").animate({ scrollTop: destination}, settings.speed, function() {
+				window.location.hash = elementClick
+			});
+			
+		  	return false;
+		})
+	})
+}
+})(jQuery); 
+</script>
+<!--For Moving Top Ends -->
+
+<!--For No Conflict -->
+<script type="text/javascript"> 
+			jQuery.noConflict();
+		</script> 
+<!--For No Conflict -->
+
+
+
+<!--Navigation DropDown Starts -->
+<script type="text/javascript" src="./js/superfish.js"></script>
+<script type="text/javascript" src="./js/effects.js"></script>
+<!--Navigation DropDown Ends -->
+
+
+
+<!--PNG Fix Starts -->
+<script type="text/javascript" src="./js/dd_belatedpng_0.0.8a.js"></script>
+<script type="text/javascript">
+	DD_belatedPNG.fix('.topportion, img');	
+	DD_belatedPNG.fix('.logo, img');
+	DD_belatedPNG.fix('.header, img');
+	DD_belatedPNG.fix('.topfooter, img');
+	DD_belatedPNG.fix('input, img');
+	DD_belatedPNG.fix('textarea, img');
+	DD_belatedPNG.fix('.right, a, img');
+	DD_belatedPNG.fix('.newscontainer, img');
+	DD_belatedPNG.fix('#pager, li, a, img');
+</script>
+<!--PNG Fix Ends -->
+
+<!--Cufon Starts -->
+<script type='text/javascript' src='./js/cufon-yui.js'></script>
+<script type="text/javascript" src="./js/museo_300_300.font.js"></script>
+<script type="text/javascript">    
+        Cufon.replace('h1');  
+		Cufon.replace('h2');  
+		Cufon.replace('h3', {hover: 'true'}); 
+		Cufon.replace('p.l_time, p.r_weather'); 
+		Cufon.replace('h5.corporate'); 
+    </script>	
+<script type="text/javascript" src="./js/heisei_maru_gothic_standard_opentype_400.font.js"></script>
+<script type="text/javascript">
+	Cufon.replace('h6');   
+</script>
+<!--Cufon Ends -->
+
+
+<!--Time & Temperature -->
+<script type="text/javascript">
+
+/***********************************************
+* Local Time script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+var weekdaystxt=["Sun", "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat"]
+
+function showLocalTime(container, servermode, offsetMinutes, displayversion){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.displayversion=displayversion
+var servertimestring=(servermode=="server-php")? 'August 21, 2010 06:34:59' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '<%= Now() %>'
+this.localtime=this.serverdate=new Date(servertimestring)
+this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
+this.updateTime()
+this.updateContainer()
+}
+
+showLocalTime.prototype.updateTime=function(){
+var thisobj=this
+this.localtime.setSeconds(this.localtime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+showLocalTime.prototype.updateContainer=function(){
+var thisobj=this
+if (this.displayversion=="long")
+this.container.innerHTML=this.localtime.toLocaleString()
+else{
+var hour=this.localtime.getHours()
+var minutes=this.localtime.getMinutes()
+var seconds=this.localtime.getSeconds()
+var ampm=(hour>=12)? "PM" : "AM"
+var dayofweek=weekdaystxt[this.localtime.getDay()]
+this.container.innerHTML=formatField(hour, 1)+":"+formatField(minutes)+":"+formatField(seconds)+" "+ampm+" ("+dayofweek+")"
+}
+setTimeout(function(){thisobj.updateContainer()}, 1000) //update container every second
+}
+
+function formatField(num, isHour){
+if (typeof isHour!="undefined"){ //if this is the hour field
+var hour=(num>12)? num-12 : num
+return (hour==0)? 12 : hour
+}
+return (num<=9)? "0"+num : num//if this is minute or sec field
+}
+
+</script>
+
+
+
+<!--Time & Temperature -->
+
+<meta charset="UTF-8"></head>
+
+<body>
+<!--Top Portion Starts -->
+<div id="topportion_wrap">
+	<div class="topportion">
+		<!--Logo Portion Starts -->
+			<div class="logo" id="top">
+				<a href="./index01.html" title="anytime"><img src="./images/logo.png" alt="anytime" /></a>
+			</div>
+		<!--Logo Portion Ends -->	
+		<!--Search Panel Starts -->
+			<div class="top">
+			<!--Search Starts -->			
+					<div class="searchpannel">			
+						<form action="" method="get">			
+						<input type="text" value="Search Here..." onfocus="if(this.value=='Search Here...'){this.value=''};" onblur="if	(this.value==''){this.value='Search Here...'};" tabindex="1"  />
+						<input type="image" src="./images/search_btn.png" class="searchBtn" title="search" />
+						</form>	
+						<br class="spacer"/>				
+					</div>
+			<!--Search Ends -->			
+			<ul class="icon">
+				<li><a href="#" title="rss"><img src="./images/rss_icon.gif" alt="" /></a></li>
+			</ul>			
+		<!--Search Panel Ends -->
+		<br class="spacer" />
+		</div>		
+		<!--Main Navigation Starts -->
+			<div class="topbar">
+				<div class="top-nav">				
+				<ul class="sf-menu">
+					<li><a href="./index01.html">HOME<br /><span>Start Here</span></a></li>
+					<li><a href="./features.html" class="nav-design">FEATURES<br /><span>Whats Included</span></a>
+						<ul>
+							<li><a href="./index01.html">Homepage Styles</a>
+								<ul>
+									<li><a href="./index01.html">Home Style 1</a></li>
+									<li><a href="./index02.html">Home Style 2</a></li>
+									<li><a href="./index03.html">Home Style 3</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./typography_fullwidth.html">Typography</a>
+								<ul>
+									<li><a href="./typography_fullwidth.html">Full Width Style</a></li>
+									<li><a href="./typography_column.html">Column Style</a></li>
+									<li><a href="./typography_teamstyle.html">Team Style</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./portfolio_gallerystyle.html">Portfolio</a>
+								<ul>
+									<li><a href="./portfolio_gallerystyle.html">Gallery Style</a></li>
+									<li><a href="./portfolio_detailstyle.html">Detailed Style</a></li>
+									<li><a href="./portfolio_fullview.html">Full View</a></li>
+									<li><a href="./portfolio_slideshow.html">3D Slideshow</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="./pages_functionality.html">Layout Pages</a>
+								<ul>
+									<li><a href="./pages_functionality.html">Dynamic Page</a></li>
+									<li><a href="./pages_services.html">Services Page</a></li>
+									<li><a href="./pages_textsngallery.html">Text, Gallery View</a></li>
+									<li><a href="./pages_tables.html">Tables Data</a></li>
+									
+								</ul>
+							</li>
+							
+							<li><a href="./error404.html">Miscelleneous</a>
+								<ul>
+									<li><a href="./error404.html">Error 404</a></li>
+									<li><a href="./sitemap.html">Sitemap</a></li>
+																		
+								</ul>
+							</li>
+							<li><a href="./features.html">View Features</a></li>
+											
+						</ul>
+					</li>
+					<li><a href="./blog.html" class="nav-design">BLOG<br /><span>Read, Write</span></a>
+						<ul>
+							<li><a href="./blog.html" title="blog index">Blog Index</a></li>
+							<li><a href="./blog_single.html" title="blog single page">Blog Single Page</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../index.html" class="nav-design">SKINS <br /><span>Choose Color</span></a>
+						<ul>
+							<li><a href="../../red/crimson/index01.html">Red</a>
+								<ul>
+									<li><a href="../../red/crimson/index01.html">Crimson</a></li>
+									<li><a href="../../red/darkred/index01.html">Dark Red</a></li>
+									<li><a href="../../red/brightred/index01.html">Bright Red</a></li>
+									<li><a href="../../red/darkgrapes/index01.html">Dark Grapes</a></li>
+									<li><a href="../../red/maroon/index01.html">Maroon</a></li>
+									<li><a href="../../red/firestone/index01.html">Fire Stone</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../blue/deepcerulean/index01.html">Blue</a>
+								<ul>
+									<li><a href="../../blue/deepcerulean/index01.html">Deep Cerulean</a></li>
+									<li><a href="../../blue/deepcadetblue/index01.html">Deep Cadet Blue</a></li>
+									<li><a href="../../blue/prussianblue/index01.html">Prussian Blue</a></li>
+									<li><a href="../../blue/bondiblue/index01.html">Bondi Blue</a></li>
+									<li><a href="../../blue/deepdenim/index01.html">Deep Denim</a></li>
+									<li><a href="../../blue/deepdodgerblue/index01.html">Deep Dodger Blue</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../orange/deeppumpkin/index01.html">Orange</a>
+								<ul>
+									<li><a href="../../orange/deeppumpkin/index01.html">Deep Pumpkin</a></li>
+									<li><a href="../../orange/rustyorange/index01.html">Rusty Orange</a></li>
+									<li><a href="../../orange/darkvermilion/index01.html">Dark Vermilion</a></li>
+									<li><a href="../../orange/darksalmon/index01.html">Dark Salmon</a></li>
+									<li><a href="../../orange/gamboge/index01.html">Gamboge</a></li>
+									<li><a href="../../orange/burntorange/index01.html">Burnt Orange</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../pink/darklilac/index01.html">Pink</a>
+								<ul>
+									<li><a href="../../pink/darklilac/index01.html">Dark Lilac</a></li>
+									<li><a href="../../pink/terracotta/index01.html">TerraCotta</a></li>
+									<li><a href="../../pink/mountbattenpink/index01.html">Mountbatten Pink</a></li>
+									<li><a href="../../pink/lightpink/index01.html">Light Pink</a></li>
+									<li><a href="../../pink/palecardinal/index01.html">Pale Cardinal</a></li>
+									<li><a href="../../pink/brightscarlet/index01.html">Bright Scarlet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../green/deeppinegreen/index01.html">Green</a>
+								<ul>
+									<li><a href="../../green/deeppinegreen/index01.html">Deep Pine Green</a></li>
+									<li><a href="../../green/darkasparagus/index01.html">Dark Asparagus</a></li>
+									<li><a href="../../green/bottlegreen/index01.html">Bottle Green</a></li>
+									<li><a href="../../green/darkspringgreen/index01.html">Dark Spring Green</a></li>
+									<li><a href="../../green/darkolivegreen/index01.html">Dark Olive Green</a></li>
+									<li><a href="../../green/olivegreen/index01.html">Olive Green</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../yellow/paleyellow/index01.html">Yellow</a>
+								<ul>
+									<li><a href="../../yellow/paleyellow/index01.html">Pale Yellow</a></li>
+									<li><a href="../../yellow/creamyyellow/index01.html">Creamy Yellow</a></li>
+									<li><a href="../../yellow/brightsaffron/index01.html">Bright Saffron</a></li>
+									<li><a href="../../yellow/burntyellow/index01.html">Burnt Yellow</a></li>
+									<li><a href="../../yellow/deepyellow/index01.html">Deep Yellow</a></li>
+									<li><a href="../../yellow/brightyellow/index01.html">Bright Yellow</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../brown/sienna/index01.html">Brown</a>
+								<ul>
+									<li><a href="../../brown/sienna/index01.html">Sienna</a></li>
+									<li><a href="../../brown/saddlebrown/index01.html">Saddle Brown</a></li>
+									<li><a href="../../brown/chocolatebrown/index01.html">Chocolate Brown</a></li>
+									<li><a href="../../brown/burlywood/index01.html">Burly Wood</a></li>
+									<li><a href="../../brown/peru/index01.html">Peru</a></li>
+									<li><a href="../../brown/darktan/index01.html">Dark Tan</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../classicblack/index01.html">Gray</a>
+								<ul>
+									<li><a href="../classicblack/index01.html">Classic Black</a></li>
+									<li><a href="../gray/index01.html">Gray</a></li>
+									<li><a href="../silver/index01.html">Silver</a></li>
+									<li><a href="./index01.html">Slate Gray</a></li>
+									<li><a href="../steelgray/index01.html">Steel Gray</a></li>
+									<li><a href="../darkslategray/index01.html">Dark Slate Gray</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../bonus/shinyplate/index01.html">Bonus</a>
+								<ul>
+									<li><a href="../../bonus/shinyplate/index01.html">Shiny Plate</a></li>
+									<li><a href="../../bonus/glazepurple/index01.html">Glaze Purple</a></li>
+									<li><a href="../../bonus/puregold/index01.html">Pure Gold</a></li>
+									<li><a href="../../bonus/glazepink/index01.html">Glaze Pink</a></li>
+									<li><a href="../../bonus/glazecyan/index01.html">Glaze Cyan</a></li>
+									<li><a href="../../bonus/glossyviolet/index01.html">Glossy Violet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../../index.html">View All Colors</a></li>
+							
+						</ul>
+					</li>
+					<li class="last"><a href="./contact.php.html">CONTACT US<br /><span>Get in Touch</span></a></li>
+				</ul>	
+				</div>						
+			</div>
+		<!--Main Navigation Ends -->
+		<br class="spacer" />
+	</div>
+</div>
+<!--Top Portion Ends -->
+
+
+<!--Body Portion Starts -->
+	<div id="inner_body_wrap">
+		<div class="bodycontent">
+			<!--Top Body Content Starts-->
+				<div class="pathway_content">
+					<div class="pc_left">
+						<h3 class="head">Contact Page</h3>
+						<p class="link"><a href="http://www.9dlabs.net/tfdemos/anytime/skins/gray/slategray/index.html" title="home">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="#" title="contact">Contact</a></p>
+					</div>
+					<div class="pc_right">
+						<p>Recieve emails from your site's audience and display corporate address, support, Google map, local time, temperature and transports that are available.</p>
+					</div>
+					<br class="spacer" />
+				</div>			
+			<!--Top Body Content Starts-->
+			
+			
+			
+			<!--Text Portion Starts -->
+				<div class="bodytext">
+					<div class="largegap"></div>
+					<h3 class="heading">Send us a message</h3>
+					
+					<div class="contactpage">
+						<!--Leftside portion starts -->
+						<div class="cp_left">
+						<p class="contact">Please fill out the small form below and we will get back to you within 2 business days. Please try to provide us with as many details about the project as possible.</p>
+						
+						<div class="main_form">
+								<form name="contact" id="mainform" class="mainform" method="post" action="mail.php" enctype="multipart/form-data" onsubmit="return checkForm(this);">
+								<label><input type="text" class="validate['required']" name="name"/><span>Name<strong>*</strong></span></label>								
+								<label><input type="text" class="validate['required','email']" name="email"/><span>Email<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','digit']" name="phone"/><span>Phone Number<strong>*</strong></span></label>
+								<label class="last"><textarea name="message" class="validate['required']" cols="" rows="" >Type Your Message Here...</textarea>
+								</label>
+								<label class="last"><input name="" type="submit" title="submit" class="submission" /></label>									 
+								</form>
+								</div>		
+								
+								
+								<div class="subway">
+									<div class="transport">
+										<ul>
+											<li><img src="./images/transport_img1.gif" alt="" /><p class="t_head">Bus Station &amp; Subway</p><p>10110 PDY, Some Street location.<br />
+Nearby Jassc Parkway</p></li>
+
+											<li><img src="./images/transport_img2.gif" alt="" /><p class="t_head">Taxi Route</p><p>211 Highway to Some Street location.<br />
+Nearby Jassc Parkway</p></li>
+										</ul>
+									</div>
+									
+									
+									<div class="time">
+										<div class="time_left"><p class="l_time">Our Local Time<br />
+											<span id="timecontainer"></span>
+											<script type="text/javascript">
+											new showLocalTime("timecontainer", "server-php", 180, "short")
+											</script>
+										</p></div>
+										
+										<div class="time_right"><p class="r_weather">Local Temperature
+											<a href="http://www.showmyweather.com/us/new-jersey/ridgewood/" title="Ridgewood NJ Weather Forecast" onclick="window.open(this.href);return(false);">
+											<script type="text/javascript" src="http://www.showmyweather.com/weather_widget.php?type=js&country=us&state=New+Jersey&city=Ridgewood&smallicon=1&current=1&forecast=0&background_color=e3e3e4&color=292929&width=170&padding=0 40 0 0&border_width=0&border_color=000000&font_size=11&font_family=Verdana&showicons=1&measure=C&d=2010-05-20"></script>
+											</a></p>
+											</div>
+											
+											
+										
+										
+										
+									</div>
+									
+									
+								</div>	
+						</div>						
+						<!--Leftside portion ends -->
+						
+						<!--Rightside portion starts -->
+						<div class="cp_right">
+							<div class="cp_right_inside">
+								<h5 class="corporate">Corporate Address</h5>
+								<p>Your Company Name<br />
+									10110 PDY, Suite # 123,<br />
+									Some Street name. <br />
+									Your City, ZP 49510 <br />
+									United States of America</p>
+									
+								<h5 class="corporate">Instant Support</h5>
+								<p class="small">Live Help: <a href="#">Start here</a> <span>(Now Offline)</span><br />
+									Call Us: +1 800 123 456</p>
+									
+									<p>Email: <a href="">helpme@yourdomain.com</a><br />
+									Online Help: <a href="#">Browse Knowledgebase</a></p>
+									
+								<h5 class="corporate">Locate Map</h5>
+								<div class="googleMap"><iframe width="314" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=211+Northern+Pkwy,+Ridgewood,+Bergen,+New+Jersey+07450&amp;sll=37.0625,-95.677068&amp;sspn=54.22533,79.013672&amp;ie=UTF8&amp;cd=1&amp;geocode=Fb9ecQIdsi-V-w&amp;split=0&amp;hq=&amp;hnear=211+Northern+Pkwy,+Ridgewood,+Bergen,+New+Jersey+07450&amp;ll=40.984255,-74.109006&amp;spn=0.006382,0.009645&amp;z=17&amp;output=embed"></iframe><br /></div>
+		 
+									<p class="add">eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus</p>
+									<p class="click"><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=211+Northern+Pkwy+Ridgewood,+NJ+07450+&sll=37.0625,-95.677068&sspn=54.137829,79.013672&ie=UTF8&hq=&hnear=211+Northern+Pkwy,+Ridgewood,+Bergen,+New+Jersey+07450&z=17" target="_blank">CLICK TO GET DIRECTIONS...</a></p>
+								
+								
+								
+								
+							</div>
+						</div>						
+						<!--Rightside portion ends -->
+					
+					
+					</div>
+					
+					
+					
+					
+					
+					<br class="spacer"/>
+				</div>
+			<!--Text Portion Ends -->			
+		</div>
+		<br class="spacer"/>
+	</div>
+	
+<!--Body Portion Ends -->
+
+
+		
+
+<!--Footer Portion Starts -->
+	<div id="footer_wrap">
+		<div class="footer">
+			<div class="topfooter">
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Pages</li>
+					<li><a href="./index01.html">Home</a></li>
+					<li><a href="./features.html">Features</a></li>
+					<li><a href="./pages_tables.html">Tables</a></li>
+					<li><a href="./blog.html">Blog</a></li>
+					<li><a href="./pages_services.html">Services</a></li>
+					<li><a href="./contact.php.html">Contact Us</a></li>
+				</ul>
+			</div>	
+			
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Categories</li>
+					<li><a href="#">Web Hoting</a></li>
+					<li><a href="#">Mobile Applications</a></li>
+					<li><a href="#">Network Security</a></li>
+					<li><a href="#">Dedicated Hosting</a></li>
+					<li><a href="#">Cloud Servers</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+					<li><a href="#">SSL Certificates</a></li>
+					<li><a href="#">Payment Gateways</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+				</ul>
+			</div>
+			
+			
+			<div class="tweets">
+			<p class="latest">Latest Tweet</p>
+				<div id="slideshow">				
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+									<ul>
+										<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+									</ul>
+					</div>					
+				</div>				
+				<ul class="social">
+					<li><a href="#" class="tooltip" title="Facebook"><img src="./images/social_icon1.png" alt="facebook" /></a></li>
+					<li><a href="#" class="tooltip" title="Ziki"><img src="./images/social_icon2.png" alt="ziki" /></a></li>
+					<li><a href="#" class="tooltip" title="Linkedin"><img src="./images/social_icon3.png" alt="linkedin" /></a></li>
+					<li><a href="#" class="tooltip" title="Flickr"><img src="./images/social_icon4.png" alt="flickr" /></a></li>
+					<li class="last"><a href="#" class="tooltip" title="RSS"><img src="./images/social_icon5.png" alt="rss" /></a></li>
+				</ul>			
+			</div>
+			
+			<div class="contact">
+				<p class="quick">Quick Contact</p>
+					<div class="form">
+								<form name="contact" id="myform" class="myform" method="post" action="mail.php" enctype="multipart/form-data" onsubmit="return checkForm(this);">
+								<label><input type="text" class="validate['required']" name="name"/><span>Name<strong>*</strong></span></label>								
+								<label><input type="text" class="validate['required','email']" name="email"/><span>Email<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','digit']" name="phone"/><span>Ph No<strong>*</strong></span></label>
+								<label class="last"><textarea name="message" class="validate['required']" cols="" rows="" >Type Your Message Here...</textarea>
+								</label>
+								<label class="last"><input name="" type="submit" title="submit" class="submission" /></label>									 
+								</form>
+								</div>			
+			</div>
+			<br class="spacer" />			
+			</div>
+			
+			<div class="bottomfooter">
+			<div class="left"><p>&copy; 2010 Anytime Business Inc.</p></div>
+			<div class="right"><a href="#top" class="anchorLink">Back to Top</a></div>
+			<br class="spacer" />	
+			</div>
+			<br class="spacer" />
+		</div>	
+	</div>
+<!--Footer Portion Ends -->
+</body>
+</html>

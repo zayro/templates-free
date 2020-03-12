@@ -1,0 +1,22 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img.jpg" f="company">
+			<title>Aston Martin 1</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/> in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img2.jpg" f="company">
+			<title>Aston Martin 2</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img3.jpg" f="company">
+			<title>Aston Martin 3</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				
+</Section>
+
+</DynamicWeb>

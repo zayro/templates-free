@@ -1,0 +1,6 @@
+.kwicks{list-style:none;margin:0;padding:0;position:relative;}
+.kwicks li{display:block;overflow:hidden;padding:0;}
+.kwicks.horizontal li{float:left;margin-right:5px;}
+.kwicks.vertical li{margin-bottom:5px;}
+.kwicks.horizontal .lastSlide{margin-right:0;}
+.kwicks.vertical .lastSlide{margin-bottom:0;}

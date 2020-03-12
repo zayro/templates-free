@@ -1,0 +1,54 @@
+﻿<DynamicWeb>
+
+<!--
+
+p=15 folio
+p=25 Videos
+p=35 Music
+p=45 News
+p=55 Bio
+p=65 GB
+p=75 Contact
+ 
+-->
+
+
+
+<Sections id="menu">
+		<Menu btnName="Portfolio" p="15" f="Folio"  css="folio" bg="on" bgImg="dat/Images/BG/dark.jpg"></Menu>
+		<Menu btnName="Videos" p="25" f="Videos" css="video" bg="on" bgImg="dat/Images/BG/bgImg.jpg"></Menu>
+		<Menu btnName="Music" p="35" f="Music" css="music" bg="on" bgImg="dat/Images/BG/chair3.swf"></Menu>
+		<Menu btnName="News" p="45" f="News" css="bio" bg="on" bgImg="dat/Images/BG/bgImg2.jpg"></Menu>
+		<Menu btnName="Biography" p="55" f="Bio" css="bio" bg="on" bgImg="dat/Images/BG/bgImg.jpg"></Menu>
+		<Menu btnName="Contact" p="75" f=""css="contact" bg="on" bgImg="dat/Images/BG/chair.swf"></Menu>
+				
+</Sections>
+
+
+
+<Sections id="logo">
+		<data>VIDEOGRAPHY <font color="#CA028E">STUDIO</font></data>
+
+</Sections>
+
+
+
+<Sections id="bg">
+
+		<data>dat/Images/BG/chair3.swf</data>
+
+</Sections>
+
+
+<Sections id="contact">
+		<data>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.<br />  <br />  <br />Company name<br /><a href="mailto:demo@gmail.com">demo@demo.com</a><br /><br /><br />+00 (0) 33 - 66 99 333 <br />Loren Ipsum 33<br />111 11 Dolor Sit <br />Country</data>
+</Sections>
+
+
+<Sections id="copy">
+		<data>(C) 2011. ALL RIGHTS ARE RESERVED.</data>
+</Sections>
+
+
+
+</DynamicWeb>

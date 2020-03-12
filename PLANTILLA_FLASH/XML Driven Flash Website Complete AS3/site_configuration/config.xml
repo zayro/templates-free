@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<XMLobject>
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>INTRO</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>false</hasSubPages>
+		<!-- Location of XML file for this page -->
+		<xmlPath>site_configuration/intro.xml</xmlPath>
+		<utilityType>intro</utilityType>
+	</page>
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>HOME</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>false</hasSubPages>
+		<utilityType>home</utilityType>
+		<!-- Location of XML file for this page -->
+		<xmlPath>site_configuration/home.xml</xmlPath>
+	</page>
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>TEAM</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>true</hasSubPages>
+		<utilityType>team</utilityType>
+		<subPage>
+			<name>MANAGEMENT</name>
+			<!-- Location of XML file for this group -->
+			<xmlPath>site_configuration/team.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>DIRECTORS</name>
+			<!-- Location of XML file for this group -->
+			<xmlPath>site_configuration/team.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>DEVELOPERS</name>
+			<!-- Location of XML file for this group -->
+			<xmlPath>site_configuration/team.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>ARTISTS</name>
+			<!-- Location of XML file for this group -->
+			<xmlPath>site_configuration/team.xml</xmlPath>
+		</subPage>
+	</page>
+	
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>PHOTOS</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>true</hasSubPages>
+		<utilityType>photos</utilityType>
+		<subPage>
+			<name>ALBUM 1</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/PhotoGallery1.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>ALBUM 2</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/PhotoGallery2.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>ALBUM 3</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/PhotoGallery3.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>ALBUM 4</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/PhotoGallery4.xml</xmlPath>
+		</subPage>
+	</page>
+
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>VIDEOS</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>true</hasSubPages>
+		<utilityType>videos</utilityType>
+		<subPage>
+			<name>VIDEO 1</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/video.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>VIDEO 2</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/video.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>VIDEO 3</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/video.xml</xmlPath>
+		</subPage>
+	</page>
+
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>BLOG</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>true</hasSubPages>
+		<utilityType>blog</utilityType>
+		<subPage>
+			<name>2007 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog1.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>2008 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog2.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>2009 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog3.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>2010 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog4.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>2011 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog5.xml</xmlPath>
+		</subPage>
+		<subPage>
+			<name>2012 ARTICLES</name>
+			<!-- Location of XML file for this album -->
+			<xmlPath>site_configuration/blog6.xml</xmlPath>
+		</subPage>
+	</page>
+	
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>CONTACT</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>false</hasSubPages>
+			<utilityType>contact</utilityType>
+		<!-- Location of XML file for this page -->
+		<xmlPath>site_configuration/contact.xml</xmlPath>
+	</page>
+
+	<page>
+		<!-- This title will show up on the navigation menu -->
+		<name>FEATURES</name>
+		<!-- true / false for subpages -->
+		<hasSubPages>false</hasSubPages>
+		<utilityType>features</utilityType>
+		<!-- Location of XML file for this page -->
+		<xmlPath>site_configuration/features.xml</xmlPath>
+	</page>
+
+	
+</XMLobject>

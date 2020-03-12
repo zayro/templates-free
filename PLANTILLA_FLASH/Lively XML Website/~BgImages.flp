@@ -1,0 +1,11 @@
+<flash_project name="~BgImages" version="1">
+    <project_file path="./~BgImages.fla" filetype="fla" profile="" />
+    <project_file path="./.\caurina\transitions\Tweener.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\TweenListObj.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\AuxFunctions.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\PropertyInfoObj.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\SpecialPropertySplitter.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\Equations.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\SpecialProperty.as" filetype="as" />
+    <project_file path="./.\caurina\transitions\SpecialPropertyModifier.as" filetype="as" />
+</flash_project>

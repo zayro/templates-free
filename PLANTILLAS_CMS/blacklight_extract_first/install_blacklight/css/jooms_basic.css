@@ -1,0 +1,354 @@
+/* -----------------------------------------------------------------------
+
+
+ Jooms CSS Framework for Joomla 1.5+
+ Jooms Version 0.3 - 12.Jan 2010
+ http://www.pixelsparadise.com
+
+----------------------------------------------------------------------- */
+
+/************** Reset browser styles **************/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+body {line-height:1.6;}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+img {margin:0; padding:0;vertical-align:baseline; line-height:1;}
+
+/************** Basic HTML styles **************/
+body {font-size:11px;color:#333;background:#fff;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;}
+p {margin:0 0 1.5em;}
+p img.left {float:left;margin:1.5em 1.5em 1.5em 0;padding:0;}
+p img.right {float:right;margin:1.5em 0 1.5em 1.5em;}
+a:focus, a:hover {color:#000;}
+a {color:#c80000;text-decoration:underline;}
+blockquote {margin:.5em 0;color:#555;font-style:italic;}
+blockquote p {font-size: 15px;line-height: 20px;font-family: "buendia-1","buendia-2",serif;font-weight: normal;font-style: italic;}
+strong {font-weight:bold;}
+em, dfn {font-style:italic;}
+dfn {font-weight:bold;}
+sup, sub {line-height:0;}
+abbr, acronym {border-bottom:1px dotted #666;}
+address {margin:0 0 1.5em;font-style:italic;}
+del {color:#666;}
+pre {margin:1.5em 0;white-space:pre;}
+pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+li ul, li ol {margin:0 1.5em;}
+ul, ol {margin:0 1.5em 1.5em 1.5em;}
+ul {list-style-type:disc;}
+ol {list-style-type:decimal;}
+dl {margin:0 0 1.5em 0;}
+dl dt {font-weight:bold;}
+dd {margin-left:1.5em;}
+table {margin-bottom:1.4em;width:100%;}
+th {font-weight:bold;}
+thead th {background:#c3d9ff;}
+th, td, caption {padding:4px 10px 4px 5px;}
+tr.even td {background:#e5ecf9;}
+tfoot {font-style:italic;}
+caption {background:#eee;}
+hr {background:none;clear:both;float:none;width:100%;height:0.1em;margin:0;border:none;color:#fff;}
+.spacer {
+border-bottom:1px solid #ddd;
+margin:0 0 10px 0;
+}
+
+
+/************** Typography styles **************/
+h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111; margin:0; padding:0;}
+h1 {font-size:3.2em; color:#000;}
+h2 {font-size:2.2em; color:#444;}
+h3 {font-size:1.5em;line-height:1;margin-bottom:1em;}
+h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6 {font-size:1em;font-weight:bold;}
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
+.small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em;}
+.centered {text-align: center;}
+
+/**************  Main structure styles **************/
+
+/*     Box around everything    */
+.wrapper {
+width:100%;
+float:left;
+} 
+
+/*     The four main areas      */
+.top, .header, .main, .footer {
+float:left;
+width:100%;
+border-bottom:3px dashed #666;
+}
+
+.main {
+border-bottom:3px dashed #444;
+}
+
+.footer {
+border-bottom:3px dashed #444;
+}
+
+/*     Container inside the four main areas      */ 
+.container {
+/*min-width:984px;
+max-width: 1180px;*/
+width:980px;
+margin:0px auto;
+
+}
+
+
+/**************  Block styles for your grid  **************/
+.block0, .block1, .block34, .block23, .block2, .block3, .block4, .block5, .block6, .block8 {
+float:left;
+margin-right:2%;
+padding:10px 1%;
+
+}
+
+.block0 {
+width:100%;
+margin:0;
+padding:0;
+}
+
+.block1 {
+width:98%;
+margin:0;
+}
+
+.block34 {
+width:72.5%;
+}
+
+.block23 {
+width:64%;
+}
+
+.block2 {
+width:47%;
+}
+
+.block3 {
+width:30%;
+}
+
+.block4 {
+width:21.5%;
+}
+
+.block5 {
+width:16.4%;
+}
+
+.block6 {
+width:13%;
+}
+
+.block8 {
+width:8.75%;
+}
+
+.lastblock {
+margin:0;
+}
+
+.border {
+border-right:1px solid #111;
+margin-right:1.89%;
+}
+
+.nopadding {
+padding:0;
+}
+
+.nomargin{
+margin:0;
+}
+
+.floatright {
+float:right;
+}
+
+.floatleft {
+float:left;
+}
+
+.lineheight {
+line-height: 1em;
+}
+/************** Form styles **************/
+label {font-weight:bold;}
+fieldset {padding:1.4em;margin:0 0 1.5em 0;border:1px solid #ccc;}
+legend {font-weight:bold;font-size:1.2em;}
+input.text, input.title, textarea, select {margin:0.5em 0;border:1px solid #bbb;}
+input.text:focus, input.title:focus, textarea:focus, select:focus {border:1px solid #666;}
+input.text, input.title {width:300px;padding:5px;}
+input.title {font-size:1.5em;}
+textarea {width:390px;height:250px;padding:5px;}
+
+/************** Navigation styles **************/
+
+.topmenu ul{
+float:right;
+padding:0;
+margin:0;
+}
+
+.topmenu ul li {
+float:left;
+list-style: none;
+}
+
+.topmenu ul li a:link, .topmenu ul li a:visited {
+color:#111;
+text-decoration: none;
+display:block;
+padding:5px;
+margin:3px;
+}
+
+.topmenu ul li a:hover {
+background-color:#fff;
+color:#111;
+}
+
+.topmenu ul li#current a:link, .topmenu ul li#current a:visited {
+background-color:#fff;
+color:#111;
+}
+
+.topmenu ul li#current a:hover {
+background-color:#fff;
+color:#111;
+}
+
+/************** Image styles **************/
+
+img.img_left {
+float:left;
+padding:0 15px 0 0;
+}
+
+/************* Menu System styles **************/
+/*Suckerfish Menu */
+ul#nav { /* all lists */
+list-style: none;
+}
+
+ul#nav li { /* all list items */
+float: left;
+position: relative;
+}
+
+ul#nav li a:link, ul#nav li a:visited{
+text-decoration: none;
+display:block;
+}
+
+ul#nav li a:hover{
+
+}
+
+/* second-level lists */
+ul#nav li ul { 
+display: none;
+position: absolute;
+top: 28px;
+left: 0;
+padding:0;
+margin:0;
+z-index: 1000;
+}
+
+/* second-level lists */
+ul#nav li ul li ul{ 
+display: none;
+position: absolute;
+top: 0px;
+left:10.8em;
+padding:0;
+margin:0 0 0 10px;
+z-index: 1000;
+}
+
+/* 2nd level items */
+ul#nav li ul li a:link, ul#nav li ul li a:visited, .mainmenu ul#nav li.active ul li a:link, .mainmenu ul#nav li.active ul li a:visited  {
+color:#333;
+display:block;
+width:10em;
+border-top:none;
+padding:5px 4px;
+background-color: #ddd;
+border-bottom:1px solid #fff;
+}
+
+/* 2nd level hovered or active items */
+ul#nav li ul li a:hover, ul#nav li.active ul li a:hover, ul#nav li#current ul li a:hover {
+background-color: #111;
+color:#fff;
+}
+
+li>ul { /* to override top and left in browsers other than IE, which will position to the top right of the containing li, rather than bottom left */
+	top: auto;
+	left: auto;
+}
+
+ul#nav li:hover ul, ul#nav li.over ul { /* lists nested under hovered list items */
+	display: block;
+}
+
+/************** Slider Area *************/
+/*Slider Classes*/
+#myController {
+width:100%;
+text-align: center;
+float:left;
+}
+
+#myController span{
+margin:0px auto;
+cursor:pointer;
+text-align: center;
+}
+
+#jFlowSlide{
+
+
+}
+
+span.jFlowControl {
+background-image: url(../images/inactive.png);
+background-repeat: no-repeat;
+background-position: center;
+width:16px;
+height:16px;
+padding:5px 10px;
+}
+
+#myController span.jFlowSelected {
+background-image: url(../images/selected.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+
+
+.jFlowPrev, .jFlowNext{
+cursor:pointer;
+position: absolute;
+}
+
+.jFlowPrev {
+top:320px;
+left:10px;
+}
+
+.jFlowNext {
+top:320px;
+right:10px;
+}
+

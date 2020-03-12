@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<menuitems>
+	<menuitem name="ABOUT" filename="about.swf"/>
+	<menuitem name="AUTUMN" filename="xml/autumn.xml"/>
+	<menuitem name="ARCHITECTURE" filename="xml/architecture.xml"/>
+	<menuitem name="ANIMALS" filename="xml/animals.xml"/>
+	<menuitem name="CITY" filename="xml/city.xml"/>
+	<menuitem name="LANDSPACE" filename="xml/landspace.xml"/>
+	<menuitem name="LIFESTYLE" filename="xml/lifestyle.xml"/>
+	<menuitem name="NATURE" filename="xml/nature.xml"/>
+	<menuitem name="WINTER" filename="xml/winter.xml"/>
+	<menuitem name="EXTERNAL SWF" filename="swf.swf"/>
+	<menuitem name="CONTACT" filename="contactform.swf"/>
+</menuitems>

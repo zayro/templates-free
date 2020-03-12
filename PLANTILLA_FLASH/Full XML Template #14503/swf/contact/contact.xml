@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<copy><![CDATA[This is HTML formated text so you can add <a href="http://www.flashden.net"><u><font color="#0099ff">links</font></u></a>, change text color and size and so on from within the XML file. Pellentesque dolor augue, laoreet et, porttitor hendrerit, pretium id, ipsum. Quisque gravida gravida lectus. Vestibulum pellentesque iaculis est. Ut ligula. Integer gravida. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut ac diam quis mi rutrum vulputate. Nullam at dui. Aenean aliquet. Pellentesque viverra blandit pede. Mauris hendrerit eros ut diam. Aliquam nibh.</font>
+<a href="mailto:bogdan@codelines.ro"><font color="#0099ff">office@yourbusiness.com</font></a><a href="http://www.flashden.net">
+<font color="#0099ff">www.yourbusiness.com</font></a>]]>
+	</copy>		
+</data>	

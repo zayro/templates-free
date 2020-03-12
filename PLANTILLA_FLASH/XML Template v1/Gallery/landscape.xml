@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gallery/images header="PHOTO GALLERY">
+    <pic>
+        <image>Gallery/images/landscape/1.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/1.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 1</font>]]></description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/2.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/2.jpg</thumb>
+		<description>Description 2</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/3.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/3.jpg</thumb>
+		<description>Description 3</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/4.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/4.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.</font>]]></description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/5.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/5.jpg</thumb>
+		<description>Description 5</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/6.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/6.jpg</thumb>
+		<description>Description 6</description>
+    </pic>
+	<pic>
+        <image>Gallery/images/landscape/3.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/3.jpg</thumb>
+		<description>Description 3</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/landscape/4.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/4.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.</font>]]></description>
+    </pic>
+	<pic>
+        <image>Gallery/images/landscape/1.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/1.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 1</font>]]></description>
+    </pic>
+	<pic>
+        <image>Gallery/images/landscape/3.jpg</image>
+		<thumb>Gallery/thumbnails/landscape/3.jpg</thumb>
+		<description>Description 3</description>
+    </pic>
+    
+</Gallery/images>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="5" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="off"
+	buttons="on" 
+	>
+	<slide>
+		<asset>image1.jpg</asset>
+		<caption><![CDATA[v4]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>image2.jpg</asset>
+		<caption><![CDATA[13 Modules Included]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>image3.jpg</asset>
+		<caption><![CDATA[Fully customizable with XML]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>image4.jpg</asset>
+		<caption><![CDATA[View the <a href="asfunction:_root.catchLink,modules/projects/projects.swf,modules/projects/projects.xml">Projects Gallery Module</a>]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+	<slide>
+		<asset>image5.jpg</asset>
+		<caption><![CDATA[Backgrounds can now use jpg, png, swf and flv formats]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+	</slide>
+</slideshow>

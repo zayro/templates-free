@@ -1,0 +1,54 @@
+<main_menu>
+	<config 
+		menu_position="top" 
+		menu_margin="10" 
+		menu_between_space="0"
+		sub_menu_between_space="5"
+		sub_menu_scroll_speed="1"
+		external_swf_move_speed="1" 
+	/>
+	<menu 
+		text="Single Wide" 
+		color="purple" 
+		label="" 
+		url_adress="" 
+		target="" 
+		swf_file="wide_image_usage.swf"
+		swf_width="750"
+		swf_height="550"
+		sub_xml_menu=""
+	/>
+	<menu 
+		text="Trio Wide" 
+		color="blue" 
+		label="" 
+		url_adress="" 
+		target="" 
+		swf_file="trio_wide_image.swf"
+		swf_width="890"
+		swf_height="480" 
+		sub_xml_menu=""
+	/>
+	<menu 
+		text="Single Big" 
+		color="turquoise" 
+		label="" 
+		url_adress="" 
+		target="" 
+		swf_file="big_image.swf"
+		swf_width="750"
+		swf_height="550"
+		sub_xml_menu=""
+	/>
+	<menu 
+		text="Trio Tall" 
+		color="green" 
+		label="" 
+		url_adress="" 
+		target="" 
+		swf_file="trio_tall.swf"
+		swf_width="852"
+		swf_height="530" 
+		sub_xml_menu=""
+	/>
+</main_menu>

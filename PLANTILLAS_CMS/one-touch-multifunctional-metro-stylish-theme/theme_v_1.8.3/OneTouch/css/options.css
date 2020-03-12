@@ -1,0 +1,80 @@
+h1 {
+}
+h2 {
+}
+h3 {
+}
+h4 {
+}
+h5 {
+}
+h6 {
+}
+
+
+
+body{
+   color:#4D4D4D}
+
+a {
+    color:;
+}
+
+a:hover {
+    color:;
+}
+
+body {
+	background-color:#FFFFFF!important;
+	color:#4D4D4D!important;
+}
+#body-wrapper{
+    }
+
+#darkf {
+}
+
+.scroll-box .item.even .description{}
+
+.scroll-box .item.even .description time{ }
+
+.scroll-box .item.odd .description{}
+
+.scroll-box .item.odd .description time{ }
+
+.tiled-menu>li>.menu-item-wrap>a{
+  background-color:#ffaa31;
+}
+.tiled-menu>.menu-portfolio>span>a {
+   background-color:#FFAA31;
+}
+.tiled-menu>.menu-blog>span>a{
+  background-color:#57BAE8;
+}
+.tiled-menu>.menu-shop>span>a{
+   background-color:#6CBE42;
+ }
+.tiled-menu>.menu-shortcodes>span>a {
+    background-color:#FFAA31;
+}
+.tiled-menu>.menu-features>span>a{
+    background-color:#57BAE8;
+}
+.tiled-menu>.menu-contacts>span>a{
+    background-color:#FFAA31;
+}
+#director-page{
+	background-color:;
+	background-image:url();
+}
+#post-slider{
+	background-color:;
+	background-image:url();
+}
+#recent-projects{
+	background-color:;
+	background-image:url();
+}
+#topmenu .tiled-menu{float:right}
+
+

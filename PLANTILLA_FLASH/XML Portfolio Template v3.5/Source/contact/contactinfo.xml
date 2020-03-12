@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactinfo>
+	<info><![CDATA[<b>My Company Name</b><BR>1234 Street Dr<BR>Suite 200<BR>Dallas, TX 75206<BR>P: (972) 123 4567<BR>F: (972) 123 7890<BR><a href="mailto:info@mycompany.com">info@mycomany.com</a><BR>Special Characters àáâ<B>ãäß</B> é <I>ê</I> í <B><I>ü</I></B>. ]]>
+	</info>
+</contactinfo>

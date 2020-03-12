@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<contactSection>
+	
+	<yourEmail>name@website.com</yourEmail>
+	
+	<dataTitle>CONTACTDATA</dataTitle>
+	<formTitle>CONTACTFORM</formTitle>
+	<contactData><![CDATA[<br>JOHN DOE 10 <br>STREETNAME <br>CITY, 12345 <br>COUNTRY <br><br>T-123456789 <br>F-123456789 <br>E-JOHNDOE@WEBSITE.COM <br><A HREF="http://www.noastudios.com"><U>WEBSITE LINK</U></A>
+	
+JOHN DOE 10 <br>STREETNAME <br>CITY, 12345 <br>COUNTRY <br><br>T-123456789 <br>F-123456789 <br>E-JOHNDOE@WEBSITE.COM <br><A HREF="http://www.noastudios.com"><U>WEBSITE LINK</U></A>
+
+JOHN DOE 10 <br>STREETNAME <br>CITY, 12345 <br>COUNTRY <br><br>T-123456789 <br>F-123456789 <br>E-JOHNDOE@WEBSITE.COM <br><A HREF="http://www.noastudios.com"><U>WEBSITE LINK</U></A>]]>
+	</contactData>
+
+</contactSection>

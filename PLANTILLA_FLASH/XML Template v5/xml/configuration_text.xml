@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<configuration>
+					
+     <!--  background color AREA -->
+	<BACKGROUND_COLOR>0x000000,90</BACKGROUND_COLOR>  
+	<!-- color scroll -->
+	<COLOR_SCROLL>0x636563</COLOR_SCROLL>
+	<!-- color scroll background -->
+	<COLOR_SCROLL_BACKGROUND>0x464846</COLOR_SCROLL_BACKGROUND>
+	<!-- padding background -->
+	<PADDING_BACKGROUND>60</PADDING_BACKGROUND>	
+	<!-- padding scroll -->
+	<PADDING_SCROLL>20</PADDING_SCROLL>	
+
+	
+	
+	
+</configuration>
+
+

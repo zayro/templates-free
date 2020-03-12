@@ -1,0 +1,13 @@
+﻿<DynamicWeb>
+
+<Section head="THANKS FOR SUPPORT" p="95" f="info" subf="support" subDisplay="on" lefthead="ABOUT & CONTACT" >
+		<data img="dat/Images/Home/support.jpg"></data>	
+		<data img="dat/Images/Home/support2.jpg"></data>
+		<data img="dat/Images/Home/support3.jpg"></data>
+		<data img="dat/Images/Home/support4.jpg"></data>
+		<data img="dat/Images/Home/support2.jpg"></data>
+		<data img="dat/Images/Home/support3.jpg"></data>
+		<data img="dat/Images/Home/support4.jpg"></data>
+</Sections>
+
+</DynamicWeb>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projetsList>
+
+	<projet date="08 jan. 08" titre="Here is a cool title !!!" img="video_1.swf" extra="video_1.swf*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="07 jan. 08" titre="Tiiiiiiiiiiitle !!!" img="image_2.jpg" extra="image_1.jpg*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="06 jan. 08" titre="A project title here !!!" img="image_3.jpg" extra="image_1.jpg*|*video_1.swf*|*image_3.jpg" lien="">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="05 jan. 08" titre="I'm a title !!!" img="image_4.jpg" extra="image_2.jpg*|*image_3.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="04 jan. 08" titre="Here is a title !!!" img="image_5.jpg" extra="image_3.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="03 jan. 08" titre="Here is a unique title !!!" img="image_6.jpg" extra="image_1.jpg*|*image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="02 jan. 08" titre="Here is a different title !!!" img="image_7.jpg" extra="image_2.jpg*|*image_3.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+	<projet date="01 jan. 08" titre="Here is another title !!!" img="image_8.jpg" extra="image_2.jpg" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the project which can be <b>HTML text</b>]]>
+	</projet>
+	
+</projetsList>

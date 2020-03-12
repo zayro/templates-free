@@ -1,0 +1,40 @@
+Included: 
+
+This package comes with everything that you need in order to build yourself a great portfolio or site or whatever. You got FLA ’s to all the files. 
+
+* XML driven, 3 level, sliding menu (infinite vertical items) 
+* XML driven News Module (supports HTML tags) 
+* XML driven sliding portfolio Module 
+* XML driven horizontal sliding portfolio presentation Module 
+* XML driven HTML formatted text with scrollbar 
+* Advanced contact form (PHP driven) with send notice 
+* XML driven background changer (jpeg,swf,flv) 
+* XML driven mini mp3 player 
+* Simple FLV player 
+* FullScreen feature 
+* Logo and footer externally loaded 
+* Individual modules (inside the package) 
+
+* This template gives you the ability to load any external swf file inside in just seconds. So if you bought something from FD or whatever and you wanna use it, the only thing that you need to do is add your swf path inside the menu’s xml. My template takes care of the rest(preloading, arrange-ing, etc). 
+
+AS2 , Full Template, Template, XML , external, dynamic, flash, site, website 
+
+
+#========================================# 
+.........Preview 
+#========================================# 
+
+
+http://flashden.net/item/full-xml-template/14503 
+
+
+#========================================# 
+.........File Info 
+#========================================# 
+
+
+Format: .zip 
+Size: 23.19MB 
+Download: Mediafire 
+Retail: 40.00$ 
+

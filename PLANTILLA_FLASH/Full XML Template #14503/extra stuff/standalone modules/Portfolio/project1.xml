@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<items>
+
+
+<pic 
+title="Architecture" 
+description="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+url="http://www.flashden.net"
+path = "project1.thumbs/"
+thumb = "1.jpg">
+</pic>
+
+<pic 
+url="http://www.flashden.net"
+path = "project1.thumbs/"
+thumb = "2.jpg">
+</pic>
+
+<pic 
+url="http://www.flashden.net"
+path = "project1.thumbs/"
+thumb = "3.jpg">
+</pic>
+
+<pic 
+url="http://www.flashden.net"
+path = "project1.thumbs/"
+thumb = "4.jpg">
+</pic>
+
+<pic 
+url="http://www.flashden.net"
+path = "project1.thumbs/"
+thumb = "5.jpg">
+</pic>
+
+
+
+</items>

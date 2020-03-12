@@ -1,0 +1,70 @@
+﻿<DynamicWeb>
+	<Sections>
+		<Menu btnName="SERVICES" f="services" h="SERVICES"  p="95">
+			<MidData>
+			<btnName>Services</btnName>
+			<Image>dat/Images/Home/img6.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="INFORMATION & VITA" f="vita" h="INFORMATION & VITA" p="95">
+			<MidData>
+			<btnName>Information Vita</btnName>
+			<Image>dat/Images/Home/img2.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="CONTACT" f="contact" h="CONTACT" p="85">
+			<MidData>
+			<btnName>Contact</btnName>
+			<Image>dat/Images/Home/img3.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+			
+		<Menu btnName="SUPPORT" f="support" h="SUPPORT" p="95">
+			<MidData>
+			<btnName>Support</btnName>
+			<Image>dat/Images/Home/img4.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="FRIENDS" f="friends" h="FRIENDS" p="95">
+			<MidData>
+			<btnName>Friends</btnName>
+			<Image>dat/Images/Home/img5.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="FEEDBACK" f="gb" h="FEEDBACK" p="75">
+			<MidData>
+			<btnName>Feedback</btnName>
+			<Image>dat/Images/Home/img6.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+	</Sections>
+</DynamicWeb>

@@ -1,0 +1,11 @@
+<DynamicWeb>
+	<Sections>
+		<name f="cat">Chair & sofa</name>
+		<name f="cat2">Lounge</name>
+		<name f="cat">Sofa luxury</name>
+		<name f="cat2">Table</name>
+		<name f="cat">Kitchen</name>
+
+		<name f="cat2">Night</name>
+	</Sections>
+</DynamicWeb>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<galleries>
+	<settings
+		upscaleImages = "true"
+		upscaleVideos = "true"
+
+		verticalLineAlpha = "100"
+		horizontalLineAlpha = "100"
+		linesColor = "0x2b2c2e"
+
+		galleryNavigationButtonsIconColor = "0xffffff"
+		galleryNavigationCloseButtonIconColor = "0xffffff"
+
+		buttonNextPrevFileIconColor = "0xffffff"
+
+		slideShowAutoStart = "false"
+		slideShowInterval = "5"
+		slideShowButtonColor = "0x727272"
+		slideShowButtonActivateLabel = "stop slide"
+		slideShowButtonDisableLabel = "play slide"
+		slideShowBarColor = "0xa06900"
+		slideShowBarBackGroundColor = "0x2b2c2e"
+
+		thumbsAutoHide = "true"
+		thumbsImageLabel = "photo"
+		thumbsSwfLabel = "flash movie"
+		thumbsVideoLabel = "video"
+		thumbsLabelColor = "0x727272"
+		thumbsSelectedColor = "0xa06900"
+		thumbsPreloaderColor = "0xffffff"
+		thumbsBackGroundColor = "0x000000"
+		thumbsLineAlpha = "100"
+		thumbsLineColor = "0x2b2c2e"
+
+		videoControlsColor = "0x727272"
+		videoControlsBackGroundColor = "0x151618"
+
+		infoButtonLabel = "info"
+		infoButtonLabelClose = "close info"
+		infoButtonColor = "0x525252"
+		infoButtonLineColor = "0x2b2c2e"
+		infoBackGroundColor = "0xa06900"
+
+		backGroundHeight = "240"
+		backGroundAlpha = "100"
+		backGroundColor = "0x1a1b1d"
+
+		preloaderColor = "0xa06900"
+	/>
+	<items>
+		<item>
+			<unique_deep_link><![CDATA[Gallery one]]></unique_deep_link>
+			<title><![CDATA[Gallery one]]></title>
+			<xml><![CDATA[xml/gallery_1.xml]]></xml>
+			<thumb><![CDATA[images/galleries/galleries_thumb/01.jpg]]></thumb>
+			<totalImages><![CDATA[<font color="#727272">08 files</font>]]></totalImages>
+		</item>
+</galleries>

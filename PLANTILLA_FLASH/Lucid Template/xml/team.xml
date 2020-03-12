@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<configuration thumbWidth="110" thumbHeight="95" thumbBorderSize="5" memberThumbsSpace="3" maxColumns="3">
+		<thumbBGColor>0x090909</thumbBGColor>
+		<thumbRollOverColor>0xFFFFFF</thumbRollOverColor>
+		<photoBtnBGColor>0x000000</photoBtnBGColor>
+		<photoBtnBorderColor>0x333333</photoBtnBorderColor>
+		<photoBtnColor>0x00CCFF</photoBtnColor>
+		<photoBtnRollOverColor>0xFFFFFF</photoBtnRollOverColor>
+		<photoBorderColor>0x333333</photoBorderColor>
+		<photoTitleColor>0x00CCFF</photoTitleColor>
+		<navBtnColor>0x666666</navBtnColor>
+		<navBtnRollOverColor>0x00CCFF</navBtnRollOverColor>
+		<tooltipBorderColor>0x333333</tooltipBorderColor>
+		<tooltipBGColor>0x090909</tooltipBGColor>
+		<tooltipTextColor>0x666666</tooltipTextColor>
+	</configuration>
+	
+	<members>
+	
+		<member>
+			<name>Sher Ali</name>
+			<title>Flash & Flex Developer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+				 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		<member>
+			<name>Said Wali</name>
+			<title>Programmer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+					 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+				 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		<member>
+			<name>Sher Ali</name>
+			<title>Flash & Flex Developer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+				 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		<member>
+			<name>Said Wali</name>
+			<title>Programmer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+				 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		<member>
+			<name>Nadeem</name>
+			<title>PHP Developer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+				 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+				 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		<member>
+			<name>Ayyub</name>
+			<title>Designer</title>
+			<photo>team_photos/saafi.jpg</photo>
+			<description>
+				 <![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,]]>
+			</description>
+			<email><![CDATA[<a href="mailto:sher.ali@lucidstudios.net">sher.ali@lucidstudios.net</a>]]></email>
+		</member>
+		
+	</members>
+</data>

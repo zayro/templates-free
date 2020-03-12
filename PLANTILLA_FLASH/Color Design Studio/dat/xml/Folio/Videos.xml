@@ -1,0 +1,21 @@
+<DynamicWeb>
+
+
+	<data>
+		<Vdo img="dat/Images/Folio/img3.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img2.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img1.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img2.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img3.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img2.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img1.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img2.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img3.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img2.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+		<Vdo img="dat/Images/Folio/img3.jpg" titlex="Quae Ab Io" movi="dat/Videos/movie001.flv" widthx="400" heightx="220"/>
+
+
+	</data>
+
+
+</DynamicWeb>

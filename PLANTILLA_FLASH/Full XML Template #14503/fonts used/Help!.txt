@@ -1,0 +1,10 @@
+
+How do I install this fonts?
+
+Go to StartMenu > Control Panel > Fonts  then File > Install New Fonts.
+
+or
+
+Just copy this fonts and paste them in C:\Windows\Fonts\
+
+;)

@@ -1,0 +1,140 @@
+/* 
+
+Elegance - CSS File
+
+USE THIS STYLE SHEET FOR INNER PAGE
+
+*/
+
+#header-inner{height:84px; clear:both; display:table;}
+#header-inner-left{width:540px; float:left; padding:22px 0px 0px 0px;}
+#header-inner-full{padding:22px 0 22px 0}
+#header-inner-left h1{font-size:26px;}
+h1.pagetitle, h1.pagetitle a, h1.pagetitle a:visited{color:#333; text-decoration:none}
+#header-inner-right{width:400px; float:left; padding:22px 0px 0px 0px; font-style:italic;}
+* html #header-inner-right{padding:11px 0px 0px 0px;}/* ie 6 only */
+
+/* Portfolio */
+.gallery{list-style-type:none; padding:0px; margin:0px;}
+.gallery li{list-style-type:none; padding:0px 20px 0px 0px; margin:0px 0px 20px 0px; width:220px; float:left; background-image:url(../images/double-line.gif); background-repeat:repeat-x; background-position:bottom}
+.gallery li.nomargin{padding-right:0px;}
+.gallery li img{padding:5px; background-color:#fff}
+.gallery h3 a{text-decoration:none;}
+.wp-pagenavi a, .wp-pagenavi span {
+	text-decoration: none;
+	padding: 3px 6px;
+	margin: 2px;
+	line-height:25px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border:solid 1px #ccc;
+}
+
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+	border-color: #949292 !important;
+}
+
+/* Blog */
+.hentry {
+	margin: 0 0 25px 0;
+	padding:0px 0px 15px 0px;
+}
+
+.post{
+	margin: 0 0 25px 0;
+	padding:0px 0px 15px 0px;
+	background-image:url(../images/double-line.gif);
+	background-repeat:repeat-x;
+	background-position:bottom;
+}
+.entry-title {
+	color: #000;
+	font-size: 21px;
+	line-height: 1.3em;
+	font-weight: bold;
+	margin-bottom:5px;
+	padding-bottom:5px;
+	background-image:url(../images/double-line.gif);
+	background-repeat:repeat-x;
+	background-position:bottom;
+	height:100%
+}
+.entry-title a:link,
+.entry-title a:visited {
+	color:#000;
+	text-decoration: none;
+}
+.entry-title a:active,
+.entry-title a:hover {
+	color: #FF4B33;
+}
+.entry-meta {
+	color: #999999;
+	font-size: 11px;
+	margin-bottom:7px;
+}
+.entry-utility {
+	font-size: 12px;
+	line-height: 18px;
+	clear: both;
+}
+.entry-meta a,
+.entry-utility a {
+	color: #999999;
+	text-decoration:none
+}
+.entry-meta a:hover,
+.entry-utility a:hover {
+	color: #FF4B33;
+}
+.video-player {
+	padding: 0;
+}
+
+.idate{background-image:url(../images/icon-date.png); background-repeat:no-repeat; padding:1px 20px 2px 20px}
+.icomm{background-image:url(../images/icon-comment.png); background-repeat:no-repeat; padding:1px 20px 2px 20px}
+.iauth{background-image:url(../images/icon-author.png); background-repeat:no-repeat; padding:1px 20px 2px 20px}
+.more-link{display:block; background-color:#e6e6e6; width:15%; text-align:center;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border:solid 1px #e6e6e6;
+	padding:5px;
+	margin-top:10px;
+	text-decoration:none !important
+
+}
+
+/* contact */
+#contact_form{margin:0 auto; position:relative}
+label{margin-top:3px;}
+label.sp { width:3px;}
+span.error{color:red;text-align:left;}
+
+#message{ margin-left:0px;}
+#message h2	{}
+#message p{margin:6px 0px; }
+
+input.text-input{ margin:4px 8px 4px 0px; width: 280px; height:15px; padding:5px 2px; border:solid 1px #e9e9e9; vertical-align:middle}
+textarea.text-input{ margin:0px 8px 4px 0px; padding: 5px 2px; border:solid 1px #e9e9e9; vertical-align:top; width:380px;}
+#contact_form input:focus, #contact_form textarea:focus {border:solid 1px #e9e9e9 }
+#contact_form input.but{
+font-family:Arial;
+font-size:11px !important;
+padding:5px 5px;
+border:0px;
+margin-top:10px; cursor:pointer;
+background-color:#f4f4f4;
+-moz-border-radius: 3px;
+-khtml-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border:solid 1px #e6e6e6;
+color:#666
+}
+* html #contact_form input.but{padding:6px 6px !important;}/* ie 6 only */
+*+html #contact_form input.but{padding:6px 6px !important;}/* ie 7 only */
+

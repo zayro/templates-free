@@ -1,0 +1,5 @@
+<videoData>
+<video>flv/zanimotion.flv</video>
+<description>XML description goes here. Flash is not necessary to use this file. Just enter your Description and path to your video in the XML. Then embed the player in your html page. The FLV Player is all self contained in one movieclip, just copy and paste into your Flash file</description>
+<title>XML TITLE GOES HERE</title>
+</videoData>

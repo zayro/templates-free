@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.png" pic="1.png" url="http://you@somedomain.com">
+	<description>Text1</description>
+</item>
+<item name="Item 1" thumbnail="thumb2.png" pic="2.png" url="http://you@somedomain.com">
+	<description>Text2</description>
+</item>
+<item name="Item 1" thumbnail="thumb3.png" pic="3.png" url="http://you@somedomain.com">
+	<description>Text3</description>
+</item>
+<item name="Item 1" thumbnail="thumb4.png" pic="4.png" url="http://you@somedomain.com">
+	<description>Text4</description>
+</item>
+<item name="Item 1" thumbnail="thumb5.png" pic="5.png" url="http://you@somedomain.com">
+	<description>Text5</description>
+</item>
+
+<item name="Item 1" thumbnail="thumb6.png" pic="6.png" url="http://you@somedomain.com">
+	<description>Text6</description>
+</item><item name="Item 1" thumbnail="thumb7.png" pic="7.png" url="http://you@somedomain.com">
+	<description>Text5</description>
+</item>
+
+<item name="Item 1" thumbnail="thumb8.png" pic="8.png" url="http://you@somedomain.com">
+	<description>Text6</description>
+</item>
+
+</gallery>

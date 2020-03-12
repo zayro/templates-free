@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list normalColor="0xFFFFFF" overColor="0x0099FF" downColor="0xAAAAAA" rolloutPauseDuration="3">
+
+
+	<item>
+		<title>project no.1</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>video_galleries/gallery_two/smImgs/img1.jpg</smImg>
+
+		<video>video_galleries/gallery_two/videos/cloudless_short.flv</video>
+
+		<client>Someone 01</client>
+
+		<projectURL>N/A</projectURL>
+
+		<type>Corporate Sales Marketing</type>
+
+		<launchDate>July / 21 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.2</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>video_galleries/gallery_two/smImgs/img2.jpg</smImg>
+
+		<video>video_galleries/gallery_two/videos/organic.flv</video>
+
+		<client>Someone 02</client>
+
+		<projectURL>http://www.audiojungle.net</projectURL>
+
+		<type>Business Bruchure</type>
+
+		<launchDate>July / 22 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.3</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>video_galleries/gallery_two/smImgs/img3.jpg</smImg>
+
+		<video>video_galleries/gallery_two/videos/orange_drizzle.flv</video>
+
+		<client>Someone 03</client>
+
+		<projectURL>http://www.flashden.net</projectURL>
+
+		<type>Business Promotion</type>
+
+		<launchDate>July / 23 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.4</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>video_galleries/gallery_two/smImgs/img4.jpg</smImg>
+
+		<video>video_galleries/gallery_two/videos/cloudless_short.flv</video>
+
+		<client>Someone 04</client>
+
+		<projectURL> </projectURL>
+
+		<type>Sales Promotions</type>
+
+		<launchDate>July / 24 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.5</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>video_galleries/gallery_two/smImgs/img5.jpg</smImg>
+
+		<video>video_galleries/gallery_two/videos/organic.flv</video>
+
+		<client>Someone 05</client>
+
+		<projectURL>http://www.flashden.net</projectURL>
+
+		<type>Personal Promotion</type>
+
+		<launchDate>July / 25 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+</list>

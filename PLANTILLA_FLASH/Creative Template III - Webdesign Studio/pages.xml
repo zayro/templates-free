@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+
+	<templateSettings
+		
+		firstPage="1"
+		
+		headerLogo="logo.png"
+		headerColor="0x1a020e"
+		
+		menuColor="0x000000"
+		menuHoverColor="0xd12839"
+		
+		titleColor="0xb60b3c"
+		titleSize="30"
+		lineColor="0xb60b3c"
+		
+		curtainsColor="0xf9f9f9"
+		preloaderColor="0xff007e"
+		
+		footerText="made by Ruben Bristian"
+		footerTextColor="0xf9f9f9"
+		footerColor="0x1a020e"
+		
+		fullscreenBtn="FULLSCREEN"
+		musicBtn="MUSIC"
+		onText="ON"
+		offText="OFF"
+		
+		music="backgroundMusic.mp3"
+		
+	/>
+	
+	<pages>
+	
+		<page src="about/about.swf" title="About" width="600" type="html"><![CDATA[ <p class="h1">Welcome to this wonderful HTML page</p>
+	<p>This template is my best template yet.. With a <b>simple & clean</b> design, <b>6 modules</b> and <b>a ton of features</b>, this can be a template for both studios and freelancers. Everything is customizable via xml(except the main fonts because in flash, the fonts need to be embedded), so you can really edit this without any Flash or Actionscript knowledge.</p>
+	<p>This is only the html module from the template. Please take your time to check all the features that this template has to offer.<br>This is html text, so this means that you can have <b>bold text</b>, <i>italic text</i>, <u>underlined text</u>, and even <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. This text field is automatically scrolling itself based on the position of your mouse. It can support images and swf files. <span class="t1">Different colors</span>, <span class="t2">different sizes</span>, and <b>unordered lists</b>:<ul><li>first item</li><li>second item</li><li>third item</li><br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><img src="pic.jpg" width="125" height="125">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>]]></page>
+		<page src="slideshow/slideshow.swf" title="Slideshow" width="590" />
+		<page src="news/news.swf" title="News" width="500" />
+		<page src="portfolio/portfolio.swf" title="Portfolio" width="full" />
+		<page src="services/services.swf" title="Services" width="full" />
+		<page src="contact/contact.swf" title="Contact" width="600" />
+		<page src="http://www.flashden.net/user/flasher3015" target="_blank" title="Blog" type="link" />
+	
+	</pages>
+	
+</template>

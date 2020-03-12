@@ -1,0 +1,113 @@
+/*
+	960 Grid System ~ Core CSS.
+	Learn more ~ http://960.gs/
+
+	Licensed under GPL and MIT.
+*/
+
+/* `Containers
+----------------------------------------------------------------------------------------------------*/
+
+.grid-wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+/* `Grid >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.grid_1,
+.grid_2,
+.one-fourth,
+.one-third,
+.grid_5,
+.half-page,
+.grid_7,
+.two-third,
+.three-fourth,
+.grid_10,
+.grid_11,
+.fullwidth {
+	display: inline;
+	float: left;
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.grid-wrapper .one-fourth {
+	width: 220px;
+}
+
+.grid-wrapper .half-page {
+	width: 460px;
+}
+
+.grid-wrapper .three-fourth {
+	width: 680px;
+}
+
+.grid-wrapper .full-width {
+	width: 940px;
+}
+
+/* `Grid >> Children (Alpha ~ First, Omega ~ Last)
+----------------------------------------------------------------------------------------------------*/
+
+.alpha {
+	margin-left: 0;
+}
+
+.omega {
+	margin-right: 0;
+}
+
+/* `Grid >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+.grid-wrapper .one-third {
+	width: 300px;
+}
+
+.grid-wrapper .grid_5 {
+	width: 380px;
+}
+
+.grid-wrapper .grid_7 {
+	width: 540px;
+}
+
+.grid-wrapper .two-third {
+	width: 620px;
+}
+
+/* `Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+
+.clearfix:after {
+	clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+* html .clearfix {
+	height: 1%;
+}

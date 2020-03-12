@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<items>
+
+
+<pic 
+title="Quickyboy at Flashden" 
+url="http://www.flashden.net" 
+path = "swf/identity.thumbs/"
+thumb = "1.jpg">
+</pic>
+
+<pic 
+title="Duis aliquam rhoncus lorem enim ipsam voluptatem" 
+url="http://www.flashden.net/user/quickyboy" 
+path = "swf/identity.thumbs/"
+thumb = "2.jpg">
+</pic>
+
+<pic 
+title="Duis aliquam rhoncus lorem enim ipsam voluptatem" 
+url="http://www.flashden.net" 
+path = "swf/identity.thumbs/"
+thumb = "3.jpg">
+</pic>
+
+<pic 
+title="Duis aliquam rhoncus lorem enim ipsam voluptatem" 
+url="http://www.flashden.net/user/quickyboy" 
+path = "swf/identity.thumbs/"
+thumb = "4.jpg">
+</pic>
+
+<pic 
+title="Duis aliquam rhoncus lorem enim ipsam voluptatem" 
+url="http://www.flashden.net" 
+path = "swf/identity.thumbs/"
+thumb = "5.jpg">
+</pic>
+
+<pic 
+title="Duis aliquam rhoncus lorem enim ipsam voluptatem" 
+url="http://www.flashden.net/user/quickyboy" 
+path = "swf/identity.thumbs/"
+thumb = "6.jpg">
+</pic>
+
+
+
+
+</items>

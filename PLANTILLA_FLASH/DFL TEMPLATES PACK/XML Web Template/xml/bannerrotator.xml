@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<config>
+	<banner_width>945</banner_width>
+	<banner_height>495</banner_height>
+	
+	<banner_x>3</banner_x>
+	<banner_y>3</banner_y>
+	
+	<number_x>740</number_x>
+	<number_y>465</number_y>
+	
+	<number_color>0x3399FF</number_color>
+	<number_rollover_color>0xFFFFFF</number_rollover_color>
+	
+	<number_line_color>0x000000</number_line_color>
+	<number_line_alpha>100</number_line_alpha>
+	
+	<number_bg_color>0x000000</number_bg_color>
+	<number_bg_alpha>10</number_bg_alpha>
+	
+	<number_rollover_bg_color>0x333333</number_rollover_bg_color>
+	<number_rollover_bg_alpha>70</number_rollover_bg_alpha>
+	
+	<description_bg_color>0x000000</description_bg_color>
+	<description_bg_alpha>50</description_bg_alpha>
+	<description_location>up</description_location>
+	
+	<delay_time>15</delay_time>
+	<auto_play>true</auto_play>
+</config>
+
+<items>
+
+	<item>
+		<src>rotator/1.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+	</item>
+
+	<item>
+		<src>rotator/2.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+	</item>
+
+	<item>
+		<src>rotator/3.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+	</item>
+
+
+	<item>
+		<src>rotator/4.swf</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+	</item>
+
+	<item>
+		<src>rotator/1.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+	</item>
+
+	<item>
+		<src>rotator/2.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+	</item>
+
+	<item>
+		<src>rotator/3.jpg</src>
+		<href>http://www.flashden.net/user/DesignForLife/portfolio</href>
+		<target>_blank</target>
+		<description><![CDATA[<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<font color="#FFCCDD"><b> HTML Code Support Here</b></font>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+	</item>
+
+	
+</items>

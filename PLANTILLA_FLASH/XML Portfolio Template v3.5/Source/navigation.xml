@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<link type="slideshow">
+		<name><![CDATA[Home]]></name>
+		<asset>slideshow/home.swf</asset>
+	</link>
+	<link type="text" submenu="submenu1.xml">
+		<name><![CDATA[About]]></name>
+		<asset>text/about.xml</asset>
+	</link>
+	<link type="staff">
+		<name><![CDATA[Staff]]></name>
+		<asset>staff/staff.swf</asset>
+	</link>
+	<link type="news">
+		<name><![CDATA[News]]></name>
+		<asset>news/main.swf</asset>
+	</link>
+	<link type="gallery-traditional">
+		<name><![CDATA[Traditional Gallery]]></name>
+		<asset>gallery-traditional/gallery1/main.swf</asset>
+	</link>
+	<link type="gallery-scrolling">
+		<name><![CDATA[Scroll Gallery]]></name>
+		<asset>gallery-scrolling/gallery1/main.swf</asset>
+	</link>
+	<link type="gallery-video">
+		<name><![CDATA[Videos]]></name>
+		<asset>gallery-video/gallery1/main.swf</asset>
+	</link>
+	<link type="mp3player">
+		<name><![CDATA[MP3 Player]]></name>
+		<asset>mp3player/album1/mp3player.swf</asset>
+	</link>
+	<link type="swf">
+		<name><![CDATA[Your Own SWF]]></name>
+		<asset>swf/myswf.swf</asset>
+	</link>
+	<link type="url">
+		<name><![CDATA[Link to blog]]></name>
+		<asset>http://blog.flashden.net/</asset>
+	</link>
+	<link type="contact">
+		<name><![CDATA[Contact]]></name>
+		<asset></asset>
+	</link>
+</menu>

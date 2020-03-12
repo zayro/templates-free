@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="./images/favicon.ico" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="" />
+<meta name="title" content="" />
+<meta name="description" content="" />
+<title>Elegance</title>
+<!-- ////////////////////////////////// -->
+<!-- //      Start Stylesheets       // -->
+<!-- ////////////////////////////////// -->
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/inner.css" rel="stylesheet" type="text/css" />
+<link href="./css/prettyphoto.css" rel="stylesheet" type="text/css" />
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/cufon-yui.js"></script>
+<script type="text/javascript" src="./js/quicksand_light_300.font.js"></script>
+<script type="text/javascript" src="./js/quicksand_book_400.font.js"></script>
+<script type="text/javascript">
+	 Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6')  ('#box p') ('.text-styled') ('#top-navigation li a', {
+	 hover: true
+}) ('blockquote');
+	Cufon.replace('#slider .bottom', { fontFamily: 'Quicksand Book' });
+</script>
+<script type="text/javascript" src="./js/dropdown.js"></script>
+<script type="text/javascript" src="./js/jquery.corner.js"></script>
+<script type="text/javascript" src="./js/jquery.prettyphoto.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+		/* for corner rounded top menu */
+		$('#top-navigation ul ul').corner("bottom");
+		
+		/* for portfolio prettyPhoto */
+		$(".gallery a[rel^='prettyPhoto']").prettyPhoto({theme:'dark_rounded'});
+
+    });
+</script>
+<!--[if IE 6]>
+<script src="http://demo.templatesquare.com/html/elegance/js/DD_belatedPNG.js"></script>
+<script>
+  DD_belatedPNG.fix('img, #logo');
+</script>
+<![endif]--> 
+<meta charset="UTF-8"></head>
+<body>
+
+<div id="wrapper">
+	<div id="container-top-inner">
+		<div class="container">
+			<div id="top">
+				<div id="top-left">
+					<div id="logo"><img src="./images/logo.png" alt="" /></div><!-- end #logo -->
+				</div><!-- end #top-left -->
+				<div id="top-right">
+					<div id="top-search">
+					<form  method="get" action="">
+						<p><input type="text" name="s"  class="inputbox"/></p>
+					</form>
+					</div><!-- end #top-search -->
+					<div id="top-navigation">
+					<ul id="topnav">
+						<li><a class="current" href="./index.html">Home</a></li>
+						<li><a href="./about.html">About</a>
+							<ul>
+								<li><a href="./index.html">Home</a></li>
+								<li><a href="./about.html">About</a></li>
+								<li><a href="./portfolio.html">Portfolio</a></li>
+								<li><a href="./blog.html">Blog</a></li>
+								<li><a href="http://demo.templatesquare.com/html/elegance/single.html">Single</a></li>
+								<li><a href="./fullwidth.html">Full Width</a></li>
+								<li><a href="./contact.html">Contact</a></li>
+							</ul>
+						</li>
+						<li><a href="./portfolio.html">Portfolio</a></li>
+						<li><a href="./blog.html">Blog</a></li>
+						<li><a href="./contact.html">Contact</a></li>
+					</ul>
+					</div><!-- end #top-navigation -->
+				</div><!-- end #top-right -->
+			</div><!-- end #top -->
+			<div id="header-inner">
+				<div id="header-inner-left">
+					<h1 class="pagetitle"><span>Portfolio</span></h1>
+				</div>
+				<div id="header-inner-right">
+				<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolor es eos qui ratione voluptatem </p>
+				</div>
+			</div><!-- end #header-inner -->
+			<div id="main-inner">
+			 	<div id="contentfull">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent est massa, iaculis id tempus quis, tempor eget enim. Sed porttitor fringilla elementum. Sed a lectus nisl. Mauris ultrices, eros id ultrices laoreet, neque mi rutrum arcu, at placerat erat lectus at nunc. Aliquam at libero felis, sit amet lacinia odio.</p>
+					<ul class="gallery">
+						<li>
+						<a href="./images/portfolio/pf1_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf1.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio1</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li>
+						<a href="./images/portfolio/pf2_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf2.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio2</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li>
+						<a href="./images/portfolio/pf3_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf3.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio3</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li class="nomargin">
+						<a href="./images/portfolio/pf4_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf4.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio4</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li>
+						<a href="./images/portfolio/pf5_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf5.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio5</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li>
+						<a href="./images/portfolio/pf6_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="http://demo.templatesquare.com/html/elegance/images/portfolio/pf6.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio6</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li>
+						<a href="./images/portfolio/pf7_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf7.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio7</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+						<li class="nomargin">
+						<a href="./images/portfolio/pf8_large.jpg" class="image" rel="prettyPhoto[mixed]"><img src="./images/portfolio/pf8.jpg" alt=""  width="210" height="190" /></a>
+						<h3><a href="#">Portfolio8</a></h3>
+			<p>Quisque nec tellus neque. Etiam non sapien eros, pretium porta risus. </p>
+						</li>
+					</ul>
+					<div class="clear"></div>
+					<div class="wp-pagenavi">
+						<span class='pages'>Page 1 of 2</span><span class='current'>1</span><a href="">2</a><a href="" class="nextpostslink">&raquo;</a>
+					</div><!-- end wp-pagenavi -->
+				</div><!-- end #contentfull -->
+				<div class="clear"></div><!-- clear float -->
+			</div>
+			<!-- end #main -->
+		</div><!-- end container -->
+	</div><!-- end #container-top-inner -->
+	<div id="container-bottom">
+		<div class="container">
+			<div id="footer">
+				Copyright &copy;2010 Elegance Company. All rights reserved.
+			</div><!-- end #footer -->
+		</div><!-- end container -->
+	</div><!-- end #container-top -->
+</div><!-- end #wrapper -->
+
+</body>
+</html>

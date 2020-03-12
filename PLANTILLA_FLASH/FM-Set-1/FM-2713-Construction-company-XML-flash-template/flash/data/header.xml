@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+		
+     <gallery id="1" img="gallery/galleryHeader/img1.png" posX="50" posY="0" delay="3"/>
+     <gallery id="2" img="gallery/galleryHeader/img2.png" posX="50" posY="55" delay="5"/>   
+     <gallery id="3" img="gallery/galleryHeader/img3.png" posX="50" posY="10" delay="3"/>
+     <gallery id="4" img="gallery/galleryHeader/img4.png" posX="50" posY="18" delay="5"/>
+     <gallery id="5" img="gallery/galleryHeader/img5.png" posX="50" posY="0" delay="3"/>	
+	
+</albums>

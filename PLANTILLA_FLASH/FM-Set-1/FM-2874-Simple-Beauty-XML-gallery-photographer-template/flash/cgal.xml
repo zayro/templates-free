@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+<gallery name="PEOPLE" path="gallery/people/">
+<item name="Photo #1 People" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 People" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 People" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 People" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+<item name="Photo #1 People" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 People" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 People" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 People" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+</gallery>
+
+<gallery name="NATURE" path="gallery/nature/">
+<item name="Photo #1 Nature" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Nature" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Nature" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Nature" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+<item name="Photo #1 Nature" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Nature" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Nature" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Nature" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+</gallery>
+
+<gallery name="MISC" path="gallery/misc/">
+<item name="Photo #1 Misc" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Misc" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Misc" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Misc" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+<item name="Photo #1 Misc" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Misc" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Misc" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Misc" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+</gallery>
+
+<gallery name="PORTRAITS" path="gallery/portraits/">
+<item name="Photo #1 Portraits" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Portraits" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Portraits" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Portraits" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+<item name="Photo #1 Portraits" thumbnail="thumb1.png" pic="im1.jpg" description="text1"/>
+<item name="Photo #2 Portraits" thumbnail="thumb2.png" pic="im2.jpg" description="text2"/>
+<item name="Photo #3 Portraits" thumbnail="thumb3.png" pic="im3.jpg" description="text3"/>
+<item name="Photo #4 Portraits" thumbnail="thumb4.png" pic="im4.jpg" description="text4"/>
+</gallery>
+
+
+
+</albums>

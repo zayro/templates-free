@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+	</section>
+	
+ <section name="configuration">
+ <delta_pics>6</delta_pics>
+ <alpha_bg>90</alpha_bg>
+ <delta_scr>0</delta_scr>
+ <pic_smoth>true</pic_smoth>
+ </section>
+
+
+<section name="globalGallery">
+		<folder fName="1" fTitle="business">
+			<image imageUrl="_business01.png" size="125" size_width="125"/>
+			<image imageUrl="_business02.png" size="125" size_width="125"/>
+			<image imageUrl="_business03.png" size="125" size_width="125"/>
+			<image imageUrl="_business04.png" size="125" size_width="125"/>
+			<image imageUrl="_business05.png" size="125" size_width="125"/>
+			<image imageUrl="_business06.png" size="125" size_width="125"/>
+			<image imageUrl="_business07.png" size="125" size_width="125"/>
+			<image imageUrl="_business08.png" size="125" size_width="125"/>
+			
+		</folder>
+		
+		<folder fName="2" fTitle="holiday">
+			<image imageUrl="_holiday01.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday02.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday03.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday04.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday05.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday06.png" size="125" size_width="125"/>
+			<image imageUrl="_holiday07.png" size="125" size_width="125"/>
+	            <image imageUrl="_holiday08.png" size="125" size_width="125"/>
+			
+		</folder>
+		
+		<folder fName="3" fTitle="topmenu">
+		      <image imageUrl="_topmenu01.png" size="125" size_width="125"/>
+		      <image imageUrl="_topmenu02.png" size="125" size_width="125"/>
+			<image imageUrl="_topmenu03.png" size="125" size_width="125"/>
+		      <image imageUrl="_topmenu04.png" size="125" size_width="125"/>
+			<image imageUrl="_topmenu05.png" size="125" size_width="125"/>
+                  <image imageUrl="_topmenu06.png" size="125" size_width="125"/>
+                  <image imageUrl="_topmenu07.png" size="125" size_width="125"/>
+                  <image imageUrl="_topmenu08.png" size="125" size_width="125"/>
+
+
+			
+		</folder>
+
+            <folder fName="4" fTitle="dinnerquick">
+			<image imageUrl="_dinnerquick01.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick02.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick03.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick04.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick05.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick06.png" size="125" size_width="125"/>
+			<image imageUrl="_dinnerquick07.png" size="125" size_width="125"/>
+	            <image imageUrl="_dinnerquick08.png" size="125" size_width="125"/>
+			
+		</folder>
+		
+            <folder fName="5" fTitle="romanticmenu">
+			<image imageUrl="_romanticmenu01.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu02.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu03.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu04.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu05.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu06.png" size="125" size_width="125"/>
+			<image imageUrl="_romanticmenu07.png" size="125" size_width="125"/>
+	            <image imageUrl="_romanticmenu08.png" size="125" size_width="125"/>
+			
+		</folder>
+		
+
+		
+
+		
+</section>	
+	
+</content>

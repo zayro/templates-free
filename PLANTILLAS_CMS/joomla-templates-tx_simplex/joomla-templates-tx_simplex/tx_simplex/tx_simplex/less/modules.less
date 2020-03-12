@@ -1,0 +1,64 @@
+/*----------------------------------
+        Module Specific
+-----------------------------------*/
+/* Finder */
+#mod-finder-searchform{
+    margin: 0 0;
+    position: relative;
+    //width: 300px;
+
+    div.finder{margin-bottom: 0;}
+
+    #mod-finder-searchword{
+        background: #fbfbfb;
+        &:focus{background: #fff;}
+    }
+    button.btn{
+      .border-radius(0 @inputBorderRadius @inputBorderRadius 0);
+    }
+}
+/*Breadcrumbs*/
+ul.breadcrumb{margin: 0;}
+
+/* Default login module */
+#login-form{
+  .add-on label{display: none;}
+}
+
+/* Default joomla menu */
+/* Turn off image */
+ul.menu li img{
+    display: none;
+}
+.nav-list > li > a {
+    border-bottom: 1px solid rgba(0, 10, 170, 0.1);
+    &:hover {color: #fff;text-shadow: none;}
+}
+
+// Template Specific
+.expose-video {
+    background: url(../images/shadow-corner.png) no-repeat 0 100%;padding: 15px 15px 30px 25px;text-shadow: 0 1px 0 #FFFFFF;
+    h3 {
+        line-height: 34px;font-size: 30px;
+        span {font-weight: normal;.gfont-sans();color: #6A6A6A;font-size: 26px;}
+    }
+    p {color: #7B7B7C;}
+}
+
+.aboutus-slogan {
+    h2 {letter-spacing: -2px;text-shadow: 0 1px 0 #666;}
+    p {font-size: 20px;color: #222;}
+}
+
+
+// Extension Module
+#xt-wrap.xt-basic {
+    border: 0;color: #727273;text-align: center;background:url("../images/twitter-icon.png") no-repeat scroll 50% 0 transparent;
+    .gfont-noticia();font-size: 16px;font-style: italic;padding-top: 46px;
+
+    .xt-tweet {line-height: 27px;}
+    .xt-time {font-size: 13px;}
+    .xt-list {
+        li {border-bottom: 0;}
+    }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<e des="Small project done with different partners" thumb="img/n1.jpg" date="10th of April 2009">
+		<![CDATA[In hac habitasse platea dictumst. Suspendisse mi leo, semper quis, cursus in, condimentum tristique, felis. Praesent rutrum. Sed nisl. In in dui. Integer leo. Aliquam erat volutpat. Integer justo. Fusce id leo eget nunc ornare feugiat. Maecenas feugiat.<br><br><a href="http://www.flashden.net">Read more</a><br> ]]>
+	</e>
+	<e des="Large video project completed" thumb="img/n2.jpg" date="2nd of April 2009">
+		<![CDATA[Sed ultrices. Proin elementum tincidunt arcu. Duis id lectus. Curabitur scelerisque purus eu eros. Maecenas consectetur mauris ut est. Cras sit amet arcu. Nulla urna lectus, aliquet imperdiet, varius ac, condum tincidunt, leo. Sed eget erat. Aliquam convallis quam quis tortor. Aliquam non sapien.]]>
+	</e>
+	<e des="Webmarbles uploaded new project to Flashden" thumb="img/n6.jpg" date="26th of March 2009">
+		<![CDATA[Mauris semper quam vitae lacus. Fusce id enim eget tellus euismod congue. Suspendisse ut ligula. Nulla porta, purus dictum luctus interdum, nibh nibh consectetur ipsum, at lacinia turpis magna sed magna.]]>
+	</e>
+	<e des="A short headline" thumb="img/n4.jpg" date="20th of January 2009">
+		<![CDATA[Phasellus purus mauris, adipiscing ut, ultrices viverra, laoreet non, augue.<br><br><a href="http://www.flashden.net">Read more</a><br> ]]>
+	</e>
+	<e des="A headline without a thumbnail" thumb="" date="8th of January 2009">
+		<![CDATA[Nam consequat augue dignissim massa. Nunc tortor enim, luctus ut, scelerisque vitae, egestas convallis, enim. Sed egestas libero eget libero.]]>
+	</e>
+	<e des="A new year with new opportunities" thumb="img/n3.jpg" date="2nd of January 2009">
+		<![CDATA[Cras viverra tempus est. Proin fermentum auctor augue. Phasellus gravida hendrerit sapien. Ut suscipit elit a lectus. Proin blandit, quam tincidunt adipiscing consectetur, risus risus tempus orci, in viverra urna sem non risus. Curabitur ullamcorper consequat arcu. Aliquam ut ipsum. Ut blandit bibendum enim. Nulla in purus.]]>
+	</e>
+	<e des="Marry Christmas everyone" thumb="img/n7.jpg" date="26th of December 2008">
+		<![CDATA[Nunc ut turpis. Integer convallis, elit ut euismod mattis, metus velit interdum lacus, quis feugiat est arcu vitae justo. Aliquam vel enim non justo porttitor blandit. Morbi pulvinar. Vestibulum in ligula vitae tellus fringilla laoreet. Curabitur in nulla.]]>
+	</e>
+</content>

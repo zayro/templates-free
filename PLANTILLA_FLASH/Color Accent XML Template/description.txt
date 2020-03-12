@@ -1,0 +1,24 @@
+<b>COLOR ACCENT XML WEBSITE TEMPLATE</b>
+<br>The cutomizable options can be accessed through several XML files.
+
+<b>template.XML</b>
+<br>In this file you can define the number of tiles every object will be devided to. You must change the cols and rows numbers. The v_pos and h_pos variables define the position of the object that you will animate with the tiles. The speed of tile animation can be controlled by the mdelay variable. Larger number means lower speed. Also the default menu item can be set from here. It will result in auto select of this menu item as if it was pressed. In this file you can enter the copyright text. Choose an accent color and enter its hexadecimal value in this file. This color can be used in the template for many of its objects. The audio track can be set from here and you need to put the path to the file. The background tile image must be entered again with the full path to the file. Lastly from here you define which XML file the template will open to load its menu.
+
+<b>menu.xml</b>
+<br>In this file you can set the space between the menu items - both horizontal and vertical. The leftmargin and rightmargin numbers define the space each menu item will have before and after its caption. The bar behind the menu can be different color than the menus - use the menu_back_color variable. The color of the text is global for all menu items and must be set in the normaltextcolor. The pressedtextcolor number stores the color of the caption when the menu item is pressed.
+
+Each menu item has caption and an unique menu_id. In order for the menu to work properly please include one menu item with menu_id of 0. The command variable can be one of the following:
+* change_object where you can set the movie to load and the resource file that the external movie may need;
+* start_slideshow where you can set the XML file describing the slideshow;
+* load_gallery where you can set the XML file describing the gallery;
+* getURL where you need to set the requested url and the target (_self/_blank);
+
+<b>xml files storing text and image data</b>
+<br>An example of such file is about_us.xml file. Set the images_frame_color for the rectangle frame around the images. The window_width and window_height variables hold the dimensions of the panel that will hold the text content. Set the margins around the text content by using leftmargin, rightmargin, topmargin and bottommargin variables. Within the CDATA portion you can put your HTML content. There is one thing you can use and that is the $accent_color variable - put it where you want the global accent_color to show. Also there is an option to use the margin attribut within the img tag to set margins for the image. The images will show a preloader and will use a tween effect to show. Use both images and SWF files in img tags.
+
+<b>xml files storing slideshow information</b>
+<br>The wait variable sotres the seconds between changing slideshow items. Set the repeat value to true or false to define if the slideshow will start again on ending. The show_time and interaction variables define if any controls will appear while the slideshow plays. Each slideshow item can define individual wait time or use the global wait time. The url and target variables defin if the slideshow item will have an url link attached. Object variable holds the file that will load for the slideshow item and the params variable can set the resource file that the slideshow item may use. Put some caption text that will show in a text box below the slideshow item while it playing.
+
+<b>xml files storing gallery information</b>
+<br>The gallery XML files has some similar options to the slideshow files. The reason for that is that each gallery can start a slideshow with its items. The slideshow_wait,
+repeat and the show_time variables are the same as the ones in slideshow xml files. The wait variable here defines the delay between showing the gallery thumbnail images. The space defines the pixels between the thumbnail images. Count is the number of thumbnails each page will show and the scrollstep defines how many thumbnail will change on previous or next buttons clicked. Thumbnails can be orientated horizontally or vertically - set this using the thumbs_orientation variable. The thumbs_pop variable is still not used. The folder variable stores the path to the thumb images. Each gallery item can control its wait time when part of slideshow, the url and the target variables for the link connected to it. The tar_width and tar_height variables define the thumb size, and the normal_width and normal_height define the size of the the thumb popup. Pressing a thumbnail is the same as if a menu item was pressed. Because of that fact each gallery item has command, attribut1 and attribut2 variables. The thumb variable holds the name of the thumb image. Each gallery item can store some caption text which will show using a text box.

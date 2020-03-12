@@ -1,0 +1,103 @@
+﻿<?xml version=”1.0” encoding=”UTF-8”?>
+<bgs>
+<Backgrounds>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_carbon_1.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_carbon_1.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_carbon_2.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_carbon_2.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_marble_brown.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_marble_brown.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_marble_grey.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_marble_grey.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_sand_blue.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_sand_blue.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_sand_grey.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_sand_grey.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_black_lines.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_black_lines.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_fabric_green.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_fabric_green.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_fabric_grey.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_fabric_grey.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_fabric_blue.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_fabric_blue.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_misc_metal.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_misc_metal.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_misc_red.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_misc_red.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_lava.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_lava.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_metal_grey.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_metal_grey.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_sand_chess.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_sand_chess.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_vector_blue.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_vector_blue.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_vector_red.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_vector_red.jpg</thumb>
+</option>
+
+<option>
+   <background>MAIN/Background/backgrounds/BKG_vector_gradient.swf</background>
+   <thumb>MAIN/Background/backgrounds/thumbs/BKG_vector_gradient.jpg</thumb>
+</option>
+
+</Backgrounds>
+<!--  ______________SETTINGS_________________   -->
+<cols>5</cols>
+<spacing>2</spacing>
+<!--  ______________COLOR SETTINGS_________________   -->
+<!--  BACKGROUND BUTTON COLORS   -->
+<bgBtnColorNormal>0x666666</bgBtnColorNormal>
+<bgBtnColorOver>0xFFFFFF</bgBtnColorOver>
+</bgs>

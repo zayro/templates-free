@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player showDisplay="yes" autoStart="yes">
+ <song path="music/music1.mp3" title="music player - track 01" />   
+ <song path="music/music1.mp3" title="music player - track 02" />
+</player>

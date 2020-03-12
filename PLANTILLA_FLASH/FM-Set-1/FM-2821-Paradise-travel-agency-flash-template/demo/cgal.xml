@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Curabitur faucibus</b> odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar ]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Curabitur faucibus</b> odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar ]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb3.jpg" pic="im3.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Curabitur faucibus</b> odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar ]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Curabitur faucibus</b> odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar ]]></description>
+</item>
+<item name="Item 1" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://you@somedomain.com">
+	<description><![CDATA[<b>Curabitur faucibus</b> odio malesuada nisl sollicitudin et malesuada massa mattis. Ut ac eros vitae nibh pulvinar pulvinar ]]></description>
+</item>
+</gallery>

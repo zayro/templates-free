@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xml>
+
+	<mainmenu>
+		<title><![CDATA[CONTENT PAGE]]></title>
+		<content>elite_html_content_page.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[NEWS]]></title>
+		<content>elite_xml_news.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[PD XML GALLERY]]></title>
+		<content>elite_powerful_dynamic_xml_gallery.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[XML GALLERY]]></title>
+		<content>elite_xml_imagegallery.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[VIDEO PLAYER]]></title>
+		<content>elite_video_player.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[PD XML VIDEO GALLERY]]></title>
+		<content>elite_powerful_dynamic_xml_video_gallery.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[SUBMENU]]></title>
+		<content>submenu</content>
+		<submenu>
+			<item>
+				<title_submenu><![CDATA[CONTENT PAGE]]></title_submenu>
+				<content_submenu>elite_html_content_page.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[NEWS]]></title_submenu>
+				<content_submenu>elite_xml_news.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[POWERFUL XML GALLERY]]></title_submenu>
+				<content_submenu>elite_powerful_dynamic_xml_gallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[XML IMAGE GALLERY]]></title_submenu>
+				<content_submenu>elite_xml_imagegallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[VIDEO PLAYER]]></title_submenu>
+				<content_submenu>elite_video_player.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[XML VIDEO GALLERY]]></title_submenu>
+				<content_submenu>elite_powerful_dynamic_xml_video_gallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[CONTACT]]></title_submenu>
+				<content_submenu>elite_contact_form.swf</content_submenu>
+			</item>
+		</submenu>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[CONTACT]]></title>
+		<content>elite_contact_form.swf</content>
+	</mainmenu>
+	
+</xml>

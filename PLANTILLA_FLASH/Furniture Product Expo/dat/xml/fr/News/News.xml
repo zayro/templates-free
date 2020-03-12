@@ -1,0 +1,117 @@
+<DynamicWeb>
+<Sections head="NEWSLETTERS">
+<data>
+		<Date>12-12-2008</Date>
+		<Title>Lorem ipsum dolor</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>13-11-2008</Date>
+		<Title>Sed do eiusmod tempor</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>	
+	</data>
+
+	<data>
+		<Date>14-11-2008</Date>
+		<Title>Adipisicing elit</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>15-10-2008</Date>
+		<Title>Cillum dolore eu fugiat</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>16-10-2008</Date>
+		<Title>Excepteur sint occaecat</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>18-09-2008</Date>
+		<Title>Fugiat nulla pariatur</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>05-08-2008</Date>
+		<Title>Proident sunt in culpa qui</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>22-08-2008</Date>
+		<Title>Labore et dolore magna</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>14-11-2008</Date>
+		<Title>Adipisicing elit</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>15-10-2008</Date>
+		<Title>Cillum dolore eu fugiat</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>16-10-2008</Date>
+		<Title>Excepteur sint occaecat</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>18-09-2008</Date>
+		<Title>Fugiat nulla pariatur</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>05-08-2008</Date>
+		<Title>Proident sunt in culpa qui</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img1.jpg</Image>
+		<BigImg>dat/Images/Big/img1.jpg</BigImg>
+
+	</data>
+	<data>
+		<Date>22-08-2008</Date>
+		<Title>Labore et dolore magna</Title>
+		<download>http://www.adobe.com/platform/whitepapers/platform_overview.pdf</download>
+		<Image>dat/Images/News/img2.jpg</Image>
+		<BigImg>dat/Images/Big/img2.jpg</BigImg>
+
+	</data>
+</Sections>
+
+</DynamicWeb>

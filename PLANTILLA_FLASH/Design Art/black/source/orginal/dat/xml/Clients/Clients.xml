@@ -1,0 +1,55 @@
+<DynamicWeb>
+	<Sections>
+	
+		<Menu btnName="LATEST CLIENTS" f="Latest clients" h="LATEST CLIENTS">
+			<MidData>
+				<thumbtitle>Latest clients</thumbtitle>
+				<Image>dat/Images/Home/img6.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+		
+		<Menu btnName="DESIGNERS EVENT 2011" f="Designer Event 2011" h="DESIGNERS EVENT 2011">
+			<MidData>
+				<thumbtitle>Designers Event 2011</thumbtitle>
+				<Image>dat/Images/Home/img5.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+			</SubCategories>
+		</Menu>
+
+		<Menu btnName="MAGAZINE" f="Latest clients" h="MAGAZINE">
+			<MidData>
+				<thumbtitle>Magazine</thumbtitle>
+				<Image>dat/Images/Home/img4.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		<Menu btnName="ONLINE MAGAZINE" f="Latest clients" h="ONLINE MAGAZINE">
+			<MidData>
+				<thumbtitle>Online Magazine <font color="#ff0066">New</font></thumbtitle>
+				<Image>dat/Images/Home/img3.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+		
+		<Menu btnName="ALL CLIENTS" f="all" h="ALL CLIENTS" p="105">
+			<MidData>
+				<thumbtitle>All Clients</thumbtitle>
+				<Image>dat/Images/Home/img2.jpg</Image>
+				<client>Consectetur Adipisicing Elit</client>
+				<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+		</Menu>
+		
+	</Sections>
+</DynamicWeb>

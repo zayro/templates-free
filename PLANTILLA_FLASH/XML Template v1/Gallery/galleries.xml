@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+
+	<category>
+		<title>Nature</title>
+		<xml>Gallery/nature.xml</xml>
+	</category>
+	<category>
+		<title>Landscape</title>
+		<xml>Gallery/landscape.xml</xml>
+	</category>
+	<category>
+		<title>Animals</title>
+		<xml>Gallery/animals.xml</xml>
+	</category>
+	<category>
+		<title>Holiday</title>
+		<xml>Gallery/holiday.xml</xml>
+	</category>
+	
+</content>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projetsList>
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.swf" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+	<projet date="31 dec. 07" titre="My Project" img="project.jpg" extra="animation1.swf*|*project1.jpg*|*project2.jpg*|*project3.jpg">
+	<![CDATA[Here is a short text <font color='#FFFF00'>with HTML</font> to describe my project. Click here to open the gallery.]]>
+	</projet>	
+
+</projetsList>

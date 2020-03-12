@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+	<config>
+	</config>
+	
+	<website>
+		
+		<menu title="About" swf="about.swf">
+		</menu>
+		<menu title="News" swf="news.swf">
+		</menu>
+		<menu title="Services" swf="services.swf">
+		</menu>
+		<menu title="Recent Projects" swf="portfolioViewer.swf" xml="xml/recentProjects.xml">
+		</menu>
+		<menu title="Portfolio">
+			<submenu title="Web" swf="portfolioViewer.swf" xml="xml/portfolio_web.xml" />
+			<submenu title="Print" swf="portfolioViewer.swf" xml="xml/portfolio_print.xml" />
+		</menu>
+		<menu title="Team" swf="teamMembers.swf">
+		</menu>
+		<menu title="Image Gallery" swf="imageGallery.swf">
+		</menu>
+		<menu title="Video Gallery" swf="videoGallery.swf">
+		</menu>
+		<menu title="Contact" swf="contact.swf">
+		</menu>
+	
+	</website>
+	
+</data>

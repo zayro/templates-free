@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<title>Themelock.com - Free Themes & Templates</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="images/favicon.ico" /> 
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" />
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" />
+<link rel="stylesheet" href="css/stratosfera.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="js/selectivizr-min.js"></script>
+<link rel="stylesheet" href="css/ie_7.css" type="text/css" />
+<![endif]-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
+<script type="text/javascript" src="js/jquery.backgroundPosition.js"></script>
+<script type="text/javascript" src="js/respond.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchwipe.min.js"></script>
+<script type="text/javascript" src="js/misc.js"></script>
+<script type="text/javascript" src="js/responsiveslides.js"></script>
+<script type="text/javascript">
+$(function () {
+	$("#slider").responsiveSlides({
+		auto: true,
+		pager: true,
+		nav: true,
+		speed: 500,
+		namespace: "stratosfera"
+	});
+	
+	$("#slider").touchwipe({
+     	wipeLeft: function() {  $('.stratosfera1_nav.prev').trigger('click'); },
+     	wipeRight: function() { $('.stratosfera1_nav.next').trigger('click'); }
+	});
+	  
+	 $('.recent_post_slider').slides({
+		generateNextPrev: false,
+		play: 2500,
+		pause: 2500,
+		hoverPause: true,
+		autoHeight: true
+	}); 
+});
+</script>
+</head> 
+<body>
+	<!-- START HEADER -->
+	<header class="header_bg clearfix">
+		<div class="container clearfix">
+			 <!-- START LOGO -->
+			<div class="logo">
+				<a href="index.html"><img src="images/logo.png" alt="" /></a>
+			</div>
+			 <!-- END LOGO -->
+			
+			<!-- START NAVIGATION -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li>
+						<a>Features</a>
+						<ul>
+							<li><a href="index2.html">Alternative Home</a></li>
+							<li><a href="shortcodes.html">Shortcodes</a></li>
+							<li><a href="pricing.html">Pricing</a></li>
+							<li><a href="blog_single.html">Blog Single</a></li>
+							<li><a href="404.html">404 Page</a></li>
+							<li><a>Menu 3 Level</a>
+								<ul>
+									<li><a href="#">Example 1</a></li>
+									<li><a href="#">Example 2</a></li>
+									<li><a href="#">Example 3</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a>Portfolio</a>
+						<ul>
+							<li><a href="portfolio_2_cols.html">Portfolio 2 columns</a></li>
+							<li><a href="portfolio_3_cols.html">Portfolio 3 columns</a></li>
+							<li><a href="portfolio_4_cols.html">Portfolio 4 columns</a></li>
+							<li><a href="portfolio_single.html">Portfolio Single</a></li>
+						</ul>
+					</li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+			<!-- END NAVIGATION -->
+		</div>
+	</header>
+	<!-- END HEADER -->
+	
+	<div class="clear"></div>
+	
+	<!-- START SLIDER -->
+	<div class="container clearfix">
+		 <div class="stratosfera_container">
+			<ul id="slider">
+				<li>
+					<img src="images/slider_image_1.jpg" alt="" />
+				</li>
+				<li>
+					<img src="images/slider_image_2.jpg" alt="" />
+					<!-- START CAPTION -->
+					<p class="caption">Interactive Wireframe</p>
+					<!-- END CAPTION -->
+				</li>
+				<li>
+					<img src="images/slider_image_3.jpg" alt="" />
+					<!-- START CAPTION -->
+					<p class="caption">Bounce Store Rate</p>
+					<!-- END CAPTION -->
+				</li>
+				<li>
+					<img src="images/slider_image_4.jpg" alt="" />
+				</li>
+			</ul>
+			<!-- START SLIDER PAGINATION -->
+			<ul class="stratosfera_tabs stratosfera1_tabs">
+				<li class="stratosfera_here">
+					<a href="#" class="stratosfera1_s1">
+						<!-- START ICON #1 -->
+						<img src="images/slide_icon1.png" alt="" />
+						<!-- END ICON #1 -->
+						<h1>Website Integrations</h1>
+						<h2>Vestibulum viverra luctus</h2>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="stratosfera1_s2">
+						<!-- START ICON #2 -->
+						<img src="images/slide_icon2.png" alt="" />
+						<!-- END ICON #2 -->
+						
+						<h1>Interactive Wireframe</h1>
+						<h2>Vestibulum viverra luctus</h2>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="stratosfera1_s3">
+						<!-- START ICON #3 -->
+						<img src="images/slide_icon3.png" alt="" />
+						<!-- END ICON #3 -->
+						
+						<h1>Bounce Store Rate</h1>
+						<h2>Vestibulum viverra luctus</h2>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="stratosfera1_s4">
+						<!-- START ICON #4 -->
+						<img src="images/slide_icon4.png" alt="" />
+						<!-- END ICON #4 -->
+						
+						<h1>Developer Friendly</h1>
+						<h2>Vestibulum viverra luctus</h2>
+					</a>
+				</li>
+			</ul>
+			<!-- END SLIDER PAGINATION -->
+		</div>
+	</div>
+	<!-- END SLIDER -->
+	
+	<div class="clear padding40"></div>
+	
+	<!-- START CONTENT -->
+	<section class="container clearfix">
+		
+		<!-- START FEATURED COLUMNS -->
+		<div class="col_1_3 featured_bg">
+			<a href="#"><img src="images/homepage_image_1.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Keyword management</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		<div class="col_1_3 featured_bg">
+			<a href="#"><img src="images/homepage_image_2.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Track your website</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		<div class="col_1_3 featured_bg last">
+			<a href="#"><img src="images/homepage_image_3.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Developer Friendly</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		
+		<div class="clear"></div>
+		
+		<div class="col_1_3 featured_bg">
+			<a href="#"><img src="images/homepage_image_4.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Multiple player integration</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		<div class="col_1_3 featured_bg">
+			<a href="#"><img src="images/homepage_image_5.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Keep your tasks organized</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		<div class="col_1_3 featured_bg last">
+			<a href="#"><img src="images/homepage_image_6.png" class="aligncenter" alt="" /></a>
+			<div class="featured_block">
+				<h3>Interactions in real time</h3>
+				<p>
+					Vestibulum viverra luctus sapien eget laoreet. <br />
+					Phasellus nulla lectusn et, <a href="#">read more</a>. 
+				</p>
+			</div>
+		</div>
+		<!-- END FEATURED COLUMNS -->
+		
+		<div class="clear"></div>
+		
+		<!-- START COMPANIES -->
+		<div class="companies clearfix">
+			<div class="ctop"></div>
+			<div class="cbody">
+				<ul>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_1.png" alt="" /></span></a></li>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_2.png" alt="" /></span></a></li>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_3.png" alt="" /></span></a></li>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_4.png" alt="" /></span></a></li>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_5.png" alt="" /></span></a></li>
+					<li><a href="#" class="thumb"><span><img src="images/home_logo_6.png" alt="" /></span></a></li>
+				</ul>
+				<div class="clear"></div>
+			</div>
+			<div class="cbottom"></div>
+		</div>
+		
+		<div class="clear"></div>
+		<!-- END COMPANIES -->
+		
+	</section>
+	<!-- END CONTENT -->
+
+	<!-- START HOMEPAGE WIDGETS -->
+	<div class="homepage_divider"></div>
+	<section class="homepage_widgets_bg clearfix">
+		<div class="container homepage_widgets clearfix">
+			
+			<!-- START DELIMITER BUTTON -->
+			<div class="button_divider clearfix">
+				<a href="#" class="button_big red"><span>Get it in Mac Apps</span></a>
+				<div class="clear padding20"></div>
+			</div> 
+			<!-- END DELIMITER BUTTON -->
+			
+			<div class="clear"></div>
+			
+			<!-- START COL 1/3 -->
+			<div class="col_1_3 first">
+				<h3 class="red">Recent blog posts</h3>
+				<p>				
+					Vestibulum viverra luctus sapien eget laoreet. 
+				</p>
+				
+					<div class="clear"></div>
+				
+				<div class="widget_body">
+					<div class="homepage_widget_top"></div>
+					
+					<!-- START HOMEPAGE MINI SLIDER -->
+					<div class="recent_post_slider clearfix">
+						<div class="slides_container clearfix">
+							<div class="slide">
+								<div class="image">
+									<img src="images/blog_thumbs_1.jpg" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>					
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">2 comments</div>
+								<div class="hour">1 hour ago</div>
+								<div class="clear"></div>
+							</div>
+							<div class="slide">
+								<div class="image">
+									<img src="images/blog_thumbs_2.jpg" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>					
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">4 comments</div>
+								<div class="hour">5 hour ago</div>
+								<div class="clear"></div>
+							</div>
+							<div class="slide">
+								<div class="image">
+									<img src="images/blog_thumbs_3.jpg" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>					
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">9 comments</div>
+								<div class="hour">12 hour ago</div>
+								<div class="clear"></div>
+							</div>
+						</div>	
+					</div>				
+					<!-- END HOMEPAGE MINI SLIDER -->
+				</div>
+					<div class="clear"></div>
+			</div>
+			<!-- END COL 1/3 -->
+		
+			<!-- START COL 1/3 -->
+			<div class="col_1_3">
+				<div class="widget_newsletter">
+					<div class="wline"></div>
+					
+					<div class="widget_newsletter_body">
+						
+						<h3>Sign up for newsletter</h3>
+						<p>				
+							Vestibulum viverra luctus sapien eget laoreet. 
+						</p>
+						
+						<div class="clear"></div>
+
+						<div class="divider_border"></div>
+						
+						<form action="#" method="post" id="newsletter_form">
+							<label for="name">Name</label>
+							
+							<input type="text" id="name" />
+							
+							<label for="email">Email</label>
+							
+							<input type="text" id="email" />
+
+							<div class="clear padding20"></div>
+							
+							<div class="divider_border"></div>
+							
+							<a href="#" onclick="$('#newsletter_form').submit();" class="button_big blue"><span> Subscribe </span></a>
+						</form>
+						
+						<div class="clear"></div>
+						
+					</div>
+					
+					<div class="wline"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<!-- END COL 1/3 -->
+		
+			<!-- START COL 1/3 -->
+			<div class="col_1_3 last">
+				<h3 class="red">What people are saying</h3>
+				<p>				
+					Vestibulum viverra luctus sapien eget laoreet. 
+				</p>
+				
+				<div class="clear"></div>
+				
+				<div class="widget_body">
+					<div class="homepage_widget_top"></div>
+					<!-- START HOMEPAGE MINI SLIDER -->
+					<div class="recent_post_slider clearfix">
+						<div class="slides_container clearfix">
+							<div class="slide">
+								<div class="image">
+									<div class="widget_quotes"></div>
+									<img src="images/avatar_1.png" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">#themewish</div>
+								<div class="hour">1 hour ago</div>
+								
+								<div class="clear"></div>
+							</div>
+							<div class="slide">
+								<div class="image">
+									<div class="widget_quotes"></div>
+									<img src="images/avatar_2.png" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">#themeforest</div>
+								<div class="hour">1 hour ago</div>
+								
+								<div class="clear"></div>
+							</div>
+							<div class="slide">
+								<div class="image">
+									<div class="widget_quotes"></div>
+									<img src="images/avatar_1.png" alt="" />
+								</div>
+								<div class="text">
+									<p>
+									Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla et magnis dis parturient
+									<a href="#">read more</a>. 
+									</p>
+								</div>
+								
+								<div class="clear"></div>
+								<div class="divider_border"></div>
+								
+								<div class="widget_comments">#envato</div>
+								<div class="hour">1 hour ago</div>
+								
+								<div class="clear"></div>
+							</div>
+						</div>
+					</div>
+					<!-- END HOMEPAGE MINI SLIDER -->
+				</div>
+				<div class="clear"></div>
+			</div>
+			<!-- END COL 1/3 -->
+			<div class="clear"></div>
+		</div>
+	</section>
+	<!-- END HOMEPAGE WIDGETS -->
+		
+	<!-- START FOOTER BIG -->
+	<footer class="footer_bg no_margin clearfix">
+		<div class="container footer">
+			<div class="col_1_3">
+				<!-- START FOOTER TEXT WIDGET -->
+				<h1 class="about">About us</h1>
+				<p>
+					Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam feugiat hendrerit. Nunc viverra neque nec elit eleifend semper. <br /><br /><br />
+
+					Mauris fringilla, erat sit amet elementum cursus, orci sapien aliquet mi, convallis molestie risus turpis quis tellus. Sed diam erat, tristique vel semper viccum.
+				</p>
+				<!-- END FOOTER TEXT WIDGET -->
+			</div>
+			<div class="col_1_3">
+				<!-- START FOOTER LATEST POSTS WIDGET -->
+				<h1 class="blog">Latest Posts</h1>
+				<div class="lastest_posts">
+					<p>
+						<a href="#"><img src="images/blog_thumbs_1.jpg" alt="" /></a>
+						Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam <a href="#">read more</a>.
+					</p>
+					<div class="clear padding20"></div>
+					<p>
+						<a href="#"><img src="images/blog_thumbs_2.jpg" alt="" /></a>
+						Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam <a href="#">read more</a>.
+					</p>
+				</div>
+				<!-- END FOOTER LATEST POSTS WIDGET -->
+			</div>
+			<div class="col_1_3 last">
+				<!-- START FOOTER FLICKR WIDGET -->
+				<h1 class="flickr">Flickr Gallery</h1>
+				<div class="flickr">
+					<ul>
+						<li><a href="#"><img src="images/flickr_image_1.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_2.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_3.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_4.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_5.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_6.jpg" alt="" /></a></li>
+					</ul>
+				</div>
+				<!-- END FOOTER FLICKR WIDGET -->
+			</div>
+		
+			<div class="clear padding40"></div>
+		</div>
+	</footer>
+	<!-- END FOOTER BIG -->
+	
+	<!-- START FOOTER SMALL -->
+	<footer class="footer_bg_bottom clearfix">
+		<div class="footer_bottom container">
+			<div class="col_2_3">
+				<!-- START FOOTER MENU -->
+				<div class="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="portfolio_3_cols.html">Portfolio</a></li>
+						<li><a href="pricing.html">Pricing</a></li>
+						<li><a href="blog.html">Blog</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<!-- END FOOTER MENU -->
+				
+				<div class="clear padding20"></div>
+				
+				<!-- START FOOTER LINKS -->
+				<p>
+					<a href="#">All rights reserved</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a href="#">Privacy Policy</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a href="#">Terms and Conditions</a>
+				</p>
+				<!-- END FOOTER LINKS -->
+			</div>
+			<div class="col_1_3 last">
+				<!-- START KEEP IN TOUCH -->
+				<div class="keep_in">Keep in touch</div>
+				<ul class="social_footer">
+					<li><a href="#"><span style="background-image:url('images/footer/twitter.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/facebook.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/skype.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/linkedin.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/vimeo.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/yahoo.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/flickr.png');"></span></a></li>
+				</ul>
+				<!-- END KEEP IN TOUCH -->
+			</div>
+			<div class="clear padding20"></div>
+		</div>
+	</footer>
+	<!-- END FOOTER SMALL -->
+</body>
+</html>

@@ -1,0 +1,11 @@
+/* CSS for WP-Testimonials */
+.testimo 	{ margin-bottom:20px; }
+
+.testimo .text	{ font-style:italic; margin-bottom:10px; padding-left:50px; }
+.testimo .client	{ font-weight:bold; float:right; text-align:right; }
+
+#sfstest-form label { float: left; width: 200px; font-weight: bold; }
+
+#sfstest-form input { width: 250px; margin-bottom: 5px; border: 1px solid #ccc; }
+
+#sfstest-form br { 	clear: left; }

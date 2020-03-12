@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="http://demo.templatesquare.com/html/enterprise/images/favicon.ico" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="" />
+<meta name="title" content="" />
+<meta name="description" content="" />
+<title>Enterprise</title>
+<link rel="shortcut icon" href="http://demo.templatesquare.com/html/enterprise/images/favicon.ico" />
+<!-- ////////////////////////////////// -->
+<!-- //      Start Stylesheets       // -->
+<!-- ////////////////////////////////// -->
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/cufon-yui.js"></script>
+<script type="text/javascript" src="./js/vegur_400.font.js"></script>
+<script type="text/javascript">
+	 Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6') ('blockquote') ('.styled') ('.txtbold');
+</script>
+<script type="text/javascript" src="./js/dropdown.js"></script>
+<script type="text/javascript" src="./js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript">
+   $(function(){     
+         $('#slideshow').cycle({
+            timeout: 5000,  // milliseconds between slide transitions (0 to disable auto advance)
+            fx:      'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...            
+            pager:   '#pager',  // selector for element to use as pager container
+            pause:   0,	  // true to enable "pause on hover"
+            pauseOnPagerHover: 0 // true to pause when hovering over pager link
+        });
+     });
+</script>
+<meta charset="UTF-8"></head>
+<body>
+<div id="wrapper">
+	<div id="container">
+		<div id="top">
+			<div id="logo">
+				<img src="./images/logo.gif" alt="" />
+			</div><!-- end #logo -->
+		</div><!-- end #top -->
+		
+
+		<div id="topnavigation">
+			<form  method="get" action="" id="searchform">
+				<div><input type="text" class="inputbox" value="search" onblur="if (this.value == ''){this.value = 'search'; }" onfocus="if (this.value == 'search') {this.value = ''; }"/></div>
+			</form>
+			<ul id="topnav">
+				<li><a class="current" href="./index.html">Home</a></li>
+				<li><a href="http://demo.templatesquare.com/html/enterprise/about.html">About</a>
+					<ul>
+						<li><a href="./services.html">Services</a></li>
+						<li><a href="./single.html">Single</a></li>
+						<li><a href="./typography.html">Typography</a></li>
+						<li class="lastnav"><a href="./fullwidth.html">Full Width</a></li>
+					</ul>
+				</li>
+				<li><a href="./products.html">Products</a></li>
+				<li><a href="./portfolio.html">Portfolio</a>
+					<ul>
+						<li><a href="./portfolio.html">Portfolio one column</a></li>
+						<li><a href="./portfolio2.html">Portfolio two column</a></li>
+						<li><a href="./portfolio3.html">Portfolio three column</a></li>
+						<li class="lastnav"><a href="./portfolio4.html">Portfolio four column</a></li>
+					</ul>
+				</li>
+				<li><a href="./blog.html">Blog</a></li>
+				<li><a href="./contact.html">Contact</a></li>
+			</ul><!-- end #topnav -->
+		</div><!-- end #topnavigation -->
+	
+		
+		
+		<div id="slideshow">  
+			<div class="cycle">
+				<img src="./images/img-slider.jpg" alt="" class="slide_image"/>
+			</div><!-- end of cycle1 -->		  
+			<div class="cycle">
+				<img src="./images/img-slider2.jpg" alt="" class="slide_image" />
+			</div><!-- end of cycle2 -->
+			<div class="cycle">
+				<img src="./images/img-slider3.jpg" alt="" class="slide_image" />
+			</div><!-- end of cycle2 -->
+		</div><!-- end slideshow -->
+	
+		
+		<div id="content-full">
+				<ul class="four_column">
+					<li>
+					<h2><img src="./images/icon1.gif" alt="" class="alignright"/>PROFESSIONAL SUPPORT </h2>
+					<span class="txtbold">Lorem ipsum dolor sit amet</span>
+					<p>
+	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+					<a href="#" class="more">Read More</a>
+					</li>
+					<li>
+					<h2><img src="./images/icon2.gif" alt="" class="alignright"/>EXTREMELY WELL-CODED</h2>
+					<span class="txtbold">Lorem ipsum dolor sit amet</span>
+					<p>
+	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad</p>
+					<a href="#" class="more">Read More</a>
+					</li>
+					<li>
+					<h2><img src="./images/icon3.gif" alt="" class="alignright"/>EASY <br />
+	CUSTOMIZATION</h2>
+					<span class="txtbold">Lorem ipsum dolor sit amet</span>
+					<p>
+	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad</p>
+					<a href="#" class="more">Read More</a>
+					</li>
+					<li class="last">
+					<h2><img src="./images/icon4.gif" alt="" class="alignright"/>SEARCH ENGINE OPTIMIZED</h2>
+					<span class="txtbold">Lorem ipsum dolor sit amet</span>
+					<p>
+	Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad</p>
+					<a href="#" class="more">Read More</a>
+					</li>
+					<li class="clear"></li>
+				</ul>
+				<hr />
+				<div id="maintext">
+					<div class="three_fourth">
+				<img src="./images/pic.jpg" alt="alignleft" class="alignleft" /><h1>Welcome to Our Website!</h1>
+				<p><a href="#"><strong>Lorem ipsum dolor sit amet</strong></a>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse <a href="#">cillum dolore</a> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident</p>
+				<a href="#" class="more">Read More</a>
+					</div>
+					<div class="one_fourth last">
+					<br /><br /><br />
+					<a href="#" class="butquote"><img src="./images/but_quote.gif" alt="" /></a>
+					</div>
+				</div>
+				<div class="clear"></div>
+			
+		</div><!-- end #content-full -->
+		
+		
+		<div id="footer">
+			<div id="footer-text">
+				&copy; 2010 Enterprise Company. All Rights Reserved
+			</div><!-- end #footer-text -->
+		</div><!-- end #footer -->
+	</div><!-- end #container -->	
+</div>
+
+
+</body>
+</html>

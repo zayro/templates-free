@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<services>
+	
+	<settings
+	
+		width="250"
+		height="380"
+		
+		titleSize="24"
+		titleColor="0xffffff"
+		descriptionColor="0xffffff"
+	
+	/>
+	
+	
+	<services>
+	
+		<service color="0xdc70ab" picture="1.jpg" title="PRINT"><![CDATA[This is the description text for your services.<br><br>This is html text that you can change in the xml file file. It alows you to have line breaks and unordered lists.<br><ul><li>service 1</li><li>service 2</li><li>service 3</li></ul><br>You can have as many services displayed as you want, and each service box can have it's own color.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ]]></service>
+	
+		<service color="0xcc2580" picture="2.jpg" title="WEB DESIGN"><![CDATA[This is the description text for your services.<br><br>This is html text that you can change in the xml file file. It alows you to have line breaks and unordered lists.<br><ul><li>service 1</li><li>service 2</li><li>service 3</li></ul><br>You can have as many services displayed as you want, and each service box can have it's own color.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ]]></service>
+	
+		<service color="0x8a004b" picture="3.jpg" title="PHOTOGRAPHY"><![CDATA[This is the description text for your services.<br><br>This is html text that you can change in the xml file file. It alows you to have line breaks and unordered lists.<br><ul><li>service 1</li><li>service 2</li><li>service 3</li></ul><br>You can have as many services displayed as you want, and each service box can have it's own color.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ]]></service>
+		
+	</services>
+	
+</services>

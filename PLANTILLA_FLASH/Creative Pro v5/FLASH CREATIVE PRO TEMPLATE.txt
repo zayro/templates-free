@@ -1,0 +1,22 @@
+Features in a nutshell
+
+    * Dynamic unlimited image gallery
+    * XML Video Gallery
+    * Dynamic News Viewer made from the latest installment of my top selling Magazine Flip Book
+    * All pages in the Flip Book are edited from external files with HTML formatted text
+    * Add images, url links, email links, change fonts, colors, all via external HTML formatted text
+    * About section, just edit the external file using HTML formatted text
+    * Contact form (Must have php 5 installed on your webserver)
+    * Add your address info and email links to the contact form via external HTML formatted text
+    * Client login, give your clients access to there files, great for progress reviews, makes you look like a pro
+    * Comes with my XML MP3 player pro, unlimited playlist, random play, auto start on/off set in the XML
+    * Dynamic footer, add copyright, email link, phone number, whatever you want via an external HTML formatted text
+    * Fullscreen proportional scaling backgrounds, Layered PSD ’s of the backgrounds included for you to customize
+    * Liquid navigation, on browser resize everything stays in position
+    * Fullscreen mode toggle, for maximizing screen space
+
+
+
+demo 
+
+http://flashden.net/item/flash-creative-pro-template/full_screen_preview/27466

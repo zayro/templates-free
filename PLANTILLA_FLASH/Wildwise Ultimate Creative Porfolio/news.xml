@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<actusList>
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+	
+	<actu date="24 jan. 08" titre="here is 2008" lien="http://www.flashden.net/user/wildwise?ref=wildwise" img="news.jpg">
+	<![CDATA[Here is the text of the news, <font color='#FF00FF'>HTML text supported</font>.]]>
+	</actu>
+</actusList>

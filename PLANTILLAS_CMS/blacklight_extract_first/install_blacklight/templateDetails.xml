@@ -1,0 +1,134 @@
+  <?xml version="1.0" encoding="iso-8859-1" ?> 
+ <install version="1.5" type="template">
+  <name>MP_BlackLight</name> 
+  <version>1.0.2</version> 
+  <creationDate>15/01/2010</creationDate> 
+  <author>MafiaShare.net</author> 
+  <authorEmail>webmaster@pixelsparadise.com</authorEmail> 
+  <authorUrl>http://www.mafiashare.net</authorUrl> 
+  <copyright>Copyright 2006-2010 - pixelsparadise.com</copyright> 
+  <license>Commercial</license> 
+<description>
+ <![CDATA[ <h1>Template Overview - "BlackLight" theme</h1>
+
+<h3>Changelog</h3>
+
+<b>1.0.1</b><br/>
+<ul>
+<li>21/01/2010 - Version 1.0.2 - Solving some IE7 problems</li>
+<li>21/01/2010 - Version 1.0.1 - Adding autoplay function to the module slider header</li>
+<li>15/01/2010 - Version 1.0 - Main Release</li>
+</ul>
+
+
+]]> 
+</description>
+
+<files>
+	<filename>templateDetails.xml</filename>
+	<filename>index.php</filename>
+	<filename>params.ini</filename>
+	<filename>template_thumbnail.png</filename>	
+	<filename>css/master.css</filename>
+	<filename>css/custom_css.css</filename>
+	<filename>css/ie7.css</filename>
+	<filename>css/joomla_default.css</filename>
+	<filename>css/jooms_basic.css</filename>
+	<filename>js/jquery.flow.1.2.js</filename>
+	<filename>images/logo.png</filename>
+	<filename>images/active.png</filename>
+	<filename>images/inactive.png</filename>
+	<filename>images/bck.jpg</filename>
+	<filename>images/bottom_gradient.png</filename>
+	<filename>images/footerbck.jpg</filename>
+	<filename>images/header.png</filename>
+	<filename>images/lightgrey_gradient.png</filename>
+	<filename>images/medgrey_gradient.png</filename>
+	<filename>images/selected.png</filename>
+	<filename>images/top_bck.jpg</filename>
+</files>
+		
+<positions>
+	<position>above</position>
+	<position>mainmenu</position>
+	<position>sub_header_left</position>
+	<position>sub_header_center</position>
+	<position>sub_header_right</position>
+	<position>top_left25</position>
+	<position>top_left_center25</position>
+	<position>top_right_center25</position>
+	<position>top_right25</position>
+	<position>bottom_left25</position>
+	<position>bottom_left_center25</position>
+	<position>bottom_right_center25</position>
+	<position>bottom_right25</position>
+	<position>bottom_left33</position>
+	<position>bottom_right33</position>
+	<position>bottom_center33</position>
+	<position>top_left33</position>
+	<position>top_right33</position>
+	<position>top_center33</position>
+	<position>bottom_right50</position>
+	<position>bottom_left50</position>
+	<position>top_left50</position>
+	<position>top_right50</position>
+	<position>top</position>
+	<position>bottom</position>
+	<position>right</position>
+	<position>left</position>
+	<position>footer_left</position>
+	<position>footer_center_left</position>
+	<position>footer_center</position>
+	<position>footer_center_right</position>
+	<position>footer_right</position>
+	<position>footer</position>
+	<position>debug</position>
+	<position>header</position>
+	<position>header1</position>
+	<position>header2</position>
+	<position>header3</position>
+	<position>header4</position>
+	<position>header5</position>
+	<position>header6</position>
+	<position>header7</position>
+	<position>header8</position>
+	<position>header9</position>
+	<position>header10</position>
+	<position>header11</position>
+	<position>header12</position>
+	
+</positions>
+
+<params>
+
+		<param name="sliderHeight" type="text" default="336" size="5" label="Height of the Slider Area" description="Enter the height of the slider Area in px" />
+		<param name="sliderWidth" type="text" default="980" size="5" label="Width of the Slider Area" description="Enter the width of the slider Area in px" />
+		<param name="sliderDuration" type="text" default="400" size="5" label="Duration of the Slides change" description="Enter the time between one slide to another in ms" />
+		<param name="sliderAuto" type="radio" default="0" label="Autoplay" description="Enables the autoplay function for the slider">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="sliderTime" type="text" default="4000" size="5" label="Duration of the Slides change" description="Enter the time between one slide to another in ms" />
+		<param type="spacer"/>
+		<param name="logoType" type="list" default="1" label="Show text logo or image logo?" description="SHOW LOGO AS IMAGE OR TEXT">
+			<option value="1">Image</option>
+			<option value="2">Text</option>
+		</param>
+		<param name="logoText" type="text" default="LogoText" size="12" label="Enter logo text if logo type is set to text" description="Enter the logo text" />
+			<param type="spacer"/>
+		<param name="showPathway" type="radio" default="1" label="Show Pathway Navigation" description="SHOW PATHWAY NAVIGATION">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="showSuckerfish" type="radio" default="1" label="Activate Suckerfish JavaScript for IE?" description="enables Suckerfish Dropdown menu in IE browsers via JS">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param type="spacer"/>
+		<param name="showComponent" type="radio" default="1" label="Show Component" description="SHOW COMPONENT DESCRIPTION">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param type="spacer"/>		
+</params>
+</install>

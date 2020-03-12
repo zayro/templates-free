@@ -1,0 +1,114 @@
+﻿
+
+THANK YOU FOR PURCHASE  MY XML POFESSIONAL WEBSITE
+
+With this website template you can edit all content without open or edit flash file.
+You can edit logo, background photos, section photos, background effects and many more,
+All text fields and galleries are driven by xml.
+
+This is the version 2, so i add some nice features like image zoom with auto scroll
+ if the full image is bigger than your stage width, gallery with sub categories,
+contact form and cool menu navigation. I hope you like this news.
+
+*FEATURES*
+
+* Full xml driven
+* Image zoom with auto scroll
+* Complete contact form with error check
+* Complete portfolio with sub categories
+* Masked background effects
+* Mp3 player
+* Fullscreen by right click
+* Gallery loads jpg, swf, png, gif...
+* Description for each item in the gallery
+* Scroll appear when text height is bigger than window
+* Original mouse cursor in the gallery section
+* You can add many photos you want
+* Progressive loader
+* File with only 29 kb
+* Fonts included
+* All code in the fla file is commented
+
+
+
+HOW TO CUSTOMIZE THIS FILE?
+
+1 - In the "xml" folder you need edit this xml files:
+
+    menu.xml - is the text for menu buttons, first attribute is the left/up text, and 
+    second attribute is the right/down text for each button.
+
+    text.xml - every text to the news, services, about and contact sections must be edit here  
+
+    gallery1.xml...gallery5.xml - you need edit this with path url and description for each photo.
+    For example: if you want load swf change the attribute (PhotoUrl="gallery1/1.jpg") to 
+    (PhotoUrl="gallery1/1.swf")  
+    In this case photos must be located in "gallery1" folder and must be 718x385 pixels dimension 
+
+
+
+2 - In the "images" folder you will see some photos that you need edit:
+
+    logo.jpg - is the logo in the top of the site, must be 140x42 pixels
+ 
+    back.jpg - is the background photo and must be 1200x385 pixels 
+      
+    backBlur.jpg - is the background photo when masked effect appear
+    and must be 1200x385 pixels. You can change the masked effect here, just edit this photo
+    with colors, noise, ligth brigthness or other to make different effects
+
+    about.jpg, news.jpg and services.jpg are the photos to be loaded to the
+    respective sections and must be 380x284 pixels
+
+    IMPORTANT: DO NOT CHANGE THIS NAMES OF THE FILES
+
+
+
+3 - put your favourite music at "musica" folder and name the file like "m1.mp3"
+
+
+4 - If you need edit fla file, most important symbols are the first ones in the library:
+    1 -  PHOTOS(foto)
+    2 - PAGES
+    3 - GALLERY
+    4 - GALLERY BUTTONS
+    Must important actionscript functions are commented.
+
+5 - If you need to change the names in the subcategories menu (gallery 1, gallery 2, ... , gallery 5), double click 
+    in the symbol " 4 - GALLERY" in the library and go to frame 2 actions, you will see:
+    but1.text = "Gallery 1";
+    but2.text = "Gallery 2";
+    but3.text = "Gallery 3";
+    but4.text = "Gallery 4";
+    but5.text = "Gallery 5";
+    Change to yours.
+
+6 - Put your big images in the folder named "bigphotos", in the respective galleries with the same name of point 1.
+
+7 - Double click in the symbol "5 - CONTACT FORM"  in the library and edit actions for send button:
+
+    line 15:
+    recipient = "info@yourcompany.com";
+	subject = "Message from my site.";
+	loadVariables("http://www.yourcompany.com/form.php3", "", "POST");
+
+    edit with your mail and domain and put the file "form.php3 in this directory.
+
+AND THATS ALL, I HOPE YOU ENJOY ;)
+
+
+
+BEST REGARDS,
+Jorge Pires
+
+
+
+
+
+If you need more help, contact me:
+
+jorge@webideias.net
+
+
+
+ 

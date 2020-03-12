@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<configuration>
+					
+     <!--  time slide [ms]  ( 1s=1000ms ) -->
+	<TIMESLIDE>4000</TIMESLIDE>    
+
+	<!-- time intro big image-->
+	<TIME_INTRO>1000</TIME_INTRO>
+	
+	<!-- time exit big image-->
+	<TIME_EXIT>700</TIME_EXIT>
+	
+	<!-- background color -->	
+	<BACKGROUND_COLOR_SLIDER>0x000000,78</BACKGROUND_COLOR_SLIDER>	
+	
+	<!-- color button close -->
+	<COLOR_BUTTON_CLOSE>0xFFFFFF,100</COLOR_BUTTON_CLOSE>
+	
+	<!-- color time circle -->
+	<COLOR_TIME_CIRCLE>0XFFFFFF,100</COLOR_TIME_CIRCLE>	
+	
+	<!-- color background desc -->
+	<COLOR_BACKGROUND_DESC>0x000000,75</COLOR_BACKGROUND_DESC>
+	
+	<!-- preloader  -->
+	<PRELOADER_CURRENT>0xCCCCCC,100</PRELOADER_CURRENT>
+	<PRELOADER_BCG>0xCCCCCC,50</PRELOADER_BCG>
+		
+		
+</configuration>
+
+

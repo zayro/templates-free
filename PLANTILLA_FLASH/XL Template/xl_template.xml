@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info 	company="XL Template" 
+		color_on="0x99CC33" 
+		menu_xmargin="5" 
+		menu_ymargin="4" 
+		menu_align="left"
+		ydisplacement="-16" 
+		menu_buttons_spacing="15" 
+		back_image="items/ZIlgesque.jpg"
+		logo_image="items/logo.jpg"
+		music_path="music/scottwills_streets.mp3"
+		music_title="Scott Wills - Streets">
+	<zone title="HOME" file_path="intro.swf" or_width="790" or_height="360">
+	</zone>
+	<zone title="ABOUT US" file_path="about_us.swf" or_width="770" or_height="420">
+	</zone>
+	<zone title="NEWS" file_path="news.swf" or_width="649" or_height="300">
+	</zone>
+	<zone title="SERVICES" file_path="services.swf" or_width="700" or_height="386">
+	</zone>
+
+	<zone title="PROJECTS" file_path="projects.swf" or_width="623" or_height="336">
+	</zone>
+	<zone title="PORTFOLIO">
+		<set title="Abstract">
+			<item item_path="items/abstract/abs1.jpg" th_path="items/abstract/abs1_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 1</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>			
+			<item item_path="items/abstract/abs2.jpg" th_path="items/abstract/abs2_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 2</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs3.jpg" th_path="items/abstract/abs3_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 3</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs4.jpg" th_path="items/abstract/abs4_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 4</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs5.jpg" th_path="items/abstract/abs5_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 5</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs6.jpg" th_path="items/abstract/abs6_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 6</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs7.jpg" th_path="items/abstract/abs7_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 7</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs8.jpg" th_path="items/abstract/abs8_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 8</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs11.jpg" th_path="items/abstract/abs11_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 9</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs12.jpg" th_path="items/abstract/abs12_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 10</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs13.jpg" th_path="items/abstract/abs13_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 11</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/swffile.swf" th_path="items/abstract/swf_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 12</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs15.jpg" th_path="items/abstract/abs15_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 13</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>
+
+			<item item_path="items/abstract/abs1.jpg" th_path="items/abstract/abs1_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 1</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>			
+			<item item_path="items/abstract/abs2.jpg" th_path="items/abstract/abs2_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 2</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs3.jpg" th_path="items/abstract/abs3_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 3</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs4.jpg" th_path="items/abstract/abs4_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 4</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs5.jpg" th_path="items/abstract/abs5_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 5</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs6.jpg" th_path="items/abstract/abs6_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 6</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs7.jpg" th_path="items/abstract/abs7_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 7</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs8.jpg" th_path="items/abstract/abs8_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 8</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs11.jpg" th_path="items/abstract/abs11_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 9</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs12.jpg" th_path="items/abstract/abs12_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 10</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs13.jpg" th_path="items/abstract/abs13_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 11</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/swffile.swf" th_path="items/abstract/swf_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 12</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs15.jpg" th_path="items/abstract/abs15_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 13</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>
+		</set>
+		<set title="Abstract 2">
+			<item item_path="items/abstract/abs1.jpg" th_path="items/abstract/abs1_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 1</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>			
+			<item item_path="items/abstract/abs2.jpg" th_path="items/abstract/abs2_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 2</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs3.jpg" th_path="items/abstract/abs3_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 3</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs4.jpg" th_path="items/abstract/abs4_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 4</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs5.jpg" th_path="items/abstract/abs5_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 5</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs6.jpg" th_path="items/abstract/abs6_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 6</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs7.jpg" th_path="items/abstract/abs7_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 7</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs8.jpg" th_path="items/abstract/abs8_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 8</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs11.jpg" th_path="items/abstract/abs11_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 9</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs12.jpg" th_path="items/abstract/abs12_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 10</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs13.jpg" th_path="items/abstract/abs13_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 11</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/swffile.swf" th_path="items/abstract/swf_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 12</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs15.jpg" th_path="items/abstract/abs15_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 13</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>
+
+			<item item_path="items/abstract/abs1.jpg" th_path="items/abstract/abs1_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 1</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>			
+			<item item_path="items/abstract/abs2.jpg" th_path="items/abstract/abs2_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 2</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs3.jpg" th_path="items/abstract/abs3_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 3</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs4.jpg" th_path="items/abstract/abs4_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 4</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs5.jpg" th_path="items/abstract/abs5_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 5</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs6.jpg" th_path="items/abstract/abs6_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 6</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs7.jpg" th_path="items/abstract/abs7_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 7</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs8.jpg" th_path="items/abstract/abs8_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 8</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs11.jpg" th_path="items/abstract/abs11_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 9</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs12.jpg" th_path="items/abstract/abs12_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 10</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs13.jpg" th_path="items/abstract/abs13_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 11</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/swffile.swf" th_path="items/abstract/swf_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 12</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>	
+			<item item_path="items/abstract/abs15.jpg" th_path="items/abstract/abs15_th.jpg"><![CDATA[<font color='#99CC33'>Abstract item description 13</font> - Integer et magna eget felis malesuada mollis. Suspendisse eu tellus ut mauris varius aliquet.]]></item>
+		</set>
+	</zone>
+	<zone title="VIDEOS" file_path="video_player.swf" or_width="900" or_height="440" />
+	<zone title="CONTACT" file_path="contact.swf" or_width="812" or_height="468" />
+	</zone>
+
+</info>

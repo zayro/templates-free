@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Design Studio</title>
+<script language="JavaScript" type="text/javascript">
+
+function setTitle(stitle)
+{
+	document.title = stitle;
+}
+</script>
+<script type="text/javascript" src="flashobject.js"></script>
+<style>
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+#mainmov
+{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+</style>
+</head>
+<body>
+<div id="mainmov">
+	<script type="text/javascript">
+		// <![CDATA[
+		var fo = new FlashObject("preview.swf", "mainswf", "100%", "100%", "8.0", null, true, "high");
+		fo.addParam("menu", "nomenu");
+		fo.addParam("scale", "noscale");
+		fo.write("mainmov");
+		
+		// ]]>
+	</script>
+</div>
+</body>
+</html>

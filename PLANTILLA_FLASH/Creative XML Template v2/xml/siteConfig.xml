@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<siteConfig>
+	
+	//THIS IS THE LOCATION OF YOUR LOGO//
+	<img src="images/logo_image.png"/>		
+	
+	//OPTION TO REMOVE THE MP3 PLAYER//
+	<removeMp3>false</removeMp3>	
+	
+	//THIS IS THE COLOR OF ALL THE PROGRESS BARS//
+	<progressColor>0x00FF00</progressColor>	
+	
+	//THIS IS THE FOOTER TEXT//
+	<footer>
+		<![CDATA[<font color="#FFFFFF">Creative Template V2.0 Created By: </logo><a href="http://www.flashden.net/user/nosrevlah08" target="_blank"><font color="#00FF00">NOSREVLAH08</font></a></font>]]>	
+	</footer>
+	
+	//title - name that appears on the navigation bar//
+	//fileName - name of the swf to be loaded//
+	//textColor - color of the text that appears in the navigation bar//
+	//textOverColor - color of the highlight of the bar when mouse rolls over it//
+	
+	<navigation>
+		<title>HOME</title>
+		<fileName>home.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_1.jpg"/>		
+		
+		<title>SLIDE SHOW</title>
+		<fileName>slideShow.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_2.jpg"/>	
+	
+		<title>INFO WINDOW</title>
+		<fileName>about.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_3.jpg"/>	
+	
+		<title>PHOTO GALLERY</title>
+		<fileName>photoGallery.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_4.jpg"/>	
+		
+		<title>SINGLE PLAYER</title>
+		<fileName>singleVideo.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_5.jpg"/>	
+	
+		<title>VIDEO GALLERY</title>
+		<fileName>videoGallery.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_6.jpg"/>	
+		
+		<title>NEWS</title>
+		<fileName>news.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_7.jpg"/>	
+	
+		<title>CONTACT</title>
+		<fileName>contact.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_8.jpg"/>	
+		
+		<title>EXTERNAL SWF</title>
+		<fileName>externalSwf.swf</fileName>
+		<textColor>0xFFFFFF</textColor>
+		<textOverColor>0x00FF00</textOverColor>
+		<bg src="images/background_9.jpg"/>	
+	</navigation>
+	
+</siteConfig>

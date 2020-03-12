@@ -1,0 +1,48 @@
+
+<h1>Adding portfolio works</h1>
+<p>In this one, I'm going to show you how to add new portfolio works. At the moment there are 5, but I'm sure you'll need more. I'm sure you'll have more clients, so we gotta know how to add new portfolios. Let's get started!</p>
+
+
+<h3>Introduction</h3>
+<p>Let's open the <b>swf directory</b> and let's have a look inside. There are all sorts of swf,fla,xml files and directories. What's the deal with them? I'm going to explain now. Everytime we press a menu button, it loads an external swf file from this swf directory. If we talk about the portfolio section, that means that we will have a lot of swf files (in case we have a big portfolio). Right now, there are only 5 portfolio swfs. If you had more than 5 clients (and im sure you did) we will have to duplicate one of this 5 swf files and make the 6th one, the 7th and sooo on. It's simple! Don't worry! ;)</p>
+<div class="tutorial_image"><img src="1.jpg" border="0" /></div>
+
+
+<h3>Step 1</h3>
+<p>Every project from within the portfolio section is related to 4 files from the swf directory. For example, <b>Website 1</b> from the menu, is related to <b>project1.fla,project1.swf,project1.xml and project1.thumbs directory</b> from the swf directory. We gotta select this 4 files, copy them using <b>Ctrl+C</b> and paste them somewhere else <b>Ctrl+V</b> until we edit them (anywhere)</p>
+<div class="tutorial_image"><img src="2.jpg" border="0" /></div>
+
+<h3>Step 2</h3>
+<p>We want to make a new portfolio work (the 6th one) and our files are named project1 bla bla. Let's rename all our files to <b>project6.fla,project6.swf,project6.xml and project6.thumbs</b></p>
+<div class="tutorial_image"><img src="3.jpg" border="0" /></div>
+
+<h3>Step 3</h3>
+<p>Now let's open the <b>project6.xml</b> file and edit it a little in order to work correctly. Change all the paths from 
+<p>path = "swf/project1.thumbs/"</p>
+to
+<p>path = "swf/project6.thumbs/"</p>
+
+Now flash will know to search for the pictures inside the new thumbs directory that we created called project6.thumbs.
+</p>
+<div class="tutorial_image"><img src="4.jpg" border="0" /></div>
+
+<h3>Step 4</h3>
+<p>Now open the <b>project6.fla</b> file and let's tell flash that we changed the name of the xml file to project6.xml. Open the ActionScript pan by pressing F9, go to line 30 and let's edit that as shown in the picture:</p>
+<div class="tutorial_image"><img src="5.jpg" border="0" /></div>
+<p>Save changes and export the movie by pressing <b>Ctrl+Enter</b> Don't worry about errors or that nothing can be seen. It's ok! I'll explain that later ;)</p>
+
+<h3>Step 5</h3>
+<p>Now crop you new pictures to 600x400 and replace existing ones from the <b>project6.thumbs</b> directory.</p>
+
+<h3>Step 6</h3>
+<p>Now cut all these new 4 files and paste them inside the <b>swf</b> directory among with the other files.</p>
+
+
+<h3>Step 7</h3>
+<p>And now that everything is ready, the last thing that we need to do is tell the menu to open our new portfolio work. Alright! Open the <b>items.xml</b> file from the root directory. Let's tell the menu that if we press <b>Website6</b> inside the Projects > Websites section, he should open our <b>project6.swf</b> file (shown in the picture). Then save your changes inside the items.xml and let's test our site! It's working!</p>
+<div class="tutorial_image"><img src="6.jpg" border="0" /></div>
+
+
+
+<h3>Conclusion</h3>
+<p>The whole procedure may look "hard to do" at the beginning, but once you get the steps(and it's logic) I'm sure you'll say "adding new portfolios is a piece of cake!". :)</p>

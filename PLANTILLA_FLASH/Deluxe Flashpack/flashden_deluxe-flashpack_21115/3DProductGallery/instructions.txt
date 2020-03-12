@@ -1,0 +1,44 @@
+﻿Instructions:
+
+THANK YOU FOR PURCHASE MY 3D PRODUCT GALLERY
+
+To customize your template you don't need to have much knowledge of action script programming.
+Because all is edited in the xml file. But if you need change fla file, the most important symbols in the library
+are photo_mc, image_mc, bigImage_mc
+
+Follow this steps:
+
+1 - In the fla file go to actions panel in the root time line (F9) and edit lines 8 , 28 and 29 with your data.
+
+2 - In the xml folder you will see the gallery.xml file, you need to edit this with your photos and text:
+
+    Each node is one photo:
+
+    photoUrl: thumb path, in this case images/1.jpg . Dimensions must be 250x180 pixels
+
+    bigUrl : big photo path. Dimensions must be 550x360 pixels
+
+    title: photo title, this is the same in the rollover caption
+
+    link: url when you click in the "more info" button. If you don't need this link just leave the field empty like: link=""
+
+    price: price for the product/photo
+
+    In my description change with yours.
+
+
+3 - Copy and paste this parameters for each photo.
+
+4 - If you want more galleries: goto line 132 in the root actions:
+
+gallerySelected = "gallery";// THIS IS THE NAME OF XML FILE TO BE LOADED, SO IF YOU NEED MORE GALLERIES
+JUST ADD MORE BUTTONS AND ON RELEASE ADD ACTIONS: _root.gallerySelected = " yourgallery"; AND _root.images.gotoAndPlay("in");
+ADD YOURGALLERY.XML IN THE XML FOLDER AND THATS IT. ENJOY ;)
+
+If you need more help, contact me:
+
+jorge@webideias.net
+
+
+
+ 

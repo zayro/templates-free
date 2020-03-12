@@ -1,0 +1,117 @@
+Thanks for buying this file.
+
+First of all for all the html text you want to use, please use the cdata tag like this:
+
+	<![CDATA[your html text]]>
+
+
+
+//LOGO//
+If you want to change the logo. Open up the FLA file and doubleclick on the logo movieclip.
+Delete the "Z" Now you can put your own logo in.
+
+
+
+In the xml fodler you will find several xml files.
+
+//settings.xml//
+In settings.xml the following can be changed:
+	- intro text (default set to company name)
+	- all the text for the main buttons
+	- the path to the background image
+
+
+
+//mp3player.xml//
+In the mp3player.xml you can set the paths to external mp3 files.
+Also you can set autoStart to "yes", "no" or "random"
+
+
+//home.xml//
+<homeSection>
+	<aboutArea>
+	
+		<title>ABOUT ME</title> //title of the first box
+	
+		<description><![CDATA[your html text]]></description> //text of the first box
+		
+	</aboutArea>
+
+	<newsSection>
+
+		<title>LATEST NEWS</title> //title of the news top
+
+		<newsArea>
+
+			<news>//news tag, add as many as you want
+			<title>NEWS TITLE</title> //title of the news
+			<date>28-04-08</date> //date of news
+			<message><![CDATA[your html text]]></message> //message
+			</news>
+			
+		</newsArea>
+
+	</newsSection>
+
+</homeSection>
+
+
+
+
+//portfolio.xml//
+<portfolioSection>
+	<album name = "albumname">//add as many as you want
+		<file> //add as many as you want
+			<main>images/an2.jpg</main> //file path: jpg,png,gif,flv or swf
+			<thumb>thumbs/an2.jpg</thumb> //thumbnail path: jpg,png,gif
+			<title>TITLE FOR THIS IMAGE</title> //image title
+			<desc><![CDATA[your html text]]></desc> //description
+			<link>http://noastudios.com</link>//link for the image, if you have no link leave it open
+		</file>
+	</album>
+</portfolioSection>
+
+
+
+
+//services.xml//
+<servicesSection>
+
+	<service>//add as many as you want
+		<title>Service Title Example</title> //service title
+		<message><![CDATA[your html text]]></message> //service description
+	</service>
+
+</servicesSection>
+
+
+
+
+//contact.xml//
+<contactSection>
+	
+	<yourEmail>name@website.com</yourEmail> //your email adress, to receive emails
+	
+	<dataTitle>CONTACTDATA</dataTitle> //Title for the left area
+	<formTitle>CONTACTFORM</formTitle> //Title for the right area
+	<contactData><![CDATA[your html text]]></contactData> //left box text
+
+</contactSection>
+
+
+
+
+//what to upload//
+
+	-index.html
+	-swf file
+	-xml folder
+	-php folder
+	-js folder
+	-all image, music and video folders
+	
+	-SO NOT THE "com" FOLDER OR A FLA FILE!
+
+Good Luck and enjoy,
+
+Emin/BigZ

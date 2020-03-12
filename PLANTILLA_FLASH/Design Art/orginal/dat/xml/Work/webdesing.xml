@@ -1,0 +1,66 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img4.jpg" f="company">
+			<title>Company 1</title>
+			<des>Lorem2 ipsum dolor sit amet, consectetur adipisicing elit<br/><a href="mailto:demo@demo.com">demo@demo.com</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img2.jpg" f="company">
+			<title>Company 2</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img3.jpg" f="company">
+			<title>Company 3</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/> et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img4.jpg" f="company">
+			<title>Company 4</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		
+				<data img="dat/Images/Home/img5.jpg" f="company">
+			<title>Company 5</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img6.jpg" f="company">
+			<title>Company 6</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+
+
+
+
+
+		<data img="dat/Images/Home/img2.jpg" f="company">
+			<title>Company 2</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		<data img="dat/Images/Home/img3.jpg" f="company">
+			<title>Company 3</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img4.jpg" f="company">
+			<title>Company 4</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+		
+				<data img="dat/Images/Home/img5.jpg" f="company">
+			<title>Company 5</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+		
+				<data img="dat/Images/Home/img6.jpg" f="company">
+			<title>Company 6</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.</des>
+		</data>
+</Section>
+
+</DynamicWeb>

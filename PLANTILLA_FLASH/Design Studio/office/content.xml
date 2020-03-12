@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+   <photo>
+      <title>Studio pic 1</title>
+      <image>office/image1.jpg</image>
+   </photo>
+  <photo>
+      <title>Studio pic 2</title>
+      <image>office/image2.jpg</image>
+   </photo>
+  <photo>
+      <title>Studio pic 3</title>
+      <image>office/image3.jpg</image>
+   </photo>
+</content>

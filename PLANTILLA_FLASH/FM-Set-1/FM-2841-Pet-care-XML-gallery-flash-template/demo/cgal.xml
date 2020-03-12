@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 2" thumbnail="thumb2.jpg" pic="im2.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 3" thumbnail="thumb3.jpg" pic="im3.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+<item name="Item 4" thumbnail="thumb4.jpg" pic="im4.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 5" thumbnail="thumb5.jpg" pic="im5.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 6" thumbnail="thumb6.jpg" pic="im6.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+
+<item name="Item 7" thumbnail="thumb7.jpg" pic="im7.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 8" thumbnail="thumb8.jpg" pic="im8.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 9" thumbnail="thumb9.jpg" pic="im9.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+<item name="Item 10" thumbnail="thumb10.jpg" pic="im10.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 11" thumbnail="thumb11.jpg" pic="im11.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 12" thumbnail="thumb12.jpg" pic="im12.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+<item name="Item 13" thumbnail="thumb13.jpg" pic="im13.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 14" thumbnail="thumb14.jpg" pic="im14.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 15" thumbnail="thumb15.jpg" pic="im15.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+<item name="Item 16" thumbnail="thumb16.jpg" pic="im16.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 17" thumbnail="thumb17.jpg" pic="im17.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 18" thumbnail="thumb18.jpg" pic="im18.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+<item name="Item 19" thumbnail="thumb19.jpg" pic="im19.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 20" thumbnail="thumb20.jpg" pic="im20.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+<item name="Item 21" thumbnail="thumb21.jpg" pic="im21.jpg" url="http://www.somedomain.com" description="Donec at metus quis neque pulvinar"/>
+
+
+</gallery>

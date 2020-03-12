@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="ISO88599"?>
+<aboutList>
+
+	<about rolloverText="HAKKIMDA" image="about.jpg" />
+	
+	<about titleText="who i am" rolloverText="download my .pdf resume" link="docs/resume.zip">
+	<![CDATA[<font color='#00FFFF'>Murat AKTÜRK</font><br><font color='#FFFFFF'>Graphic Designer</font><font color='#666666'><br>info@muratakturk.com</font><br><br><font color='#00FFFF'>Eğitim</font><br><font color='#FFFFFF'>Sınıf Öğretmenliği :)</font><br><br><font color='#00FFFF'>Jobs</font><br><font color='#666666'>dec. 07 :</font><br><font color='#FFFFFF'>FlashDen file of the week</font><br><font color='#666666'>oct. 07 :</font><br><font color='#FFFFFF'>FD author of the week</font><br><font color='#666666'>sept. 07 :</font><br><font color='#FFFFFF'>write your previous jobs here</font>]]>
+	</about>
+	
+	<about titleText="what i do" rolloverText="download a .pdf example" link="docs/example.zip">
+	<![CDATA[<font color='#00FFFF'>Lorem Ipsum</font><br><font color='#666666'>I just <font color='#FFFFFF'>fill this area </font>to show <font color='#FFFFFF'>it's HTML text in here.</font></font><br><br><font color='#00FFFF'>Lorem Ipsum</font><br><font color='#666666'>Feel free to <font color='#FFFFFF'>use colors </font>and <font color='#FFFFFF'>other HTML codes</font></font>]]>
+	</about>
+	
+	<about titleText="why i do" rolloverText="visit a link" link="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[<font color='#666666'>Here is another text with HTML <font color='#FFFFFF'>that explains why I do my job</font>, this is my <font color='#FFFFFF'>job philosophy.</font></font>]]>
+	</about>
+	
+</aboutList>

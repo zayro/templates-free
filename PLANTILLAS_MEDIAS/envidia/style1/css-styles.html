@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Envidia &raquo; HTML + CSS</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+  <link rel="stylesheet" type="text/css" href="./reset.css" />
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <link rel="stylesheet" type="text/css" href="./color.css" />
+  
+  <script type="text/javascript" src="./javascripts/jquery.min.js"></script>
+  
+  <!-- For Cufon -->
+  <script type="text/javascript" src="./javascripts/cufon/cufon-yui.js"></script>
+  <script type="text/javascript" src="./javascripts/cufon/qlassik_medium_500.font.js"></script>
+  <!-- End Cufon -->
+
+
+  <!-- For Slider -->
+  <script type="text/javascript" src="./javascripts/customslider/jquery.customslider.js"></script>
+  <!-- End Slider -->
+
+
+  <!-- For Tabs -->
+  <script type="text/javascript" src="./javascripts/tabs/jquery.tabs.pack.js"></script>
+  <!-- End Tabs -->
+  
+ 
+  <!-- For Lightbox -->
+  <script type="text/javascript" src="./javascripts/lightbox/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="./javascripts/lightbox/sexylightbox.v2.4.jquery.js"></script>
+  <link rel="stylesheet" href="./javascripts/lightbox/sexylightbox.css" type="text/css" media="all" />
+  <script type="text/javascript">
+    $(document).ready(function(){
+      SexyLightbox.initialize({
+        color : 'white',
+        find  : 'lightbox',
+        dir   : 'javascripts/lightbox/sexyimages' // THIS IS IMPORTANT
+      });
+    });
+  </script>
+  <!-- End Lightbox -->
+
+
+  <!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="http://www.aerowebstudio.net/themes/html-envidia/style1/iehack.css" />
+  <script type="text/javascript">
+    var ie6config = { shim: 'images/blank.gif' };
+  </script>
+  <script type="text/javascript" src="http://www.aerowebstudio.net/themes/html-envidia/style1/javascripts/pngfix.js"></script>
+  <![endif]-->
+
+
+  <!-- Init JS Theme -->
+  <script type="text/javascript" src="./javascripts/theme.js"></script>
+  <!-- End Theme -->
+  
+<meta charset="UTF-8"></head>
+
+<body>
+
+  <div id="wrapper">
+    
+
+
+    <div id="header">
+        
+        <div id="logo">
+          <a href="./index.html"><img src="./images/logo.png" alt=""/></a>
+        </div>
+        
+        <div id="menu">
+          <ul>
+            <li><a href="./contact.html">Contact</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./portfolio.html">Portfolio</a></li>
+            <li><a href="./services.html">Services</a></li>
+            <li><a href="./blog.html">Blog</a></li>
+            <li class="selected"><a href="#">Features</a>
+              <ul>
+                <li><a href="./index-alternative.html">Home / alternative</a></li>
+                <li><a href="./blog-archive.html">Blog / archive</a></li>
+                <li><a href="./blog-single.html">Blog / single post</a></li>
+                <li><a href="./portfolio-single.html">Portfolio / single</a></li>
+                <li><a href="./css-styles.html">CSS styles</a></li>
+                <li><a href="./layout-options.html">Content Layout options</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Skins</a>
+              <ul>
+                    <li><a href="./index.html">Skin 1</a>
+                  <ul><li><a href="./index.html"><img src="./assets/preview-skin1.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style2/index.html">Skin 2</a>
+                  <ul><li><a href="../style2/index.html"><img src="./assets/preview-skin2.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style3/index.html">Skin 3</a>
+                  <ul><li><a href="../style3/index.html"><img src="./assets/preview-skin3.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style4/index.html">Skin 4</a>
+                  <ul><li><a href="../style4/index.html"><img src="./assets/preview-skin4.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style5/index.html">Skin 5</a>
+                  <ul><li><a href="../style5/index.html"><img src="./assets/preview-skin5.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style6/index.html">Skin 6</a>
+                  <ul><li><a href="../style6/index.html"><img src="./assets/preview-skin6.jpg" alt=""/></a></li></ul>
+                </li>
+                <li><a href="../style7/index.html">Skin 7</a>
+                  <ul><li><a href="../style7/index.html"><img src="./assets/preview-skin7.jpg" alt=""/></a></li></ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="./index.html">Home</a></li>
+          </ul>
+        </div><!--/menu-->
+    
+    </div><!--/header-->
+    
+    
+    
+    
+    
+    <div class="page-title">
+      <h1>Styles for all elements and more!</h1>
+    </div>
+  
+  
+  
+  
+  
+  
+  
+    <div class="full-page">
+      <h1>CSS Styles</h1>
+
+      <h2>Headings</h2>
+      <p>Samples of the heading text for this theme: <code>h1</code>, <code>h2</code>, <code>h3</code>, <code>h4</code>, <code>h5</code>, <code>h6</code></p>
+      <h1>This is a heading 1 Element</h1>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      <h2>This is a heading 2 Element</h2>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      <h3>This is a heading 3 Element</h3>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      <h4>This is a heading 4 Element</h4>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      <h5>This is a heading 5 Element</h5>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      <h6>This is a heading 6 Element</h6>
+      <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+        
+        
+      <h2>List styles</h2>
+      <h6>Bulleted lists:</h6>
+      <ul>
+        <li>At vero eos et accusamus et iusto voluptatum delen atque corrupti quos dolores et quas molestias.</li>
+        <li>Excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia deserunt mollitia animi.</li>
+        <li>Id est laborum et are dolorum fuga.</li>
+        <li>Et harum quidem rerum facilis est et expedita in distinctmolest excepturi sint occaecati lobortis for Cras lobortis mauris vel diam.</li>
+        <li>Malesuada mattis aliquam urna imperdiet. Nullam tempor velit sit amet libero are aretra dignissim.</li>
+      </ul>
+      
+      <h6>Numbered lists:</h6>
+      <ol>
+        <li>At vero eos et accusamus et iusto odio delen atque corrupti quos dolores et quas molestias.</li>
+        <li>Excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia deserunt mollitia animi.</li>
+        <li>Id est laborum et are dolorum fuga.</li>
+        <li>Et harum quidem rerum facilis est et expedita in distinctmolest excepturi sint occaecati lobortis for Cras lobortis mauris vel diam.</li>
+        <li>Malesuada mattis aliquam urna imperdiet. Nullam tempor velit sit amet libero are aretra dignissim.</li>
+      </ol>
+      
+      <h6>Custom Lists:</h6>
+      <p>A custom list style for displaying previews of news or blog posts. <code>&lt;ul class="post-list"&gt;</code></p>
+      <ul class="post-list">
+        <li>
+          <img src="./assets/square-thumb1.jpg" alt=""/>
+          <h3><a href="#">News/Blog Posts List</a></h3>
+          <p><span class="button-red">25 DIC 2010</span> <a href="#" class="button">32 Comments</a> <a href="#" class="button">View</a></p>
+        </li>
+        <li>
+          <img src="./assets/square-thumb2.jpg" alt=""/>
+          <h3><a href="#">News/Blog Posts List</a></h3>
+          <p><span class="button-red">25 DIC 2010</span> <a href="#" class="button">32 Comments</a> <a href="#" class="button">View</a></p>
+        </li>
+        <li>
+          <img src="./assets/square-thumb3.jpg" alt=""/>
+          <h3><a href="#">News/Blog Posts List</a></h3>
+          <p><span class="button-red">25 DIC 2010</span> <a href="#" class="button">32 Comments</a> <a href="#" class="button">View</a></p>
+        </li>
+      </ul>
+
+      <p>The "post-list" style can include the following HTML elements: IMG, A, P. Below is a sample implementation of the style.</p>
+<pre>
+&lt;ul class="post-list"&gt;
+  &lt;li&gt;
+    &lt;img src="image.jpg" alt=""/&gt;
+    &lt;h3&gt;&lt;a href="#"&gt;Title&lt;/a&gt;&lt;/h3&gt;
+    &lt;p&gt;Description text for this entry.&lt;/p&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;img src="image.jpg" alt=""/&gt;
+    &lt;h3&gt;&lt;a href="#"&gt;Title&lt;/a&gt;&lt;/h3&gt;
+    &lt;p&gt;Description text for this entry.&lt;/p&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;img src="image.jpg" alt=""/&gt;
+    &lt;h3&gt;&lt;a href="#"&gt;Title&lt;/a&gt;&lt;/h3&gt;
+    &lt;p&gt;Description text for this entry.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</pre>
+      
+      <h2>Blockquote</h2>
+      
+      <blockquote>
+        <p>Nullam dolor justo, elementum nec euismod vel, feugiat quis enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec nibh quis est volutpat venenatis.</p>
+      </blockquote>
+      
+      <h2>Other Text</h2>
+      <p><a href="#">link</a> <code>&lt;a href="#"&gt;</code></p>
+      <p><abbr title="example">abbr</abbr> <code>&lt;abbr title="example"&gt;</code></p>
+      <p><acronym title="example">acronym</acronym> <code>&lt;acronym title="example"&gt;</code></p>
+      <p><cite>This is cited.</cite> <code>&lt;cite&gt;</code></p>
+      <p><del>Deleted text</del> <code>&lt;del&gt;</code></p>
+      <p><ins>Inserted text</ins> <code>&lt;ins&gt;</code></p>
+      <p><em>With emphysis</em> <code>&lt;em&gt;</code></p>
+      <p><strong>Strong (bold)</strong> <code>&lt;strong&gt;</code></p>
+      <p><code>Code text sample</code> <code>&lt;code&gt;</code></p>
+      
+      <h2>Buttons</h2>
+      <p>
+        <a href="#" class="button-right">Right Align Button</a>
+        <a href="#" class="button-red">Red Button</a>
+        <a href="#" class="button">Blue Button</a>
+      </p>
+
+<pre>
+&lt;a href="#" class="button-right"&gt;Right Align Button&lt;/a&gt;
+&lt;a href="#" class="button-red"&gt;Red Button&lt;/a&gt;
+&lt;a href="#" class="button"&gt;Blue Button&lt;/a&gt;
+</pre>
+      
+      <h2>Alert Styles</h2>
+      
+      <div class="alert-error">
+        <h2>Error...</h2>
+        <p>At vero eos et accusamus et iusto voluptatum delen atque corrupti quos dolores et quas molestias.</p>
+      </div>
+
+      <div class="alert-info">
+        <h2>Did you know?</h2>
+        <ul>
+          <li>At vero eos et accusamus et iusto voluptatum delen atque corrupti quos dolores et quas molestias.</li>
+          <li>Excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia deserunt mollitia animi.</li>
+          <li>Id est laborum et are dolorum fuga.</li>
+          <li>Malesuada mattis aliquam urna imperdiet. Nullam tempor velit sit amet libero are aretra dignissim.</li>
+        </ul>
+      </div>
+      
+      <div class="alert-success">
+        <h2>Thank you!</h2>
+        <p>Id est laborum et are dolorum fuga :)</p>
+      </div>
+      
+      <h2>Table layout</h2>
+      
+      <table cellspacing="0" cellpadding="0">
+        <thead>
+          <tr>
+            <th class="nobg"> </th>
+            <th>
+              <h6>Title</h6>
+            </th>
+            <th>
+              <h6>Title</h6>
+            </th>
+            <th>
+              <h6>Title</h6>
+            </th>
+            <th>
+              <h6>Title</h6>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="big">Item</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+          </tr>
+          <tr>
+            <td class="big">Item</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+          </tr>
+          <tr>
+            <td class="big">Item</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+          </tr>
+          <tr>
+            <td class="big">Item</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+            <td>value / option</td>
+          </tr>
+          <tr>
+            <td class="big">Item</td>
+            <td><a href="#" class="button">Buy it</a></td>
+            <td><a href="#" class="button">Buy it</a></td>
+            <td><a href="#" class="button">Buy it</a></td>
+            <td><a href="#" class="button">Buy it</a></td>
+          </tr>
+        </tbody>
+      </table>      
+      
+    </div><!--/full-page-->
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+    
+    <div class="fullwidth">
+      <div class="threecolumns">
+        <h2>About</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+        <p><a href="#">www.yourwebsitename.com</a></p>
+      </div>
+      <div class="threecolumns">
+        <h2>Contact</h2>
+        <p>Contact us: <a href="#">hello@yourprovidername.com</a></p>
+        <p><a href="#"><img src="./images/facebook_32.png" alt=""/></a> <a href="#"><img src="./images/twitter_32.png" alt=""/></a> <a href="#"><img src="./images/delicious_32.png" alt=""/></a> <a href="#"><img src="./images/digg_32.png" alt=""/></a> <a href="#"><img src="./images/flickr_32.png" alt=""/></a> <a href="#"><img src="./images/rss_32.png" alt=""/></a> </p>
+      </div>
+      <div class="threecolumns">
+        <h2>Updates</h2>
+        <form action="#" method="post">
+          <p>Our newsletter is awesome. Subscribe and get the latest updates.</p>
+          <p><input type="text" class="small" name="email" value="ENTER YOUR EMAIL" onclick="this.value=''" /></p>
+          <p><input type="submit" class="button-right" value="Subscribe"/></p>
+        </form>
+      </div>
+    </div><!--/fullwidth-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <div id="footer">
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./blog.html">Blog</a></li>
+        <li><a href="./services.html">Services</a></li>
+        <li><a href="./portfolio.html">Portfolio</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+      <p>Copyright (C) 2010 Eduardo Daniel Sada. Remove after purchase.</p>
+    </div>
+    
+    
+  </div><!--/wrapper-->
+
+  <script type="text/javascript">Cufon.now();</script>
+
+</body>
+</html>

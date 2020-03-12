@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+<photo url="images/scroll_imgs/ph_06.jpg" theText="PUT THE CAPTION HERE  |  SCREENSHOT 01 - 06" />
+<photo url="images/scroll_imgs/ph_07.jpg" theText="YOU CAN ADD AS MANY IMAGES IN THIS BY CONFIGURING THE XML  |  SCREENSHOT 02 - 06" />
+<photo url="images/scroll_imgs/ph_05.jpg" theText="ALL TEXT ARE COMING FROM XML  |  SCREENSHOT 03 - 06" />
+<photo url="swf/anim_01.swf" theText="SWF FILE- HOT CHOCOLATE  |  SCREENSHOT 04 - 06" />
+<photo url="images/scroll_imgs/ph_02.jpg" theText="KEEP ADDING YOU IMAGES  |  SCREENSHOT 05 - 06" />
+<photo url="swf/anim_blur.swf" theText="YOU CAN ALSO LOAD SWF FILE  |  SCREENSHOT 06 - 06" />
+</slideshow>

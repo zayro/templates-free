@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist autoStart="yes">
+<song path="tracks/rendevouz.mp3" title="Solidbeats-Rendevouz"  cover="album_images/image3.jpg"/>
+<song path="tracks/clear_blue_skies.mp3" title="Solidbeats-Clear Blue Skies" cover="album_images/image1.jpg"/>
+<song path="tracks/farewell.mp3" title="Solidbeats-Farewell" cover="album_images/image2.jpg"/>
+<song path="tracks/loopy.mp3" title="Solidbeats-Loopy"  cover="album_images/image4.jpg"/>
+<song path="tracks/nocturnal.mp3" title="Solidbeats-Nocturnal"  cover="album_images/image5.jpg"/>
+<song path="tracks/loopy4.mp3" title="Solidbeats-Loopy 4" cover="album_images/image6.jpg"/>
+<song path="tracks/rendevouz.mp3" title="Solidbeats-Rendevouz"  cover="album_images/image3.jpg"/>
+<song path="tracks/clear_blue_skies.mp3" title="Solidbeats-Clear Blue Skies" cover="album_images/image1.jpg"/>
+<song path="tracks/farewell.mp3" title="Solidbeats-Farewell" cover="album_images/image2.jpg"/>
+<song path="tracks/loopy.mp3" title="Solidbeats-Loopy"  cover="album_images/image4.jpg"/>
+<song path="tracks/nocturnal.mp3" title="Solidbeats-Nocturnal"  cover="album_images/image5.jpg"/>
+<song path="tracks/loopy4.mp3" title="Solidbeats-Loopy 4" cover="album_images/image6.jpg"/>
+<song path="tracks/rendevouz.mp3" title="Solidbeats-Rendevouz"  cover="album_images/image3.jpg"/>
+<song path="tracks/clear_blue_skies.mp3" title="Solidbeats-Clear Blue Skies" cover="album_images/image1.jpg"/>
+<song path="tracks/farewell.mp3" title="Solidbeats-Farewell" cover="album_images/image2.jpg"/>
+<song path="tracks/loopy.mp3" title="Solidbeats-Loopy"  cover="album_images/image4.jpg"/>
+<song path="tracks/nocturnal.mp3" title="Solidbeats-Nocturnal"  cover="album_images/image5.jpg"/>
+<song path="tracks/loopy4.mp3" title="Solidbeats-Loopy 4" cover="album_images/image6.jpg"/>
+
+</playlist>

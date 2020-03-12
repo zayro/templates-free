@@ -1,0 +1,3 @@
+contactText=
+Send me a message using this form or email me at <a href="mailto:joeflashdenner@xxx.com"><u>joeflashdenner@xxx.com</u></a>
+This text is set from an external text file so you can easily change it.

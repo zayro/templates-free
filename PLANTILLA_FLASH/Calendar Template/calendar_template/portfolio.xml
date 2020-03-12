@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<calendar>
+	<year value="2011">
+		<month value="12">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="11">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="9">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="8">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="7">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+		<month value="6">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="4">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="3">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="2">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="1">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+  	</year>
+	<year value="2010">
+		<month value="12">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="11">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="9">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="8">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="7">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+		<month value="6">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="4">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="3">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="2">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="1">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+  	</year>
+	<year value="2009">
+		<month value="12">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="11">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="9">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="8">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="7">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+		<month value="6">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="4">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="3">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="2">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="1">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+ 	 </year>
+  	<year value="2008">
+		<month value="12">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="11">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="9">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="8">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="7">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+		<month value="6">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="4">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="3">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+    	</month>
+  		<month value="2">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="1">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+  </year>
+  <year value="2007">
+		<month value="12">
+      		<day value="10" pro_title="Still 12" pro_client ="Argh Viverra" pro_thumb="12_2007_1.jpg" pro_type="Web-design" pro_description="Proin enim leo, lacinia quis, pharetra in, euismod at, sapien. Vivamus congue tempor arcu. Sed nulla. Maecenas viverra nunc id nisl. Etiam ullamcorper, pede vel eleifend viverra, neque justo rhoncus nulla, tristique mollis eros mauris nec risus.">
+        		<image path="12_2007_1.jpg" />
+      		</day>
+      		<day value="15" pro_title="Yellow sub" pro_client ="Matiis dolor" pro_thumb="12_2007_3.jpg" pro_type="Graphic and Video" pro_description="Donec in justo semper urna facilisis semper. Etiam nunc. Nam dui. Phasellus volutpat, dolor in convallis mattis, nisl nulla vulputate justo, a consequat quam augue vel mauris.">
+				<image path="sample.swf" />
+				<image path="12_2007_2.jpg" />
+				<image path="CLOUD3c.flv" />
+				<image path="12_2007_1.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="12_2007_3.jpg" />
+      		</day>
+      		<day value="30" pro_title="Blind Love" pro_client ="Luctus interdit" pro_thumb="12_2007_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla at justo et urna interdum luctus. Pellentesque bibendum mi vitae metus. Aenean ut quam. Praesent dictum. Duis non turpis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="9" pro_title="Futuristik" pro_client ="Praesent metus" pro_thumb="10_2007_1.jpg" pro_type="Web-design" pro_description="Proin mi ipsum, tincidunt id, convallis in, tincidunt vel, enim. Sed vel nulla. Praesent metus. Pellentesque luctus magna at quam. Vivamus cursus, nibh bibendum vestibulum ultrices, erat ipsum iaculis dolor, ac pharetra ligula ante euismod tortor. Pellentesque ultrices lorem et mi. ">
+        		<image path="10_2007_1.jpg" />
+				<image path="10_2007_2.jpg" />
+      		</day>
+      		<day value="12" pro_title="Pedigree's Dog" pro_client ="Bobby Mc" pro_thumb="10_2007_2.jpg" pro_type="llustration" pro_description="Donec rutrum. Nullam elementum feugiat libero. Quisque porttitor. Sed tortor metus, mollis nec, scelerisque quis, commodo a, felis. Donec vel lorem. Phasellus egestas consectetuer mauris.">
+				<image path="10_2007_2.jpg" />
+      		</day>
+      		<day value="25" pro_title="Pizza Rack" pro_client ="Id JUSTO" pro_thumb="10_2007_3.jpg" pro_type="Graphic and Video" pro_description="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur ante. Suspendisse ultrices purus id justo. Pellentesque est. Vivamus non leo. Vestibulum condimentum fermentum nulla. Cras semper vehicula velit. ">
+        		<image path="sample.swf" />
+				<image path="10_2007_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="10_2007_1.jpg" />
+      		</day>
+    	</month>
+		<month value="7">
+      		<day value="3" pro_title="Glaad Vlad" pro_client ="Tristique" pro_thumb="7_2007_1.jpg" pro_type="Web-design" pro_description="Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris. Vivamus est ipsum, pulvinar a, accumsan nec, fringilla id, orci. In nulla velit, malesuada non, imperdiet at, ultrices et, ligula. Cras id turpis sit amet est posuere pellentesque. Duis tristique mi ut justo. Sed et nulla.">
+        		<image path="7_2007_1.jpg" />
+				<image path="7_2007_2.jpg" />
+				<image path="7_2007_3.jpg" />
+      		</day>
+      		<day value="7" pro_title="Electro Nx" pro_client ="Pede KePa" pro_thumb="7_2007_3.jpg" pro_type="Graphic" pro_description="Vivamus dui leo, sagittis in, aliquet nec, bibendum a, nunc. Nulla eleifend blandit tellus. Maecenas non pede. Nunc ullamcorper, dolor nec ullamcorper ullamcorper, risus justo sodales mauris, a iaculis risus ante et purus.">
+				<image path="7_2007_3.jpg" />
+      		</day>
+      		<day value="16" pro_title="Hopes" pro_client ="No Fears" pro_thumb="7_2007_2.jpg" pro_type="Illustration and Video" pro_description="Aliquam erat volutpat. Vestibulum ullamcorper tortor nec lacus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer eu pede vitae libero hendrerit mollis. Curabitur facilisis malesuada ante.">
+        		<image path="7_2007_2.jpg" />
+				<image path="7_2007_1.jpg" />
+				<image path="sample.swf" />
+				<image path="7_2007_3.jpg" />
+				<image path="CLOUD4.flv" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="1" pro_title="Moby's Island" pro_client ="Croc Dander" pro_thumb="5_2007_1.jpg" pro_type="Web-design" pro_description="Fusce sagittis dictum elit. Nunc facilisis quam nec massa. Aliquam arcu. Sed ac lectus non metus vulputate sagittis. Proin arcu tellus, commodo id, ornare non, consequat ut, augue. Etiam auctor mi in risus. Ut at tortor quis ligula cursus semper. Nulla auctor lorem at dui. Donec tincidunt. Pellentesque rhoncus. Aenean lacus. ">
+        		<image path="5_2007_1.jpg" />
+      		</day>
+      		<day value="10" pro_title="Velit Ba" pro_client ="Vel Libero" pro_thumb="5_2007_2.jpg" pro_type="Graphic and Video" pro_description="Etiam augue lacus, sodales at, porttitor quis, ornare eu, diam. Maecenas a velit. Fusce euismod lorem vel libero. Cras commodo ante eu tortor. Praesent dictum felis vitae ipsum. Morbi ornare iaculis nulla. ">
+				<image path="5_2007_2.jpg" />
+				<image path="5_2007_1.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="5_2007_3.jpg" />
+      		</day>
+      		<day value="29" pro_title="Torture XML" pro_client ="Tyred B" pro_thumb="5_2007_3.jpg" pro_type="Illustration" pro_description="Vivamus auctor egestas augue. Aliquam luctus feugiat augue. Nam tortor turpis, elementum vitae, viverra id, molestie dapibus, turpis. Nulla non enim. Suspendisse potenti. Maecenas congue eleifend mi. ">
+        		<image path="5_2007_3.jpg" />
+				<image path="5_2007_1.jpg" />
+      		</day>
+    	</month>
+  		<month value="4">
+      		<day value="1" pro_title="Almost 1910" pro_client ="Turpis" pro_thumb="4_2007_1.jpg" pro_type="Web-design" pro_description="Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="4_2007_1.jpg" />
+				<image path="sample.swf" />
+				<image path="4_2007_2.jpg" />
+				<image path="4_2007_3.jpg" />
+      		</day>
+      		<day value="8" pro_title="Bang bang" pro_client ="Wee's Lounge" pro_thumb="4_2007_2.jpg" pro_type="Graphic and Video" pro_description="Proin sed enim eget ipsum pulvinar ullamcorper. Aliquam erat volutpat. Nulla nibh diam, adipiscing a, molestie quis, ullamcorper eget, mauris. Mauris justo tortor, tempus ut, sodales ut, rhoncus sed, diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ">
+				<image path="CLOUD4.flv" />
+				<image path="4_2007_2.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+      		<day value="13" pro_title="Atlantic wave" pro_client ="Dolphin" pro_thumb="4_2007_3.jpg" pro_type="Illustration" pro_description="Donec commodo, tortor a tempor aliquet, nibh orci hendrerit ligula, in pulvinar turpis nunc id neque. Fusce diam enim, tempor et, pellentesque non, condimentum a, ligula. Curabitur velit est, lobortis id, molestie nec, pretium sit amet, nibh. Praesent vitae quam sed mi convallis hendrerit.">
+        		<image path="4_2007_3.jpg" />
+      		</day>
+    	</month>
+    	<month value="2">
+      		<day value="8" pro_title="MX-a WoW" pro_client ="Venetatismolis" pro_thumb="2_2007_1.jpg" pro_type="Graphic" pro_description="Aliquam ut arcu vel felis ultrices gravida. Nullam varius venenatis eros. Fusce fringilla, arcu eu mollis venenatis, libero elit condimentum ligula, id commodo mauris quam sit amet orci. Morbi placerat ultricies metus. Nulla ut quam. ">
+        		<image path="2_2007_1.jpg" />
+				<image path="2_2007_2.jpg" />
+      		</day>
+      		<day value="14" pro_title="SH Tortis" pro_client ="Eros" pro_thumb="2_2007_2.jpg" pro_type="Illustration" pro_description="Duis adipiscing mi a sapien. Mauris ac neque. Phasellus dui dui, fermentum vel, pretium et, faucibus in, eros. Morbi ipsum metus, mattis sit amet, porta quis, pharetra nec, nisi. Etiam nec libero at leo iaculis ullamcorper. Nulla sit amet turpis non dui tristique euismod. Nam odio. ">
+				<image path="sample.swf" />
+				<image path="2_2007_2.jpg" />
+      		</day>
+			<day value="24" pro_title="Multa GNR" pro_client ="Esses Kaes" pro_thumb="2_2007_3.jpg" pro_type="Image and Video" pro_description="TCras id turpis sit amet est posuere pellentesque. Duis tristique mi ut justo. Sed et nulla. Integer vel odio. Nullam sit amet nunc a dui condimentum imperdiet. Sed ornare nunc non justo. Proin volutpat adipiscing magna.">
+				<image path="2_2007_3.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+      		</day>
+   		 </month>
+  </year>
+  <year value="2006">
+		<month value="6">
+      		<day value="5" pro_title="Arch Tech" pro_client ="Aliquam" pro_thumb="6_2008_3.jpg" pro_type="Web-design" pro_description="Morbi eleifend pretium dui. Donec aliquam. Ut sapien dolor, aliquam sit amet, pulvinar non, dapibus ut, elit. Donec molestie vehicula quam. Proin luctus ullamcorper neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.">
+        		<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_2.jpg" />
+				<image path="6_2008_3.jpg" />
+      		</day>
+      		<day value="11" pro_title="Muttley's Home" pro_client ="Magnun" pro_thumb="6_2008_2.jpg" pro_type="Graphic and Video" pro_description="Curabitur elit nisl, lobortis non, feugiat sit amet, aliquam ut, enim. Nulla sodales consequat magna. In in erat ut dui egestas cursus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla facilisi. Mauris lacinia elit vitae tellus. ">
+				<image path="6_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="6_2008_1.jpg" />
+				<image path="6_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+      		</day>
+      		<day value="25" pro_title="Sky Burner" pro_client ="Quam in" pro_thumb="6_2008_1.jpg" pro_type="Illustration" pro_description="TCurabitur pretium, enim et dignissim placerat, velit mauris blandit ante, et tempus arcu ipsum eu eros. Vestibulum in quam. Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris.">
+        		<image path="6_2008_3.jpg" />
+				<image path="sample.swf" />
+				<image path="6_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="8" pro_title="Manic Miner" pro_client ="Risus velhus" pro_thumb="5_2008_1.jpg" pro_type="Web-design" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="5_2008_1.jpg" />
+				<image path="5_2008_2.jpg" />
+      		</day>
+      		<day value="19" pro_title="Chuckie XP" pro_client ="Blandit pret" pro_thumb="5_2008_2.jpg" pro_type="Graphic" pro_description="In rutrum rhoncus pede. In posuere eros et dui. Quisque bibendum dolor vitae metus. Sed blandit. Nam quam lorem, malesuada quis, dictum at, sollicitudin nec, neque. Duis ultricies condimentum enim. Etiam velit.">
+				<image path="5_2008_2.jpg" />
+				<image path="5_2008_3.jpg" />
+      		</day>
+      		<day value="22" pro_title="Cupdruck" pro_client ="Sus Pendi SSe" pro_thumb="5_2008_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="4">
+      		<day value="3" pro_title="Set Willy" pro_client ="Odi Amoda" pro_thumb="4_2008_2.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="12" pro_title="Fractal" pro_client ="Doi doi" pro_thumb="4_2008_1.jpg" pro_type="Photo" pro_description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam sit amet lorem. Duis commodo fringilla dui. Nunc eros nulla, tristique vel, sagittis quis, vulputate a, erat. Maecenas quis libero. Sed convallis metus in felis. Donec nisi lacus, euismod vel, pretium quis, mattis vitae, tortor. Cras faucibus laoreet metus. ">
+				<image path="4_2008_2.jpg" />
+      		</day>
+      		<day value="30" pro_title="ZX project" pro_client ="Leneberacci" pro_thumb="4_2008_3.jpg" pro_type="Illustration and Video" pro_description="Maecenas ac turpis nec nibh porttitor euismod. Praesent nec dui. Donec viverra risus sit amet risus. Integer sit amet libero. Aenean pulvinar lacus in dolor. Donec est nisi, consectetuer vitae, aliquet gravida, dapibus quis, nibh. Integer ante odio, pretium eget, vehicula a, pulvinar eu, augue.">
+        		<image path="4_2008_3.jpg" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_2.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="4_2008_1.jpg" />
+				<image path="4_2008_3.jpg" />
+				<image path="sample.swf" />
+      		</day>
+    	</month>
+		<month value="3">
+      		<day value="1" pro_title="Naika Balai" pro_client ="Kelele" pro_thumb="3_2008_1.jpg" pro_type="Web-design" pro_description="Nam ultrices, erat id suscipit gravida, augue lacus tincidunt erat, at egestas metus lorem sed dui. Donec consectetuer. Vestibulum odio. Aliquam erat volutpat. Nam ultrices turpis ac mi. Aliquam erat volutpat. ">
+        		<image path="3_2008_1.jpg" />
+      		</day>
+      		<day value="19" pro_title="LOREM IPSUM" pro_client ="Esseha" pro_thumb="3_2008_2.jpg" pro_type="Graphic and Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+				<image path="3_2008_2.jpg" />
+				<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="3_2008_1.jpg" />
+				<image path="sample.swf" />
+      		</day>
+      		<day value="29" pro_title="Budda's Lounge" pro_client ="Budda" pro_thumb="3_2008_3.jpg" pro_type="Illustration and Video" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+        		<image path="3_2008_3.jpg" />
+				<image path="CLOUD4.flv" />
+      		</day>
+    	</month>
+  		<month value="2">
+      		<day value="2" pro_title="Broken Concept" pro_client ="Racing Cushion" pro_thumb="2_2008_1.jpg" pro_type="Web-design" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis risus ut mauris. Curabitur iaculis arcu ornare erat molestie vestibulum. Vivamus bibendum lobortis lorem. Etiam tristique sapien in dolor. Quisque magna. Morbi sit amet dui. Mauris commodo imperdiet lacus. Aliquam iaculis nulla sit amet pede. ">
+        		<image path="2_2008_1.jpg" />
+				<image path="2_2008_2.jpg" />
+				<image path="2_2008_3.jpg" />
+      		</day>
+      		<day value="10" pro_title="Fixe" pro_client ="Naice Vil" pro_thumb="2_2008_2.jpg" pro_type="Graphic" pro_description="Phasellus vulputate tortor id purus. Etiam commodo elit sed massa. Fusce volutpat placerat risus. Donec libero. Morbi quam arcu, laoreet eu, feugiat eget, ornare a, neque. Sed luctus scelerisque velit. Praesent varius mattis lectus. In lacinia velit vel justo. ">
+				<image path="2_2008_2.jpg" />
+      		</day>
+      		<day value="20" pro_title="Purus" pro_client ="Turpis duis" pro_thumb="2_2008_3.jpg" pro_type="Video" pro_description="Aenean orci. Pellentesque nec diam non odio posuere gravida. Curabitur auctor dictum lectus. Phasellus suscipit. Nam purus. Phasellus lorem. Duis tempus suscipit turpis. Praesent condimentum. Aliquam libero eros, laoreet dignissim, porta id, porttitor non, risus. Mauris viverra. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+    	<month value="1">
+      		<day value="9" pro_title="MicroScopix" pro_client ="Scopix" pro_thumb="1_2008_2.jpg" pro_type="Web-design" pro_description="Morbi luctus dictum tellus. Suspendisse dignissim sollicitudin neque. Cras ipsum mauris, consequat a, elementum in, euismod at, enim. Cras fringilla. Cras eu nibh sagittis leo posuere tristique. Sed semper tortor nec magna. Integer congue semper ante. Cras ornare, ipsum vel suscipit cursus, sem nibh posuere tellus, a pretium augue neque eget neque. Aliquam aliquam orci id justo porta mollis. ">
+        		<image path="1_2008_2.jpg" />
+				<image path="1_2008_1.jpg" />
+				<image path="sample.swf" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+      		<day value="10" pro_title="Freakapa" pro_client ="Da Freak" pro_thumb="1_2008_3.jpg" pro_type="Web-design and Video" pro_description="Duis gravida eros vitae lectus. Vestibulum sapien libero, vulputate et, auctor quis, commodo nec, tortor. Donec eget eros vel dui ultrices cursus. Fusce nulla mauris, lacinia nec, pellentesque in, sodales ut, tortor. Morbi malesuada.">
+				<image path="1_2008_1.jpg" />
+        		<image path="CLOUD3c.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_2.jpg" />
+      		</day>
+				<day value="23" pro_title="Webstone" pro_client ="Nulla sit" pro_thumb="1_2008_1.jpg" pro_type="Web-design and Video" pro_description="Aliquam ullamcorper nunc vel tortor. In hac habitasse platea dictumst. Nulla sit amet arcu. Sed ac orci adipiscing urna tristique pharetra. Curabitur est. Aliquam turpis odio, elementum volutpat, rhoncus eget, rhoncus eget, ligula. Suspendisse pede. ">
+				<image path="1_2008_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="1_2008_1.jpg" />
+      		</day>
+   		 </month>
+  </year>
+  <year value="2005">
+		<month value="12">
+      		<day value="10" pro_title="Still 12" pro_client ="Argh Viverra" pro_thumb="12_2007_1.jpg" pro_type="Web-design" pro_description="Proin enim leo, lacinia quis, pharetra in, euismod at, sapien. Vivamus congue tempor arcu. Sed nulla. Maecenas viverra nunc id nisl. Etiam ullamcorper, pede vel eleifend viverra, neque justo rhoncus nulla, tristique mollis eros mauris nec risus.">
+        		<image path="12_2007_1.jpg" />
+      		</day>
+      		<day value="15" pro_title="Yellow sub" pro_client ="Matiis dolor" pro_thumb="12_2007_3.jpg" pro_type="Graphic and Video" pro_description="Donec in justo semper urna facilisis semper. Etiam nunc. Nam dui. Phasellus volutpat, dolor in convallis mattis, nisl nulla vulputate justo, a consequat quam augue vel mauris.">
+				<image path="sample.swf" />
+				<image path="12_2007_2.jpg" />
+				<image path="CLOUD3c.flv" />
+				<image path="12_2007_1.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="12_2007_3.jpg" />
+      		</day>
+      		<day value="30" pro_title="Blind Love" pro_client ="Luctus interdit" pro_thumb="12_2007_3.jpg" pro_type="Video" pro_description="Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla at justo et urna interdum luctus. Pellentesque bibendum mi vitae metus. Aenean ut quam. Praesent dictum. Duis non turpis. ">
+        		<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+				<image path="CLOUD3c.flv" />
+      		</day>
+    	</month>
+		<month value="10">
+      		<day value="9" pro_title="Futuristik" pro_client ="Praesent metus" pro_thumb="10_2007_1.jpg" pro_type="Web-design" pro_description="Proin mi ipsum, tincidunt id, convallis in, tincidunt vel, enim. Sed vel nulla. Praesent metus. Pellentesque luctus magna at quam. Vivamus cursus, nibh bibendum vestibulum ultrices, erat ipsum iaculis dolor, ac pharetra ligula ante euismod tortor. Pellentesque ultrices lorem et mi. ">
+        		<image path="10_2007_1.jpg" />
+				<image path="10_2007_2.jpg" />
+      		</day>
+      		<day value="12" pro_title="Pedigree's Dog" pro_client ="Bobby Mc" pro_thumb="10_2007_2.jpg" pro_type="llustration" pro_description="Donec rutrum. Nullam elementum feugiat libero. Quisque porttitor. Sed tortor metus, mollis nec, scelerisque quis, commodo a, felis. Donec vel lorem. Phasellus egestas consectetuer mauris.">
+				<image path="10_2007_2.jpg" />
+      		</day>
+      		<day value="25" pro_title="Pizza Rack" pro_client ="Id JUSTO" pro_thumb="10_2007_3.jpg" pro_type="Graphic and Video" pro_description="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur ante. Suspendisse ultrices purus id justo. Pellentesque est. Vivamus non leo. Vestibulum condimentum fermentum nulla. Cras semper vehicula velit. ">
+        		<image path="sample.swf" />
+				<image path="10_2007_2.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="10_2007_1.jpg" />
+      		</day>
+    	</month>
+		<month value="7">
+      		<day value="3" pro_title="Glaad Vlad" pro_client ="Tristique" pro_thumb="7_2007_1.jpg" pro_type="Web-design" pro_description="Suspendisse molestie tincidunt ante. Donec elementum scelerisque mauris. Vivamus est ipsum, pulvinar a, accumsan nec, fringilla id, orci. In nulla velit, malesuada non, imperdiet at, ultrices et, ligula. Cras id turpis sit amet est posuere pellentesque. Duis tristique mi ut justo. Sed et nulla.">
+        		<image path="7_2007_1.jpg" />
+				<image path="7_2007_2.jpg" />
+				<image path="7_2007_3.jpg" />
+      		</day>
+      		<day value="7" pro_title="Electro Nx" pro_client ="Pede KePa" pro_thumb="7_2007_3.jpg" pro_type="Graphic" pro_description="Vivamus dui leo, sagittis in, aliquet nec, bibendum a, nunc. Nulla eleifend blandit tellus. Maecenas non pede. Nunc ullamcorper, dolor nec ullamcorper ullamcorper, risus justo sodales mauris, a iaculis risus ante et purus.">
+				<image path="7_2007_3.jpg" />
+      		</day>
+      		<day value="16" pro_title="Hopes" pro_client ="No Fears" pro_thumb="7_2007_2.jpg" pro_type="Illustration and Video" pro_description="Aliquam erat volutpat. Vestibulum ullamcorper tortor nec lacus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer eu pede vitae libero hendrerit mollis. Curabitur facilisis malesuada ante.">
+        		<image path="7_2007_2.jpg" />
+				<image path="7_2007_1.jpg" />
+				<image path="sample.swf" />
+				<image path="7_2007_3.jpg" />
+				<image path="CLOUD4.flv" />
+      		</day>
+    	</month>
+		<month value="5">
+      		<day value="1" pro_title="Moby's Island" pro_client ="Croc Dander" pro_thumb="5_2007_1.jpg" pro_type="Web-design" pro_description="Fusce sagittis dictum elit. Nunc facilisis quam nec massa. Aliquam arcu. Sed ac lectus non metus vulputate sagittis. Proin arcu tellus, commodo id, ornare non, consequat ut, augue. Etiam auctor mi in risus. Ut at tortor quis ligula cursus semper. Nulla auctor lorem at dui. Donec tincidunt. Pellentesque rhoncus. Aenean lacus. ">
+        		<image path="5_2007_1.jpg" />
+      		</day>
+      		<day value="10" pro_title="Velit Ba" pro_client ="Vel Libero" pro_thumb="5_2007_2.jpg" pro_type="Graphic and Video" pro_description="Etiam augue lacus, sodales at, porttitor quis, ornare eu, diam. Maecenas a velit. Fusce euismod lorem vel libero. Cras commodo ante eu tortor. Praesent dictum felis vitae ipsum. Morbi ornare iaculis nulla. ">
+				<image path="5_2007_2.jpg" />
+				<image path="5_2007_1.jpg" />
+				<image path="CLOUD4.flv" />
+				<image path="5_2007_3.jpg" />
+      		</day>
+      		<day value="29" pro_title="Torture XML" pro_client ="Tyred B" pro_thumb="5_2007_3.jpg" pro_type="Illustration" pro_description="Vivamus auctor egestas augue. Aliquam luctus feugiat augue. Nam tortor turpis, elementum vitae, viverra id, molestie dapibus, turpis. Nulla non enim. Suspendisse potenti. Maecenas congue eleifend mi. ">
+        		<image path="5_2007_3.jpg" />
+				<image path="5_2007_1.jpg" />
+      		</day>
+    	</month>
+  		<month value="4">
+      		<day value="1" pro_title="Almost 1910" pro_client ="Turpis" pro_thumb="4_2007_1.jpg" pro_type="Web-design" pro_description="Suspendisse adipiscing, dui at tempor placerat, orci massa facilisis est, eu viverra tortor elit tempus turpis. Donec ipsum lacus, eleifend ac, mollis nec, rutrum vitae, massa. Aenean in arcu lobortis ligula fringilla venenatis. ">
+        		<image path="4_2007_1.jpg" />
+				<image path="sample.swf" />
+				<image path="4_2007_2.jpg" />
+				<image path="4_2007_3.jpg" />
+      		</day>
+      		<day value="8" pro_title="Bang bang" pro_client ="Wee's Lounge" pro_thumb="4_2007_2.jpg" pro_type="Graphic and Video" pro_description="Proin sed enim eget ipsum pulvinar ullamcorper. Aliquam erat volutpat. Nulla nibh diam, adipiscing a, molestie quis, ullamcorper eget, mauris. Mauris justo tortor, tempus ut, sodales ut, rhoncus sed, diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ">
+				<image path="CLOUD4.flv" />
+				<image path="4_2007_2.jpg" />
+				<image path="CLOUD2.flv" />
+      		</day>
+      		<day value="13" pro_title="Atlantic wave" pro_client ="Dolphin" pro_thumb="4_2007_3.jpg" pro_type="Illustration" pro_description="Donec commodo, tortor a tempor aliquet, nibh orci hendrerit ligula, in pulvinar turpis nunc id neque. Fusce diam enim, tempor et, pellentesque non, condimentum a, ligula. Curabitur velit est, lobortis id, molestie nec, pretium sit amet, nibh. Praesent vitae quam sed mi convallis hendrerit.">
+        		<image path="4_2007_3.jpg" />
+      		</day>
+    	</month>
+    	<month value="2">
+      		<day value="8" pro_title="MX-a WoW" pro_client ="Venetatismolis" pro_thumb="2_2007_1.jpg" pro_type="Graphic" pro_description="Aliquam ut arcu vel felis ultrices gravida. Nullam varius venenatis eros. Fusce fringilla, arcu eu mollis venenatis, libero elit condimentum ligula, id commodo mauris quam sit amet orci. Morbi placerat ultricies metus. Nulla ut quam. ">
+        		<image path="2_2007_1.jpg" />
+				<image path="2_2007_2.jpg" />
+      		</day>
+      		<day value="14" pro_title="SH Tortis" pro_client ="Eros" pro_thumb="2_2007_2.jpg" pro_type="Illustration" pro_description="Duis adipiscing mi a sapien. Mauris ac neque. Phasellus dui dui, fermentum vel, pretium et, faucibus in, eros. Morbi ipsum metus, mattis sit amet, porta quis, pharetra nec, nisi. Etiam nec libero at leo iaculis ullamcorper. Nulla sit amet turpis non dui tristique euismod. Nam odio. ">
+				<image path="sample.swf" />
+				<image path="2_2007_2.jpg" />
+      		</day>
+			<day value="24" pro_title="Multa GNR" pro_client ="Esses Kaes" pro_thumb="2_2007_3.jpg" pro_type="Image and Video" pro_description="TCras id turpis sit amet est posuere pellentesque. Duis tristique mi ut justo. Sed et nulla. Integer vel odio. Nullam sit amet nunc a dui condimentum imperdiet. Sed ornare nunc non justo. Proin volutpat adipiscing magna.">
+				<image path="2_2007_3.jpg" />
+				<image path="CLOUD2.flv" />
+				<image path="CLOUD4.flv" />
+      		</day>
+   		 </month>
+  </year>
+</calendar>

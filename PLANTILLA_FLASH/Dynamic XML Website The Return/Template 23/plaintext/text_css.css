@@ -1,0 +1,31 @@
+
+a:link{
+	color: #FF9900;
+	text-decoration: underline;
+}
+a:visited{
+	color: #666666;
+	text-decoration: underline;
+}
+a:hover{
+	color: #AAAAAA;
+	text-decoration: none;
+}
+
+.white {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.title {
+	color: #CCCCCC;
+	text-decoration: bold;
+}
+
+.highlight {
+	color: #330000;
+}
+
+.numLinks {
+	color: #FFFFFF;
+}

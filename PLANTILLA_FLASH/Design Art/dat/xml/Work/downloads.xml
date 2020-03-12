@@ -1,0 +1,30 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img3.jpg" f="company">
+			<title>Wallpaper1</title>
+			<des>Choose Your Resolution<br/><br/><a href="http://www.demo.com/downloads">800X600</a><br/><a href="http://www.demo.com/downloads">1024X768</a><br/><a href="http://www.demo.com/downloads">1280X1024</a></des>
+		</data>
+		
+				<data img="dat/Images/Home/img2.jpg" f="company">
+			<title>Wallpaper2</title>
+			<des>Choose Your Resolution<br/><br/><a href="http://www.demo.com/downloads">800X600</a><br/><a href="http://www.demo.com/downloads">1024X768</a><br/><a href="http://www.demo.com/downloads">1280X1024</a></des>
+		</data>
+		
+		
+				<data img="dat/Images/Home/img4.jpg" f="company">
+			<title>Wallpaper3</title>
+			<des>Choose Your Resolution<br/><br/><a href="http://www.demo.com/downloads">800X600</a><br/><a href="http://www.demo.com/downloads">1024X768</a><br/><a href="http://www.demo.com/downloads">1280X1024</a></des>
+		</data>
+		
+					<data img="dat/Images/Home/img.jpg" f="company">
+			<title>Wallpaper4</title>
+			<des>Choose Your Resolution<br/><br/><a href="http://www.demo.com/downloads">800X600</a><br/><a href="http://www.demo.com/downloads">1024X768</a><br/><a href="http://www.demo.com/downloads">1280X1024</a></des>
+		</data>	
+		
+		
+</Section>
+
+
+
+</DynamicWeb>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery path="gallery/">
+
+<item name="Item 1" thumbnail="thumb1.jpg" pic="im1.jpg" url="www.sitename.com"/>
+<item name="Item 2" thumbnail="thumb2.jpg" pic="im2.jpg" url="www.sitename.com"/>
+<item name="Item 3" thumbnail="thumb3.jpg" pic="im3.jpg" url="www.sitename.com"/>
+<item name="Item 4" thumbnail="thumb4.jpg" pic="im4.jpg" url="www.sitename.com"/>
+<item name="Item 5" thumbnail="thumb5.jpg" pic="im5.jpg" url="www.sitename.com"/>
+<item name="Item 6" thumbnail="thumb6.jpg" pic="im6.jpg" url="www.sitename.com"/>
+
+</gallery>

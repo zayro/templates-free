@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<downloads>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" downloadControlsColor="0x727272" downloadControlsBackGroundColor="0x151618" downloadsSlideButtonsIconColor="0xffffff" thumbsPreloaderColor="0xffffff" thumbsBackGroundColor="0x000000" backGroundHeight="340" backGroundAlpha="100" backGroundColor="0x1a1b1d"/>
+	<items>
+		<item>
+			<title><![CDATA[<b>Download one</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/01.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+		<item>
+			<title><![CDATA[<b>Download two</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/02.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+		<item>
+			<title><![CDATA[<b>Download three</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/03.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+		<item>
+			<title><![CDATA[<b>Download four</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/04.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+		<item>
+			<title><![CDATA[<b>Download five</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/05.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+		<item>
+			<title><![CDATA[<b>Download six</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim veniam.</font>]]></caption>
+			<thumb><![CDATA[images/downloads_thumbs/06.jpg]]></thumb>
+			<file><![CDATA[downloads/wallpaper.zip]]></file>
+			<infoFile><![CDATA[<font color="#727272">type: zip - size: 324kb</font>]]></infoFile>
+		</item>
+	</items>
+</downloads>

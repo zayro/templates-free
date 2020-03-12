@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<settings htmlPageTitle="Black Gold Website Template" menuButtonsColor="0x4a4d4f" subMenuButtonsColor="0x6C7071" optionsButtonsColor="0x4a4d4f" transitionOverlay="true" preloaderColor="0xa06900"/>
+	<logo file="images/logo.png" x_position="-20" y_position="0"/>
+	<menu button_label="Home" module_swf="slideshow.swf" module_xml="xml/slideshow_1.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_play_sound="play">
+		<item button_label="Slideshow" module_swf="slideshow.swf" module_xml="xml/slideshow_2.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+		<item button_label="News" module_swf="news.swf" module_xml="xml/news.xml" back_ground_file="" overlay_color="0xff9900" module_color="0xff9900" item_link="" item_link_target="" item_play_sound="play"/>
+		<menu button_label="About us">
+			<item button_label="Services" module_swf="services.swf" module_xml="xml/services.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Company" module_swf="long_text.swf" module_xml="xml/long_text.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Staff" module_swf="staff.swf" module_xml="xml/staff.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Contact" module_swf="contact.swf" module_xml="xml/contact.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+		</menu>
+		<menu button_label="Galleries">
+			<item button_label="Galleries" module_swf="galleries.swf" module_xml="xml/galleries.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Gallery" module_swf="galleries.swf" module_xml="xml/gallery.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Image" module_swf="galleries.swf" module_xml="xml/image.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Video" module_swf="galleries.swf" module_xml="xml/video.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+		</menu>
+		<item button_label="Audio gallery" module_swf="audio_gallery.swf" module_xml="xml/audio_gallery.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="stop"/>
+		<menu button_label="Extras">
+			<item button_label="Downloads" module_swf="downloads.swf" module_xml="xml/downloads.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Empty module" module_swf="empty.swf" module_xml="xml/empty.xml" back_ground_file="" overlay_color="0x151618" module_color="0x151618" item_link="" item_link_target="" item_play_sound="play"/>
+			<item button_label="Link self" module_swf="" module_xml="" back_ground_file="" overlay_color="" module_color="" item_link="http://www.flashden.net/user/ParkerAndKent" item_link_target="_self" item_play_sound="play"/>
+		</menu>
+		<item button_label="Link blank" module_swf="" module_xml="" back_ground_file="" overlay_color="" module_color="" item_link="http://www.flashden.net/user/ParkerAndKent" item_link_target="_blank" item_play_sound="play"/>
+	</menu>
+	<audio auto_start="true" volume_value="70" on_complete="playlist">
+		<item mp3="audio/adg3.com_cloudlessDays.mp3"/>
+		<item mp3="audio/adg3.com_chuckedKnuckles.mp3"/>
+		<item mp3="audio/adg3.com_bustedChump.mp3"/>
+		<item mp3="audio/adg3.com_coreIssues.mp3"/>
+		<item mp3="audio/adg3.com_crypticPsyche.mp3"/>
+		<item mp3="audio/adg3.com_electroFreak.mp3"/>
+		<item mp3="audio/adg3.com_freeForm.mp3"/>
+	</audio>
+	<footer><![CDATA[<font color="#4a4d4f"><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank">© p&k</a>.html text</font>]]></footer>
+</index>

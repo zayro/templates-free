@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+	<settings
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xffffff"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<title><![CDATA[Services]]></title>
+	<items>
+		<item>
+			<title><![CDATA[WEB DESIGN]]></title>
+			<text><![CDATA[<img src="portfolio/about.jpg" hspace='1' vspace='2'><textformat blockindent='10'>  This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.<br><br>Another feature of this template is the option to set all the colors and all the contents simply editing some xml files. The logo, every button, rollover, rollout, text, line, background can be edited through the xml files. In this way you can easily create and personalize your website!<br>One cool feature is the empty module included in the package. This module is perfect to create your custom modules that will fit into the template like the original ones. The included modules are: news module, services module, long text module, multi categories multimedia gallery, downloads module, contact module and the empty module.<br>The galleries have the automatic slideshow option, that can be set via xml in a different way for each gallery. The template audio is stopped automatically when the users are watching a video and it is resumed when they are viewing other contents. The fullscreen option is available and the main menu buttons can also link to external urls. All the textfields support html basic tags.]]></text>
+		</item>
+		<item>
+			<title><![CDATA[ILLUSTRATIONS]]></title>
+			<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries. Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		</item>
+		<item>
+			<title><![CDATA[MOTION GRAPHIC]]></title>
+			<text><![CDATA[<img src="portfolio/about.jpg" hspace='1' vspace='2'><textformat blockindent='10'>  This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.<br><br>Another feature of this template is the option to set all the colors and all the contents simply editing some xml files. The logo, every button, rollover, rollout, text, line, background can be edited through the xml files. In this way you can easily create and personalize your website!<br>One cool feature is the empty module included in the package. This module is perfect to create your custom modules that will fit into the template like the original ones. The included modules are: news module, services module, long text module, multi categories multimedia gallery, downloads module, contact module and the empty module.<br>The galleries have the automatic slideshow option, that can be set via xml in a different way for each gallery. The template audio is stopped automatically when the users are watching a video and it is resumed when they are viewing other contents. The fullscreen option is available and the main menu buttons can also link to external urls. All the textfields support html basic tags.]]></text>
+		</item>
+		<item>
+			<title><![CDATA[PHOTOGRAPHY]]></title>
+			<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries. Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		</item>
+	</items>
+</services>

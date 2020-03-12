@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<items>
+
+
+	<mainmenu menutitle="About Qtemplate" path="swf/about.swf">		
+	</mainmenu>
+
+
+	<mainmenu menutitle="Recent News" path="swf/news.swf">
+	</mainmenu>
+
+	<mainmenu menutitle="Recent Work">
+		
+		<submenu1
+		submenutitle="Work 1"
+		path="swf/project4.swf"
+		/>
+		
+		<submenu1
+		submenutitle="Work 2"
+		path="swf/project3.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 3"
+		path="swf/project2.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 4"
+		path="swf/project1.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 5"
+		path="swf/project5.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 6"
+		path="swf/anyswf.swf"
+		/>
+		
+		<submenu1
+		submenutitle="Work 7"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 8"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 9"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 10"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 11"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Work 12"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Many more"
+		path="swf/anyswf.swf"
+		/>
+
+
+	</mainmenu>
+
+
+		
+	<mainmenu menutitle="Projects">
+		
+		<submenu1 submenutitle="Websites"> 
+			
+			<submenu2
+				submenutitle="Website 1"
+				path="swf/project1.swf"
+			/>
+			
+			<submenu2
+				submenutitle="Website 2"
+				path="swf/project2.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 3"
+				path="swf/project3.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 4"
+				path="swf/project4.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 5"
+				path="swf/project5.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 6"
+				path="swf/anyswf.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 7"
+				path="swf/anyswf.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 8"
+				path="swf/anyswf.swf"
+			/>
+			
+			<submenu2
+				submenutitle="Website 9"
+				path="swf/anyswf.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 10"
+				path="swf/anyswf.swf"
+			/>
+
+			<submenu2
+				submenutitle="Website 11"
+				path="swf/anyswf.swf"
+			/>
+
+			<submenu2
+				submenutitle="Many more"
+				path="swf/anyswf.swf"
+			/>
+
+			
+		</submenu1>
+		
+		<submenu1
+		submenutitle="Identity/Print"
+		path="swf/identity.swf"
+		/>
+		
+		<submenu1
+		submenutitle="Multimedia"
+		path="swf/html.swf"
+		/>
+		
+
+	</mainmenu>
+
+
+	<mainmenu menutitle="Services" path="swf/swf9.swf">	
+
+
+		<submenu1
+		submenutitle="Graphic Design"
+		path="swf/anyswf.swf"
+		/>
+		
+		<submenu1
+		submenutitle="Webdesign"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Hosting/Domains"
+		path="swf/anyswf.swf"
+		/>
+	
+		<submenu1
+		submenutitle="e-Marketing"
+		path="swf/anyswf.swf"
+		/>
+
+		<submenu1
+		submenutitle="Production"
+		path="swf/anyswf.swf"
+		/>
+	</mainmenu>
+
+	<mainmenu menutitle="Contact" path="swf/contact/contact.swf">		
+	</mainmenu>
+		
+	</mainmenu>
+
+</items>

@@ -1,0 +1,98 @@
+body,
+body.home
+{
+  background-color:#dbdbdb;
+  color:#000000;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:#628200;
+  border-color:#688900;
+}
+
+th, td
+{
+	border:1px solid #70950b;
+	color:#2e4010;
+}
+
+th
+{
+	background:#cfe58c;
+	color:#445701;
+}
+
+a
+{
+  color:#628200;
+}
+
+a:hover
+{
+  color:#375e04;
+}
+
+#menu ul li a
+{
+  color:#d3ff9f;
+}
+
+#menu ul li a:hover
+{
+  color:#FFFFFF;
+}
+
+#menu ul li.selected a
+{
+  color:#FFFFFF;
+}
+
+#menu ul ul li a,
+#menu ul li.selected ul li a
+{
+  color:#648e0b;
+}
+
+#menu ul ul li a:hover,
+#menu ul li.selected ul li a:hover
+{
+  color:#000000;
+}
+
+
+.sidebar ul li a:hover
+{
+  color:#375e04;
+}
+
+.minipost .comments,
+.minipost .readmore,
+.button,
+.button-right,
+ul.pagination li a
+{
+  background-color:#88b400;
+  border-bottom:4px solid #7aab00;
+}
+
+.minipost .comments:hover,
+.minipost .readmore:hover,
+.button:hover,
+.button-right:hover,
+ul.pagination li a:hover
+{
+  color:#FFFFFF;
+  background-color:#7aab00;
+}
+
+#footer,
+#footer a
+{
+  color:#a3a3a3;
+}
+
+#footer a:hover
+{
+  color:#5c5c5c;
+}

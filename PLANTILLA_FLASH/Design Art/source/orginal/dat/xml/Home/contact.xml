@@ -1,0 +1,8 @@
+﻿<DynamicWeb>
+
+<Section head="CONTACT" p="85" f="Info" subf="contact" subDisplay="on" lefthead="ABOUT & CONTACT">
+		<data>CONTACT</data>
+		<data><font color="#333333">XML Name</font><br/><br/>Mobile +33 333 - 6666 333<br/>Email<br/><a href="mailto:demo@demo.com">demo@demo.com</a></data>
+</Sections>
+
+</DynamicWeb>

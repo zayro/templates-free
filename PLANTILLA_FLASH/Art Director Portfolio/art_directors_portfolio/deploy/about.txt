@@ -1,0 +1,8 @@
+aboutText=
+This is the about page where you can include a brief overview of yourself and the type of work you do. This text is pulled straight from a text file called "about.txt" so it's very easy to update.
+
+Everything on this site can be changed just by editing the XML file -- including all the text and colors and gradients. You can customize it however you want to match your brand. It even has the ability for you to add your own custom logo file in place of the default logo here.
+
+Also this site supports deeplinking -- each section and each portfolio item has its own unique URL that can be bookmarked or emailed to a client to show off a particular project. Try refreshing the page and it will reload back to this About page.
+
+You can easily <a href="http://flashden.net/user/modular/portfolio" target="_blank"><u>add links like this</u></a>.

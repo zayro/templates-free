@@ -1,0 +1,2520 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: functions/options.php:1
+msgid "\"More\" button text"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "\"More\" buttons text for slides captions."
+msgstr ""
+
+#. Text in function
+#: widgets/widget-tabbed.php:70
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "% Opacity of title and navigation."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "% The Opacity of Caption with it\\'s background."
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:22
+#: functions/comments.php:42
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "- Select -"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-tabbed.php:70
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "1 column"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "2 columns"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "4 columns"
+msgstr ""
+
+#. Text in function
+#: portfolio/index.php:80
+#: loop-posts.php:76
+#: gallery.php:77
+#: partners/index.php:46
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "A %sstatic page%s (select bellow)"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-tabbed.php:1
+msgid "A tabbed widget that display popular posts, recent posts, comments and tags."
+msgstr ""
+
+#. Text in function
+#: widgets/widget-flickr.php:1
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+msgid "Accordion Slider"
+msgstr ""
+
+#. Text in echo
+#: functions/sidebars.php:112
+msgid "Add"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Add New Client"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Add New Division"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Add New Gallery"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Add New Group"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Add New Project"
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "All Archives"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:125
+#: widgets/widget-recent.php:123
+msgid "All Categolries"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "All Clients"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "All Divisions"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "All Galleries"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "All Groups"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "All Projects"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "All effects (random)"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Alternate Blog Type"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+#: functions/sliders/AnythingSlider.php:183
+msgid "Animation Speed"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "Animation speed"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Anything"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Anything Slider"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Anything-Slider Options"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Archive by category:"
+msgstr ""
+
+#. Text in echo
+#: sidebar-side.php:17
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Articles posted by:"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Ascendent"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Auto play"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Auto transition pause"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Base theme font"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Blog Type"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Blog bottom sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Blog posts & Pages"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Blog side sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/AnythingSlider.php:183
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Bottom-Left Corner"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Bottom-Right Corner"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Build arrows"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Build navigation"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Call To Action content"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/CustomAdminPage.php:1
+msgid "Capability not defined."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/AnythingSlider.php:183
+msgid "Caption Position"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Caption animate speed"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Caption easing effect"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Caption opacity"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Captions"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Captions \"more\" button?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Captions content"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Captions titles"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for builds a list of anchor links to link to each slide."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for builds the forwards and backwards buttons."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for pause the autoplay until the youtube video is complete."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for show navigation on hover and hide other."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for side navigation arrows will slide out on hovering & hide @ other times."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for the slideshow will pause on hover."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for the slideshow will stop on the last slide."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Check this for transition right-to-left."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Check this if you want force manual transitions."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Check this if you want shwow thumbnail control navigation."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this if you want to enable Google Analytics Service"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this if you want to use Custom Body Background Option."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+msgid "Check this to display \"Prev\" & \"Next\" buttons."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display \"more\" button."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display a post clients for portfolio single page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display a post divisions for portfolio single page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display breadcrumbs."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display captions over the slides. (If choosen slider supports this option)"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+msgid "Check this to display control navigation (bullets)."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display featured area with thumbnails at the bottom of Home Page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display meta date information for portfolio single page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display slide content in captions."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to display slide title in captions."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Check this to enable auto transition slides."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to make slider images linked. (If choosen slider supports this option)"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Check this to show \"Prev\" & \"Next\" buttons when mouse is over slides."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to show call to action box."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Check this to use cufon font."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose Header Pattern"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Choose a caption position."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/AnythingSlider.php:183
+msgid "Choose a default caption position."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Choose a default text position."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose a skin for LightBox."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose a slider type"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+msgid "Choose an effect of changing slides."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose an option to order slides."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose bottom sidebar for blog pages."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose bottom sidebar for gallery pages."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose bottom sidebar for partners pages."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose color scheme"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose cufon fonts"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose layout type for Portfolio Page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose side sidebar for blog pages."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose sidebar for bottom of page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose sidebar for side of page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose your blog type (wide/narrow images)."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Choose your bottom sidebar for portfolio page."
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/AdminPageSection.php:1
+msgid "Class \"%s\" not found."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "Click to focus"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Clients"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Coin"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Coin Slider Options"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Coin slider"
+msgstr ""
+
+#. Text in echo
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Content area for special gray box, which is right under content."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Content area for special gray box, which is under slider."
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Continue"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Continue on mouse over"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Continue on mouse over if auto transition is enabled."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+msgid "Control navigation"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Custom Body Background"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Custom Header Background"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-tabbed.php:1
+msgid "Custom Tabbed Widget +"
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Dark Rounded"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Dark Square"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Dark Theme"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Default Blog Type"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Default Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Default bottom sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/AnythingSlider.php:183
+msgid "Default caption position"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Default layout for blog"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Default layout for pages"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Default side sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Default text position"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Delay"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Delay between images"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Delay between squares"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+#: functions/sidebars.php:130
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Delete Permanently"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Descendent"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/NivoSlider.php:94
+msgid "Determines if slideshow will pause while mouse is hovering over slideshow."
+msgstr ""
+
+#. Text in echo
+#: footer.php:27
+msgid "Developed By:"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/OrbitSlider.php:68
+msgid "Direct navigation"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Direction navigation"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Direction navigation hide"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Disabled if \"Order By\" option is \"Randomly\""
+msgstr ""
+
+#. Text in echo
+#: comments.php:32
+msgid "Discussion"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Display a clients meta information?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Display a divisions meta information?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Display a meta date information?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Display breadcrumbs?"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:64
+msgid "Display type:"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-twitter.php:1
+msgid "Displays a list of twitter feeds"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Divisions"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Down"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "DownLeft"
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:43
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "Easing animation"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Edit Client"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Edit Division"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Edit Gallery"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Edit Group"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Edit Project"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Embedded 404 page"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Enable Cufon"
+msgstr ""
+
+#. Text in echo
+#: gallery.php:55
+msgid "Enlarge"
+msgstr ""
+
+#. Text in echo
+#: functions/sidebars.php:115
+msgid "Enter description for a new sidebar:"
+msgstr ""
+
+#. Text in echo
+#: functions/sidebars.php:110
+msgid "Enter name for a new sidebar:"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Error 404"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:138
+#: widgets/widget-recent.php:149
+msgid "Excerpt length:"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/OrbitSlider.php:68
+msgid "Fade"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Featured Bottom Line"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "File type: .ico or .png File dimensions: 16x16, 32x32."
+msgstr ""
+
+#. Text in function
+#: widgets/widget-flickr.php:1
+msgid "Flickr +"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-flickr.php:61
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-flickr.php:75
+msgid "Flickr Photos"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Fold"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Footer copyright text"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "For example"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Full width"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Gallery bottom sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Google Analytics"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Google Analytics Code"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Groups"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Header background color"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Home & Slider"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Home page displays"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Horizontal"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:83
+msgid "How many tweets to display?"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "If true, will disable any click events on elements within the moving element that was clicked. Once the element is in focus, click events will no longer be blocked."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Image with text"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Insert image"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "Items"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:67
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Leave it blank if you do not want to display this button."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/AnythingSlider.php:183
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Left & Right"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Light Rounded"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Light Square"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Light Theme"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "LightBox skin"
+msgstr ""
+
+#. Text in function
+#: functions/metaboxes/partners.php:1
+msgid "Link to partners website"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Manual transitions"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/CustomAdminPage.php:1
+msgid "Menu title not defined."
+msgstr ""
+
+#. Text in echo
+#: sidebar-side.php:24
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+msgid "Minimal slides width"
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "More button text"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Move to Trash"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "New Client Name"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "New Division Name"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "New Gallery Name"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "New Group Name"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "New Project Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:59
+msgid "Newer Comments"
+msgstr ""
+
+#. Text in function
+#: portfolio/index.php:81
+#: loop-posts.php:77
+#: gallery.php:78
+#: partners/index.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Nivo"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Nivo Slider Options"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Nivo slider"
+msgstr ""
+
+#. Text in echo
+#: part-no_results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/partners.php:1
+msgid "No Tags"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "No Thumbnail"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-tabbed.php:70
+msgid "No comments"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "No items found"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "No items found in Trash"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "No order"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Notice"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of lines (partners page)"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of lines (portfolio page)"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:62
+msgid "Number of photos to show:"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:121
+#: widgets/widget-recent.php:119
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Number of slices"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Number of slices in slide."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of slides"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of slides to be displayed. (Empty to show all the slides)"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of thumbnails for gallery page"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Number of thumbtails to be displayed on the gallery page"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Older Comments"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Only regards for partners page"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Only regards for portfolio page"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Only text"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Opacity title & navigation"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Orbit"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Orbit slider"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Order by"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: header.php:13
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: part-def_404.php:5
+#: part-def_404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Page of error 404"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Client"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Client:"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Division"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Division:"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Gallery"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Gallery:"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Parent Group"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Parent Group:"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Project"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Parent Project:"
+msgstr ""
+
+#. Text in function
+#: functions/metaboxes/partners.php:1
+msgid "Partner's Website Link"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Partners bottom sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Paste your %sGoogle Analytics%s code here, it will get applied to each page."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #01"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #02"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #03"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #04"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #05"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #06"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #07"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #08"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #09"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #10"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #11"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #12"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #13"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #14"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #15"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #16"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #17"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #18"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #19"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Pattern #20"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Pause after mouse over"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Pause on hover"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/NivoSlider.php:94
+msgid "Pause on mouse hover"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Pause time"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Pause transitions"
+msgstr ""
+
+#. Text in echo
+#: functions/comments.php:42
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: loop-single.php:48
+msgid "Popular Posts"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Portfolio bottom sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Portfolio page layout"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Portfolio, Gallery, Partners"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+msgid "Position of caption on the slide."
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "Posts by: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Posts classified under:"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Posts tagged:"
+msgstr ""
+
+#. Text in function
+#: functions/core.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: portfolio/single.php:181
+msgid "Project Description:"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Projects"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Rain"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: widgets/widget-flickr.php:66
+#: functions/sliders/NivoSlider.php:94
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Randomly"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent.php:63
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent.php:1
+msgid "Recent Posts +"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent-proj.php:72
+msgid "Recent Projects"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent-proj.php:1
+msgid "Recent Projects +"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-twitter.php:1
+msgid "Recent Tweets"
+msgstr ""
+
+#. Text in echo
+#: loop-single.php:63
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Resume on video end"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/NivoSlider.php:94
+#: functions/sliders/AnythingSlider.php:183
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "RoundAbout"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "Roundabout slider"
+msgstr ""
+
+#. Text in echo
+#: functions/admin_options/template-page.php:9
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: sidebar-side.php:12
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Search Clients"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Search Divisions"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Search Galleries"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Search Groups"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Search Projects"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Search posts limit"
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "Search result for: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "Search results for:"
+msgstr ""
+
+#. Text in echo
+#: functions/sidebars.php:124
+msgid "Select a sidebar to delete:"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Select default layout for blog."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Select default layout for pages."
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent.php:121
+msgid "Select posts category:"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:123
+msgid "Select projects category:"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent.php:136
+msgid "Select thumbnail size:"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Select which easing effect to use for caption."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+#: functions/sliders/AnythingSlider.php:183
+msgid "Select which easing effect to use for transition."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "Select which easing effect to use."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Select your 404 page."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Serie3"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Serie3 Slider Options"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "Serie3 slider"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Show Call To Action?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Show Feature Bottom Line?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Show Popular & Related Posts?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Show about autor box?"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent.php:151
+msgid "Show post date?"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:136
+#: widgets/widget-recent.php:147
+msgid "Show post excerpt?"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent.php:133
+msgid "Show post thumbnail?"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-recent-proj.php:133
+msgid "Show post title?"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Show thumbnails"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#. Text in echo
+#: functions/sidebars.php:103
+msgid "Sidebar managment"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Sidebar name cannot by empty."
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Sidebar successfully added."
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "Sidebar successfully removed."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Slider to be Displayed in Header."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Sliding effect"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/CustomAdminPage.php:1
+msgid "Slug not defined."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in echo
+#: part-def_404.php:11
+msgid "Sorry, the page you requested may have been moved or deleted"
+msgstr ""
+
+#. Text in echo
+#: gallery.php:19
+msgid "Sort by:"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Sort type"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Speed of title appereance"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Squares per height"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Squares per width"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Static home page"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Stop at end"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Straight"
+msgstr ""
+
+#. Text in function
+#: comments.php:78
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Supported YouTube, Vimeo, Dailymotion or Flash. (If this option is set then the above will be ignored)"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Swirl"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-tabbed.php:169
+msgid "Tab 1 Title:"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-tabbed.php:175
+msgid "Tab 2 Title:"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-tabbed.php:181
+msgid "Tab 3 Title:"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Target button text"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Text Position"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "The default sidebar of page widget area"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent.php:1
+msgid "The most recent posts on your site with thumbnails"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-recent-proj.php:1
+msgid "The most recent projects on your site with slider (for sustom post type \"Portfolio\")"
+msgstr ""
+
+#. Text in echo
+#: part-no_results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "This sidebar does not exist."
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "This sidebar is not possible to remove."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "This slider does not support disable captions."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "This turns off the entire slideshow FUNCTIONALY, not just if it starts running or not."
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/CustomAdminPage.php:1
+msgid "Title not defined."
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:77
+#: widgets/widget-recent-proj.php:120
+#: widgets/widget-recent.php:118
+#: widgets/widget-flickr.php:60
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Toggle arrows"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Toggle controls"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+#: functions/sliders/AnythingSlider.php:183
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Top-Left Corner"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "Top-Right Corner"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Transition Right To Left"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+#: functions/sliders/AnythingSlider.php:183
+msgid "Transition easing effect"
+msgstr ""
+
+#. Text in function
+#: widgets/widget-twitter.php:1
+msgid "Twitter +"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Type a copyright text."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Type a number of posts to be displayed on search results page"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+#: functions/sliders/OrbitSlider.php:68
+msgid "Type of animation"
+msgstr ""
+
+#. Text in function
+#: functions/metaboxes/partners.php:1
+msgid "Type the link into the field below for this partner."
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/AdminPageFactory.php:1
+msgid "Unable to load class: %s"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/partners.php:1
+msgid "Uncategorized"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Undo"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "Up"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "UpDown"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "UpDownLeft"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "UpLeft"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Update Client"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Update Division"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Update Gallery"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/partners.php:1
+msgid "Update Group"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+msgid "Update Project"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Upload favicon"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Upload logo"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Use Custom Body Background?"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Use Google Analytics"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Use auto transition"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Use linked slides?"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "Use this"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:80
+msgid "Username:"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "Video (optional)"
+msgstr ""
+
+#. Text in function
+#: functions/custom_types/portfolio.php:1
+#: functions/custom_types/sliders.php:1
+#: functions/custom_types/partners.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: loop-posts.php:15
+#: loop-posts.php:47
+#: loop-single.php:6
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+#: functions/breadcrumbs.php:1
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Visit website"
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:43
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:70
+msgid "Where the photos are pulled from:"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "With left sidebar"
+msgstr ""
+
+#. Text in function
+#: functions/sidebars.php:192
+msgid "With right sidebar"
+msgstr ""
+
+#. Text in function
+#: part-title.php:1
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: functions/admin_options/ElementUpload.php:1
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#. Text in function
+#: comments.php:78
+msgid "Your Message:"
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:43
+msgid "Your Name"
+msgstr ""
+
+#. Text in echo
+#: functions/comments.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Your hosting currently use version of PHP %s. To get this theme worked properly you should ask your hosting provider to turn on at least version of PHP5 on your hosting."
+msgstr ""
+
+#. Text in function
+#: functions/options.php:1
+msgid "Your latest posts"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:46
+msgid "about %d days ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:44
+msgid "about %d hours ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:42
+msgid "about %d minutes ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:40
+msgid "about %d seconds ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:45
+msgid "about a day ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:41
+msgid "about a minute ago"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:43
+msgid "about an hour ago"
+msgstr ""
+
+#. Text in echo
+#: portfolio/single.php:184
+msgid "back to portfolio"
+msgstr ""
+
+#. Text in function
+#: functions/social_links.php:28
+msgid "facebook"
+msgstr ""
+
+#. Text in function
+#: functions/social_links.php:28
+msgid "google plus"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:73
+msgid "group"
+msgstr ""
+
+#. Text in function
+#: comments.php:78
+msgid "leave a comment"
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "ms. Delay between images."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "ms. Delay between squares."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "ms. How fast animations are."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "ms. How long after mouseout timer should continue."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "ms. How long between slideshow transitions in AutoPlay mode."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/AnythingSlider.php:183
+msgid "ms. How long the slideshow transition takes."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "ms. How quickly to animate in caption on load and between captioned and uncaptioned photos."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/OrbitSlider.php:68
+msgid "ms. If auto transition is enabled, time between transitions."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/Serie3Slider.php:72
+msgid "ms. Set pause between transitions."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/CoinSlider.php:81
+msgid "ms. Speed of title appereance."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/RoundAboutSlider.php:68
+msgid "ms. The length of time that all animations take to complete by default."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+msgid "ms. The number of milliseconds required for each animation to complete."
+msgstr ""
+
+#. Text in function
+#: functions/sliders/NivoSlider.php:94
+msgid "ms. Type an amount of time slide transition lasts."
+msgstr ""
+
+#. Text in function
+#: functions/social_links.php:28
+msgid "myspace"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-tabbed.php:114
+#: widgets/widget-tabbed.php:116
+msgid "on "
+msgstr ""
+
+#. Text in function
+#: functions/sliders/KwickSlider.php:56
+msgid "px. The width of a fully collapsed clides."
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:43
+msgid "required"
+msgstr ""
+
+#. Text in function
+#: functions/social_links.php:28
+msgid "rss"
+msgstr ""
+
+#. Text in function
+#: functions/social_links.php:28
+msgid "twitter"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-flickr.php:72
+msgid "user"
+msgstr ""
+
+#. Text in echo
+#: widgets/widget-twitter.php:47
+msgid "view tweet on twitter"
+msgstr ""
+
+#. Text in function
+#: functions/comments.php:43
+msgid "will not be published"
+msgstr ""

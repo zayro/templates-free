@@ -1,0 +1,57 @@
+/* 
+
+Seventh - CSS File
+
+USE THIS STYLE SHEET FOR COLOR
+
+*/
+body{background-color:#fafafa;} /*default*/
+a {color:#002e5b;} /*color2*/
+a:hover{color:#002e5b;} /*color2*/
+
+#content-inner, #content{ background-color:#fafafa;} /*default*/
+#topnavigation .current{ background-color:#094d8b !important;    } /*color14*/
+#topnavigation li:hover{ color:#fff; background-color:#eaeaea !important;    } /*color16*/ /*bgcolor22*/
+#topnavigation a.current, #topnavigation a.current:hover {color:#fff;}/*color16*/
+#topnavigation .current li a {color:#666666;} /*color3*/
+#topnavigation li a:hover { background-color:#eaeaea; color:#666666; } /*bgcolor22*/ /*color3*/
+#topnavigation li li a:hover, #topnavigation .current li a:hover{ background-color:#094d8b; color:#666666; } /*bgcolor14*/ /*color24*/
+#topnavigation li li a, #topnavigation .current li a{color:#666666;} /*color23*/ 
+.sf-menu a, .sf-menu a:visited  {
+	color:			#666666; /*color3*/
+}
+
+.sf-menu li li {
+	background:		#ffffff; /*color4*/
+	
+}
+.sf-menu li li li {
+	background:		#ffffff; /*color4*/
+}
+
+.sf-menu li li:hover, .sf-menu li.sfHover,
+ .sf-menu li li a:hover {
+	background:		#eaeaea !important; /*color20*/
+	outline:		0;
+	
+}
+
+.sf-shadow ul {
+	background:		#ffffff; /*color4*/
+	padding: 5px 5px 5px 5px;
+	border:1px solid #dbdbdb; /*color21*/
+}
+
+
+.tcolor{color:#002e5b;} /*color9*/
+#header-inner h1, #header-inner .tagline{color:#ffffff;} /*color7*/
+#sidebar h4 a, #sidebar h4 a:visited{color:#999 !important;} /*default*/
+#sidebar h2{border-bottom:solid 1px #dadada;} /*default*/
+#sidebar  ul li{ border-bottom:solid 1px #dadada; } /*default*/
+
+#maincontent-bottom h4, #maincontent-bottom h4 a, #maincontent-bottom h4 a:visited{color:#666666;} /*default*/
+#social-box{background-color:#212121;} /*default*/
+.bg_input{background-color:#ffffff; border:solid 1px #ffffff;} /*color10*/ /* bordercolor11*/
+#footer-text, #footer a, #footer a:visited{color:#666;} /*color19*/
+#bottom p, #bottom ul, .box-bottom h2, .box-bottom a, .box-bottom a:visited, .box-bottom ul li a, .box-bottom ul li a:visited {color:#666666;} /*default*/
+#bottom{background-color:#efeeee;} /*default*/

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<homeSection>
+
+	<aboutArea>
+	
+		<title>ABOUT ME</title>
+	
+		<description><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+		</description>
+		
+	</aboutArea>
+
+	<newsSection>
+
+		<title>LATEST NEWS</title>
+
+		<newsArea>
+
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+			
+			<news>
+			<title>NEWS TITLE + LONG TEXT</title>
+			<date>28-04-08</date>
+			<message><![CDATA[all text on this template is controlled by xml.<br><br>This is html text. This means you can use <A HREF="http://www.noastudios.com"><u>LINKS</u></A>, <p><font color="#0000FF">colored text,</font></p>pictures and many diferent things using html.<br>Scrollbars are enabled whenever needed. Also scrollwheel control is supported both for windows and mac! <br><br><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ornare erat sed enim. Phasellus bibendum. Mauris felis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur feugiat pede id elit vestibulum porta. In pharetra magna et ipsum. Aenean fermentum. Nulla velit justo, ultricies convallis, malesuada et, sollicitudin interdum, urna. Sed eleifend dolor quis elit. Quisque fermentum fringilla pede. Maecenas felis. Sed mi arcu, pellentesque non, tristique id, tempus nec, tortor. Integer et turpis. In viverra turpis a felis.]]>
+			</message>
+			</news>
+
+			<news>
+			<title>NEWS TITLE + SHORT TEXT</title>
+			<date>28-04-08</date>
+			<message>
+			<![CDATA[Lorem ipsum dolor sit amet, <A HREF="http://noastudios.com"><U>HTML LINK</U></A> adipiscing elit. Nunc at lectus. Mauris libero. Phasellus at dui vitae enim sodales viverra. Phasellus pharetra commodo nisi. Nunc sed turpis. Cras lacus. <img src="thumbs/enkera.jpg"> Donec ac lectus eu mauris ultrices dignissim. Integer elit. Suspendisse quis leo. Nulla diam.]]>
+			</message>
+			</news>
+
+		</newsArea>
+
+	</newsSection>
+
+</homeSection>

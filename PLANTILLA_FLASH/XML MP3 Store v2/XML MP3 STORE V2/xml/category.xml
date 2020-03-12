@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <category path="xml/one.xml"   name="Album One"   price="19.99" pic="cover/1.gif"  itemNumber="1"  />
+	<category path="xml/two.xml"   name="Album Two"   price="15.99" pic="cover/2.gif"  itemNumber="2"  />
+	<category path="xml/three.xml" name="Album Three" price="10.99" pic="cover/3.gif"  itemNumber="3"  />
+	<category path="xml/one.xml"   name="Album Four"  price="18.99" pic="cover/4.gif"  itemNumber="4"  />
+	<category path="xml/two.xml"   name="Album Five"  price="17.99" pic="cover/5.gif"  itemNumber="5"  />
+	<category path="xml/three.xml" name="Album Six"   price="16.99" pic="cover/6.gif"  itemNumber="6"  />
+	<category path="xml/one.xml"   name="Album Seven" price="15.99" pic="cover/7.gif"  itemNumber="7"  />
+	<category path="xml/two.xml"   name="Album Eight" price="14.99" pic="cover/8.gif"  itemNumber="8"  />
+	<category path="xml/three.xml" name="Album Nine"  price="13.99" pic="cover/9.gif"  itemNumber="9"  />
+	<category path="xml/one.xml"   name="Album Ten"   price="12.99" pic="cover/10.gif" itemNumber="10" />
+</store>

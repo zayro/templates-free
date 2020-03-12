@@ -1,0 +1,7 @@
+h1 { background: url(../images/blue/header-bg.png) repeat-x 0 0; }
+#content .article .text { background: #07426c url(../images/blue/article-bg.png) repeat-x left top; }
+
+h2, a, .info a:hover, #formReturn, #nav li a:hover, #nav li.active a, #nav li.active ul li a:hover,
+#nav li ul li.active a:hover, #sidebar .box:hover h2, #sidebar .box .inner ul li a:hover, #nav li.active ul li.active a { color: #07426c; }
+
+#content .article p { color: #a9bdcb; }

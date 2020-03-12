@@ -1,0 +1,121 @@
+
+/***  Skin Styles  ***/
+
+body 				{ background-image: url("../../images/skins/skin-3/bodyBg.gif"); color: #595959;}					/* default background image, text color */
+body.alternate		{ background-image: url("../../images/skins/skin-3/bodyBg-fullSizeSubPage.gif"); }	/* alternate layout background */
+body.home.alternate	{ background-image: url("../../images/skins/skin-3/bodyBg-fullSize.gif"); }			/* alternate layout background on home page */
+#TopWrap			{ background-image: url("../../images/skins/skin-3/fullSize-headerBg.jpg"); }		/* alternate layout - slide show bg */
+
+body, body.alternate, #TopReveal, div#fancybox-outer	{ background-color: #FAF9F3; }	/* page background color */
+
+/* top header */
+
+#HeaderContent	{ background-image: url("../../images/skins/skin-3/topBg-glow.png"); }
+#HeaderMiddle	{ background-image: url("../../images/skins/skin-3/topBg-repeat.png"); }
+#HeaderLeft		{ background-image: url("../../images/skins/skin-3/topBg-left.png"); }
+#HeaderRight	{ background-image: url("../../images/skins/skin-3/topBg-right.png"); }
+
+/* logo */
+
+#Logo a			{ background-image: url("../../images/skins/skin-3/logo.png"); }
+#FooterLogo a	{ background-image: url("../../images/skins/skin-3/logo-bw-small.png"); }
+	
+/* links and menus */
+
+a, a:link, a:visited	{ color: #579B9B; }	/* default links */
+a:hover, a:active		{ color: #F3861B; }	/* default hover */
+
+/* main menu */
+
+#MmLeft		{ background-image: url("../../images/skins/skin-3/mainMenu-left.png"); }		/* menu background graphics */
+#MmRight	{ background-image: url("../../images/skins/skin-3/mainMenu-right.png"); }
+#MmBody		{ background-image: url("../../images/skins/skin-3/mainMenu-repeat.png"); }
+.mmDivider	{ border-right-color: #E3A143; }		/* vertical line seperator */
+
+#MainMenu a:link, #MainMenu a:visited								{ color: #fff; }			/* links - top level */
+#MainMenu a:hover, #MainMenu a:active								{ color: #AEE3E3; }			/* hover - top level */
+#MainMenu a.isMenuItem span.subTitle 								{ color: #FAC18F; }			/* sub-titles - top level */
+#MainMenu .sf-menu li li a:link, #MainMenu .sf-menu li li a:visited { color: #fff; }			/* links - sub-menus  */
+#MainMenu .sf-menu li li											{ background: #4F8A8A; }	/* background color - sub-menus */
+#MainMenu .sf-menu li li li											{ background: #4F9297; }	/* background color - sub-sub-menus */
+#MainMenu .sf-menu li li:hover, #MainMenu .sf-menu li li.sfHover, 
+#MainMenu .sf-menu li li a:focus, #MainMenu .sf-menu li li a:hover, 
+#MainMenu .sf-menu li li a:active									{ background: #579B9B; color: #fff;}	/* hover - sub-menus */
+
+/* headings */
+
+h1, h2, h3, h4, h5, h6, .headline, .title, .isMenuItem,
+.blogPostInfo, .blogDate, #fancybox-title-main			{ color: #8A867D; }	/* default headings color */
+.headline												{ color: #696969; }	/* headlines (page titles, etc) */
+h1 strong, h2 strong, h3 strong, h4 strong, 
+h5 strong, h6 strong, .headline strong, .title strong 	{ color: #318391; }	/* headline accent (added using <strong>inside</strong> heading) */
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, 
+.headline span, .title span, .isMenuItem span.subTitle, 
+.blogPostInfo											{ color: #000;}	/* sub-heading text (added using <span>inside</span> heading */	
+.alternate .pageTitle									{ color: #ccc; }	/* with header bg headlines (page titles) */
+.alternate .headline.pageTitle strong					{ color: #94C6CD; }	/* with header bg - page titles <strong>inside</strong> heading) */
+.sectionTitle 											{ border-bottom-color: #D8DADA; } /* in page headings - underline color */
+#cluetip h3												{ color: #eee; }	/* tool tip titles */
+
+/* other text */
+
+/* forms and inputs */
+
+input 					{ color: #000; }	/* input text color */
+textarea, .textInput 	{ background-color: #E1E2E3; background-image: url("../../images/skins/skin-3/inputBg.gif");	/* input background */
+						  border-color: #C9CACB #fff #fff #C9CACB;}	/* input border color */
+label.overlabel			{ color: #B3B4B4; }	/* text input labels */
+
+/* image containers */
+
+a.img, div.img			{ border: 1px solid #F1EEE0; background: #E2DFCD;}		/* default container with class="img" */
+a.img img, div.img img 	{ border: 1px solid #938955; }							/* inner image border for default container */
+a.imgHover				{ background-color: #E6E0C8; border-color: #C2BEAB; }	/* hover effect - container */
+a.img:hover img			{ border-color: #fff; }									/* hover effect - image */
+
+/* design structure */
+
+.pageTop .pageEdgeMiddle	{ background-image: url("../../images/skins/skin-3/PageTopBg-repeat.png");}	/* page edge effect - top */
+.pageTop .pageEdgeLeft		{ background-image: url("../../images/skins/skin-3/PageTopBg-left.png"); }
+.pageTop .pageEdgeRight		{ background-image: url("../../images/skins/skin-3/PageTopBg-right.png"); }
+.pageBottom .pageEdgeMiddle	{ background-image: url("../../images/skins/skin-3/PageBottomBg-repeat.png"); }	/* page edge effect - bottom */
+.pageBottom .pageEdgeLeft	{ background-image: url("../../images/skins/skin-3/PageBottomBg-left.png"); }
+.pageBottom .pageEdgeRight	{ background-image: url("../../images/skins/skin-3/PageBottomBg-right.png"); }
+
+/* search */
+
+#Search { background-image: url("../../images/skins/skin-3/search-bg.gif"); }
+
+/* side navigation menu */
+
+.sideNav li a	{ border-bottom-color: #CECED0;	}	/* side navigation links - bottom border */
+.sideNav li.currentPage, .sideNav li.current-cat, .sideNav li.current_page_item 	{ border-left-color: #F2871E; }
+.sideNav li.currentPage	a,
+.sideNav li.currentPage a:link, .sideNav li.currentPage a:visited,
+.sideNav li.currentPage a:hover, .sideNav li.currentPage a:active,
+.sideNav li.current-cat	a,
+.sideNav li.current-cat a:link, .sideNav li.current-cat a:visited,
+.sideNav li.current-cat a:hover, .sideNav li.current-cat a:active,
+.sideNav li.current_page_item a,
+.sideNav li.current_page_item a:link, .sideNav li.current_page_item a:visited,
+.sideNav li.current_page_item a:hover, .sideNav li.current_page_item a:active		{ color: #2C2C2C; }	/* side navigation - current page link */
+
+/* quote */
+
+.quote .quoteBox-1 { background-image: url("../../images/skins/skin-3/quote-small-top.png"); }		/* quote - background */
+.quote .quoteBox-2 { background-image: url("../../images/skins/skin-3/quote-small-repeat.gif"); }	/* quote - top */
+.quote .quoteBox-3 { background-image: url("../../images/skins/skin-3/quote-small-bottom.png"); }	/* quote - bottom */
+.quote p			{ color: #000; }	/* quote - text */
+.quoteAuthor p.name	{ color: #000; }	/* quote - author name */
+
+/* button styles */
+
+button.btn		{ background-image: url("../../images/skins/skin-3/button-sprite.gif");}	/* button background - sliding doors side 1 */
+button.btn span	{ background-image: url("../../images/skins/skin-3/button-sprite.gif"); 	/* button background - sliding doors side 2 */
+				  color: #E8F5F7;																/* text color */
+				  text-shadow: -1px -1px 2px #333; }												/* text shadow */
+button.btn:hover span, button.btnHover span { color: #fff; text-shadow: 1px 1px 1px #774D1E; }	/* hover text */
+	
+/* table styles */
+
+/* other */

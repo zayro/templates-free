@@ -1,0 +1,423 @@
+
+<!--  ************* TOGGLE HOME *************
+
+The home attribute on the root xml node determines whether or not there
+will automatically be a home page consisting of 3 images that show (as
+in the example). If you change it to false, whatever you make as the first
+menu item will just be considered the "homepage" and when the Flash is
+opened it will default to that. That item will still show whatever name
+you gave it though.
+
+-->
+
+<xml home="true">
+	
+	<!--  ************* TITLE *************
+		
+		This title node determines what title will display on top. Don't
+		forget to change the title in the HTML file though!
+	
+	-->
+
+	<title>
+		<![CDATA[Picture Perfect Photography]]>
+	</title>
+
+
+	
+	<!--  ************* E-MAIL ADDRESS *************
+		
+		This email node determines both what will display as your email,
+		and what e-mail address will be used in the users default mail client
+		when they click on it to send an email.
+	
+	-->
+	
+	<email>
+		<![CDATA[email@address.com]]>
+	</email>
+	
+
+
+	<!--  ************* PHONE NUMBER *************
+		
+		This phone number displays at the bottom of the page.
+	
+	-->
+
+	<phone>
+		<![CDATA[800 867 5309]]>
+	</phone>
+
+
+
+	<!--  ************* 3 HOME IMAGES *************
+		
+		These 3 image nodes determine the 3 images that show as the home page
+		if you have it, so pick your best stuff!
+		
+		How image nodes work (is how they work for galleries too):
+		
+		each image node has two attributes, one for the full sized image, which
+		displays as large as the browser has room for, so I recommend making
+		it's largest dimension 700-1000 pixels, and the one fore the icon, or
+		thumbnail image, and it's biggest dimension gets resized to 250, with
+		the other dimension sized to keep the aspect ratio. I recommend resizing
+		the thumbs appropriately.
+	
+	-->
+	
+	<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+	<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+	<image icon="images/arch/thumb13.jpg" full="images/arch/image13.jpg"/>
+
+
+	
+	<!--  ************* A SWF LINK BUTTON *************
+		
+		Every menu item is a button node like the one below. The type is
+		determined by the type attribute, "swf" loads an external swf, "gallery"
+		makes it a gallery, and "link" makes it bring up an external link.
+
+		This one is a "swf" type button, and it needs a name attribute, which
+		determines what the name of the button is, a link attribute, which
+		tells it what swf to load, and the width and height attributes are
+		the width and height of the stage of the swf. Swf files can be AS2,
+		AS3, SwishMax, whatever! 
+	
+	-->
+	
+	<button type="swf" name="About Us" link="swfs/AboutUs.swf" width="500" height="400"/>
+
+
+
+
+	<!--  ************* A GALLERY LINK BUTTON *************
+		
+		Every menu item is a button node like the one below. The type is
+		determined by the type attribute, "swf" loads an external swf, "gallery"
+		makes it a gallery, and "link" makes it bring up an external link.
+
+		This one is a "gallery" type button. The button node for a gallery
+		type button only needs one attribute, which is the name. It does need
+		sub-nodes though. It can have many client nodes, those are the images
+		that show up along the bottom, that you click. For each one of those,
+		it needs a name attribute for the name of the group of images, and an
+		icon attribute which is the link to the icon image that will display
+		there. Inside the client node, you put as many image nodes as you want,
+		and they will be the images displayed. The image node is covered above.
+	
+	-->
+	
+	<button type="gallery" name="Event Photography">
+	
+		<client name="An Event" icon="images/animals/thumb6.jpg">
+		
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+		
+		</client>
+		
+		<client name="Weddings" icon="images/animals/thumb10.jpg">
+		
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+		
+		</client>
+
+		<client name="Graduations" icon="images/animals/thumb5.jpg">
+		
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+		
+		</client>
+
+		<client name="Retirements" icon="images/animals/thumb4.jpg">
+			
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+		
+		</client>
+
+		<client name="Another Event" icon="images/animals/thumb2.jpg">
+			
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+		
+		</client>
+	
+	</button>
+	
+	<button type="gallery" name="Architecture">
+	
+		<client name="Rome" icon="images/arch/thumb5.jpg">
+		
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+	
+		<client name="New York" icon="images/arch/thumb7.jpg">
+		
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+
+		<client name="Chicago" icon="images/arch/thumb11.jpg">
+		
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+
+		<client name="Paris" icon="images/arch/thumb2.jpg">
+		
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+
+		<client name="Tokyo" icon="images/arch/thumb6.jpg">
+		
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+
+		<client name="London" icon="images/arch/thumb12.jpg">
+		
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb2.jpg" full="images/arch/image2.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb12.jpg" full="images/arch/image12.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+			<image icon="images/arch/thumb7.jpg" full="images/arch/image7.jpg"/>
+			<image icon="images/arch/thumb6.jpg" full="images/arch/image6.jpg"/>
+			<image icon="images/arch/thumb5.jpg" full="images/arch/image5.jpg"/>
+			<image icon="images/arch/thumb11.jpg" full="images/arch/image11.jpg"/>
+		
+		</client>
+	
+	</button>
+
+	<button type="gallery" name="Another XML Gallery">
+	
+		<client name="XML Group" icon="images/arch/thumb12.jpg">
+		
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+		
+		</client>
+		
+		<client name="Another" icon="images/animals/thumb10.jpg">
+		
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+		
+		</client>
+
+		<client name="Graduations" icon="images/arch/thumb6.jpg">
+		
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+		
+		</client>
+
+		<client name="Retirements" icon="images/animals/thumb4.jpg">
+			
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+		
+		</client>
+
+		<client name="Another Event" icon="images/animals/thumb2.jpg">
+			
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+			<image icon="images/animals/thumb10.jpg" full="images/animals/image10.jpg"/>
+			<image icon="images/animals/thumb4.jpg" full="images/animals/image4.jpg"/>
+			<image icon="images/animals/thumb3.jpg" full="images/animals/image3.jpg"/>
+			<image icon="images/animals/thumb2.jpg" full="images/animals/image2.jpg"/>
+			<image icon="images/animals/thumb1.jpg" full="images/animals/image1.jpg"/>
+			<image icon="images/animals/thumb9.jpg" full="images/animals/image9.jpg"/>
+			<image icon="images/animals/thumb8.jpg" full="images/animals/image8.jpg"/>
+			<image icon="images/animals/thumb7.jpg" full="images/animals/image7.jpg"/>
+			<image icon="images/animals/thumb6.jpg" full="images/animals/image6.jpg"/>
+			<image icon="images/animals/thumb5.jpg" full="images/animals/image5.jpg"/>
+		
+		</client>
+	
+	</button>
+
+
+
+	
+	<!--  ************* A LINK BUTTON *************
+		
+		Every menu item is a button node like the one below. The type is
+		determined by the type attribute, "swf" loads an external swf, "gallery"
+		makes it a gallery, and "link" makes it bring up an external link.
+
+		This one is a "link" type button. It needs a name attribute for what
+		to display in the menu, and the window mode determines how the link
+		will open. If you want it to open in a new window, use "_blank", if
+		you want it to browse to it from the current window (leaving yourpage),
+		use "_self".
+	
+	-->
+	
+	<button type="link" name="Availablity Calendar" window="_blank">
+		<![CDATA[http://calendar.google.com]]>
+	</button>
+
+	<button type="swf" name="Contact Info" link="swfs/ContactInfo.swf" width="500" height="400"/>
+
+</xml>

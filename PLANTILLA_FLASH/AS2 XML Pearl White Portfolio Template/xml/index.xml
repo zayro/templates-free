@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<settings
+		setting_html_page_title = "Pearl White Template"
+		setting_logo = "portfolio/logo.png"
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_photo_back_ground_color = "0xffffff"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xfaf6f7"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<menu>
+		<item 
+			item_name = "HOME" 
+			item_module = "portfolio.swf" 
+			item_xml = "xml/home.xml" 
+			item_start = "true"
+			item_link = ""
+		/>
+		<item 
+			item_name = "ABOUT" 
+			item_module = "long_text.swf" 
+			item_xml = "xml/long_text.xml" 
+			item_start = "false"
+			item_link = ""
+		/>
+		<item 
+			item_name = "PORTFOLIO" 
+			item_module = "portfolio.swf" 
+			item_xml = "xml/portfolio.xml"
+			item_start = "false" 
+			item_link = ""
+		/>
+		<item 
+			item_name = "NEWS" 
+			item_module = "news.swf" 
+			item_xml = "xml/news.xml" 
+			item_start = "false"
+			item_link = ""
+		/>
+		<item 
+			item_name = "SERVICES"
+			item_module = "services.swf" 
+			item_xml = "xml/services.xml" 
+			item_start = "false"
+			item_link = ""
+		/>
+		<item 
+			item_name = "DOWNLOADS" 
+			item_module = "downloads.swf" 
+			item_xml = "xml/downloads.xml" 
+			item_start = "false"
+			item_link = ""
+		/>
+		<item 
+			item_name = "EMPTY MODULE" 
+			item_module = "empty.swf" 
+			item_xml = ""
+			item_start = "false" 
+			item_link = ""
+		/>
+		<item 
+			item_name = "CONTACT" 
+			item_module = "contact.swf" 
+			item_xml = "xml/contact.xml"
+			item_start = "false" 
+			item_link = ""
+		/>
+		<item 
+			item_name = "LINK" 
+			item_module = "" 
+			item_xml = "" 
+			item_start = "false"
+			item_link = "http://www.flashden.net/user/ParkerAndKent"
+		/>
+	</menu>
+	<audio mp3 = "audio/audio.mp3" auto_start = "true" volume_value = "50" />
+</index>

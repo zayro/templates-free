@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+	
+	<config>
+		<mods 
+			
+		navPadding="25" 
+		myLogo = "images/logo.png" 
+		backgroundMusic = "yes"
+		myMusic = "audio/adg3.com_crypticPsyche.mp3"
+		
+		navActiveColor = "0xFFFFFF"
+		navRollOverColor = "0xff7566"
+		
+		navBGOutlineColor = "0xff0000"
+		navBGtopGradientColor = "0xa91100"
+		navBGbottomGradientColor = "0x5d0a00"
+		
+		subnavActiveColor = "0xcccccc"
+		subnavRollOverColor = "0xff0000"
+		
+		subnavBGOutlineColor = "0x666666"
+		subnavBGtopGradientColor = "0x333333"
+		subnavBGbottomGradientColor = "0x121212"
+		
+		footerColor = "0x000000"
+		navFontSize = "8"
+		subnavFontSize = "8"
+		logoX = "25"
+		logoY = "40"
+		
+		/>
+		<footerInfo><![CDATA[ Copyright 2008 My Company, All Rights Reserved.   1 (800) 123-4567   124 Street Address Dallas, TX 75206  <a href="http://www.flashden.net/">www.mycompany.com</a>]]></footerInfo>
+	</config>
+	
+	<navigation>
+		<link name="HOME" module="modules/slideshow/slideshow.swf" data="modules/slideshow/slideshow.xml" background="images/background1.jpg" />
+		<link name="ABOUT" module="modules/text-simple/text.swf" data="modules/text-simple/about.xml" background="images/background2.jpg">
+			<sublink name="Team" module="modules/staff/staff.swf" data="modules/staff/staff.xml" background="images/background3.jpg" />
+			<sublink name="Text + Image" module="modules/text-image/text.swf" data="modules/text-image/about.xml" background="images/background4.jpg" />
+			<sublink name="Text + Sections" module="modules/text-sections/text.swf" data="modules/text-sections/text.xml" background="images/background5.jpg" />
+			<sublink name="Simple News Module" module="modules/news-simple/news.swf" data="modules/news-simple/news.xml" background="images/background6.jpg" />
+		</link>
+		<link name="PROJECTS" module="modules/projects/projects.swf" data="modules/projects/projects.xml" background="images/background4.jpg" />
+		<link name="GALLERIES" module="modules/galleries-traditional/gallery-traditional.swf" data="modules/galleries-traditional/gallery.xml" background="images/background1.jpg">
+			<sublink name="Scrolling Gallery" module="modules/galleries-scrolling/gallery-scrolling.swf" data="modules/galleries-scrolling/gallery1.xml" background="images/background2.jpg" />
+			<sublink name="Video Gallery" module="modules/galleries-video/gallery-video.swf" data="modules/galleries-video/videos.xml" background="images/background3.jpg" />
+			<sublink name="Landscape" module="modules/galleries-traditional/gallery-traditional.swf" data="modules/galleries-traditional/landscape.xml" background="images/background4.jpg" />
+			<sublink name="Animals" module="modules/galleries-traditional/gallery-traditional.swf" data="modules/galleries-traditional/animals.xml" background="images/background5.jpg" />
+			<sublink name="Architecture" module="modules/galleries-traditional/gallery-traditional.swf" data="modules/galleries-traditional/architecture.xml" background="images/background6.jpg" />
+		</link>
+		<link name="MUSIC" module="modules/mp3player/mp3player.swf" data="modules/mp3player/album1.xml" background="images/background1.jpg" />
+		<link name="NEWS" module="modules/news-traditional/news.swf" data="modules/news-traditional/news.xml" background="images/background2.flv" />
+		<link name="CONTACT" module="modules/contact/contact.swf" data="modules/contact/contactinfo.xml" background="images/background6.jpg" />
+		<link name="MY BLOG" module="url" data="http://blog.flashden.net/" />
+	</navigation>
+	
+</main>

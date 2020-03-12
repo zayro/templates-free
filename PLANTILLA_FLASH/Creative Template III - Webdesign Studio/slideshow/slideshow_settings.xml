@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings 
+
+	width="590" 
+	height="300" 
+	
+	navType="circles" 
+	navColor1="0x000000" 
+	navColor2="0xffffff"
+	navOpacity="70"
+	
+	preloaderColor="0xffffff"
+	
+	slideshow="true"
+	slideTime="6"
+	transitionTime="1.5"
+	
+	background="0x000000"
+	
+>
+	
+	<photo src="photos/0.jpg" />
+	<photo src="photos/1.jpg" />
+	<photo src="photos/2.jpg" />
+	<photo src="photos/3.jpg" />
+	
+</settings>

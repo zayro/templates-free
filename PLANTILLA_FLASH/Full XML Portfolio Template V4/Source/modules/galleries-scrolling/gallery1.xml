@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<site>
+	<window type="image" picture="images/image2.jpg">
+		<title><![CDATA[<b>Image Title</b>]]></title>
+		<asset>images/large2.jpg</asset>
+		<caption><![CDATA[Special Characters àáâ<B>ãäß</B> é <I>ê</I> í <B><I>ü</I></B>. This Image Module can load JPG, GIF and PNG]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="video" picture="videos/video-logo.jpg">
+		<title><![CDATA[<b>Logo Animation</b>]]></title>
+		<asset>videos/video-logo.flv</asset>
+		<caption><![CDATA[This is <b>some</b> information about this video. Click to play.]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="video" picture="videos/video1.jpg">
+		<title><![CDATA[<b>Video Module</b>]]></title>
+		<asset>videos/video01.flv</asset>
+		<caption><![CDATA[This is <b>some</b> information about this video. Click to play.]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="image" picture="images/image1.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large1.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="video" picture="videos/video2.jpg">
+		<title><![CDATA[<b>Video</b>]]></title>
+		<asset>videos/video02.flv</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="video" picture="videos/video3.jpg">
+		<title><![CDATA[<b>Video</b>]]></title>
+		<asset>videos/video03.flv</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="image" picture="images/image3.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large3.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="image" picture="images/image4.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large4.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="image" picture="images/image5.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large5.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+	<window type="image" picture="images/image6.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large6.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image7.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large7.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image8.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large8.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image9.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large9.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image10.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large10.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image11.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large11.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image12.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large12.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image13.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large13.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image14.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large14.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+		<window type="image" picture="images/image15.jpg">
+		<title><![CDATA[<b>Image</b>]]></title>
+		<asset>images/large15.jpg</asset>
+		<caption><![CDATA[This is <b>some</b> info]]></caption>
+		<longdescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam eget neque. Fusce mollis molestie ante. Cras convallis eros et est. Ut egestas quam id nunc. Nullam at urna. Integer quis tellus. Quisque luctus accumsan neque. Sed pulvinar. Donec sed lectus sed dui accumsan volutpat. Nullam quis eros eget nisi porta sodales. Suspendisse tristique ultricies velit</longdescription>
+	</window>
+</site>

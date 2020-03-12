@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlObject>
+	<article1>
+		<p1><![CDATA[<h2>Article Title Goes Here
+<font color="#555555">Each page has its own external XML file, which allows you to edit each Content Page without ever needing to open Flash. You can edit the Images, Text, and Links directly from an external XML file. You can style the HTML with the included EXTERNAL CSS style sheet. Allowing you to change font, size, color, font-weight, etc. Simply open the XML file for the page you want to edit, and change the titles, subtitles, text, <a href="http://www.flashden.net">hyperlinks </a>and photos.</font></h2>]]></p1>
+		<imageURL>site_images/homeTitle.png</imageURL>
+		<imageURL2>site_images/homeImage.jpg</imageURL2>
+		<imageURL3>site_images/homeFooter.jpg</imageURL3>
+	</article1>
+	<calendar>
+		<title><![CDATA[<p class="l2h7">CALENDAR OF EVENTS</p>]]></title>
+	</calendar>
+	<event1>
+		<title><![CDATA[<p class="l2alt2" class="l2bold">Event Title Goes Here</p>]]></title>
+		<dateTime><![CDATA[<p class="l2alt3">Jan 1 2009  8:00pm</p>]]></dateTime>
+		<eventDesc><![CDATA[<p class="l2alt2">Edit this Event title, date, description, image, url, text, font, size, color, all from external home.xml and style.css   </p><a class="aAlt" href="http://kiba.vn/">hyperlink</a>]]></eventDesc>
+	</event1>
+	<event2>
+		<title><![CDATA[<p class="l2alt2" class="l2bold">Event Title Goes Here</p>]]></title>
+		<eventDesc><![CDATA[<p class="l2alt2">Edit this Event title, date, description, image, url, text, font, size, color, all from external home.xml and style.css   </p><a class="aAlt" href="http://kiba.vn/">hyperlink</a>]]></eventDesc>
+		<dateTime><![CDATA[<p class="l2alt3">Jan 1 2009  8:00pm</p>]]></dateTime>
+	</event2>
+	<event3>
+		<title><![CDATA[<p class="l2alt2" class="l2bold">Event Title Goes Here</p>]]></title>
+		<eventDesc><![CDATA[<p class="l2alt2">Edit this Event title, date, description, image, url, text, font, size, color, all from external home.xml and style.css   </p><a class="aAlt" href="http://kiba.vn/">hyperlink</a>]]></eventDesc>
+		<dateTime><![CDATA[<p class="l2alt3">Jan 1 2009  8:00pm</p>]]></dateTime>
+	</event3>
+	<event4>
+		<title><![CDATA[<p class="l2alt2" class="l2bold">Event Title Goes Here</p>]]></title>
+		<eventDesc><![CDATA[<p class="l2alt2">Edit this Event title, date, description, image, url, text, font, size, color, all from external home.xml and style.css   </p><a class="aAlt" href="http://kiba.vn/">hyperlink</a>]]></eventDesc>
+		<dateTime><![CDATA[<p class="l2alt3">Jan 1 2009  8:00pm</p>]]></dateTime>
+	</event4>
+	<video1>
+		<URL>site_videos/intro2.flv</URL>
+		<title><![CDATA[<p class="l2h6">To purchase intro video template <a class="aAlt" href="http://videohive.net/item/vermillion/28278">check out Hedley on VideoHive</a></p>]]></title>
+	</video1>
+	<video2>
+		<URL>site_videos/intro3.flv</URL>
+		<title><![CDATA[<p class="l2h6">To purchase intro video template <a class="aAlt" href="http://kiba.vn/">check out Hedley on VideoHive</a></p>]]></title>
+	</video2>
+	<footer>
+		<copyright><![CDATA[<p class="l2h4">Copyright 2008-2009 - Yoursite.com - All Rights Reserved</p>]]></copyright>
+		<p1><![CDATA[<p class="l2h3">FOOTER TEXT</p>]]></p1>
+	</footer>
+</xmlObject>

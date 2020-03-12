@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+
+
+<date url_config="xml/configuration_mp3.xml">
+
+	
+<item path="mp3/1.mp3">
+<![CDATA[<FONT COLOR="#646566">Song title here  1</FONT>]]>	
+</item>	
+
+<item path="mp3/2.mp3">
+<![CDATA[<FONT COLOR="#646566">Song title here  2</FONT>]]>	
+</item>	
+	
+	
+<item path="mp3/3.mp3">
+<![CDATA[<FONT COLOR="#646566">Song title here  3</FONT>]]>	
+</item>	
+	
+	
+<item path="mp3/4.mp3">
+<![CDATA[<FONT COLOR="#646566">Song title here 4</FONT>]]>	
+</item>	
+
+</date>
+

@@ -1,0 +1,134 @@
+/* Theme logo */
+h1#logo a {
+	background-image: url(../../images/xero_logos/blue.png);	
+}
+
+/* Links */
+a,
+a:link,
+a:visited {
+	color: #009db4;
+	text-decoration: none;	
+}
+a:hover,
+a:focus {
+	text-decoration: underline;	
+}
+a:active {
+	color: #006371	
+}
+
+/* < fixes broswer rendering problem */
+h1 a:link,
+h2 a:link,
+h3 a:link,
+h4 a:link,
+h5 a:link,
+h6 a:link,
+h1 a:visited,
+h2 a:visited,
+h3 a:visited,
+h4 a:visited,
+h5 a:visited,
+h6 a:visited {
+	color: #222	
+}
+/* /> */
+
+/* Headings Links */
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover,
+h1 a:focus,
+h2 a:focus,
+h3 a:focus,
+h4 a:focus,
+h5 a:focus,
+h6 a:focus {
+	text-decoration: none;
+	color: #009db4;
+}
+h1 a:active,
+h2 a:active,
+h3 a:active,
+h4 a:active,
+h5 a:active,
+h6 a:active {
+	color: #006371
+}
+
+/* IMG */
+a:hover img {
+	background-color: #009db4;
+	border-color: #000;
+}
+
+/* Tables */
+table th {
+	color: #fff;
+	background-color: #10bed7;
+}
+
+
+
+/* BG
+ ------------------------------------- */
+/* Navigation */
+ul#nav li a,
+ul#nav li a span,
+ul#nav ul li a:hover,
+ul#nav ul li.sfHover > a,
+
+/* Slider */
+.nivo-directionNav a,
+.nivo-controlNav a.active,
+
+/* Post comment count bg */
+div.post .post_info .comment_count,
+
+/* Buttons */
+a.small_button,
+a.large_button,
+a.large_button.view span.view_icon,
+a.large_button.arrow span.arrow_icon,
+a.large_button.external_link span.external_link_icon,
+a.small_button.view span.view_icon,
+a.small_button.arrow span.arrow_icon,
+a.small_button.external_link span.external_link_icon,
+
+/* Forms */
+input.submit,
+button,
+
+/* Sidebar */
+#sidebar .tabbed_widget ul.widget_tabs li a,
+#sidebar .tabbed_widget ul.widget_tabs li a span,
+#sidebar .tabbed_widget ul.widget_tabs li a.first_tab,
+#sidebar .tabbed_widget ul.widget_tabs li a.last_tab span,
+
+/* Comments reply buttons */
+ul#comments_container li div.comment_container .comment .reply_button {
+	background-image: url(../../images/skins/skyblue_skin.png);	
+}
+
+/* BUTTONS
+ ------------------------------------- */
+/* site global buttons */
+a.small_button,
+a.large_button,
+
+/* comments reply button */
+ul#comments_container li div.comment_container .comment a.reply_button,
+ul#comments_container li div.comment_container .comment a.reply_button:link,
+ul#comments_container li div.comment_container .comment a.reply_button:visited,
+
+/* forms buttons */
+input.submit,
+button {
+	border-color: #009bb2;
+	text-shadow: 0px -1px 0px #009bb2;
+	color: #fff;	
+}

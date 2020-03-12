@@ -1,0 +1,13 @@
+﻿<DynamicWeb>
+
+<Section head="CASE STUDY - Work in progress" p="95" f="Work" subf="Case Study" subDisplay="on" lefthead="WORK">
+		<data img="dat/Images/Home/img5.jpg">
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+
+</Sections>
+
+</DynamicWeb>
+
+

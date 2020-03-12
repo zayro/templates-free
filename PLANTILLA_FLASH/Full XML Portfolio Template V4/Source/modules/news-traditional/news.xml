@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<newsmodule>
+<year name="2009">
+	<news>
+		<date>Apr 18</date>
+		<title><![CDATA[v4 Complete]]></title>
+		<info>
+		<![CDATA[It's been a really long time since I've posted to Flashden. I've been hacking away at this great template for the past 6 months - in between holding babies and a fulltime job - it's finally come to fruition. It borrows much of the functionality behind the already hugely successful v3 and holds tremendous structural and programming improvements. It's been a challenge to build. The great thing about this is that I consider this to be a flexible structure from which to build many different types of websites. If you're not very tech-minded you can still customize this site a great deal to look like what you want. If you're pretty handy with Flash, you can achieve a totally new look & feel without having to hack too much code. Special Characters àáâ<B>ãäß</B> é <I>ê</I> í <B><I>ü</I></B>.
+		]]></info>
+	</news>
+	<news>
+		<date>Apr 10</date>
+		<title><![CDATA[Added a new module - Projects Gallery]]></title>
+		<info>
+		<![CDATA[Nullam pretium pellentesque purus. Curabitur turpis nunc, venenatis quis, fringilla quis, ornare vitae, velit. Phasellus vel odio. Donec hendrerit urna at enim. Quisque rhoncus augue ut magna. Nulla ut nunc a sem facilisis egestas. In tincidunt congue erat. Etiam vel nulla. Curabitur diam. Integer odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac sapien sit amet quam tempus tristique. In commodo accumsan nisi.
+Morbi a risus sed dolor convallis gravida. Sed accumsan, est quis aliquam dignissim, libero ipsum dapibus tellus, vel fermentum ante orci eu lacus. Mauris enim nibh, venenatis in, ultricies at, elementum tempor, magna. Suspendisse non lectus quis ligula imperdiet euismod. Nullam velit arcu, elementum sed, fermentum luctus, lacinia sed, orci. Mauris hendrerit, metus vel sagittis viverra, elit ante scelerisque ligula, eu vehicula velit nisl at orci. Nam laoreet, erat quis consectetur porttitor, est sem euismod velit, ut faucibus turpis risus tincidunt eros. Integer quam ante, condimentum vel, lobortis eget, dictum vitae, elit. Vestibulum dolor. Aenean aliquam porttitor nibh. Fusce lobortis, dolor in sagittis ullamcorper, lectus augue elementum augue, non pharetra risus augue tincidunt lorem. Ut et tortor sed erat cursus sodales. Nunc rhoncus quam eu metus. Maecenas nunc. Phasellus eleifend.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum, velit a tincidunt malesuada, lacus nisi tempus quam, aliquam aliquet nulla velit vel est. Sed ac libero. Etiam a quam non tellus rutrum bibendum. Duis blandit. Aliquam sodales augue nec augue. Cras felis. Donec bibendum fermentum nisi. Integer fringilla, mi a aliquet varius, ligula ligula iaculis dolor, a pharetra sapien erat et erat. Praesent pellentesque, nibh ut egestas ultrices, lacus sapien hendrerit quam, eu convallis ipsum justo non libero. Curabitur sit amet nulla. Donec eu elit. Curabitur metus felis, varius non, consectetur ac, lobortis eu, nunc. Aliquam ultrices odio ut leo. Aliquam hendrerit dapibus neque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum, velit a tincidunt malesuada, lacus nisi tempus quam, aliquam aliquet nulla velit vel est. Sed ac libero. Etiam a quam non tellus rutrum bibendum. Duis blandit. Aliquam sodales augue nec augue. Cras felis. Donec bibendum fermentum nisi. Integer fringilla, mi a aliquet varius, ligula ligula iaculis dolor, a pharetra sapien erat et erat. Praesent pellentesque, nibh ut egestas ultrices, lacus sapien hendrerit quam, eu convallis ipsum justo non libero. Curabitur sit amet nulla. Donec eu elit. Curabitur metus felis, varius non, consectetur ac, lobortis eu, nunc. Aliquam ultrices odio ut leo. Aliquam hendrerit dapibus neque.
+ ]]></info>
+	</news>
+	<news>
+		<date>Jan 21</date>
+		<title><![CDATA[Added a new module - MP3 Player]]></title>
+		<info>
+		<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum, velit a tincidunt malesuada, lacus nisi tempus quam, aliquam aliquet nulla velit vel est. Sed ac libero. Etiam a quam non tellus rutrum bibendum. Duis blandit. Aliquam sodales augue nec augue. Cras felis. Donec bibendum fermentum nisi. Integer fringilla, mi a aliquet varius, ligula ligula iaculis dolor, a pharetra sapien erat et erat. Praesent pellentesque, nibh ut egestas ultrices, lacus sapien hendrerit quam, eu convallis ipsum justo non libero. Curabitur sit amet nulla. Donec eu elit. Curabitur metus felis, varius non, consectetur ac, lobortis eu, nunc. Aliquam ultrices odio ut leo. Aliquam hendrerit dapibus neque.
+Nullam pretium pellentesque purus. Curabitur turpis nunc, venenatis quis, fringilla quis, ornare vitae, velit. Phasellus vel odio. Donec hendrerit urna at enim. Quisque rhoncus augue ut magna. Nulla ut nunc a sem facilisis egestas. In tincidunt congue erat. Etiam vel nulla. Curabitur diam. Integer odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac sapien sit amet quam tempus tristique. In commodo accumsan nisi.
+Morbi a risus sed dolor convallis gravida. Sed accumsan, est quis aliquam dignissim, libero ipsum dapibus tellus, vel fermentum ante orci eu lacus. Mauris enim nibh, venenatis in, ultricies at, elementum tempor, magna. Suspendisse non lectus quis ligula imperdiet euismod. Nullam velit arcu, elementum sed, fermentum luctus, lacinia sed, orci. Mauris hendrerit, metus vel sagittis viverra, elit ante scelerisque ligula, eu vehicula velit nisl at orci. Nam laoreet, erat quis consectetur porttitor, est sem euismod velit, ut faucibus turpis risus tincidunt eros. Integer quam ante, condimentum vel, lobortis eget, dictum vitae, elit. Vestibulum dolor. Aenean aliquam porttitor nibh. Fusce lobortis, dolor in sagittis ullamcorper, lectus augue elementum augue, non pharetra risus augue tincidunt lorem. Ut et tortor sed erat cursus sodales. Nunc rhoncus quam eu metus. Maecenas nunc. Phasellus eleifend.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum, velit a tincidunt malesuada, lacus nisi tempus quam, aliquam aliquet nulla velit vel est. Sed ac libero. Etiam a quam non tellus rutrum bibendum. Duis blandit. Aliquam sodales augue nec augue. Cras felis. Donec bibendum fermentum nisi. Integer fringilla, mi a aliquet varius, ligula ligula iaculis dolor, a pharetra sapien erat et erat. Praesent pellentesque, nibh ut egestas ultrices, lacus sapien hendrerit quam, eu convallis ipsum justo non libero. Curabitur sit amet nulla. Donec eu elit. Curabitur metus felis, varius non, consectetur ac, lobortis eu, nunc. Aliquam ultrices odio ut leo. Aliquam hendrerit dapibus neque. ]]></info>
+	</news>
+</year>
+<year name="2008">
+	<news>
+		<date>Oct 31</date>
+		<title><![CDATA[Development begins]]></title>
+		<info>
+		<![CDATA[Development for XML Portfolio Template v4 has begun.]]>
+		</info>
+	</news>
+	<news>
+		<date>Sept 23</date>
+		<title><![CDATA[About this news module]]></title>
+		<info>
+		<![CDATA[This news module is managed by XML and styled with CSS. This news module is categorized by year. You can add an unlimited amount of news items. <li>This text field is HTML-enabled so you can have lists like this</li><li>Scrollbars only appear when they're needed</li><li>That goes for the text field you're viewing here and also the news list to the left</li>This is an example of a <a href="http://www.flashden.net" target="_blank">link.</a>
+<B>Bold Text</B> <I>Italics Text</I> <B><I>Bold and Italics Text</I></B>
+<img src="modules/news/images/space.jpg" align="left">You can also load in images like this. I can also change the font color directly like <font color="#0033CC">this.</font>
+Check out the other news examples to see how this thing runs.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam auctor augue sed felis. Aliquam quis ipsum. Nunc fermentum augue in diam. Aliquam erat volutpat. Aenean ut tortor. Nulla id tortor ut enim posuere commodo. Mauris ultrices ullamcorper dui. Pellentesque mi quam, varius et, condimentum eu, ullamcorper sit amet, urna. Praesent vehicula leo id enim pulvinar rhoncus. Nulla convallis, arcu at congue ultricies, velit ligula pharetra leo, ullamcorper sollicitudin nisl quam ac ipsum. Ut non leo. Fusce vel dui. Proin porttitor ligula ac libero. Fusce ut massa non elit pulvinar dictum. Maecenas dui tellus, tincidunt vitae, laoreet sollicitudin, egestas et, mi.
+Integer eu nibh in purus mattis ultricies. Morbi vitae elit id sapien bibendum elementum. Duis urna. In hac habitasse platea dictumst. Phasellus imperdiet est non nibh. Duis hendrerit, nunc at suscipit vehicula, lacus mi ultrices justo, eget lobortis neque nunc non quam. Nullam nibh. Nam ut dolor at felis porta rutrum. Etiam lacus arcu, scelerisque convallis, semper at, pretium sed, sem. Vestibulum lorem. Nulla vel nisi ac diam eleifend iaculis. Vivamus in justo eu tellus consequat sollicitudin. Etiam egestas faucibus magna. Nullam et arcu at lacus rutrum faucibus.
+Integer eu nibh in purus mattis ultricies. Morbi vitae elit id sapien bibendum elementum. Duis urna. In hac habitasse platea dictumst. Phasellus imperdiet est non nibh. Duis hendrerit, nunc at suscipit vehicula, lacus mi ultrices justo, eget lobortis neque nunc non quam. Nullam nibh. Nam ut dolor at felis porta rutrum. Etiam lacus arcu, scelerisque convallis, semper at, pretium sed, sem. Vestibulum lorem. Nulla vel nisi ac diam eleifend iaculis. Vivamus in justo eu tellus consequat sollicitudin. Etiam egestas faucibus magna. Nullam et arcu at lacus rutrum faucibus. ]]>
+		</info>
+	</news>
+</year>
+<year name="2007">
+	<news>
+		<date>Jun 2</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Jun 1</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 30</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 29</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 28</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 27</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 26</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 25</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 24</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 23</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 22</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 21</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 20</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 19</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 18</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 17</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 16</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 15</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 14</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+	<news>
+		<date>Apr 13</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+<year name="2006">
+	<news>
+		<date>Aug 2</date>
+		<title><![CDATA[Test 1]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+<year name="2005">
+	<news>
+		<date>Jun 2</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+<year name="2004">
+	<news>
+		<date>Dec 2</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+<year name="2003">
+	<news>
+		<date>Jun 2</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+<year name="2002">
+	<news>
+		<date>Jun 2</date>
+		<title><![CDATA[This is a test title]]></title>
+		<info>
+		<![CDATA[Phasellus risus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur nec augue quis lorem varius elementum. Suspendisse vel magna at sapien gravida placerat. Nunc lacus sem, vestibulum in, interdum ut, molestie at, justo. Sed in nulla. Vestibulum id justo. Donec sit amet nulla. Suspendisse augue ante, bibendum eu, elementum eu, pellentesque vitae, orci. Pellentesque auctor tristique tellus. Mauris iaculis ligula sed diam. Pellentesque non ipsum.
+		]]>
+		</info>
+	</news>
+</year>
+</newsmodule>

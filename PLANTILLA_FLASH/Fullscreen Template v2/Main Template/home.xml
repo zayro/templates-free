@@ -1,0 +1,118 @@
+<!-- 
+-----------------------------------------------------------------------
+HOME XML:
+-----------------------------------------------------------------------
+
+|||||||MAIN ATTRIBUTES|||||||||||||||||||||||||||||||||||||||||||||||||
+
+delayTime == SECONDS between slides
+slideshowX == Main slideshow X Position
+slideshowY == Main slideshow Y Position
+menuVisible == 'yes' to show menu || 'no' to hide menu
+menuX == The X position of the slide menu
+menuY == The Y position of the slide menu
+menuSpacing == Separation between each menu button
+menuOutEdgeColor == Color of menu button edge when not current slide
+menuOutBgColor == Color of menu button middle when not current slide
+menuOverEdgeColor == Color of menu button edge when current slide
+menuOverBgColor == Color of menu button middle when current slide
+
+|||||||SLIDE ATTRIBUTES||||||||||||||||||||||||||||||||||||||||||||||||
+
+photoX == The X position of photo for the slide
+photoY == The Y position of photo for the slide
+textX == The X position of the text for the slide
+textY == The Y position of the text for the slide
+textWidth == The width of the text for the slide
+
+-----------------------------------------------------------------------
+-->
+
+<?xml version="1.0"?>
+<content 
+	delayTime = "10"
+	slideshowX = "25"
+	slideshowY = "25"
+	menuVisible = "yes"
+	menuDirection = "x"
+	menuX = "25"
+	menuY = "433"
+	menuSpacing = "18"
+	menuOutEdgeColor = "0x000000"
+	menuOutBgColor = "0x333333"
+	menuOverEdgeColor = "0x000000"
+	menuOverBgColor = "0x999999">
+    
+	<slideshow>
+		<photoX>0</photoX>
+		<photoY>20</photoY>
+		<textX>0</textX>
+		<textY>330</textY>
+		<textWidth>850</textWidth>
+        <photo>home_images/1.jpg</photo>
+		<description>
+			<![CDATA[This here is an <font color="#FF9900">advanced XML Slideshow</font>, which not only hold <font color="#FF9900">images</font> and <font color="#FF9900">swf files</font>, but also <font color="#FF9900">text</font> with CDATA tags. This text can be customized to any limit html text can be, including color, links, font, alignment, etc.]]>
+		</description>
+    </slideshow>
+	
+    <slideshow>
+		<photoX>0</photoX>
+		<photoY>25</photoY>
+		<textX>0</textX>
+		<textY>5</textY>
+		<textWidth>850</textWidth>
+        <photo>home_images/2.jpg</photo>
+		<description>
+			<![CDATA[Both the <font color="#FF9900">text</font> and the <font color="#FF9900">pictures</font> have their own <font color="#FF9900">X</font> and <font color="#FF9900">Y</font> coordinates and can be placed anywhere in any order!]]>
+		</description>
+    </slideshow>
+	
+    <slideshow>
+		<photoX>0</photoX>
+		<photoY>0</photoY>
+		<textX>660</textX>
+		<textY>0</textY>
+		<textWidth>200</textWidth>
+        <photo>home_images/3.jpg</photo>
+		<description>
+			<![CDATA[XML File <font color="#FF9900">Main</font> attributes<br>
+	- Delay Time<br>
+	- Main X/Y Position<br>
+	- Holder X/Y Position<br>
+	- Menu Visible<br>
+	- menuDirection<br>
+	- Menu X/Y Position<br>
+	- Menu Spacing<br>
+	- Menu Out Colors<br>
+	- Menu Over Colors]]>
+		</description>
+    </slideshow>
+	
+	 <slideshow>
+		<photoX>0</photoX>
+		<photoY>0</photoY>
+		<textX>660</textX>
+		<textY>0</textY>
+		<textWidth>200</textWidth>
+        <photo>home_images/4.jpg</photo>
+		<description>
+			<![CDATA[XML File <font color="#FF9900">Slide</font> attributes<br>
+	- Photo X/Y Positions<br>
+	- Text X/Y Positions<br>
+	- Text Width<br>
+	- Photo Path<br>
+	- Text Description]]>
+		</description>
+	</slideshow>
+	
+	 <slideshow>
+		<photoX>0</photoX>
+		<photoY>25</photoY>
+		<textX>0</textX>
+		<textY>0</textY>
+		<textWidth>0</textWidth>
+        <photo>home_images/swfFile.swf</photo>
+		<description>
+		</description>
+	</slideshow>
+</content>

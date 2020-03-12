@@ -1,0 +1,40 @@
+h1{
+   font-family:Verdana;
+   font-size:60;
+   color:#080808;
+   font-weight:bold;
+   font-style:italic;
+}
+h2{
+   font-family:Verdana;
+   font-size: 14;
+   color:#FFFFFF;
+   font-weight:bold;
+   display:inline;
+}
+p{
+   font-family:Verdana;
+   font-size:10;
+   color:#333333;
+}
+a{
+   font-family: Verdana;
+   font-size:10;
+   color:#FFFFFF;
+}
+a:link {
+   color:#FFFFFF;
+   text-decoration: none;
+}
+a:visited {
+   color:#FFFFFF;
+   text-decoration: none;
+}
+a:hover {
+   color:#FFFFFF;
+   text-decoration: underline;
+}
+a:active {
+   color:#FFFFFF;
+   text-decoration: none;
+}

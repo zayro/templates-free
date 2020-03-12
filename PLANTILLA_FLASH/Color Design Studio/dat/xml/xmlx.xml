@@ -1,0 +1,42 @@
+<DynamicWeb>
+
+<!--
+p=15 News
+p=25 About
+p=35 Folio
+p=45 Contact
+p=55 Video
+-->
+
+
+
+<Sections id="menu">
+		<Menu btnName="HABERLER" p="15" f="News" clrx="0xCC0033" h="YAKIN AJANS HABERLERİ" css="news" bg="of" bgImg="dat/Images/Bg/img.jpg"/>
+		<Menu btnName="ABOUT US" p="25" f="About" clrx="0x99CC00" h="ABOUT TITLE" css="about" bg="of" bgImg="dat/Images/Bg/img.jpg"/>
+		<Menu btnName="ABOUT 2" p="25" f="About" clrx="0xCC3300" h="ABOUT TITLE" css="about" bg="of" bgImg="dat/Images/Bg/img.jpg"/>
+		<Menu btnName="GALLERY" p="35" f="Folio" clrx="0xFFCC00" h="GALLERY TITLE" css="folio" bg="off" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="DESING" p="35" f="Folio" clrx="0x990000" h="DESIGN TITLE" css="folio" bg="on" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="FASHION" p="35" f="Fashion" clrx="0x222222" h="FASHION TITLE" css="folio" bg="off" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="MOVIES" p="55" f="Videos" clrx="0xcccccc" h="MOVIES TITLE" css="folio" bg="on" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="ABOUT 3" p="25" f="About" clrx="0xCC3300" h="ABOUT TITLE" css="about" bg="of" bgImg="dat/Images/Bg/img.jpg"/>
+		<Menu btnName="GALLERY" p="35" f="Folio" clrx="0xFFCC00" h="GALLERY TITLE" css="folio" bg="off" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="ART" p="35" f="Fashion" clrx="0x9CC102" h="FASHION TITLE" css="folio" bg="off" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+		<Menu btnName="CONTACT" p="45" f="Contact" clrx="0x153759" h="CONTACT TITLE" css="contact" bg="off" bgImg="dat/Images/Bg/img.jpg">&gt;</Menu>
+</Sections>
+
+<Sections id="logo">
+		<data><font color="#ff0000">CO</font><font color="#ffff00">LO</font><font color="#9BE700">UR</font><font color="#FF6600">DE</font><font color="#cc0000">SI</font><font color="#0066ff">GN</font></data>
+		<data>STUDIO</data>
+</Sections>
+
+<Sections id="contact">
+		<data>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br/>  <br/>  <br/>Company name<br/><a href="mailto:demo@gmail.com">demo@gmail.com</a><br/><br/><br/>+33 (11) 00 - 11 22 333 <br/>Loren Ipsum 33<br/>111 11 Dolor Sit <br/>Country</data>
+</Sections>
+
+<Sections id="copy">
+		<data>(C) 2011. ALL RIGHTS ARE RESERVED.</data>
+</Sections>
+
+
+
+</DynamicWeb>

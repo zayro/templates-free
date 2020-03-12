@@ -1,0 +1,677 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Parallelus" />
+	<meta name="description" content="A brief description of this website or your business." />
+	<meta name="keywords" content="keywords, or phrases, associated, with each page, are best" />
+	<title>Boost - A Launchpad for Success</title>
+	
+	<!-- Favorites icon -->
+	<link rel="shortcut icon" href="http://para.llel.us/favicon.ico" />
+	
+	<!-- Style sheets -->
+	<link rel="stylesheet" type="text/css" href="css/reset.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/menu.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/fancybox.css" />
+	<link rel="stylesheet" type="text/css" href="css/tooltip.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/default.css" />
+
+	<!-- Skin Style Sheet -->
+	<link rel="stylesheet" href="css/skins/skin-1.css" type="text/css" id="SkinCSS" />
+	
+	<!-- jQuery framework and utilities -->
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript"> $j = jQuery.noConflict(); </script>
+	<script type="text/javascript" src="js/jquery-ui-1.7.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
+	<script type="text/javascript" src="js/hoverIntent.min.js"></script>
+	<script type="text/javascript" src="js/jquery.bgiframe.min.js"></script>
+	<!-- Drop down menus -->
+	<script type="text/javascript" src="js/superfish.min.js"></script>
+	<script type="text/javascript" src="js/supersubs.min.js"></script>
+	<!-- Tooltips -->
+	<script type="text/javascript" src="js/jquery.cluetip.min.js"></script>
+	<script type="text/javascript" src="js/toolTipOptions.js"></script>
+	<!-- Input labels -->
+	<script type="text/javascript" src="js/jquery.overlabel.min.js"></script>
+	<!-- Anchor tag scrolling effects -->
+	<script type="text/javascript" src="js/jquery.scrollTo-min.js"></script>
+	<script type="text/javascript" src="js/jquery.localscroll-min.js"></script>
+	<!-- Inline popups/modal windows -->
+	<script type="text/javascript" src="js/jquery.fancybox-1.3.1.pack.js"></script>
+	
+	<!-- Slide shows -->
+		<!-- Cycle 	(default) -->
+		<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+		<!-- Nivo -->
+		<link rel="stylesheet" type="text/css" href="css/nivo-slider.css" />
+		<script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+		<script type="text/javascript">
+			// initialize slideshow
+			$j(document).ready(function($) {
+				if ($('#Slides').length > 0) {
+					$('#Slides').nivoSlider({
+						effect: 'random',
+						slices: 16,
+						animSpeed: 800,
+						pauseTime: 6000,
+						directionNav: true, //Next and Prev
+						directionNavHide: true, //Only show on hover
+						controlNav: false, //1,2,3...
+						pauseOnHover: false, //Stop animation while hovering
+						manualAdvance: false, //Force manual transitions
+						beforeChange: function(){},
+						afterChange: function(){}
+					});
+				}
+			});
+		</script>
+		
+	<!-- Font replacement (cufón) -->
+	<script src="js/cufon-yui.js" type="text/javascript"></script>
+	<script src="js/PerspectiveSans.font.js" type="text/javascript"></script>
+
+	<!-- IE only includes (PNG Fix and other things for sucky browsers -->
+	
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="css/ie-only.css">
+		<script type="text/javascript" src="js/pngFix.min.js"></script>
+		<script type="text/javascript"> 
+			$j(document).ready(function(){ 
+				$j(document.body).supersleight();
+			}); 
+		</script> 
+	<![endif]-->
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="css/ie-only-all-versions.css"><![endif]-->
+
+	
+	
+	<!-- BEGIN: For Demo Only -->
+		<!--			
+		These entries are only needed for demo features, such as the real-time skin changer.
+		They can be deleted for production installs without effecting the theme's design or 
+		any of the funcionality.
+		-->
+		<script type="text/javascript" src="js/demo.js"></script>	
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	<!-- END: For Demo Only -->
+	
+
+	<!-- Functions to initialize after page load -->
+	<script type="text/javascript" src="js/onLoad.js"></script>
+
+	
+</head>
+<body class="home alternate">
+
+<div id="TopWrap">
+	<!-- Header Container -->
+	<div id="HeaderWrapper">
+		<div id="Header">
+			<div id="HeaderRight"></div>
+			<div id="HeaderLeft"></div>
+		
+			<div id="HeaderMiddle">
+				<div id="HeaderContent">
+			
+					<!-- Main Menu -->
+					<div id="MenuWrapper">
+						<div id="MainMenu">
+							<div id="MmLeft"></div>
+							<div id="MmBody">
+								
+								<!-- Main Menu Links -->
+								<ul class="sf-menu">
+									<li class="current"><a href="index.html" class="isMenuItem">Home<span class="subTitle">Welcome</span></a></li>
+									<li>
+										<a href="#" class="isMenuItem">Features<span class="subTitle">What we offer</span></a>
+										<ul>
+											<li><a href="#">Home page</a>
+												<ul>
+													<li><a href="index.html">Home 1</a></li>
+													<li><a href="index-alternate.html">Home 1 (full slideshow)</a></li>
+													<li><a href="index-2.html">Home 2</a></li>
+													<li><a href="index-alternate-2.html">Home 2 (full slideshow)</a></li>
+													<li><a href="index-3.html">Home 3</a></li>
+													<li><a href="index-alternate-3.html">Home 3 (full slideshow)</a></li>
+												</ul>
+											</li>
+											<li><a href="sample-portfolio.html">Portfolio</a></li>
+											<li><a href="sample-blog.html">Blog</a></li>
+											<li>
+												<a href="sample-login.html" class="login">Login</a>
+												<ul>
+													<li><a href="sample-login.html" class="login">Style 1 (popup)</a></li>
+													<li><a href="#" class="topReveal">Style 2 (slide)</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="sample-layout.html">Layout</a>
+												<ul>
+													<li><a href="sample-layout.html">Default Page</a></li>
+													<li><a href="sample-layout.html#full_page">Full Page</a></li>
+													<li><a href="sample-layout.html#blog_page">Blog</a></li>
+													<li><a href="sample-layout.html#multi_column_page">2 &amp; 3 Column</a></li>
+												</ul>
+											</li>	
+											<li><a href="sample-text.html">Text Styles</a></li>
+											<li><a href="theme-information.html">About the Theme</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#" class="isMenuItem">Skins<span class="subTitle">our style</span></a>
+										<ul>
+			
+											<li>
+												<a href="#" onclick="switchSkin('1');">Skin 1</a>
+												<ul>
+													<li style="text-align:center;"><a href="#" onclick="switchSkin('1');"><img class="skin" src="images/content/skin-changer/skin-1.jpg" height="250" alt="Skin 1" /></a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="#" onclick="switchSkin('2');">Skin 2</a>
+												<ul>
+													<li style="text-align:center;"><a href="#" onclick="switchSkin('2');"><img class="skin" src="images/content/skin-changer/skin-2.jpg" height="250" alt="Skin 2" /></a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="#" onclick="switchSkin('3');">Skin 3</a>
+												<ul>
+													<li style="text-align:center;"><a href="#" onclick="switchSkin('3');"><img class="skin" src="images/content/skin-changer/skin-3.jpg" height="250" alt="Skin 3" /></a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="#" onclick="switchSkin('4');">Skin 4</a>
+												<ul>
+													<li style="text-align:center;"><a href="#" onclick="switchSkin('4');"><img class="skin" src="images/content/skin-changer/skin-4.jpg" height="250" alt="Skin 4" /></a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="#" onclick="switchSkin('5');">Skin 5</a>
+												<ul>
+													<li style="text-align:center;"><a href="#" onclick="switchSkin('5');"><img class="skin" src="images/content/skin-changer/skin-5.jpg" height="250" alt="Skin 5" /></a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li><a href="sample-contact.html" class="isMenuItem">Contact<span class="subTitle">Email us</span></a></li>	
+								</ul>
+								
+								<div class="mmDivider"></div>				
+								
+								<!-- Extra Menu Links -->
+								<ul id="MmOtherLinks" class="sf-menu">
+									<li>
+										<a href="#" class="isMenuItem"><span class="mmFeeds">Feeds</span><span class="subTitle">Follow us</span></a>
+										<ul>
+											<li><a href="#"><span class="mmRSS">RSS</span></a></li>
+											<li><a href="#"><span class="mmFacebook">Facebook</span></a></li>
+											<li><a href="#"><span class="mmTwitter">Twitter</span></a></li>
+										</ul>
+									</li>
+									<li><a href="sample-login.html" class="login isMenuItem"><span class="mmLogin">Login</span><span class="subTitle">Admin access</span></a></li>
+								</ul>
+								
+							</div>
+							<div id="MmRight"></div>
+						</div>
+					</div>
+					
+					<!-- Logo -->
+					<div id="Logo">
+						<a href="index.html"><img src="images/logo.png" alt="Boost - A Launchpad for Success" /></a>
+					</div>
+					
+				</div> <!-- end header content -->
+			</div>	<!-- end header middle -->
+			
+		</div>	<!-- end header -->
+	</div>	<!-- end header wrapper -->
+		
+	<!-- Slide Show -->		
+	<div class="pageWrapper">
+		<div class="pageMain">
+		
+			<!-- Slide show: Nivo -->
+			<div id="SlideshowFull" class="nivoSS">
+				<div id="SlideTop">
+					<div class="slideTopRight"></div>
+					<div class="slideTopLeft"></div>
+					<div class="slideTopMiddle"></div>
+				</div>
+				<div id="SlideRepeatRight"></div>
+				<div id="SlideRepeatLeft"></div>
+				<div id="SlideBottom">
+					<div class="slideBottomRight"></div>
+					<div class="slideBottomLeft"></div>
+					<div class="slideBottomMiddle"></div>
+				</div>
+				<div id="SlidesWrapper">
+					<div id="Slides">
+						<img src="images/slideshow/slide-alt-1.jpg" width="972" height="346" alt="Slide 1" />
+						<img src="images/slideshow/slide-alt-2.jpg" width="972" height="346" alt="Slide 2" />
+						<img src="images/slideshow/slide-alt-3.jpg" width="972" height="346" alt="Slide 3" />
+						<img src="images/slideshow/slide-alt-4.jpg" width="972" height="346" alt="Slide 4" />
+					</div>
+				</div>
+				<div id="SlideShadow"></div>
+			</div>
+			
+		</div>
+	</div>
+	
+</div>
+
+<!-- Top reveal (slides open, add class "topReveal" to links for open/close toggle ) -->
+<div id="TopReveal">
+	<div class="TopReveal-inner">
+		
+		<div class="pageWrapper">
+		
+		<!-- close button -->
+		<a href="#" class="topReveal closeBtn">Close</a>
+			<div class="contentArea">
+				<div class="full-page">
+		
+					<!-- New member registration -->
+					<div class="right" style="margin:10px 0 0;">
+						<h1>
+							Not a member yet?
+							<span>Register now and get started.</span>
+						</h1>
+						<button type="button">Register for an account</button>
+					</div>
+					
+					<!-- Alternate Login -->				
+					<div>
+						<form class="loginForm" method="post" action="" style="height:auto;">
+							<div id="loginBg"><img src="images/icons/lock-and-key-110.png" width="110" height="110" alt="lock and key" /></div>
+							<h2 style="margin-top: 20px;">Sign in to your account.</h2>
+							<fieldset>
+								<legend>Account Login</legend>
+								<p class="left" style="margin: 0 8px 0 0;">
+									<label for="RevealUsername" class="overlabel">Username</label>
+									<input id="RevealUsername" name="RevealUsername" type="text" class="loginInput textInput rounded" />
+								</p>
+								<p class="left" style="margin: 0 5px 0 0;">
+									<label for="RevealPassword" class="overlabel">Password</label>
+									<input id="RevealPassword" name="RevealPassword" type="password" class="loginInput textInput rounded" />
+								</p>
+								<p class="left" style="margin: -7px 0 0;">
+									<button type="submit" class="btn" style="margin:0;"><span>Sign in</span></button>
+								</p>
+							</fieldset>
+							<p class="left noMargin">
+								<a href="#">Forgot your password?</a>
+							</p>
+						</form>		
+					</div>
+					
+					<!-- End of Content -->
+					<div class="clear"></div>
+			
+				</div> <!-- end full-page -->
+			</div>
+		</div>
+		
+	</div>
+</div> <!-- end slide open top reveal panel -->
+
+	
+<!-- Page -->		
+<div class="pageWrapper">
+	
+	<div class="pageMain">
+		
+		<!-- Page Content -->
+		<div class="contentArea">
+		
+			<div class="two-thirds">
+	
+				<!-- Showcase Content -->
+				<div id="Showcase">
+				
+					<div class="one-third">
+						<img src="images/icons/monitor-skins.png" width="85" height="75" alt="computer monitor" style="float:left; margin: -2px 15px 0 -5px;" /> 
+						<h2 class="title">
+							5 Skins in 1 Theme
+							<span>Create a custom skin in minutes.</span>
+						</h2>
+						<p>
+							<a href="#" onclick="switchSkin('1');" class="tipInclude" rel="images/content/skin-changer/skin-1.jpg" title="Skin 1">Skin 1</a>,
+							<a href="#" onclick="switchSkin('2');" class="tipInclude" rel="images/content/skin-changer/skin-2.jpg" title="Skin 2">2</a>, 
+							<a href="#" onclick="switchSkin('3');" class="tipInclude" rel="images/content/skin-changer/skin-3.jpg" title="Skin 3">3</a>,
+							<a href="#" onclick="switchSkin('4');" class="tipInclude" rel="images/content/skin-changer/skin-4.jpg" title="Skin 4">4</a> and
+							<a href="#" onclick="switchSkin('5');" class="tipInclude" rel="images/content/skin-changer/skin-5.jpg" title="Skin 5">5</a>.
+						</p>
+					</div>
+					
+					<div class="one-third" style="margin-left: 30px;">
+						<img src="images/icons/projector.png" width="96" height="75" alt="digital projector" style="float:left; margin: 0 18px 0 22px;" /> 
+						<h2 class="title">
+							3 Slide Shows
+							<span>A style for every layout</span>
+						</h2>
+						<p>
+							<a href="index.html">Version 1</a>, <a href="index-2.html">2</a> or <a href="index-3.html">3</a>
+						</p>
+					</div>
+					
+					<div class="hr"></div>
+					
+				</div>
+
+				<!-- Welcome Message / Page Headline -->
+				<h1 class="headline"><strong>Boost</strong> is a subtle yet <strong>distinctive</strong> design that makes your content <strong>jump</strong> off the page!</h1>
+				
+				<p class="impact">Giving your site a <em>boost</em> has never been easier. Create a presence and make an impact on visitors with your crisp presentation and smooth interface. This theme includes page layouts for: <a href="sample-layout.html#full_page">full page</a>, <a href="sample-layout.html#multi_column_page">multi-column</a>, <a href="sample-blog.html">blog</a>, <a href="sample-portfolio.html">portfolio</a>, <a href="sample-contact.html">contact form</a> and an <a href="sample-login.html" class="login tip" title="Custom Login Page|This theme includes 2 different login forms. Apply either with your admin portal for a cohesive, stylish website. (click for preveiw)">administrative login</a> (<a href="#" class="topReveal tip" title="Alternate Admin Login|Preview the alternate login.">alternate</a>).</p>
+
+				
+				<!-- Blog Post -->
+				<div class="blogPost blogPostOdd">
+					<div class="blogPostHeader">
+						<div class="blogDate">
+							<span class="postMonth">Apr</span><span class="postDay">12</span>
+						</div>
+						<h1>How to Build a Better Mousetrap</h1>
+						<span class="blogPostInfo">Posted by <a href="#">J. Smith</a> in <a href="#">Advertising</a> | <a href="#">3 comments</a></span>
+					</div>
+					<div class="blogPost blogPostSummary">
+						<div class="blogPostImage">
+							<a href="sample-blog-page.html" class="img"><img src="images/content/demo-only/blog-post-1.jpg" width="300" height="150" alt="blog post image" /></a>
+						</div>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel leo vitae mi iaculis tincidunt. Sed ipsum diam, semper et adipiscing sit amet, gravida ac ipsum. Phasellus rutrum est non eros ultrices a molestie tellus suscipit. Nunc eleifend, nisl vel cursus hendrerit, arcu risus sagittis lorem, nec gravida massa lacus non nulla. Praesent nec tellus est, et convallis mauris.
+						</p>
+						<p><a href="sample-blog-page.html">Read more...</a></p>
+					</div>
+				</div>
+				
+				<!-- Blog Post -->
+				<div class="blogPost blogPostEven">
+					<div class="blogPostHeader">
+						<div class="blogDate">
+							<span class="postMonth">Mar</span><span class="postDay">25</span>
+						</div>
+						<h1>Angry Totem Creatures- They're Taking Over!</h1>
+						<span class="blogPostInfo">Posted by <a href="#">Lora Kate</a> in <a href="#">Business</a> | <a href="#">42 comments</a></span>
+					</div>
+					<div class="blogPostSummary">
+						<div class="blogPostImage">
+							<a href="sample-blog-page.html" class="img"><img src="images/content/demo-only/blog-post-2.jpg" width="300" height="150" alt="blog post image" /></a>
+						</div>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel leo vitae mi iaculis tincidunt. Sed ipsum diam, semper et adipiscing sit amet, gravida ac ipsum. Phasellus rutrum est non eros ultrices a molestie tellus suscipit. Nunc eleifend, nisl vel cursus hendrerit, arcu risus sagittis lorem, nec gravida massa lacus non nulla. Praesent nec tellus est, et convallis mauris.
+						</p>
+						<p><a href="sample-blog-page.html">Read more...</a></p>
+					</div>
+				</div>
+				
+				<!-- Blog Post -->
+				<div class="blogPost blogPostOdd">
+					<div class="blogPostHeader">
+						<div class="blogDate">
+							<span class="postMonth">Feb</span><span class="postDay">19</span>
+						</div>
+						<h1>Scientific Proof Gravity is Reversing</h1>
+						<span class="blogPostInfo">Posted by <a href="#">Professor Plumb</a> in <a href="#">Technology</a> | <a href="#">11 comments</a></span>
+					</div>
+					<div class="blogPostSummary">
+						<div class="blogPostImage">
+							<a href="sample-blog-page.html" class="img"><img src="images/content/demo-only/blog-post-3.jpg" width="300" height="150" alt="blog post image" /></a>
+						</div>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel leo vitae mi iaculis tincidunt. Sed ipsum diam, semper et adipiscing sit amet, gravida ac ipsum. Phasellus rutrum est non eros ultrices a molestie tellus suscipit. Nunc eleifend, nisl vel cursus hendrerit, arcu risus sagittis lorem, nec gravida massa lacus non nulla. Praesent nec tellus est, et convallis mauris.
+						</p>
+						<p><a href="sample-blog-page.html">Read more...</a></p>
+					</div>
+				</div>
+
+				<!-- End of Content -->
+				<div class="clear"></div>
+				
+			</div> <!-- end "two-thirds" -->
+			
+			<div class="one-third sidebar">
+		
+				<!-- Search -->
+				<div id="SearchWrapper">
+					<div id="Search">
+						<form action="#" id="SearchForm" method="post">
+							<p style="margin:0;"><input type="text" name="SearchInput" id="SearchInput" value="" /></p>
+							<p style="margin:0;"><input type="submit" name="SearchSubmit" id="SearchSubmit" class="noStyle" value="" /></p>
+						</form>
+					</div>
+				</div>
+			
+				
+				<!-- Featured Content -->
+				<h2 class="smallTitle">Featured Content</h2>
+
+				<div class="featuredContent">
+					<!-- Featured Item -->
+					<div class="featuredItem">
+							<a href="#" class="title">Dynamic Functionality</a>
+							<a href="images/content/demo-only/featured-1.jpg" class="featuredImg img zoom" rel="featured"><img src="images/content/demo-only/featured-1-thumb.jpg" alt="featured item" /></a>
+						<div class="featuredText">
+							<p>jQuery integrated to provide high quality, dynamic design features.</p>
+							<a href="#">More information...</a>
+						</div>
+					</div>
+
+					<!-- End of Content -->
+					<div class="clear"></div>
+
+				</div>
+
+
+				<!-- Skin Changer -->
+				<div id="SkinPreviewWrapper">
+					<h4>Move the slider to change skins</h4>
+					<div id="SkinScreenShots">
+						<div id="SkinPreview">
+							<img class="skin" src="images/content/skin-changer/skin-1.jpg" width="247" height="298" alt="Skin 1" />
+							<img class="skin" src="images/content/skin-changer/skin-2.jpg" width="247" height="298" alt="Skin 2" />
+							<img class="skin" src="images/content/skin-changer/skin-3.jpg" width="247" height="298" alt="Skin 3" />
+							<img class="skin" src="images/content/skin-changer/skin-4.jpg" width="247" height="298" alt="Skin 4" />
+							<img class="skin" src="images/content/skin-changer/skin-5.jpg" width="247" height="298" alt="Skin 5" />
+						</div>
+					</div>
+					<div id="SkinPreviewOverlay"></div>
+					<div id="SkinSlider" class="rounded"></div>
+					<p id="SkinSliderHelpText">Drag to preview, release to apply.</p>
+				</div>
+
+				<div class="hr"></div>
+
+				
+				<!-- Testimonial/Quote -->
+				<div class="quote">
+					<div class="quoteBox-1"></div>
+					<div class="quoteBox-2">
+						<p>This is one amazing quote! I mean really, really amazing. Like super incredible and stuff.</p>
+					</div>
+					<div class="quoteBox-3"></div>
+				</div>
+				<div class="quoteAuthor">
+					<p class="name">Gary Philips</p>
+					<p class="details">President, Quotable Quotes, Inc.</p>
+				</div>
+
+			</div> <!-- end "sidebar" -->
+			
+			<!-- End of Content -->
+			<div class="clear"></div>
+		
+		</div> <!-- end "contentArea" -->
+		
+	</div> <!-- end "pageMain" -->
+</div> <!-- end "pageWrapper" -->
+
+
+<!-- Page Bottom Effect -->
+<div class="pageEdge">
+	<div class="pageBottom">
+		<div class="pageEdgeRight"></div>
+		<div class="pageEdgeLeft"></div>
+		<div class="pageEdgeMiddle"></div>
+	</div>
+</div>
+
+	
+<div class="pageWrapper">
+
+	<!-- Footer (part 1) -->
+	<div id="Footer">
+		<div id="FooterContent">
+		
+			<div class="contentArea">
+
+				<!-- Column 1 -->
+				<div class="one-fourth first">
+					<h3 class="title">Design Details</h3>
+					<p>Ceated by <a href="http://para.llel.us">Parallelus</a> and available for purchase on <a href="http://themeforest.net/user/Parallelus/portfolio">ThemeForest</a>.</p>
+					<h4>Home Page Options</h4>
+					<p>Includes 2 layouts for the home page with 3 slide show options for each:</p>
+					<ul>
+						<li>
+							<strong>
+								Slide show: 
+								<a href="index.html">1</a>, <a href="index-2.html">2</a>, <a href="index-3.html">3</a>
+							</strong>
+						</li>
+						<li>
+							<strong>
+								Full width slide show: 
+								<a href="index-alternate.html">1</a>, <a href="index-alternate-2.html">2</a>, <a href="index-alternate-3.html">3</a>
+							</strong>
+						</li>
+					</ul>
+					<h4>A style for every layout.</h4>
+				</div>
+
+				<!-- Column 2 -->
+				<div class="one-fourth">
+					<h3 class="title">Recent Posts</h3>
+					<ul class="post-list">
+						<li>
+							<a href="#" class="img"><img src="images/content/demo-only/recent-1-thumb.jpg" width="48" height="48" alt="Recent News" /></a>
+							<a href="#">News/Blog Posts List</a>
+							<p>Include information such as title, date and description.</p>
+						</li>
+						<li>
+							<a href="#" class="img"><img src="images/content/demo-only/recent-2-thumb.jpg" width="48" height="48" alt="Recent News" /></a>
+							<a href="#">News/Blog Posts List</a>
+							<p>Include information such as title, date and description.</p>
+						</li>
+						<li>
+							<a href="#" class="img"><img src="images/content/demo-only/recent-3-thumb.jpg" width="48" height="48" alt="Recent News" /></a>
+							<a href="#">News/Blog Posts List</a>
+							<p>Include information such as title, date and description.</p>
+						</li>
+					</ul>
+				</div>
+
+				<!-- Column 3 -->
+				<div class="one-fourth">
+					<h3 class="title">Pre-Made Skins</h3>
+					<p>Choose from 5 pre-made skins to select the look that is right for your site.</p>
+					<ul style="float:left; width: 80px;">
+						<li><a href="#" onclick="switchSkin('1');" class="tipInclude" rel="images/content/skin-changer/skin-1.jpg" title="Skin 1">Skin 1</a></li>
+						<li><a href="#" onclick="switchSkin('2');" class="tipInclude" rel="images/content/skin-changer/skin-2.jpg" title="Skin 2">Skin 2</a></li>
+						<li><a href="#" onclick="switchSkin('3');" class="tipInclude" rel="images/content/skin-changer/skin-3.jpg" title="Skin 3">Skin 3</a></li>
+					</ul>
+					<ul style="float:left; width: 120px;">
+						<li><a href="#" onclick="switchSkin('4');" class="tipInclude" rel="images/content/skin-changer/skin-4.jpg" title="Skin 4">Skin 4</a></li>
+						<li><a href="#" onclick="switchSkin('5');" class="tipInclude" rel="images/content/skin-changer/skin-5.jpg" title="Skin 5">Skin 5</a></li>
+						<li>Custom...</li>
+					</ul>
+					<p class="clear">If you don't find a skin that is just right, you can creat a custom skin in minutes.</p>
+				</div>
+				
+				<!-- Column 4 -->
+				<div class="one-fourth last">
+					<h3 class="title">Contact Information</h3>
+					<p>To find out more about our services please contact a representative today.</p>
+					<p>
+						(555) 443.3221<br />
+						contact@boost-inc.com<br />
+						<a href="#">www.boost-inc.com</a><br />
+					</p>
+					<p><br /><strong><a href="sample-contact.html">Use Our Online Contact Form &raquo;</a></strong></p>
+				</div>
+				
+				<!-- End of Content -->
+				<div class="clear"></div>
+
+			</div>
+				
+		</div>
+					
+	</div> <!-- end "Footer" -->
+	
+</div> <!-- end "pageWrapper" -->
+
+
+<!-- Page Top Effect -->
+<div class="pageEdge">
+	<div class="pageTop">
+		<div class="pageEdgeRight"></div>
+		<div class="pageEdgeLeft"></div>
+		<div class="pageEdgeMiddle"></div>
+	</div>
+</div>
+	
+	
+<div class="pageWrapper">
+
+	<!-- Footer (part 2) - Legal and Extra Content -->
+	<div id="FooterExtra">
+		<div class="contentArea">
+		
+			<div class="two-thirds">
+
+				<!-- Footer Logo -->
+				<div id="FooterLogo">
+					<a href="index.html"><img src="images/logo-bw-small.png" alt="Boost - A Launchpad for Success" /></a>
+				</div>
+				
+				<!-- Copyright/legal text -->
+				<div id="Copyright">
+					<p>
+						Copyright &copy; 2010 - <a href="http://para.llel.us" onclick="window.open(this.href); return false;">Your Site Name</a> - All rights reserved. 
+						Conforms to W3C Standard 
+						<a href="http://validator.w3.org/check?uri=referer" onclick="window.open(this.href); return false;">XHTML</a> &amp; 
+						<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" onclick="window.open(this.href); return false;">CSS</a>
+					</p>
+				</div>
+				
+			</div>
+		
+			<div class="one-third">
+
+				<h3 class="title">
+					Stay Connected
+					<span>Follow us on your favorite social networks.</span>
+				</h3>
+				<ul class="horizList">
+					<li><a href="#"><img src="images/icons/social/delicious.png" width="40" height="40" alt="Delicious" /></a></li>
+					<li><a href="#"><img src="images/icons/social/flickr.png" width="40" height="40" alt="Flickr" /></a></li>
+					<li><a href="#"><img src="images/icons/social/linkedin.png" width="40" height="40" alt="LinkedIn" /></a></li>
+					<li><a href="#"><img src="images/icons/social/skype.png" width="40" height="40" alt="Skype" /></a></li>
+					<li><a href="#"><img src="images/icons/social/twitter.png" width="40" height="40" alt="Twitter" /></a></li>
+					<li><a href="#"><img src="images/icons/social/yahoo.png" width="40" height="40" alt="Yahoo!" /></a></li>
+				</ul>
+					
+			</div>
+			
+		</div> <!-- end "contentArea" -->
+	</div> <!-- end "FooterExtra" -->
+	
+</div> <!-- end "pageWrapper" -->
+
+<!-- Activate Font Replacement (cufón) -->
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>

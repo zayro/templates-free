@@ -1,0 +1,9 @@
+a:link, a:active, a:visited                  { color: #1e90ff; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+a:hover                         { color: #000; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline overline }
+a                  { font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+td, tr            { color: #4d4d4d; font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.default         { color: #4d4d4d; font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+H1              { color: #136bcc; font-weight: bold; font-size: 10pt; line-height: 10pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; margin-top: 5px; margin-right: 6px; margin-left: 10px }
+H2              { color: #c0c0c0; font-weight: bold; font-size: 10pt; line-height: 10pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; clear: right; margin-right: 6px; margin-left: 20px }
+b  { color: #4d4d4d; font-weight: bold; font-size: 10pt; line-height: 10pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; clear: right }
+p  { margin-right: 6px; margin-left: 6px }

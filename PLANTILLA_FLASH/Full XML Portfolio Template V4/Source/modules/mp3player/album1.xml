@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<album artwork="background.jpg" autoplay="yes">
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Busted Chump]]></trackname>
+		<file>adg3.com_bustedChump.mp3</file>
+		<duration>1:25</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Chucked Knuckles]]></trackname>
+		<file>adg3.com_chuckedKnuckles.mp3</file>
+		<duration>1:52</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Cloudless Days]]></trackname>
+		<file>adg3.com_cloudlessDays.mp3</file>
+		<duration>1:45</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Core Issues]]></trackname>
+		<file>adg3.com_coreIssues.mp3</file>
+		<duration>2:25</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Cryptic Psyche]]></trackname>
+		<file>adg3.com_crypticPsyche.mp3</file>
+		<duration>0:56</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Electro Freak]]></trackname>
+		<file>adg3.com_electroFreak.mp3</file>
+		<duration>1:26</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Free Form]]></trackname>
+		<file>adg3.com_freeForm.mp3</file>
+		<duration>2:24</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Busted Chump]]></trackname>
+		<file>adg3.com_bustedChump.mp3</file>
+		<duration>1:25</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Chucked Knuckles]]></trackname>
+		<file>adg3.com_chuckedKnuckles.mp3</file>
+		<duration>1:52</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Cloudless Days]]></trackname>
+		<file>adg3.com_cloudlessDays.mp3</file>
+		<duration>1:45</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Core Issues]]></trackname>
+		<file>adg3.com_coreIssues.mp3</file>
+		<duration>2:25</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Cryptic Psyche]]></trackname>
+		<file>adg3.com_crypticPsyche.mp3</file>
+		<duration>0:56</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Electro Freak]]></trackname>
+		<file>adg3.com_electroFreak.mp3</file>
+		<duration>1:26</duration>
+	</song>
+	<song>
+		<artist><![CDATA[ADG3Studios]]></artist>
+		<trackname><![CDATA[Free Form]]></trackname>
+		<file>adg3.com_freeForm.mp3</file>
+		<duration>2:24</duration>
+	</song>
+</album>

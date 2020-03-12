@@ -1,0 +1,31 @@
+	
+	This folder contains a Step by Step Newsletter Creator System
+	that will help you create any newsletter layout in minutes
+	by simply copy/paste-ing pieces of source code.
+
+	Open it be clicking on: 00-start.html
+
+	Creating a layout has 4 easy steps:
+
+	1. Select a Base File (the shell that will hold the modules that will contain the actual newsletter content) 
+		- save it as a new html file
+		- read in documentation how to customize it if needed
+
+
+	2. Add Modules (precoded tables used to create different colomn structures) inside the base file
+		- add the modules in the base file starting from the comment <!-- START MAIN CONTENT. ADD MODULES BELOW -->
+		- add module dividers or <br>'s between the modules to create space
+
+
+	3. Add content in the modules
+		- use the placeholder images in /placeholders and the text from /placeholders/lorem-ipsum.txt for fast mock-up
+
+
+	4. Finish
+		-copy your html file along with the /images and /placeholders folders to another location
+		- delete from the folders the iamges you are not using
+		- add your texts and pictures
+		- host all images on a server and change all paths to absolute paths in the layout file
+		- inline the css
+		- test and send
+  

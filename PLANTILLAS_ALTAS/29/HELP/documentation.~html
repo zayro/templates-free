@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Documentation</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="assets/css/bootstrap.css" media="screen"  />
+        <link rel="stylesheet" href="assets/css/bootstrap-responsive.css" media="screen"  />
+        <link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="assets/css/prettify.css">
+	<!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    </head>
+    <body>
+        <div id="page" >
+			<div class="" id="main-container">
+				<div class="row" >
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					TABLE OF CONTENTS
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section class="span2 hidden-phone hidden-tablet" id="table">
+						<a href="#intro" ><h3>Introduction</h3></a>
+						<a href="#files"><h3>Files description</h3></a>
+						<a href="#design"><h3>Customization</h3></a>
+						<a href="#php"><h3>PHP templates</h3></a>
+						<a href="#new-page"><h3>New page</h3></a>
+						<a href="#sliders"><h3>Sliders</h3></a>
+						<a href="#home"><h3>Home page</h3></a>
+						<a href="#social"><h3>Social networks</h3></a>
+						<a href="#contact"><h3>Contact page</h3></a>
+						<a href="#portfolio"><h3>Portfolio</h3></a>
+						<a href="#css-structure"><h3>CSS Structure</h3></a>
+						<a href="#html"><h3>HTML elements</h3></a>
+						<a href="#js"><h3>Javascript elements </h3></a>
+						<a href="#psd"><h3>Photoshop</h3></a>
+						<a href="#compatibility"><h3>Compatibility</h3></a>
+						<a href="#size"><h3>Images size</h3></a>
+						<a href="#bootstrap"><h3>Bootstrap</h3></a>
+						<a href="#faq"><h3>FAQ's</h3></a>
+						<a href="#credits"><h3>Sources and credits</h3></a>
+						<a href="#end"><h3>End</h3></a>
+					</section>
+					<div class="span10 offset2">
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					HEADER
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<div class="hero-unit">
+						<h1 class="center">Sun Rising Documentation<br>
+						(shared on themelock.com)</h1>
+					</div>	
+					<div class="row">
+						<div class="span8 div-centered" id="bio">
+							<div class="span1">
+								<img src="assets/images/thumb_tf.png">
+							</div>
+							<div class="span2">
+								<span class="pull-left"><i class="icon-time"></i> 21/10/2012</span><br />
+								<span class="pull-left"><i class="icon-user"></i> F&#178;</span><br />
+								<span class="pull-left"><a href="mailto:help@2f-design.fr" ><i class="icon-envelope"></i> <strong>help@2f-design.fr<strong></a></span>
+							</div>
+							<div class="span4">
+								<blockquote>
+									<p>Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file,
+									please feel free to email via my support contact form <a href="http://support.2f-design.fr" target="_blank">here</a>. <strong>Thanks so much!</strong></p>
+									<small>F&#178;</small>
+								</blockquote>
+							</div>
+						</div>
+					</div>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Intro
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="intro">
+						<div class="page-header">
+							<h1>Introduction</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>This template is composed of 2 big parts (use the one that suits you best):</p>
+						<div class="row">
+							<div class="span5 center">
+								<h1>PHP part</h1>
+								<p>It is a whole of functionnal .php files, use it if you want to create a functionnal website, or a wordpress theme. Faster to modify and implement. I advice you.<br />
+								See: <a href="#php">#PHP template</a>,<a href="#new-page">#Create a new page</a>, <a href="#html">#HTML elements</a>,<a href="#design">#Customization</a>, <a href="#contact">#Contact page</a></p>
+							</div>
+							<div class="span5 center">
+								<h1>HTML part</h1>
+								<p>It is a whole of functionnal .html files, use it if you want to create a design for a use special, or a just an html website because you're not a PHP fan.<br />
+								See: <a href="#html">#HTML elements</a>,<a href="#design">#Customization</a></p>
+							</div>
+						</div>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Files description
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="files">
+						<div class="page-header">
+							<h1>Files description</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<div class="row">
+                            <div class="span5">
+                                <p><strong>Resources:</strong></p>
+									<ul>
+										<li>You will find here all the plugins files, icons directly download from the author's page. You will find the psd files too.
+											In a word, all the files who aren't my work. See: <a href="#psd">#Photoshop</a>, <a href="#credits">#credits</a></li>
+									</ul>
+                                <p><strong>PHP template:</strong></p>
+                                    <ul>
+                                        <li>Css:
+                                            <ul>
+                                                <li><code>style_aColor.css</code>:10 default color themes for this template, they're just style.css with the main color changed.</li>
+                                                <li><code>bootsrtap.css</code>: Bootsrtap framwork.</li>
+                                                <li><code>bootsrtap-responsive.css</code>: Bootsrtap framwork for mobile phones and tablets.</li>
+                                                <li><code>ie8.css</code>: stylesheet for Internet Explorer 8. <a href="#compatibility">#compatibility</a></li>
+                                                <li><code>ie9.css</code>: stylesheet for Internet Explorer 9. <a href="#compatibility">#compatibility</a></li>
+                                                <li><code>style_responsive.css</code>: stylesheet for mobile device and tablet. <a href="#compatibility">#compatibility</a></li>
+                                                <li><code>style_slider.css</code>: stylesheet for the two sliders in the home page.</li>
+												<li><code>prettyPhoto.css</code>: stylesheet for Prettyphoto plugin.</li>
+                                            </ul>
+											See: <a href="#design">#Customization</a>
+										</li>
+									</ul>
+                            </div><!-- end .span5 -->
+                            <div class="span5 m1">
+                                <ul>
+                                    <li>Images: There there's this folder all the images that used to integrate the template into HTML (icons and backgrounds are also here).
+										See: <a href="#psd">#Photoshop</a>, <a href="#credits">#credits</a>, <a href="#design">#Customization</a></li>
+                                    <li>Js:
+                                        <ul>
+                                            <li><code>bootsrtap-....js</code>: Plugins used by Bootstrap (see "features -> javascript Elements"), all these javascript files are not included in the template.</li>
+                                            <li><code>sequence.jquery-min.js</code>: Javascript file of the slider main style is in the file style_slider.css.</li>
+											<li><code>jquery.elastislide.js</code>: Javascript file of the slider of the last projects.</li>
+											<li><code>jquery.prettyPhoto.js</code>: Plugin for the "lightbox".</li>
+											<li><code>main.js</code>: Javascript file of the template with the commissioning of plugins and javascript required (effect on icons, scroll to top, dropdown menu ...).</li>
+											<li><code>map.js</code>: Javascript file in Google map in the contact page.</li>
+											<li><code>jquery.isotope.min.js</code>: Portfolio sorter.</li>
+											<li><code>prettify.js</code>: Javascript file that works with prettify.css, they allow the code documentation pages and features have a much better record.</li>
+											<li><code>slides.min.jquery.js</code>: Javascript plugin used for the slider news and quotes from the home page.</li>
+											<li><code>jquery.tweet.js</code>: Javascript plugin used for tweets in the widget. <a href="#social">#social</a></li>
+                                        </ul>
+										See: <a href="#design">#customization</a>, <a href="#credits">#credits</a>
+                                    </li>
+                                </ul>
+                            </div><!-- end .span5 -->
+						</div>
+						<div class="row m1">
+							<div class="span5">
+                                <ul>
+                                    <li>Includes:
+                                        <ul>
+                                            <li><code>footer.php</code>: Footer of the pages with the bottom widget.</li>
+                                            <li><code>header.php</code>: Header of the page with the menu.</li>
+                                            <li><code>sidebar.php</code>: Sidebar displaying in the blog but you're free to include it in other pages.</li>
+                                            <li><code>slider_1.php</code>: Content of the 1 slider (Home pages).</li>
+                                            <li><code>slider_2.php</code>: Content of the 2 slider (Home pages).</li>
+                                            <li><code>slider_last_projects.php</code>: Content of the last projects slider.</li>
+                                        </ul>
+										See: <a href="#php">#PHP template</a>,<a href="#new-page">#Create a new page</a>
+									</li>
+									<li><code>404_error.php</code>: famous 404 page.</li>
+									<li><code>about.php</code>: about page to describe who you are.</li>
+                                    <li><code>blog.php</code>: blog template with a sidebar on the right.</li>
+                                    <li><code>blog_without_sidebar.php</code>: Blog template without the sidebar and so a text larger and larger pictures.</li>
+                                    <li><code>contact.php</code>: contact page with a large map and a form.<a href="#contact">#Contact</a></li>
+									<li><code>faq.php</code>: FAQs page to help your customers.</li>
+									<li><code>features.php</code>: example of a maiden page.</li>
+									<li><code>home2.php</code>: home page without slider. <a href="#sliders">#Sliders</a></li>
+								</ul>
+                            </div><!-- end .span5 -->
+							<div class="span5">
+                                <ul>
+									<li><code>home3.php</code>: home page with a more big content than the original home page and with a slider.</li>
+									<li><code>home4.php</code>: home page with the second slider and without the widgets.</li>
+									<li><code>index.php</code>: home page of the template, this is the main page.</li>
+                                    <li><code>portfolio_3col.php</code>: portfolio 3 columns. <a href="#portfolio">#Portfolio</a></li>
+                                    <li><code>portfolio_4col.php</code>: portfolio 4 columns. <a href="#portfolio">#Portfolio</a></li>
+                                    <li><code>portfolio_6col.php</code>: portfolio 6 columns. <a href="#portfolio">#Portfolio</a></li>
+                                    <li><code>single_page.php</code>: simple page with some examples of what is possible with this template in minutes.</li>
+                                    <li><code>single_post.php</code>: Article alone with his comments, a sidebar, form to comment...</li>
+                                    <li><code>single_project.php</code>: project alone.</li>
+									<li><code>sitemap.php</code>: a sitemap page.</li>
+									<li><code>template.php</code>: use this file if you want to create a new page. <a href="#new-page">#Create a new page</a></li>
+								</ul>
+                            </div><!-- end .span5 -->
+						</div>        
+						
+						<p><strong>HTML template:</strong></p>
+						<ul>
+							<li>As above (without "includes" and no .php files). See: <a href="#html">#HTML elements</a>,<a href="#design">#Customization</a></p></li>
+						</ul>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Customization
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="design">
+						<div class="page-header">
+							<h1>Customization <small>all about design</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Font</h3>
+						<p>This template use "Open Sans" for the container and "pacifico" for some heading. But if you want to change the fonts:</p>
+						<ol>
+						<li>Go to google fonts website,</li>
+						<li>then choose your font, go to “quick use” and copy this line (ctrl + c),</li>
+						<li>past this line on the header (<code>header.php</code>) of the template (line 31).</li>
+						<li>Go to <code>style.css</code> find the lines where you want to change the font ( font-family: ...) and copy the name of your new font. To save time, most publishers has a text replacement tool( ctrl + h).
+						</ol>
+						
+						<h3 class="m2" >Background</h3>
+						<p>Its very easy ! The backgrounds are in the folder "<code>images/backgrounds/</code>", choose yours. Then in <code>style.css</code>, line 14 replace "1" by "your_number".</p>
+						
+						<h3 class="m2" >Color</h3>
+						<p>All the colors of the template are managed by the stylesheet and not by color images. Thus, it is very simple change the color of the background, text, icons managed by some layers ... <br />
+                        So open <code> style.css</code> and simply replace all <code>#00afff</code> with your color (you can find your color in the right format on <a href="http://www.colorpicker.com" target="_blank"> Color Picker </a>).
+						The only complication is that there are 2 gradients (menu list and table pricing) and it takes 2 other colors for these gradients (So find your own color with Colorpicker)...(lines 195-200, 518-523 in style.css replace with your own, you probably need to change the border color too, just above them).
+                        </p> 
+                        <div class="alert alert-info">
+                            <p>To save time, most publishers has a text replacement tool ( ctrl + h).</p>
+                        </div>
+                        <p>Otherwise, 10 color themes are available (<code>css -> style_...</code>) You just have to deflect the link (in the tag: <code>&lt;head&gt;</code>):</p>
+                        <pre class="prettyprint linenums">&lt;link rel="stylesheet" href="css/style.css" type='text/css'&gt;</pre>
+                        <p>With:</p>
+                        <pre class="prettyprint linenums">&lt;link rel="stylesheet" href="css/style_yourColor.css" type='text/css'&gt;</pre>
+										
+						<h3 class="m2" >Logo</h3>
+						<p>Size recommended is <strong>200x62</strong>px, just have to resize your logo at the good size and past it in the folder <code>images</code> then call it <code>logo.png</code>.</p>
+						
+						<h3 class="m2" >Favicon</h3>
+						<p>Create your favicon <a href="http://www.favicon.cc/" target="_blank">here</a>, then past it in the folder <code>images</code> then call it <code>favicon.png</code></p>
+						<div class="alert alert-info">
+                            <p><strong>Favicon:</strong><br />A favicon(short for Favorite icon), also known as a shortcut icon, Web site icon, URL icon, or bookmark icon, is a file containing one or more small icons, most commonly 16×16 pixels, associated with a particular Web site or Web page. A web designer can create such an icon and install it into a Web site (or Web page) by several means, and graphical web browsers will then make use of it. Browsers that provide favicon support typically display a page's favicon in the browser's address bar and next to the page's name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page's favicon next to the page's title on the tab, and site-specific browsers use the favicon as desktop icon. (from Wikipedia)</p>
+                        </div>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					PHP template
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="php">
+						<div class="page-header">
+							<h1>PHP templates <small>how it working</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>The php template is a set of .php with the same building these are "models". They represent only the container (with your page's content), the top and the footer are the same for all the pages so it's the same file ! What does it change? Productivity, timing...compared to. html. <u>Example:</u> if you want to change your menu: in the html template you have to open each files and change it (20 times because there are 20 files...) whereas, with the .php template just have to change it in header.php and it'll be ready for each files (1 time)</p>
+						
+						<h3 class="m2" >Header.php</h3>
+						<p>This file containing the <strong>stylesheets</strong>, the <code>&lt;head&gt;</code>, <strong>hidden area</strong>, the <strong>logo</strong>, the <strong>slogan</strong> and the <strong>menu</strong>. Just have to open it and replace with your own settings, the change will be ready for all your website. See: <a href="#design">#customization</a>, <a href="#social">#social</a></p>
+						<h4>Hidden area</h4>
+						<p>You've probably seen the arrow on the top right corner. When you click on it, a hidden area appears. You can display here your phone, a welcome message, your social icons... </p>
+						<h4>Menu</h4>
+						<div class="alert alert-error">
+                            <p><strong>Warning !</strong><br />Don't forgotten, when you add or delete a page, refresh your menu (delete or add a link).</p>
+                        </div>
+						<h4>Logo and slogan</h4>
+						<p>Don't forgotten to add your logo and your slogan, it's your website, not mine show it ! ;)</p>
+						
+						<h3 class="m2" >Footer.php</h3>
+						<p>This file containing the <strong>javascript files</strong>, the <code>&lt;footer&gt;</code>, <strong>bottom widgets</strong>, the <strong>bottom menu</strong>, the <strong>social icons</strong> and the <strong>footer</strong>. Just have to open it and replace with your own settings, the change will be ready for all your website.
+						See: <a href="#design">#customization</a>, <a href="#social">#social</a>, <a href="#credits">#credits</a>, <a href="#sliders">#sliders</a></p>
+						<h4>Widgets (bottom area)</h4>
+						<p>This area is here to add more informations(tweets, news, conatct), display your last tweets, your address and your last news.</p>
+						
+						<h3 class="m2" >Sidebar.php</h3>
+						<p>This file containing the <strong>sidebar</strong> displaying in the <code>blog.php</code> and <code>single_post.php</code> but you're free to include it in other pages.</p>
+						
+						<h3 class="m2" >Slider_1.php</h3>
+						<p>This file containing the content of the slider 1 (home page 3), see "<a href="#sliders">slider part</a>" for more informations. Why this file ? because with it, you just have to include it as in <code>home3.php</code> in <code>&lt;section id="wrapper_slider"</code> to display your slider...
+						See: <a href="#design">#customization</a>, <a href="#sliders">#sliders</a></p>
+						
+						<h3 class="m2" >Slider_2.php</h3>
+						<p>This file containing the content of the slider 2 (home page 4), see "<a href="#sliders">slider part</a>" for more informations. Why this file ? because with it, you just have to include it as in <code>home4.php</code> in <code>&lt;section id="wrapper_slider"</code> to display your slider...
+						See: <a href="#design">#customization</a>, <a href="#sliders">#sliders</a></p>
+						
+						<h3 class="m2" >Slider_last_projects.php</h3>
+						<p>This file containing the content of the last projects slider (index, home2, home3, single project, 404 error), see "<a href="#sliders">slider part</a>" for more informations. Why this file ? because once set, you just have to include it as in <code>index.php</code> in <code>&lt;div class="span12 m1   last_projects"</code> to display your latest projects in the pages of your choices. Magic !
+						See: <a href="#design">#customization</a>, <a href="#sliders">#sliders</a></p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					New page
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="new-page">
+						<div class="page-header">
+							<h1>New page</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >With the php template</h3>
+						<p>Follow these instructions:</p>
+						<ol>
+							<li>Open <code>template.php</code></li>
+							<li>Read the comments</li>
+							<li>Put you page name <code>line 8</code></li>
+							<li>Put the page description and the keywords <code>lines 13, 14</code></li>
+							<li>Put your content <code>line 66</code>, see: <a href="#bootstrap">#bootstrap</a></li>
+							<li>Save as <code>yourpage.php</code></li>
+							<li>Open <code>header.php</code></li>
+							<li>Add a link where you want in the menu that goes to your new page
+								<pre class="prettyprint linenums">&lt;li&gt;&lt;a href="yourpage.php"&gt;New page name&lt;/a&gt;&lt;/li&gt;</pre>
+							</li>
+						</ol>
+						<h3 class="m2" >With the html template</h3>
+						<p>Follow these instructions:</p>
+						<ol>
+							<li>Open a new page in your text editor</li>
+							<li>Copy a the containing of <code>template.html</code></li>
+							<li>Replace all the "Page name" or "title here" with your page name</li>
+							<li>Put the page description and the keywords <code>lines 7, 8</code></li>
+							<li>Put your content <code>line 171</code>, see: <a href="#bootstrap">#bootstrap</a></li>
+							<li>Save as <code>yourpage.html</code></li>
+							<li>Open each pages of your website</li>
+							<li>Add a link where you want in the menu that goes to your new page
+								<pre class="prettyprint linenums">&lt;li&gt;&lt;a href="yourpage.html"&gt;New page name&lt;/a&gt;&lt;/li&gt;</pre>
+							</li>
+						</ol>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Sliders
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="sliders">
+						<div class="page-header">
+							<h1>Sliders <small>home page, quotes, news</small></h1>  <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Home page slider 1</h3>
+						<p>Find it in <code>includes/slider_1.php</code>. This slider is working with <code>sequence.jquery-min.js</code>, the settings are in <code>main.js</code> (lines 18->43), the stylesheet of this slider is <code>style_slider.css</code>. See: <a href="#credits">#credits</a></p>
+						<h4>Add a new slide</h4>
+						<p>Just have to add a new chip as:</p>
+						<pre class="prettyprint linenums">&lt;!-- // A slide // --&gt;
+&lt;li&gt;
+    &lt;h3 class="title  text_shadow"&gt;Slide title&lt;/h3&gt;
+    &lt;p class="subtitle  text_shadow"&gt;Text in the slide&lt;/p&gt;
+    &lt;a class="btn_slider btn btn-success btn-large" href="your link"&gt;&lt;i class=" icon-resize-small icon-white"&gt;&lt;/i&gt; Read more&lt;/a&gt;
+    &lt;img class="model" src="images/images_slider/yourimage.png" alt="Image slide 5 (used for the pagination)" /&gt;
+&lt;/li&gt;</pre>
+						<p>If you add a new slide add a new <li> with the same "alt" just bellow (see slider_1.php line 62).Or if you want just a slide with image see "Home page slider 2" just bellow.</p>
+						
+						<h3 class="m2" >Home page slider 2</h3>
+						<p>Find it in <code>includes/slider_2.php</code>. This slider is working with <code>slides.min.jquery.js</code>, the settings are in <code>main.js</code> (lines 285->++), the stylesheet of this slider is <code>style_slider.css</code>. See: <a href="#credits">#credits</a></p>
+						<h4>Add a new slide</h4>
+						<p>Just have to add a new div as:</p>
+						<pre class="prettyprint linenums">&lt;div class="slide"&gt;
+    &lt;img src="images/images_slider/yourimage.png"&gt;
+    &lt;div class="caption"&gt;
+        &lt;p&gt;A caption text&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</pre>
+						<p>If you don't want a caption text delete the div <code>class="caption"</code>.</p>
+						
+						<h3 class="m2" >Quotes slider</h3>
+						<p>Find it in <code>index.php</code>, <code>home3.php</code>. This slider is working with <code>slides.min.jquery.js</code>, the settings are in <code>main.js</code> (lines 47->76). See: <a href="#credits">#credits</a></p>
+						<h4>Add a new quote</h4>
+						<p>Just have to add a new chip as:</p>
+						<pre class="prettyprint linenums">&lt;!-- // A quote // --&gt;
+&lt;div class="quote_slide span12"&gt;
+    &lt;cite&gt;‘‘Your quote goes here’’&lt;/cite&gt;
+    &lt;span&gt;Author or message goes here.&lt;/span&gt;
+&lt;/div&gt;</pre>
+						
+						<h3 class="m2" >News slider</h3>
+						<p>Find it in <code>footer.php</code>. This slider is working with <code>slides.min.jquery.js</code>, the settings are in <code>main.js</code> (lines 80->90). See: <a href="#credits">#credits</a></p>
+						<h4>Add a new news</h4>
+						<p>Just have to add a new div (<code>footer.php</code> line 30) as:</p>
+						<pre class="prettyprint linenums">&lt;div&gt;
+	&lt;span&gt;12/04/12&lt;/span&gt;&lt;br /&gt;
+	&lt;i&gt;
+		Line 1&lt;br /&gt; 
+		Line 2&lt;br /&gt;
+		Line 3&lt;br /&gt;
+		&lt;a href="linktothepage"&gt;More...&lt;/a&gt;
+	&lt;/i&gt;
+&lt;/div&gt;</pre>
+						<p>The <code>&lt;br /&gt; </code> are here to retract the text in the bubble. See: <a href="#credits">#credits</a></p>
+						
+						<h3 class="m2" >Last project slider</h3>
+						<p>Find it in <code>includes/slider_last_projects.php</code>. This slider is working with <code>jquery.elastislide.js</code>, the settings are in <code>main.js</code> (lines 94->99). See: <a href="#credits">#credits</a></p>
+						<h4>Add a new news</h4>
+						<p>Just have to add a new chip in the files where you found this slider as:</p>
+						<pre class="prettyprint linenums">&lt;div class="viewport thumbnail"&gt;
+    &lt;div&gt;
+        &lt;span class="dark-background"&gt;&lt;a href="http://placehold.it/320x240" class="project_glass" rel="prettyPhoto" &gt;&lt;/a&gt;&lt;a href="single_project.html" class="project_link"&gt;&lt;/a&gt;&lt;/span&gt;
+        &lt;img src="http://placehold.it/160x120" alt=""/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</pre>
+						<p> See: <a href="#credits">#credits</a></p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Home page
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="home">
+						<div class="page-header">
+							<h1>Home page</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>4 kinds of home page are available in this template:</p> 
+						<ul>
+						<li>Home page with an unique layout: big welcome and buttons to enhance the visibility of some pages, features with icons, last projects slider.</li>
+						<li>Home page with an classic layout: title, features with icons, last projects slider.</li>
+						<li>Home page with complete: a slider, features with icons, "about us" box, prices, last projects slider.</li>
+						<li>Other home page: a second slider, features with icons, "about us" box, prices.</li>
+						</ul>
+						<p>To create your own, you have to choose between them and open it.</p>
+						<h3 class="m2" >Layout with the arrows and the icons</h3>
+							<img src="assets/images/home.png" class="thumbnail">
+							<p class="m1">It's for a home page without slider, you can welcome your visitors with a message which can not be missed ! Beautiful arrows are here to enhance the visibility your content with big buttons. All with style.</p>
+						<h3 class="m2" >Features</h3>
+							<p>Called "features" this area is here to present your business with your strengths. The icons are here to illustrate them, find all the icons in the folder <code>resources</code>.</p>
+						<h3 class="m2" >Sliders</h3>
+							<p>See: <a href="#php">#PHP</h3></a>, <a href="#sliders">#sliders</a></p>
+						<h3 class="m2" >Last project slider</h3>
+							<p>See: <a href="#php">#PHP</h3></a>, <a href="#sliders">#sliders</a></p>
+						<h3 class="m2" >Pricing tables</h3>
+							<p>See: <a href="#html">#HTML elements</a></p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Social networks
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="social">
+						<div class="page-header">
+							<h1>Social networks</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Social icons</h3>
+						<p>You will find the social icons in: the <strong>hidden area</strong> (line 72), just above the <strong>footer</strong> (line 105) and in the <strong>contact page (line 148)</strong>. If you go at these lines, you will see all the social icons but the most part are in comment...Choose yours, paste your URLs then remove them of the comment. Your own social icons are ready now ! See: <a href="#credits">#credits</a></p><br />
+						The social icons availables are:</p>
+								<a href="#" rel="tooltip" title="Join us on facebook"><img src="assets/images/social/facebook.png" alt="facebook icon"  height="22" width="22" class="a_social_icon  facebook"></a>
+                                <a href="#" rel="tooltip" title="Follow us on twitter"><img src="assets/images/social/twitter.png" alt="twitter icon" height="22" width="22" class="a_social_icon twitter"></a>
+                                <a href="#" rel="tooltip" title="Join us on google +"><img src="assets/images/social/gplus.png" alt="gplus icon"  height="22" width="22" class="a_social_icon gplus"></a>
+                                <a href="#" rel="tooltip" title="Join us on youtube"><img src="assets/images/social/youtube.png" alt="youtube icon"  height="22" width="22" class="a_social_icon youtube"></a>
+                                <a href="#" rel="tooltip" title="Join us on vimeo"><img src="assets/images/social/vimeo.png" alt="vimeo icon"  height="22" width="22" class="a_social_icon vimeo"></a>
+                                <a href="#" rel="tooltip" title="Subscribe our rss feed"><img src="assets/images/social/rss.png" alt="rss icon"  height="22" width="22" class="a_social_icon rss"></a>
+                                <a href="#" title=""><img src="assets/images/social/addthis.png" alt="addthis icon"  height="22" width="22" class="a_social_icon addthis"></a>
+                                <a href="#" rel="tooltip" title="Follow us on behance"><img src="assets/images/social/behance.png" alt="behance icon"  height="22" width="22" class="a_social_icon behance"></a>
+                                <a href="#" rel="tooltip" title="Join us on blogger"><img src="assets/images/social/blogger.png" alt="blogger icon"  height="22" width="22" class="a_social_icon blogger"></a>
+                                <a href="#" rel="tooltip" title="Join us on digg"><img src="assets/images/social/digg.png" alt="digg icon"  height="22" width="22" class="a_social_icon digg"></a>
+                                <a href="#" rel="tooltip" title="Join us on dribbble"><img src="assets/images/social/dribbble.png" alt="dribbble icon"  height="22" width="22" class="a_social_icon dribbble"></a>
+                                <a href="#" rel="tooltip" title="Follow us on flickr"><img src="assets/images/social/flickr.png" alt="flickr icon"  height="22" width="22" class="a_social_icon flickr"></a>
+                                <a href="#" rel="tooltip" title="Join us on instagram"><img src="assets/images/social/instagram.png" alt="instagram icon"  height="22" width="22" class="a_social_icon instagram"></a>
+                                <a href="#" rel="tooltip" title="Join us on lastfm"><img src="assets/images/social/lastfm.png" alt="lastfm icon"  height="22" width="22" class="a_social_icon lastfm"></a>
+                                <a href="#" title=""><img src="assets/images/social/like.png" alt="like icon"  height="22" width="22" class="a_social_icon like"></a>
+                                <a href="#" rel="tooltip" title="Follow us on linkedin"><img src="assets/images/social/linkedin.png" alt="linkedin icon"  height="22" width="22" class="a_social_icon linkedin"></a>
+                                <a href="#" rel="tooltip" title="Join us on livejournal"><img src="assets/images/social/livejournal.png" alt="livejournal icon"  height="22" width="22" class="a_social_icon livejournal"></a>
+                                <a href="#" rel="tooltip" title="Join us on myspace"><img src="assets/images/social/myspace.png" alt="myspace icon"  height="22" width="22" class="a_social_icon myspace"></a>
+                                <a href="#" rel="tooltip" title="Join us on paypal"><img src="assets/images/social/paypal.png" alt="paypal icon"  height="22" width="22" class="a_social_icon paypal"></a>
+                                <a href="#" rel="tooltip" title="Follow us on picasa"><img src="assets/images/social/picasa.png" alt="picasa icon"  height="22" width="22" class="a_social_icon picasa"></a>
+                                <a href="#" rel="tooltip" title="Join us on reddit"><img src="assets/images/social/reddit.png" alt="reddit icon"  height="22" width="22" class="a_social_icon reddit"></a>
+                                <a href="#" rel="tooltip" title="Join us on sharethis"><img src="assets/images/social/sharethis.png" alt="sharethis icon"  height="22" width="22" class="a_social_icon sharethis"></a>
+                                <a href="#" rel="tooltip" title="Follow us on skype"><img src="assets/images/social/skype.png" alt="skype icon"  height="22" width="22" class="a_social_icon skype"></a>
+                                <a href="#" rel="tooltip" title="Join us on spotify"><img src="assets/images/social/spotify.png" alt="spotify icon"  height="22" width="22" class="a_social_icon spotify"></a>
+                                <a href="#" rel="tooltip" title="Join us on stumbleupon"><img src="assets/images/social/stumbleupon.png" alt="stumbleupon icon"  height="22" width="22" class="a_social_icon stumbleupon"></a>
+                                <a href="#" rel="tooltip" title="Join us on tumblr"><img src="assets/images/social/tumblr.png" alt="tumblr icon"  height="22" width="22" class="a_social_icon tumblr"></a>
+                                <a href="#" rel="tooltip" title="Follow us on wordpress"><img src="assets/images/social/wordpress.png" alt="wordpress icon"  height="22" width="22" class="a_social_icon wordpress"></a>
+						
+						<h3 class="m2" >Twitter feeds</h3>
+						<p>In the widget there is a twitter feed, to set it, you have to go in <code>main.js</code> (line 161) and put your username, it's done. See: <a href="#credits">#credits</a></p></p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Contact page
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="contact">
+						<div class="page-header">
+							<h1>Contact page <small>form and map</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						
+						<h3 class="m2" >Form</h3>
+						<p>The contact form needs your email for working, so go at <code>contact.php</code> and line 36: set it</p>
+						<p><strong>Issue</strong><br />
+						You see a warning of success but you receive nothing:</p>
+						<ul>
+							<li>Check if your provider accepted the sending of emails</li>
+							<li>Check if your email is correctly set</li>
+							<li>Check your mailbox again...</li>
+						</ul>
+						
+						<h3 class="m2" >Map</h3>
+						<p>The map is initialized in <code>map.js</code>.
+						For the map we need the position of your business. To find it go to:<br />
+						<a href="http://itouchmap.com/latlong.html" target="_blank">Itouchmap</a><br />
+						A simple click from the site map on the location of your business will give very precise longitude and latitude (for example: 38.941182, -46.625977), copy the result in <code>map.js</code> line 7. Then you can change the default icon (png), create your icon and call it <code>picto_map</code> and copy this icon in the folder <code>images</code>. Then the field <code>Info Windows title</code> is used to add a title to the "bubble" that appears when clicking on the icon and as the name suggests , <code>Info Windows content</code> will inform you content of the "bubble". In order to avoid long texts, an address should be enough.</p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Portfolio
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="portfolio">
+						<div class="page-header">
+							<h1>Portfolio</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Build your portfolio</h3>
+						<ol>
+							<li>Choose the number of columns of your future portfolio ...3, 4 or 6</li>
+							<li>Open the following file according to your choice(<code>portfolio_3col.php</code>, <code>portfolio_4col.php</code> or <code>portfolio_6col.php</code>)</li>
+							<li>You have to find for each project a picture, a description, a thumbnail (See: <a href="#size">#size</a>), few categories, and a date</li>
+							<li>For each project add:
+							<pre class="prettyprint linenums">&lt;!-- // A Project // --&gt;
+	&lt;div class="span3or4or6"&gt;
+		&lt;div class="viewport thumbnail four_col your_category your_date"&gt;
+            &lt;div&gt;
+                &lt;span class="dark-background"&gt;&lt;a href="picture url" class="project_glass" rel="prettyPhoto"  title="Your project name" &gt;&lt;/a&gt;&lt;a href="your project page" class="project_link"&gt;&lt;/a&gt;&lt;/span&gt;
+                 &lt;img src="thumbnail url" alt="" height="180 -> <a href="#size">#size</a>" width="260 -> <a href="#size">#size</a>"/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- end .viewport --&gt;
+    &lt;/div&gt;&lt;!-- end .span3or4or6 --&gt;</pre>
+							</li>
+							<li>Then create a page for each projects, you have to open <code>single_project.php</code> and save as "your project page"</li>
+							<li>Do it for each project, you will have all your projects as in the preview, but how to run the filtering ? (just below)</li>
+						</ol>
+						
+						<h3 class="m2" >Manage the filtering</h3>
+						<p>You have to add for each project a class which symbolizes the category and an other for the date (look at <code>portfolio_4col.php</code> line 97 to see an example). Then, for filter you need some buttons or links as in the preview for that, you have to add: <code>data-filter=".category_name"</code> (look at <code>portfolio_4col.php</code> line 66->91 to see an example)</p>
+						<p>More informations here:<br />
+						<a class="btn btn-inverse btn-large" href="http://isotope.metafizzy.co/docs/filtering.html" target="_blank"><i class="icon-home icon-white"></i> Filtering documentation</a>
+						</p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					CSS Structure
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="css-structure">
+						<div class="page-header">
+							<h1>CSS Structure</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p><code>style.css</code> is a very long file so the strucrure is here to save your time</p>
+						<pre class="prettyprint linenums">/***************************
+************Main***********/
+...
+/***************************
+***********Header**********/
+    /********Hidden area*******/
+    ...
+    /********Social icons******/
+    ...
+    /*********Logo area********/
+    ...
+    /************Menu**********/
+    ...
+    /*******Dropdown menu******/
+    ...
+/***************************
+**********Slider***********/
+...
+/***************************
+*********Quotes area********
+******(Only Home page)*****/
+...
+/***************************
+*********Container*********/
+    /*******Table Prices*******/
+    ...
+    /********Last projects*****/
+    ...
+    /******404 error page******/
+    ...
+    /*******Contact page*******/
+    ...
+    /********Portfolio*********/
+    ...
+    /*************Blog*********/
+    ...
+    /*********Background*******/
+    ...
+    /********Scroll top********/
+    ...
+/***************************
+********Bottom area********/
+    /******Tweeter widget******/
+    ...
+    /*******News widget********/
+    ...
+    /******Contact widget******/
+    ...
+    /******Sign up widget******/
+    ...
+/***************************
+***********Footer**********/
+... </pre>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					HTML elements
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="html">
+						<div class="page-header">
+							<h1>HTML elements <small>forms, shortcodes, typography...</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+                        <div class="alert alert-info">
+                            <p>Bootstrap allows lot of varied HTML elements, all is told in their documentation so it's not necessary to repeat it here. I just will explain here the elements which are specific at this template.</p>
+                        </div>
+						<h3 class="m2" >Buttons</h3>
+						<div class="row">
+							<div class="span5">
+								<h5>Read more buttons</h5>
+								<p>These are the buttons that looks like this:</p>
+								<img src="assets/images/morebutton.png" class="thumbnail">
+								<pre class="prettyprint linenums m1">&lt;a href="yourlink" class="btn btn-more"&gt;Read more &lt;span class="more_icon"&gt;+&lt;/span>&lt;/a&gt;</pre>
+							</div>
+							<div class="span5">
+								<h5>Other</h5>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /></p>
+								<a href="http://twitter.github.com/bootstrap/base-css.html#buttons" target="_blank" class="btn btn-inverse btn-large"><i class="icon-white icon-ok-sign"></i> Buttons with Bootstrap</a>
+							</div>
+						</div>
+						
+						<h3 class="m2" >Typography</h3>
+						<div class="row">
+							<div class="span5">
+								<h5>Title</h5>
+								<p>For the title, like to this:</p>
+								<img src="assets/images/title.png" class="thumbnail">
+								<pre class="prettyprint linenums m1">&lt;div class="heading center"&gt;
+    &lt;div class="separation"&gt;&lt;/div&gt;
+    &lt;h2&gt;Title&lt;/h2&gt;
+&lt;/div&gt;&lt;!-- end .heading --&gt;</pre>
+							</div>
+							<div class="span5">
+								<h5>Quotes, heading, italic, bold...</h5>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /></p>
+								<a href="http://twitter.github.com/bootstrap/base-css.html#typography" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Typography with Bootstrap</a>
+							</div>
+						</div>	
+						<h5>Lists</h5>
+							<p>Different lists available:<br /></p>
+						<div class="row">
+                                <div class="span3">
+                                    <pre class="prettyprint linenums">&lt;ul class="unstyled"&gt;</pre>
+                                    <ul class="unstyled">
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                    </ul>
+                                </div><!-- end .span3 -->
+                                <div class="span3">
+                                    <pre class="prettyprint linenums">&lt;ul class="list"&gt;</pre>
+                                    <ul class="list">
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                    </ul>
+                                </div><!-- end .span3 -->
+                                <div class="span3">
+                                    <pre class="prettyprint linenums">&lt;ul class="ready"&gt;</pre>
+                                    <ul class="ready">
+                                        <li class="ready">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                    </ul>
+                                </div><!-- end .span3 -->
+                                <div class="span3">
+                                    <pre class="prettyprint linenums">&lt;ol&gt;</pre>
+                                    <ol>
+                                        <li class="ready">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                        <li>Aliquam tincidunt mauris eu risus.</li>
+                                        <li>Vestibulum auctor dapibus neque.</li>
+                                    </ol>
+                                </div><!-- end .span3 -->
+                        </div><!-- end .row -->
+
+						
+						<h3 class="m2" >Table pricing</h3>
+						<div class="row m1">
+							<div class="span4 center">
+								<img src="assets/images/pricing.png" class="thumbnail">
+							</div>
+							<div class="span8">
+						<pre class="prettyprint linenums">&lt;div class="wrapper_table_pricing span2 "&gt;
+    &lt;div class="table_pricing center"&gt;
+        &lt;h3&gt;Prenium&lt;/h3&gt;
+        &lt;div class="separation"&gt;&lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li class="ready"&gt;&lt;a href="#" rel="tooltip" title="Add here the features for example"&gt;Blo
+	    g&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="ready"&gt;&lt;a href="#" rel="tooltip" title="Add here the features for example"&gt;Por
+	    tfolio&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="ready"&gt;&lt;a href="#" rel="tooltip" title="Add here the features for example"&gt;Con
+	    tact form&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="ready"&gt;&lt;a href="#" rel="tooltip" title="Add here the features for example"&gt;For
+	    um&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="ready"&gt;&lt;a href="#" rel="tooltip" title="Add here the features for example"&gt;Sto
+	    re&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h1 class="price"&gt;99$&lt;/h1&gt;
+    &lt;/div&gt;&lt;!-- end .table_pricing --&gt;
+&lt;/div&gt;&lt;!-- end .wrapper_table_pricing --&gt;</pre>
+							</div>
+						</div>
+						
+						<h3 class="m2" >Forms</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="#" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Forms with Bootstrap</a></p>
+						
+						<h3 class="m2" >Tables</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/base-css.html#tables" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Tables with Bootstrap</a></p>
+						
+						
+						<h3 class="m2" >Thumbnails</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/components.html#thumbnails" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i>Thumbnails with Bootstrap</a></p>
+						
+						
+						<h3 class="m2" >Labels and badges</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/components.html#labels-badges" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Labels and badges with Bootstrap</a></p>
+						
+						
+						<h3 class="m2" >Alerts</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/components.html#alerts" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Alerts with Bootstrap</a></p>
+						
+						
+						<h3 class="m2" >Progress bars</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/components.html#progress" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Progress bars with Bootstrap</a></p>
+						
+						
+						<h3 class="m2" >Miscellaneous</h3>
+						<h5>Margins</h5>
+                            <p>For practical reasons, two classes have been added for horizontal spacing. They just need to add them to any elements for a separation with the top element:</p>
+                            <div class="row">
+                                <div class="span5">
+                                    <h5><code>class="m1"</code></h5>
+                                    <p>This class adds a margin to the element: <code>margin-top: 24px</code></p>
+                                </div>
+                                <div class="span5">
+                                    <h5><code>class="m2"</code></h5>
+                                        <p>This class adds a margin to the element: <code>margin-top: 48px</code></p>
+                                </div>
+                            </div><!-- end .row -->
+                        <h5>Floating</h5>
+                            <p>To place items on the page (left or right), 2 classes were created by Bootstrap:</p>
+                                    <div class="row">
+                                        <div class="span5">
+                                            <strong>pull-left <code>class="pull-left"</code></strong>
+                                            <p>This class places the item on the left of its container with the float property: <code>float: left</code></p>
+                                            <strong>Example</strong><br />
+                                            <a class="btn btn-danger pull-left clearfix" href="#" style="margin-right: 8px;"> A button with pull left</a>
+                                            <a class="btn btn-danger" href="#"> A button</a>
+                                            <pre class="prettyprint linenums m1" style="margin-bottom: 18px;">&lt;a class="btn btn-danger pull-left" href="#"&gt; A button with pull-left&lt;/a&gt;</pre>
+                                        </div>
+                                        <div class="span5">
+                                            <strong>pull-right <code>class="pull-right"</code></strong>
+                                            <p>This class places the item on the left of its container with the float property: <code>float: right</code></p>
+                                            <strong>Example</strong><br />
+                                            <a class="btn btn-danger pull-right clearfix" href="#" style="margin-right: 8px;"> A button with pull right</a>
+                                            <a class="btn btn-danger" href="#"> A button</a>
+                                            <pre class="prettyprint linenums m1" style="margin-bottom: 18px;">&lt;a class="btn btn-danger pull-right" href="#"&gt; A button with pull-right&lt;/a&gt;</pre>
+                                        </div>
+                                    </div><!-- end .row -->
+                        <h5>Text position</h5>
+                            <p>For the text alignment, two classes were created:</p>
+                                    <div class="row">
+                                        <div class="span5">
+                                            <h5>center <code>class="center"</code></h5>
+                                            <p>This class centers the text with the text-align property: <code>text-align: center</code></p>
+                                            <h5>Example</h5>
+                                            <p>Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+                                            Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+                                            <p>With <code>class="center"</code>:</p>
+											<div class="well">
+												<p class="center">Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+												Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+											</div>
+                                        </div>
+                                        <div class="span5">
+                                            <h5>justify <code>class="justify"</code></h5>
+                                            <p>This class put the text in justified (the sentences go to the end of the container
+                                                and the spacing increases) with text-align property: <code>text-align: justify</code></p>
+                                            <h5>Example</h5>
+                                            <p>Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+                                            Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+                                            <p>With <code>class="justify"</code>:</p>
+											<div class="well">
+												<p class="justify">Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+												Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+											</div>
+                                        </div>
+                                    </div><!-- end .row -->
+                        <h5>Text shadow </h5>
+                            <code>class="text_shadow"</code><br />
+                                <p>This class adds a shadow on the text with text-shadow: <code>text-shadow: 0px 0px 3px #555;</code></p>
+                                <strong>Example</strong>
+                                <p>Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+                                Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+                                <p>With <code>class="justify"</code> et well plus un background bleu pour la demo:</p>
+                                <p class="text_shadow well" style="color: #FFF; background: #00afff;">Some text...Mauris auctor vestibulum lorem, eu accumsan ante lobortis ut.
+                                Duis commodo orci urna. Cras et neque ut purus dapibus interdum. Sed sit amet turpis leo. Aliquam erat volutpat.</p>
+								
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/components.html#misc" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Miscellaneous bars with Bootstrap</a></p>
+						
+						<h3 class="m2" >Columns</h3>
+						<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/scaffolding.html#gridSystem" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Columns with Bootstrap</a></p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					JS elements
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="js">
+						<div class="page-header">
+							<h1>Javascript elements <small>plugins</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<div class="row">
+							<div class="span5">
+							<h3 class="m2" >Tooltips</h3>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/javascript.html#tooltips" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Tooltips with Bootstrap</a></p>
+							</div>
+							<div class="span5">
+							<h3 class="m2" >Tabs</h3>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/javascript.html#tabs" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Tabs with Bootstrap</a></p>
+							</div>
+							<div class="span5">
+							<h3 class="m2" >Alerts</h3>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/javascript.html#alerts" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Alerts with Bootstrap</a></p>
+							</div>
+							<div class="span5">
+							<h3 class="m2" >Collapse</h3>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/javascript.html#collapse" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Collapse with Bootstrap</a></p>
+							</div>
+							<div class="span5">
+							<h3 class="m2" >Dropdowns</h3>
+								<p>I invite you to look at the documentation of Bootstrap about this topic:<br /><br />
+								<a href="http://twitter.github.com/bootstrap/javascript.html#dropdowns" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-ok-sign"></i> Dropdowns with Bootstrap</a></p>
+							</div>
+						</div>
+						<h3 class="m2" >PrettyPhoto effect</h3>
+						<div class="row">
+                                <div class="span5 m1">
+                                    <div class="center">
+										<img src="assets/images/prettyphoto.png" class="thumbnail">
+                                    </div>
+                                </div><!-- end .span5 -->
+                                <div class="span7 m1">
+                                    <pre class="prettyprint linenums">&lt;a href="http://placehold.it/720x400" rel="prettyPhoto"&gt;
+	&lt;img src="http://placehold.it/360x200" alt="an image" class="thumbnail"&gt;
+&lt;/a&gt;</pre>
+                                    <p>Respect this structure for any photo and you will have this effect (link with <code>rel="prettyPhoto"</code> then your thumbnail).
+                                    You can set many options into <code>main.js</code> (line 202).<br /> See: <a href="#credits">#credits</a></p>
+                                </div><!-- end .span5 -->
+                        </div><!-- end .row -->
+
+						
+						<h3 class="m2" >Hover effect</h3>
+						<div class="row">
+                                <div class="span2 m1">
+                                    <div class="center">
+										<img src="assets/images/hover.png" class="thumbnail">
+                                    </div>
+                                </div><!-- end .span5 -->
+                                <div class="span10 m1">
+                                    <pre class="prettyprint linenums">&lt;div class="viewport thumbnail"&gt;
+	&lt;div&gt;
+		&lt;span class="dark-background"&gt;&lt;a href="http://placehold.it/320x240" class="project_glass" rel="prettyPhoto" &gt;&lt;/a&gt;
+		&lt;a href="single_project.html" class="project_link"&gt;&lt;/a&gt;&lt;/span&gt;
+		&lt;img src="http://placehold.it/160x120" alt=""/&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</pre>
+                                    <p>Respect this structure for any photo and you will have this effect, javascript is in <code>main.js</code> (line 110).<br /> See: <a href="#credits">#credits</a></p>
+                                </div><!-- end .span5 -->
+                        </div><!-- end .row -->
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Photoshop
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="psd">
+						<div class="page-header">
+							<h1>Photoshop</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>All the photoshop files about this template are into <code>resources/psd</code>, you will find some elements who build the design and who are essential for the customization. There is no version of this template in .psd but there is a similar photoshop template in the folder <code>resources/elegance's cloud PSD</code>.</p>
+						<ul>
+							<li><strong>background_generator.psd</strong>: it's a small file which generates backround, put your color, choose a pattern and save it (some patterns are into <code>images/widget_patterns/</code>)</li>
+							<li><strong>cadre.psd</strong>: this is the bubble that you see in, put your color and save it</li>
+							<li><strong>logo.psd</strong>: this is the logo of sunrising,, if you like it, put your text and save it</li>
+							<li><strong>open.psd</strong>: this is the arrow on the top right corner, put your color and save it</li>
+							<li><strong>picto_map.psd</strong>: this is the logo displaying into the map in the contact page, import your logo and save it</li>
+						</ul>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Compatibility
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="compatibility">
+						<div class="page-header">
+							<h1>Compatibility</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Browsers</h3>
+						<p>This template is ready for <strong>all the modern browsers</strong>, you will find changes with the old browsers who doesn't accept CSS3...(ie6, ie7, ie8, old opera...), if you see problems with a browser please tell it to me, so that I can correct ;) If you want to correct some problems with Internet explorer 8,9 you will find 2 stylesheets for this <code>ie8.css</code> and <code>ie9.css</code>.</p>
+						
+						<h3 class="m2" >Screens</h3>
+						<p>This template is ready for <strong>all the devices which allow the media queries</strong>, it's tested with Ipad, Iphone and large screens, if you see problems with a device please tell it to me, so that I can correct ;) Look at <code>style_responsive.css</code>.</p>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Image size
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="size">
+						<div class="page-header">
+							<h1>Images size</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<table class="table table-striped">
+						  <thead>
+							<tr>
+							  <th>Element</th>
+							  <th>Width (px)</th>
+							  <th>Height (px)</th>
+							</tr>
+						  </thead>
+						  <tbody>
+							<tr>
+							  <td>Logo</td>
+							  <td>200</td>
+							  <td>60</td>
+							</tr>
+							<tr>
+							  <td>Picto contact map</td>
+							  <td>150</td>
+							  <td>80</td>
+							</tr>
+							<tr>
+							  <td>Favicon</td>
+							  <td>16</td>
+							  <td>16</td>
+							</tr>
+							<tr>
+							  <td>Image slider 1</td>
+							  <td>256</td>
+							  <td>256</td>
+							</tr>
+							<tr>
+							  <td>Image slider 2</td>
+							  <td>900</td>
+							  <td>270</td>
+							</tr>
+							<tr>
+							  <td>Portfolio 4 columns</td>
+							  <td>260</td>
+							  <td>180</td>
+							</tr>
+							<tr>
+							  <td>Portfolio 3 columns</td>
+							  <td>360</td>
+							  <td>268</td>
+							</tr>
+							<tr>
+							  <td>Portfolio 6 columns</td>
+							  <td>160</td>
+							  <td>120</td>
+							</tr>
+							<tr>
+							  <td>Last projects slider</td>
+							  <td>160</td>
+							  <td>120</td>
+							</tr>
+							<tr>
+							  <td>Project page</td>
+							  <td>360</td>
+							  <td>200</td>
+							</tr>
+							<tr>
+							  <td>Blog article</td>
+							  <td>870</td>
+							  <td>180</td>
+							</tr>
+							<tr>
+							  <td>Home icons</td>
+							  <td>26</td>
+							  <td>26</td>
+							</tr>
+						  </tbody>
+						</table>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Bootstrap
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="bootstrap">
+						<div class="page-header">
+							<h1>Bootstrap</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+					</section>
+					<p>This template is working with Bootstrap, Bootstrap is faster, big, solid, compatible and awesome ! You'll save time with! And finally it is very easy to understand and it has a full documentation. I strongly advise you to visit their site ;)</p>
+					<div class="row">
+						<div class="span2 center">
+							<a href="http://twitter.github.com/bootstrap/scaffolding.html" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-road"></i> Beginning	</a>
+						</div>
+						<div class="span2 center">
+							<a href="http://twitter.github.com/bootstrap/base-css.html" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-heart"></i> Power of bootstrap</a>
+						</div>
+						<div class="span2 center">
+							<a href="http://twitter.github.com/bootstrap/index.html" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-globe"></i> Bootstrap website</a>
+						</div>
+						<div class="span2 center">
+							<a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/" class="btn btn-inverse btn-large" target="_blank"><i class="icon-white icon-thumbs-up"></i> Useful website</a>
+						</div>
+					</div>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					FAQ's
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="faq">
+						<div class="page-header">
+							<h1>FAQ's <small>frequently asked questions</small></h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<h3 class="m2" >Why there is no php scripts for the search form and the comment form in the blog ?</h3>
+						<blockquote>Because, to use it you need a database MySql and this item is in the "Site template" category not in "Wordpress" so this forms are here if you translate this template in wordpress, joomla, prestashop...(these CMS can manage the operation and design is already there ;) )</blockquote>
+						
+						<h3 class="m2" >Why I can't load it in Wordpress ?</h3>
+						<blockquote>Because, this item is in the "Site template" category not in "Wordpress"...But it's easy to translate it, Google is your friend.</blockquote>
+						
+						<h3 class="m2" >Why there is only one level for the dropdown menu ?</h3>
+						<blockquote>Because, I do not see much use, but I can understand that you need it, if you are patient send me an email and I will add this functionality in the next version ... Otherwise, this plugin do it very well -> <a href="http://users.tpg.com.au/j_birch/plugins/superfish/" target="_blank">Superfish</a>.</blockquote>
+						
+						<h3 class="m2" >Why Javascript elements do not work ?</h3>
+						<blockquote>If for example the dropdowns, tabs, effects "isotope", "prettyPhoto", the slider does not work. Just check if the file is Javascript plugin well known in the page (in the footer.php: <code>&lt;script type="text/javascript" src="..." &gt;&lt;/script&gt;</code>) 
+                        Whether because to save time in loading the page, some plugins are not called in every page (much of the available plugins bootstrap for example, feel free to add).</blockquote>
+						
+						<h3 class="m2" >How to adapt my image with wrong size ?</h3>
+						<blockquote>You'll notice that each image site requires precise size so that there was no display bugs...So you just have to resize your images at the good size or to trim it with Photoshop or Paint.</blockquote>
+						
+						<h3 class="m2" >Sometimes I see tasks appear black (seen in Google Chrome)</h3>
+						<blockquote>The problem is coming with Tooltip effect if it's problematic for you delete the file <code>bootstrap-tooltip.js</code>.</blockquote>
+						
+						<h3 class="m2" >Slider in the home pages doesn't work...</h3>
+						<blockquote>After including <code>slider_1.php</code> or <code>slider_2.php</code>, they do not always work...Check if <code>style_slider.css</code> is called in the top of your page.</blockquote>
+						
+						<h3 class="m2" >Elements disappear on my Ipad, Iphone..</h3>
+						<blockquote>Example, the map in the contact page disappear on  your Iphone, why it's a choice (this is not practical, not for this), it's the same thing for the slider. But you're free to go into <code>style_responsive.css</code>, <code>style_slider.css</code> and change it.</blockquote>
+						
+						<h3 class="m2" >Where can I find help ?</h3>
+                        <blockquote>Feel free to ask me questions on my profil page in ThemeForest, or send me an email: <strong>help@2f-design.fr</strong></blockquote>
+					</section>
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					Sources and credits
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="credits">
+						<div class="page-header">
+							<h1>Sources and credits</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>I've used the following images, icons, scripts or other files as listed.</p>
+						<h2>A big thanks to:</h2>
+						
+						<h3 class="m2" >Bootstrap</h3>
+						<p>A very big thanks to Bootstrap that is the backbone of this template! We recommend to all for its maneuverability, its adaptation, its design, posibility of creating ...
+                        <a class="btn btn-inverse btn-large" href="http://twitter.github.com/bootstrap/index.html" target="_blank"><i class="icon-home icon-white"></i> Bootstrap website</a></p>
+						
+						<h3 class="m2" >Plugins</h3>
+                            <ul>
+                                <li><a href="http://www.sequencejs.com/" target="_blank">Sequence</a>: main slider in the template.</li>
+                                <li><a href="http://tympanus.net/codrops/2011/09/12/elastislide-responsive-carousel/" target="_blank">Elastislider</a>: slider for the last projects.</li>
+                                <li><a href="https://developers.google.com/" target="_blank">Google map API, google webfonts</a>: map in contact page and fonts.</li>
+                                <li><a href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/" target="_blank">Prettyphoto</a>: Prettyphoto is a tool for displaying images, html content and multi-media in a  "lightbox".</li>
+                                <li><a href="http://slidesjs.com/" target="_blank">Slides</a>: Sliders used for news and quotes.</li>
+                                <li><a href="http://jquery.com/" target="_blank">Jquery</a>: Famous Javascript library.</li>
+                                <li><a href="http://tweet.seaofclouds.com/" target="_blank">Todd Matthews & Steve Purcell</a>: Last tweets plugin.</li>
+                                <li><a href="http://isotope.metafizzy.co/" target="_blank">Metafizzy</a>: Filtering in the portfolio (prenium license).</li>
+                            </ul>
+						<h3 class="m2" >Images, icons</h3>
+                            <ul>
+                                <li>Somicro icon set designed by <a href="http://www.veodesign.com" target="_blank">Veodesign</a></li>
+                                <li>Icon set (Home page and widgets) designed by <a href="http://www.tutorial9.net/downloads/sketchy-web-icons-30-hand-drawn-icon-pack/" target="_blank">Jan Cavan</a></li>
+                                <li>Icon set (Main slider) designed by <a href="http://www.smashingmagazine.com/2010/05/24/free-designer-s-portfolio-icon-set-12-high-quality-icons/" target="_blank">SmashingMagazine</a></li>
+                                <li>Icons graciously provided by <a href="http://glyphicons.com/" target="_blank">Glyphicons</a></li>
+								<li>Beautiful backgrounds by <a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a></li>
+								<li>Brush for the arrows in the home by <a href="http://www.brush-photoshop.fr/dessin/smallarrowsbrushes-873.html" target="_blank">Niedziela2005</a></li>
+                            </ul>
+							
+					</section>
+					
+					<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					End
+					///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+					<section id="end">
+						<div class="page-header">
+							<h1>End</h1> <a href="#" class="scroller pull-right"><i class="icon-chevron-up"></i></a>
+						</div>
+						<p>
+                            Once again a big thank you for purchasing this template! I hope you liked and also that the documentation is fairly complete. If you have a question, ask me your questions on my profile page on ThemeForest or write me an email at: <strong>help@2f-design.fr</strong> .
+                            A big thank you to the authors of plugins and resources necessary to create it.
+                        </p>
+						<h3 class="m2" >Do you like this documentation, this template ? Or you think it lacks something?</h3>
+						<p>Please tell me ! So that I can improve myself ;) And don't <strong>forget to rate this template</strong> on Themeforest please. <strong>If you're proud of your website</strong>, send it to me.<br />
+						<br />
+						Regards,<br />
+						</p>
+						<div class="center">
+							<p><a href="http://2f-design.fr/" class="btn btn-inverse btn-large m2" target="_blank"><i class="icon-white icon-user"></i> F&#178;</a></p>
+						</div>
+					</section>
+					</div>
+				</div>
+			</div>
+        </div><!-- end #page -->
+    </body>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" ></script>
+    <script type="text/javascript" src="assets/js/main.js" ></script>
+    <script type="text/javascript" src="assets/js/prettify.js" ></script>
+</html>

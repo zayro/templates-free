@@ -1,0 +1,44 @@
+body 							{ outline:none;}
+.postoptions					{ padding:0px; padding-top:0;  }
+
+#sys_link .select,
+.postoptions select,
+.postoptions textarea,
+.postoptions input[type=text]		{ width:100%; margin-top:3px !important; padding: 7px !important;  background:#fff; -moz-border-radius:2px; -webkit-border-radius:2px; -khtml-border-radius:2px; border:1px solid; border-color: #aaa #ddd #ddd #aaa;}
+
+.postoptions input[type=checkbox] 
+								{ padding:3px !important; }
+
+.postoptions .box-option			{ width:100%; padding:5px 0 0 0; margin-right:15px;}
+.postoptions .box-info			{ padding:0; color:#444; font:italic normal 11px/16px verdana, Arial, Helvetica, sans-serif;  }
+
+.hidden							{ display:none;}
+.postoptions label  				{ outline:none; display:block; vertical-align:middle;}
+
+#sys_link .select,
+.postoptions select:focus,
+.postoptions input:focus,
+.postoptions textarea:focus		{ background:#ffffff;}
+
+
+.adcontentbox select:focus,
+.adcontentbox input:focus,
+.adcontentbox textarea:focus		{ background:#ffffff;}
+
+.hide 							{ display:none}
+#page_lists_plus_box, 
+#new-meta-boxes					{  }
+.postoptions .metabox			{ margin-bottom:10px;  }
+.postoptions .metabox h3		{ background:#f1f1f1; margin:0; padding:5px 0;  }
+.metainner 						{ padding:15px;border:1px solid #dfdfdf; background:#f9f9f9;}
+
+input.smallinput					{ width:200px !important;}
+input.mediuminput					{ width:350px !important;}
+
+
+#customurl select 		{ height:auto !important; width:auto !important;}
+
+.colorbox 						{ overflow:hidden; }
+.colorbox .simple-option		{ float:left; display:inline; width:200px; padding:10px; margin-right:10px; }
+.colorbox .simple-option input	{ width:100px; }
+.colorbox .simple-info			{ float:left; padding:10px; margin-left:10px; color:#444; font-weight:bold; line-height:22px;  }

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories normalColor="0xFFFFFF" overColor="0x0099FF" downColor="0xAAAAAA" rolloutPauseDuration="4">
+
+
+	<list listName="News">
+
+		<item linkName="Latest News" type="swf" path="news/latestnews.swf" target="_root.mainContainer"></item>
+	
+	</list>
+
+
+
+
+
+
+
+	<list listName="Our Company">
+
+		<item linkName="About Us" type="swf" path="about/aboutus.swf" target="_root.mainContainer"></item>
+
+
+		<item linkName="Our Services" type="swf" path="services/ourservices.swf" target="_root.mainContainer"></item>
+
+
+		<item linkName="Plain Text" type="swf" path="plaintext/text.swf" target="_root.mainContainer"></item>
+
+	</list>
+
+
+
+
+
+
+	<list listName="Portfolio">
+
+
+		<item linkName="Corporate" type="swf" path="webprojects/web1/webprojects.swf" target="_root.mainContainer"></item>
+		
+
+		<item linkName="Business" type="swf" path="webprojects/web2/webprojects.swf" target="_root.mainContainer"></item>
+
+
+		<item linkName="Miscellaneous" type="swf" path="webprojects/web3/webprojects.swf" target="_root.mainContainer"></item>
+	
+		
+	</list>
+
+
+
+
+
+	<list listName="Video Portfolio">
+
+
+		<item linkName="Videos One" type="swf" path="video_galleries/gallery_one/videos.swf" target="_root.mainContainer"></item>
+
+
+		<item linkName="Videos Two" type="swf" path="video_galleries/gallery_two/videos.swf" target="_root.mainContainer"></item>
+
+
+	</list>
+
+
+
+	<list listName="Contact">
+	
+
+		<item linkName="Contact Information" type="swf" path="contact_info/contactus.swf" target="_root.mainContainer"></item>
+		
+
+		<item linkName="Contact Mail Form" type="swf" path="contact_form/contact.swf" target="_root.mainContainer"></item>	
+
+
+		<item linkName="Send an email" type="url" path="mailto:uranime@hotmail.com" target="_blank"></item>
+
+
+	</list>
+
+
+
+	<list listName="Links">
+	
+		<item linkName="AudioJungle.net" type="url" path="http://www.audiojungle.net" target="_blank"></item>
+
+
+		<item linkName="FlasdDen.net" type="url" path="http://www.flashden.net" target="_blank"></item>		
+
+
+		<item linkName="AudioJungle.net" type="url" path="http://www.audiojungle.net" target="_blank"></item>
+
+
+		<item linkName="FlashDen.net" type="url" path="http://www.flashden.net" target="_blank"></item>
+
+
+		<item linkName="AudioJungle.net" type="url" path="http://www.audiojungle.net" target="_blank"></item>
+
+
+		<item linkName="FlasdDen.net" type="url" path="http://www.flashden.net" target="_blank"></item>		
+
+
+		<item linkName="AudioJungle.net" type="url" path="http://www.audiojungle.net" target="_blank"></item>
+
+
+		<item linkName="FlashDen.net" type="url" path="http://www.flashden.net" target="_blank"></item>
+
+
+
+	</list>
+
+
+</categories>
+

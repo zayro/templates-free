@@ -1,0 +1,306 @@
+<category>
+	
+	<!-- P R I M A R Y   P A Y P A L   E M A I L   A D D R E S S  -->
+	
+	<paypalEmail>info@tpnwebdesign.com</paypalEmail>
+	
+	<!-- C O U N T R Y   C U R R E N C Y  -->
+	
+	<countryCurrency>CAD</countryCurrency>
+
+	<!-- T H I S   I S   Y O U R   D E F A U L T   C A T E G O R Y  -->
+	
+	<defaultCategory>SWEATERS</defaultCategory>
+
+	<type name = "SWEATERS">
+		<product>
+			<itemNumber>10</itemNumber>
+			<name>Product One</name>
+			<price>29.99</price>
+			<description>Signature five-stripe gradient print. Mesh inserts at back panel and underarms. Front zip placket with locking pull. Chafe free flat seems. Fabric: 100% Polyester pique. Mesh: 100% Polyester. Domestic and/or imported.</description>
+			<pic>shop/one/small/1.jpg</pic>
+			<picture>shop/one/big/one/1.jpg,shop/one/big/one/1blue.jpg,shop/one/big/one/1red.jpg</picture>
+			<attribute1 title="SIZE">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE,XXX LARGE</attribute1>
+			<attribute2 title="COLOR">RED,GREEN,BLUE,BLACK,WHITE,YELLOW,BROWN,PURPLE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>11</itemNumber>
+			<name>Product Two</name>
+			<price>19.99</price>
+			<description>Tee with translucent water based printed graphic. 100% Cotton jersey. Domestic and/or imported.</description>
+			<pic>shop/one/small/2.jpg</pic>
+			<picture>shop/one/big/two/2.jpg,shop/one/big/two/2purple.jpg,shop/one/big/two/2green.jpg,shop/one/big/two/2blue.jpg,shop/one/big/two/2grey.jpg</picture>
+			<attribute1 title="FRAME">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title=""></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>12</itemNumber>
+			<name>Product Three</name>
+			<price>39.99</price>
+			<description>Description for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes here</description>
+			<pic>shop/one/small/3.jpg</pic>
+			<picture>shop/one/big/3.jpg</picture>
+			<attribute1 title=""></attribute1>
+			<attribute2 title="Frame">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>13</itemNumber>
+			<name>Product Four</name>
+			<price>49.99</price>
+			<description>Description for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes here</description>
+			<pic>shop/one/small/2.jpg</pic>
+			<picture>shop/one/big/2.jpg</picture>
+			<attribute1 title=""></attribute1>
+			<attribute2 title=""></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>14</itemNumber>
+			<name>Product Five</name>
+			<price>0.01</price>
+			<description>Description for this product goes hereDescription for this product goes hereDescription for this product goes hereDescription for this product goes here</description>
+			<pic>shop/one/small/3.jpg</pic>
+			<picture>shop/one/big/3.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>6</itemNumber>
+			<name>Product Six</name>
+			<price>11</price>
+			<description>Description for this product goes here. Description for this product goes here.</description>
+			<pic>shop/one/small/1.jpg</pic>
+			<picture>shop/one/big/1.jpg</picture>
+			<attribute1 title="Size">SMALL</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>7</itemNumber>
+			<name>Product Seven</name>
+			<price>12</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/one/small/3.jpg</pic>
+			<picture>shop/one/big/3.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>8</itemNumber>
+			<name>Product Eight</name>
+			<price>13</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/one/small/1.jpg</pic>
+			<picture>shop/one/big/1.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>9</itemNumber>
+			<name>Product Nine</name>
+			<price>14</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/one/small/2.jpg</pic>
+			<picture>shop/one/big/2.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>10</itemNumber>
+			<name>Product Ten</name>
+			<price>15</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/one/small/1.jpg</pic>
+			<picture>shop/one/big/1.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+	</type>
+	
+	
+	
+	
+	
+	
+	
+	<type name = "WATCHES">
+		<product>
+			<itemNumber>1</itemNumber>
+			<name>Product Sixteen</name>
+			<price>59.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/3.jpg</pic>
+			<picture>shop/two/big/3.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>2</itemNumber>
+			<name>Product Seventeen</name>
+			<price>69.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/1.jpg</pic>
+			<picture>shop/two/big/1.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>3</itemNumber>
+			<name>Product Eighteen</name>
+			<price>15.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/2.jpg</pic>
+			<picture>shop/two/big/2.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>4</itemNumber>
+			<name>Product Nineteen</name>
+			<price>19.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/1.jpg</pic>
+			<picture>shop/two/big/1.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>5</itemNumber>
+			<name>Product Twenty</name>
+			<price>10.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/2.jpg</pic>
+			<picture>shop/two/big/2.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>6</itemNumber>
+			<name>Product Twenty One</name>
+			<price>11.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/3.jpg</pic>
+			<picture>shop/two/big/3.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>7</itemNumber>
+			<name>Product Twenty Two</name>
+			<price>12.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/2.jpg</pic>
+			<picture>shop/two/big/2.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>8</itemNumber>
+			<name>Product Twenty Three</name>
+			<price>13.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/3.jpg</pic>
+			<picture>shop/two/big/3.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+		
+		<product>
+			<itemNumber>9</itemNumber>
+			<name>Product Twenty Four</name>
+			<price>14.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/two/small/1.jpg</pic>
+			<picture>shop/two/big/1.jpg</picture>
+			<attribute1 title="Size"></attribute1>
+			<attribute2 title="Color"></attribute2>
+		</product>
+	</type>
+	
+	
+	
+	
+	<type name = "PANTS">
+		<product>
+			<itemNumber>1</itemNumber>
+			<name>Product Twenty Five</name>
+			<price>19.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/three/small/2.jpg</pic>
+			<picture>shop/three/big/2.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE,XXX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE,YELLOW,BROWN,PURPLE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>2</itemNumber>
+			<name>Product Twenty Six</name>
+			<price>29.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/three/small/3.jpg</pic>
+			<picture>shop/three/big/3.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE,XX LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>3</itemNumber>
+			<name>Product Twenty Seven</name>
+			<price>15.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/three/small/1.jpg</pic>
+			<picture>shop/three/big/1.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE,X LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>4</itemNumber>
+			<name>Product Twenty Eight</name>
+			<price>19.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/three/small/3.jpg</pic>
+			<picture>shop/three/big/3.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM,LARGE</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+		
+		<product>
+			<itemNumber>5</itemNumber>
+			<name>Product Twenty Nine</name>
+			<price>10.99</price>
+			<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+			<pic>shop/three/small/1.jpg</pic>
+			<picture>shop/three/big/1.jpg</picture>
+			<attribute1 title="Size">SMALL,MEDIUM</attribute1>
+			<attribute2 title="Color">RED,GREEN,BLUE,BLACK,WHITE</attribute2>
+		</product>
+		
+	</type>
+</category>

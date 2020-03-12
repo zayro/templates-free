@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list normalColor="0xFFFFFF" overColor="0x0099FF" downColor="0xAAAAAA" rolloutPauseDuration="3">
+
+
+	<item>
+		<title>project no.1</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>webprojects/web3/smImgs/img1.jpg</smImg>
+
+		<lgImg>webprojects/web3/lgImgs/img1.jpg</lgImg>
+
+		<client>Someone 01</client>
+
+		<projectURL>http://www.flashden.net</projectURL>
+
+		<type>Flash, PHP, mySQL</type>
+
+		<launchDate>July / 21 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.2</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>webprojects/web3/smImgs/img2.jpg</smImg>
+
+		<lgImg>webprojects/web3/lgImgs/img2.jpg</lgImg>
+
+		<client>Someone 02</client>
+
+		<projectURL>http://www.audiojungle.net</projectURL>
+
+		<type>Flash, XML</type>
+
+		<launchDate>July / 22 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+	<item>
+		<title>project no.3</title>
+
+		<shortDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula.</shortDesc>
+
+		<smImg>webprojects/web3/smImgs/img3.jpg</smImg>
+
+		<lgImg>webprojects/web3/lgImgs/img3.jpg</lgImg>
+
+		<client>Someone 03</client>
+
+		<projectURL>http://www.flashden.net</projectURL>
+
+		<type>Flash, PHP</type>
+
+		<launchDate>July / 23 / 2008</launchDate>
+
+		<longDesc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras condimentum, lectus id venenatis elementum, ante lectus auctor augue, vitae ultrices tellus augue imperdiet ligula. Donec pede enim, vestibulum id, aliquam quis, hendrerit id, risus. Aenean non risus. Praesent sollicitudin, nisl vel cursus imperdiet, purus sem aliquet felis, ac feugiat erat orci nec velit. Ut ac mi. Nulla adipiscing.</longDesc>
+		
+	</item>
+
+
+
+</list>

@@ -1,0 +1,9 @@
+<DynamicWeb>
+	<Sections>
+		<data Img="dat/Images/Folio/img.jpg" f="cat">Lorem ipsum<br/>5</data>
+		<data Img="dat/Images/Folio/img2.jpg" f="cat2">Lorem ipsum<br/>2</data>
+		<data Img="dat/Images/Folio/img3.jpg" f="cat">Lorem ipsum<br/>3</data>
+		<data Img="dat/Images/Folio/img4.jpg" f="cat">Lorem ipsum<br/>15</data>
+		<data Img="dat/Images/Folio/img.jpg" f="cat">Lorem ipsum<br/>5</data>
+	</Sections>
+</DynamicWeb>

@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="http://demo.templatesquare.com/html/enterprise/images/favicon.ico" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="" />
+<meta name="title" content="" />
+<meta name="description" content="" />
+<title>Enterprise</title>
+<link rel="shortcut icon" href="http://demo.templatesquare.com/html/enterprise/images/favicon.ico" />
+<!-- ////////////////////////////////// -->
+<!-- //      Start Stylesheets       // -->
+<!-- ////////////////////////////////// -->
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/inner.css" rel="stylesheet" type="text/css" />
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/cufon-yui.js"></script>
+<script type="text/javascript" src="./js/vegur_400.font.js"></script>
+<script type="text/javascript">
+	 Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6') ('blockquote') ('.txtbold');
+</script>
+<script type="text/javascript" src="./js/dropdown.js"></script>
+<script type="text/javascript" src="./js/contact.js"></script>
+<meta charset="UTF-8"></head>
+<body>
+<div id="wrapper">
+	<div id="container">
+		<div id="top">
+			<div id="logo">
+				<img src="./images/logo.gif" alt="" />
+			</div><!-- end #logo -->
+		</div><!-- end #top -->
+		
+
+		<div id="topnavigation">
+			<form  method="get" action="" id="searchform">
+				<div><input type="text" class="inputbox" value="search" onblur="if (this.value == ''){this.value = 'search'; }" onfocus="if (this.value == 'search') {this.value = ''; }"/></div>
+			</form>
+			<ul id="topnav">
+				<li><a href="./index.html">Home</a></li>
+				<li><a href="http://demo.templatesquare.com/html/enterprise/about.html">About</a>
+					<ul>
+						<li><a href="./services.html">Services</a></li>
+						<li><a href="./single.html">Single</a></li>
+						<li><a href="./typography.html">Typography</a></li>
+						<li class="lastnav"><a href="./fullwidth.html">Full Width</a></li>
+					</ul>
+				</li>
+				<li><a href="./products.html">Products</a></li>
+				<li><a href="./portfolio.html">Portfolio</a>
+					<ul>
+						<li><a href="./portfolio.html">Portfolio one column</a></li>
+						<li><a href="./portfolio2.html">Portfolio two column</a></li>
+						<li><a href="./portfolio3.html">Portfolio three column</a></li>
+						<li class="lastnav"><a href="./portfolio4.html">Portfolio four column</a></li>
+					</ul>
+				</li>
+				<li><a href="./blog.html">Blog</a></li>
+				<li><a class="current" href="./contact.html">Contact</a></li>
+			</ul><!-- end #topnav -->
+		</div><!-- end #topnavigation -->
+	
+		
+		<div id="content">
+			<div id="content-left">
+				<div id="maintext">
+					<h1 class="pagetitle">Contact</h1>
+					<div class="breadcumb"><span class="navhome"><a href="#">Home</a></span>  /  <a href="#">Contact</a></div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+					<div id="contact_form">
+						  <h2>Get In Touch</h2>
+						  <form id="contact" action="">
+							<fieldset>
+							  <label for="name" id="name_label">Name</label><br />
+							  <input type="text" name="name" id="name" size="30" value="" class="text-input" />
+							  <span class="error" id="name_error">Please enter name !</span>
+							  <br style="clear:both" />
+							 <label for="email" id="email_label">Email</label><br />
+							  <input type="text" name="email" id="email" size="30" value="" class="text-input" />
+							  <span class="error" id="email_error">Please enter email address !</span>
+							  <span class="error" id="email_error2">Please enter valid email address !</span>
+							  <br style="clear:both" />
+							  <label for="msg" id="msg_label">Your Message</label><br />
+							 <textarea cols="25" rows="8" name="msg" id="msg" class="text-input"></textarea>
+							  <span class="error" id="msg_error">Please enter message !</span>
+							  <br />
+							  <input type="submit" name="submit" class="but" id="submit_btn" value="Submit"/>
+							</fieldset>
+						  </form><br />
+					</div><!-- end of #contact_form -->
+				</div><!-- end #maintext -->
+			</div><!-- end #content-left -->
+			<div id="content-right">
+				<div id="sideright">
+					<ul>
+						<li class="widget-container">
+						<h2 class="widget-title">Head Office</h2>
+						<div class="widget-text">
+						<p><strong>Address Info</strong><br/>
+									1234 Address City, TS 56789<br/>
+									City, Country</p>
+									<strong>Email:</strong> <a href="">testmail@templatesquare.com</a><br/>
+									<strong>Website:</strong> <a href="http://www.templatesquare.com">www.templatesquare.com</a><br/>
+
+									<strong>Phone:</strong> 0800-123456
+</div>
+						</li>
+						<li class="widget-container">
+						<h2 class="widget-title">Location</h2>
+						<div class="widget-text">
+						<img src="./images/map.gif" alt="" /><br />
+						<a href="#" class="more"><strong>View Larger Map</strong></a>
+						</div>
+						</li>
+					</ul>
+				</div>
+			</div><!-- end #content-right -->
+			<div class="clear"></div>
+		</div><!-- end #content -->
+		
+		
+		<div id="footer">
+			<div id="footer-text">
+				&copy; 2010 Enterprise Company. All Rights Reserved
+			</div><!-- end #footer-text -->
+		</div><!-- end #footer -->
+	</div><!-- end #container -->	
+</div>
+
+
+</body>
+</html>

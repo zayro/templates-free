@@ -1,0 +1,20 @@
+<DynamicWeb>
+
+<Section>
+		<data img="dat/Images/Home/img.jpg">
+			<title>Ure Dolor In Reprehender</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/></des>		
+		</data>	
+		
+		<data img="dat/Images/Home/img2.jpg">
+			<title>Eeprehenderit In Voluptat</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/></des>
+		</data>	
+			
+		<data img="dat/Images/Home/img3.jpg">
+			<title>Voluptate Velit</title>
+			<des>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.<br/><a href="mailto:demo@demo.com">demo@demo.com</a><br/></des>
+		</data>	
+</Section>
+
+</DynamicWeb>

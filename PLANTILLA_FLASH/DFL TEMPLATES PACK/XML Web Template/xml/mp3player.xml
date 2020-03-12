@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<songs>
+	<song src="music/1.mp3" title="Flashden Track1"/>
+	<song src="music/2.mp3" title="Flashden Track2"/>
+	<song src="music/3.mp3" title="Flashden Track3"/>
+	<song src="music/1.mp3" title="Flashden Track4"/>
+	<song src="music/2.mp3" title="Flashden Track5"/>
+	<song src="music/3.mp3" title="Flashden Track6"/>
+</songs>

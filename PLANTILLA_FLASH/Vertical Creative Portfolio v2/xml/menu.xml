@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<nav>
+<menu>
+		<name> Choose for Details </name>
+		<pages> </pages>
+		<author>  </author>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>ABOUT US</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/8399.jpg</pages>
+		<popup>Dummy Text for pop up</popup>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>SERVICES</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/8071.jpg</pages>
+		<popup>Dummy Text for pop up</popup>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>OUR-TEAM</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/6178.jpg</pages>
+		<popup>Dummy Text for pop up</popup>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>NEWS</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/texture.jpg</pages>
+		<popup>Dummy Text for pop up</popup>
+	</menu>
+       	 <menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>PORTFOLIO</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/office.jpg</pages>
+		<popup>Dummy Text for pop up</popup>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>VIDEOS</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/colors.jpg</pages>
+		<author>Aldehyde+DNA</author>
+	</menu>
+	<menu>
+		<name><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="right"><FONT FACE="Verdana" SIZE="10" COLOR="#999999"><b>CONTACT</b></FONT> </TEXTFORMAT>]]></name>
+		<pages>images/lights.jpg</pages>
+		<author>Aldehyde+DNA</author>
+	</menu>
+	
+</nav>

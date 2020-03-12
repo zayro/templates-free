@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<item>
+		<title><![CDATA[Reel]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/video.jpg]]></thumb>
+		<file><![CDATA[portfolio/videos/video.flv]]></file>
+		<type><![CDATA[video]]></type>
+		<duration><![CDATA[8]]></duration>
+		<link><![CDATA[http://www.flashden.net/user/ParkerAndKent]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 1]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/01.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/01.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[http://www.flashden.net/user/ParkerAndKent]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 2]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/02.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/02.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[http://www.flashden.net/user/ParkerAndKent]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 3]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/03.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/03.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 4]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/04.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/04.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 5]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/05.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/05.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[http://www.flashden.net/user/ParkerAndKent]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 6]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/06.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/06.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 7]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/07.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/07.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 8]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/08.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/08.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 9]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/09.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/09.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[]]></link>
+	</item>
+	<item>
+		<title><![CDATA[Image 10]]></title>
+		<text><![CDATA[This template has a complete deep-link functionality. Thanks to this feature you are able to use the browser's back and forward buttons and the option to link to any section of the website and to every single content using a simple url.<br><br>For example you can link directly to a specific <a href="#/portfolio/interior_design/image_4"><u>photo</u></a> or to a specific <a href="#/portfolio/architecture/reel"><u>video</u></a> of the galleries.</textformat><br>Every content has its own url. You can also link to one <a href="#/news/title_two"><u>news</u></a>, to a specific <a href="#/services/illustrations"><u>service</u></a> or to the <a href="#/contact"><u>contact form</u></a>.]]></text>
+		<thumb><![CDATA[portfolio/thumbs/gallery_1/10.jpg]]></thumb>
+		<file><![CDATA[portfolio/photo/gallery_1/10.jpg]]></file>
+		<type><![CDATA[photo]]></type>
+		<duration><![CDATA[]]></duration>
+		<link><![CDATA[http://www.flashden.net/user/ParkerAndKent]]></link>
+	</item>
+</gallery>

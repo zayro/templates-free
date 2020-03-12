@@ -1,0 +1,5 @@
+<configuration
+imageGalleryName="Image Gallery"
+thumbDistance = "22"
+imageBorderDistance = "5"
+/>

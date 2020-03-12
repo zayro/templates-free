@@ -1,0 +1,11 @@
+<DynamicWeb>
+	<Sections>
+		<name f="cat">Album1</name>
+		<name f="cat2">Album2</name>
+		<name f="cat">Album2</name>
+		<name f="cat2">Album3</name>
+		<name f="cat">Album4</name>
+
+		<name f="cat2">Album5</name>
+	</Sections>
+</DynamicWeb>

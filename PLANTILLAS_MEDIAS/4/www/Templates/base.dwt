@@ -1,0 +1,259 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<!-- Designer Wannabe HTML copyright to gabshot@lionwebmedia.com
+
+The "DesignerWannabe" psd third of amazing, full Magazine, Blog and Portfolio sites. Layout is designed for freelancer and webmagazines. Each page has advertise widgets in heigh clickable areas. The package contains 7 (!) full pages which are:
+
+    * Home - Blog/Magazine with posts
+    * Post - Full post page with comments, related posts and more
+    * Search - with Google Custom Search integration
+    * Portfolio - with items
+    * Portfolio zoom - lightbox with navigation (projects and project images)
+    * About - great text page 
+    * Contact - clean and crispy contact form
+
+    * Amazing Twitter feed design - Twitter by night
+    
+    The HTML include:
+    
+    * Valid XHTM Strict1.0 and CSS 2 .1, tableless Design
+    * Cross browser compatible (IE 7+, Firefox 3.5+, Chrome, Opera)
+    * Documentation (coments in code and file)
+    * PSD included!
+    * No commercial fonts used!
+    * jQuery sliders
+    * Fade in/out main menu
+    * Social icons with tooltips (main, for post or portfoli item)
+    * Gogole Custom search ready
+    * Sponsor ads (small images)
+    * Advertise images (big images)
+    * Awsome icons
+    * Fantastic Twitter feed with hover effects
+    * Well designed footer
+    * Great “Hire me” slider with hover effect
+    * Complite discussion design with replys and comment form (validation inclided!)
+    * Fecebook connect button
+    * Portfolio with lightboxes
+    * Contact form (with validation!)
+
+    * Ready to go!
+
+Every page is fully layered and organized with proper names. Whole site is designed with detial and passion. Good luck and have fun.
+
+Fonts
+*****
+The theme uses mostly free font Helvetica! The "Twitter feed" and "bu night" use freeware font <a href="http://www.fontspace.com/carolina-mejia-villegas/yelly">Yelly</a>.
+
+Icons
+*****
+To make the layout looks even more professional in the theme are included  Icon Sets released on the GNU General Public License or Free for commercial use.
+
+* <a href="http://www.kde-look.org/content/show.php/Dark-Glass+reviewed?content=67902">Dark Glass</a>
+
+* <a href="http://www.icondrawer.com/free.php">Valentine</a>
+
+* <a href="http://artdesigner.lv/archives/434">Tweet my web</a>
+
+* <a href="http://lazycrazy.deviantart.com/">Lovely</a>
+
+* <a href="http://mazenl77.deviantart.com/art/NX11-Unfinished-107836821">NX11</a>
+
+* <a href="http://www.kde-look.org/content/show.php/Dark-Glass+reviewed?content=67902">Dark Glass</a>
+
+Contacting the author
+*****
+If you have any questions message me via my profile page or write to me gabshot@lionwebmedia.com.
+
+GL & HF!
+
+-->
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="../default.css" />
+	<title>Digitalart</title>
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->	
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/dw.js"></script>	
+</head>
+
+<body>
+
+	
+<div id="wrapper">
+
+		<!-- HEADER START -->
+<div id="header">
+		
+			<h1><a href="index.html">DesignerWannabe Design</a></h1>
+			
+			<!-- Navigation - begin
+				 Instructions for adding items to navigate:
+					
+					Navigation is included in the tag <ul id="nav"> and <ul id="support-nav">To add an item on the first level, simply add a new element to the list <li> formatted like the other (eg <li> <a href="portfolio"> Portfolio </ a> </ li>), by analogy with nested elements. Currently, nested elements can be found in the element of 'Portfolio' and Blog (where I've added two sample placeholders)
+					
+					Images in the nav (not support-nav) are hardcoded in the css. See corresponding classes for further details.
+			-->
+			
+			<ul id="support-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="search.html">Search</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li id="search"><form action=""><fieldset><input type="text" value="Search..." name="search" /><input type="submit" value="Search" /></fieldset></form></li>
+			</ul>
+			
+			<!-- Social icons - start	-->
+			<ul id="social">
+				<li>
+					<a href="#">
+						<img class="ico" src="images/social/twitter-ico.png" alt="twitter ico" />
+						<span>1 234</span>
+					</a>				
+					
+					<div class="tooltip"><span><strong>Follow us on Twitter</strong></span></div>
+				</li>
+				<li>
+					<a href="#">
+						<img class="ico" src="images/social/rss-ico.png" alt="rss ico" />
+						<span>25</span>
+					</a>
+					
+					<div class="tooltip"><span><strong>345, 567 readers</strong><br />click icon to subscribe</span></div>
+				</li>
+			</ul>
+			<!-- Social icons - end -->
+			
+			<ul id="nav">
+				<li class="blog"><a href="index.html"><span>Blog</span></a>
+					<ul>
+						<li><a href="index.html">Homepage</a></li>
+						<li><a href="#">Photoshop</a></li>
+						<li><a href="#">Icons</a></li>
+						<li><a href="#">Wordpress</a></li>
+						<li><a href="post.html">Post</a></li> 
+					</ul>
+				</li>
+				<li class="portfolio"><a href="portfolio.html"><span>Portfolio</span></a>
+					<ul>
+						<li><a href="portfolio.html">Home</a></li>
+						<li><a href="portfolio.html">Photoshop</a></li>
+						<li><a href="portfolio.html">Icons</a></li>
+						<li><a href="portfolio.html">Wordpress</a></li>
+						<li><a href="portfolio.html">Tools</a></li> 
+					</ul>
+				</li>
+			</ul>
+			<!-- Navigation - end -->
+			
+			<!-- TemplateBeginEditable name="cu3er" -->
+			<!-- cu3er panel - start -->
+			<div id="cu3er">
+				<div class="holder">
+					<div id="cu3er-container"> <a href="http://www.adobe.com/go/getflashplayer"> <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /> </a> </div>
+				</div>
+				<div class="desc">
+					<h2>25 Amazing and Fresh jQuery Plugins</h2> 
+					<p>From the visual and aesthetics aspect, web design trends in 2010 will be shaped by the influences from 2009. In this article 5 major trends regarding the web design are covered. From oversized headers which are serving as new kind...</p>
+					<a href="#" class="more">Keep reading it...</a> </div>
+				<!-- ATTENTION!!! cu3er ends with the div below this comment. The comment cant be placed outside this div as this triggers IE7 bug -->
+			</div>
+			<!-- cu3er panel - end -->
+			<!-- TemplateEndEditable -->
+					
+		</div><!-- end div #header -->
+		<!-- HEADER END -->
+		
+		<!-- CONTENT START -->
+		<div id="container">
+			<div class="main">
+				<div id="content"> 
+					<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->			</div><!-- end div #content -->
+				
+				<div id="aside">
+					<!-- TemplateBeginEditable name="aside" -->aside<!-- TemplateEndEditable -->			</div><!-- end div #aside -->
+			</div>
+			<div class="secondary">
+				<!-- TemplateBeginEditable name="secondary content" -->
+				
+				<!-- TemplateEndEditable -->			
+			</div>
+	</div>
+<!-- end div #container -->
+		<!-- CONTENT END -->
+		
+		<!-- FOOTER START -->
+		<div id="footer-wrap">
+			<div id="footer">
+				<!-- Footer first level - start -->
+				<ul class="menu">
+					<li class="col-1">
+						<h2>Top tags</h2>
+						<ul class="tags">
+							<li><a href="#">iphone</a></li>
+							<li><a href="#">apps</a></li>
+							<li><a href="#">Reviews</a></li>
+							<li><a href="#">app store</a></li>
+							<li><a href="#">iphone3gs</a></li>
+							<li><a href="#">review</a></li>
+							<li><a href="#">mtpod</a></li>
+							<li><a href="#">melbourne</a></li>
+							<li><a href="#">cantouchthis</a></li>
+							<li><a href="#">audio</a></li>
+							<li><a href="#">apple store</a></li>
+							<li><a href="#">beer</a></li>
+							<li><a href="#">competition</a></li>
+							<li><a href="#">thursday how-to</a></li>
+							<li><a href="#">hardware</a></li>
+							<li><a href="#">iphone apps</a></li>
+							<li><a href="#">brisbane</a></li>
+							<li><a href="#">ipod</a></li>
+							<li><a href="#">interview</a></li>
+							<li><a href="#">review</a></li>
+							<li><a href="#">mtpod</a></li>
+							<li><a href="#">melbourne</a></li>
+							<li><a href="#">cantouchthis</a></li>
+							<li><a href="#">audio</a></li>
+						</ul>
+					</li>
+					<li class="col-2">
+						<h2>Categories</h2>
+						<ul class="style-2">
+							<li><a href="#">Photoshop</a></li>
+							<li><a href="#">Icons</a></li>
+							<li><a href="#">Wordpress</a></li>
+							<li><a href="#">Other category</a></li>
+						</ul>
+					</li>
+					<li class="col-3">
+						<h2>Archives</h2>
+						<ul class="style-2">
+							<li><a href="#">February 2010</a></li>
+							<li><a href="#">January 2010</a></li>
+							<li><a href="#">December 2009</a></li>
+							<li><a href="#">November 2009</a></li>
+							<li><a href="#">October 2009</a></li>
+							<li><a href="#">September 2009</a></li>
+						</ul>
+					</li>
+					<li class="col-4">
+						<h2>About</h2>
+						<p>Fusce viverra ante ac nunc consectetur sed vestibulum purus malesuada. In convallis interdum justo. Vestibuluurus malesuada. In urus malesuada. In convallis interdum justo. Vestibuluconvallis interdum justo. Sit amet leo quis neque postincidunt nulla. </p>
+					</li>
+				</ul>
+				<!-- Footer first level - end -->
+				<!-- Footer second level - start -->
+				<p id="copy">All rights reserved to <a href="#">YourCompany Name GmbH</a>. Created by <a href="mailto:gabshot@lionwebmedia.com">Gabshot Design</a>.</p>
+				<!-- Footer second level - end -->
+			</div><!-- end div #footer-wrap -->
+		</div>
+<!-- end div #footer -->
+		<!-- FOOTER END -->
+	</div>
+<!-- end div #wrapper -->
+
+</body>
+
+</html>

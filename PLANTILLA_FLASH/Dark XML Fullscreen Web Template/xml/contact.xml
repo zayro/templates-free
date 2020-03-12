@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contact>
+	<info
+		email="admin@designxcore.com"
+		nameTxt="Name"
+		emailTxt="Email"
+		messageTxt="Message"	
+		sendTxt="Send"
+		sendingTxt="Sending"
+	/>
+	<finished><![CDATA[Nulla a mauris eu magna lobortis gravida. Aliquam erat volutpat. Aliquam mattis viverra erat. Morbi euismod placerat nulla. Curabitur consectetuer auctor nisl. Donec porta arcu non neque posuere adipiscing. Maecenas consectetuer, sapien vel varius tincidunt, ligula magna tempor leo, vel sollicitudin augue purus in metus. Fusce vel diam eget sem elementum faucibus. Aliquam eget ante. Suspendisse id massa in nulla faucibus suscipit. Integer eget orci posuere eros viverra congue. Nunc fermentum.]]></finished>
+</contact>

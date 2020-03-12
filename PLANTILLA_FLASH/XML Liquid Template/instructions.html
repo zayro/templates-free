@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Instructions</title>
+<style type="text/css">
+<!--
+.style1 {color: #0000FF}
+.style3 {color: #FF0000}
+a:link {
+	color: #0033CC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0099CC;
+}
+a:hover {
+	text-decoration: underline;
+	color: #0033CC;
+}
+a:active {
+	text-decoration: none;
+	color: #0033CC;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="697" border="0" cellpadding="0" cellspacing="0" align="center">
+  <!--DWLayoutTable-->
+  <tr>
+    <td width="38" height="115">&nbsp;</td>
+    <td width="659" valign="top"><h1>Instructions: </h1>      <h3 class="style3">Warning: Before compiling for the first time install
+        the MXP files in _source/Classes folder into your flash. After installation
+    restart flash. Otherwise you will get tween errors when compiling.</h3></td>
+  </tr>
+  <tr>
+    <td height="49"></td>
+    <td valign="middle">As well as the instructions below the code is well commented,
+      so check out the actions layers as you go.</td>
+  </tr>
+  
+  
+  <tr>
+    <td height="163"></td>
+    <td valign="middle"><h3><a href="#music">Change Music</a> </h3>
+      <h3><a href="#form">Email Form </a></h3>
+    <h3><a href="#slideshow">Image Gallery</a></h3>      
+    <h3><a href="#banners">Video Gallery </a></h3></td>
+  </tr>
+  <tr>
+    <td height="33" valign="top"><a name="music" id="music"></a></td>
+  <td rowspan="2" valign="top"><h3>Change Music</h3>      <p>1. Save your mp3 music file in the folder labeled &quot;tracks&quot;.
+        <br />
+        2.
+        Then open the file called tracks.xml in notepad or Dreamweaver.<br />
+  3. Change the paths to reference your new mp3's.<br />
+  4. The list plays in descending order so list the tracks in the order you want
+  them to play.<br />
+  5. Also name the artist and track title in the xml.<br />
+  Example: &lt;song url= &quot;tracks/adg3.com_crypticPsyche.mp3&quot; artist=&quot;Flash
+  Den Archive&quot; track=&quot;Cryptic Psyche&quot;/&gt;</p></td>
+  </tr>
+  <tr>
+    <td height="193">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="36" valign="top"><a name="form" id="form"></a></td>
+  <td rowspan="2" valign="top"><h3>Email Form</h3>
+    <h4>Email php form <br />
+        <br />
+      How to Customize the php file     </h4>
+    <p>1. Open the file called &quot;sendmail.php&quot; in Dreamweaver and update your
+      email address. You can have more than one email, just seperate with commas. <br />
+      2. When you upload your website make sure the php file is in your root
+      directory, your webserver must<br />
+      support php so check that they do.<br />
+      3. You must also update your domain address
+      path to the php file inside fullbrowser.fla. To do this click on the send
+      button movie clip. Line 15 in the actionscript you'll see :<br />
+      loadVariables(&quot;<span class="style1">http://www.yourdomain.com</span>/sendmail.php&quot;,
+this, &quot;POST&quot;); <br />
+Change the code highlighted in blue to your domain.
+    <h4>To make changes on the look of the contact form such as highlight color
+      etc do the following:</h4>
+      <p>4. Inside &quot;fullbrowser.fla&quot; go to the &quot;contact&quot; frame
+        label, then the Content layer. Click until your inside the contact form
+        movie clip. <br />
+        5. Inside here you will find an actions layer called &quot;Text Styles&quot; change
+        the settings to skin the form.<br />
+        6. 
+        To change font formatting just click on the text fields and edit there
+        properties. <br />
+        <br />
+        Example of settings:<br />
+        - normal_border = 0xFFFFFF;<br />
+        - select_border = 0xFFFFFF;<br />
+        - normal_background = 0xFFFFFF;<br />
+        - select_background = 0x666666;<br />
+        - select_color = 0xFFFFFF;<br />
+      - normal_color = 0x666666;</p>
+      <p>7. Now just publish your flash file and upload everything to your webserver.
+        You can only test the form from a webserver, it won't work on your local
+    computer. </p></td>
+  </tr>
+  <tr>
+    <td height="633">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="34" valign="top"><a name="slideshow" id="slideshow"></a></td>
+  <td rowspan="2" valign="top"><h3>Image Gallery</h3>
+    <p>1. The photo slide show currently has 8 galleries. You can add as many
+      galleries as you want, or delete galleries you don't need. <br />
+      2. The images for each gallery are in the folders labeled galleries/images1-10.<br />
+      3. Just overwrite the files in each of these folders with yours to update. <br />
+      4. 
+      To add more images first save them in the correct folder for your gallery.<br />
+      5. Open the corresponding gallery.fla file inside _source folder.<br />
+      6. Click inside the &quot;Gallery&quot; movie clip<br />
+      7. Click on the actions layer and open your actions panel.<br />
+      8. You will see the 2 arrays clearly commented. One for the images and one
+      for the image titles. <br />
+      9. Just add the paths to your new images, and add the titles for each image
+      in these arrays.<br />
+      <br />
+      <strong>Create an additional Gallery</strong><br />
+    <br />
+      10. To create another gallery open gallery8.fla<br />
+      11. Save  as gallery9.fla<br />
+      12. Go to file/Publish settings and change the flash swf path to &quot;../gallery9.swf&quot;<br />
+      13. Follow the steps described above to reference your new image files
+      and name the titles.<br />
+      14. Then compile (ctrl-enter)<br />
+      15. Do the same for each additional gallery.<br />
+      <br />
+      <strong>Create more buttons to load new galleries</strong><br />
+      <br />
+    16. After you create new galleries you will also need to create additional
+    buttons to load them.<br />
+    17. Inside fullbrowser.fla click inside the &quot;slideshow&quot; movieclip<br />
+    18. You will see a series of buttons.<br />
+    19. Duplicate one of these buttons, position it where you want and give it
+    a unique instance name.<br />
+    20. Then go to the actions layer, you will see the following code:<br />
+    <br />
+    nav1.onRollOver = incoming;<br />
+    nav1.onRollOut = begining;<br />
+    nav1.labelMC.labelTxt.text = &quot;GALLERY 1&quot;;<br />
+    nav1.onPress = function(){<br />
+    loadGallery.loadMovie(&quot;gallery1.swf&quot;)<br />
+    };<br />
+    <br />
+    Duplicate this code and change nav1 to your new buttons instance name. Also
+    change gallery1.swf to the name of your new swf file. Lastely change text=&quot;GALLERY
+    1&quot; to the name of your new gallery.</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td height="587">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="34" valign="top"><a name="banners" id="banners"></a></td>
+  <td rowspan="2" valign="top"><h3>Video Gallery</h3>
+    <p>1. First save your flv movies inside the &quot;flv&quot; folder.<br />
+      2. Inside fullbrowser.fla click inside the videoGallery movieclip.<br />
+    3. You will see frame labels labeled vid1-vid15.<br />
+    4. Beneath each label you will see an flv movieclip on the layer labeled
+      &quot;FLV Players&quot;.<br />
+    5. Inside each player clip you will see the code commented where you change
+      the path to your movie.<br />
+    6. Inside each player there is a layer called still, click inside the moviclip
+      on this layer and you will be able to update the still image to your own.<br />
+    <br />
+    <strong>Video Thumbnails</strong><br />
+    <br />
+      7. Inside the videoGallery moviclip you will  see a layer called FLV Thumbnails,
+    click inside each movieclip and update with your image thumbnail.</p></td>
+  </tr>
+  <tr>
+    <td height="353">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

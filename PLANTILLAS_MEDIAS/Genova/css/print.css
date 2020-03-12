@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+/* Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+:focus { outline: 0; }
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+body { font: 9pt "Trebuchet MS", Arial, Helvetica, sans-serif; color: #505050; }
+
+h1 { padding-top: 15px; font-size: 250%; border-bottom: 2px solid #eaeaea; }
+h2 { margin-bottom: 10px; font-size: 180%; color: #009fe1; border-bottom: 1px solid #eaeaea; padding: 5px 0; }
+h3 { margin-bottom: 5px; font-size: 130%; }
+p { font-size: 110%; line-height: 1.5; }
+p, ol, ul { margin-bottom: 15px; }
+ul ul, ol ol { margin: 0 0 0 10px; }
+ul { list-style-type: circle; }
+ol { list-style-type: decimal; }
+
+table { width: 100%; margin: 10px 0; border-top: 1px solid #eaeaea; }
+table tr { border-bottom: 1px solid #eaeaea; }
+table tr td, table tr th { padding: 3px 5px; }
+tr:hover { background: #f1f1f1; }
+table .odd { background: #fafafa; }
+
+a { color: #009fe1; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { position: relative; top: 1px; }
+
+form { margin: 20px 10px; overflow: hidden; }
+.field { float: left; width: 50%; }
+label, input, textarea { margin: 0 20px; }
+label { display: block; margin: 10px 20px 5px 20px; font-weight: bold; }
+input { width: 86%; height: 28px; padding: 2px 5px; background: url(../images/input-bg.png) repeat-x 0 0; }
+textarea { width: 93%; height: 180px; background: url(../images/textarea-bg.png) repeat-x 0 0; padding: 5px; }
+input, textarea { color: #505050; border: 1px solid #e4e4e4; border-top-color: #c5c5c5; font: 110% "Trebuchet MS", Arial, Helvetica, sans-serif; }
+input[type="submit"] { width: auto; height: auto; font: bold 110% "Trebuchet MS", Arial, Helvetica, sans-serif; padding: 6px 10px; *padding: 5px 2px; margin: 0; text-transform: uppercase; cursor: pointer; }
+.textarea{ float: left; width: 100%; }
+.button { float: right; text-align: right; margin: 20px 20px 0 0; }
+#formReturn { float: left; width: 80%; margin: 30px 0 0 20px; color: #009fe1; }
+#formReturn p { position: relative; margin: 0; }
+#formReturn .error { color: #f60; }
+
+#nav li, #sidebar, #slider, .img { display: none; }
+#nav li.active { display: block; font-size: 200%; }
+
+.info-shadow { width: 100% !important; }
+.inner-shadow { height: 40px !important; }
+.info { margin: 10px 0 30px 0; }
+.info .inner { display: inline-block; margin-right: 20px; }

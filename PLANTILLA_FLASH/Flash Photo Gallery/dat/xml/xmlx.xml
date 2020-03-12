@@ -1,0 +1,46 @@
+﻿<DynamicWeb>
+
+<!--
+p=15 News
+p=25 About
+p=35 Folio
+p=45 Contact
+
+*/
+-->
+
+
+
+<Sections id="menu">
+		<Menu btnName="NEWS" p="15" f="News" clrx="0x000000"></Menu>
+		<Menu btnName="ABOUT" p="25" f="about" clrx="0x000000"></Menu>
+		<Menu btnName="DESING" p="35" f="portfolio" clrx="0x000000"></Menu>
+		<Menu btnName="BIG EXAMPLE" p="35" f="3dfolio" clrx="0x000000"></Menu>
+		<Menu btnName="IDENTITY" p="35" f="portfolio" clrx="0x000000"></Menu>
+		<Menu btnName="CONTACT" p="45" f="contact" clrx="0x000000"></Menu>
+
+
+</Sections>
+
+<Sections id="logo">
+		<data>NEW MEDIA PRESENTATION</data>
+		<data>DESIGN STUDIO</data>
+</Sections>
+
+
+<Sections id="welcome">
+		<data></data>
+		<data></data>
+</Sections>
+
+
+<Sections id="contact">
+		<data>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />  <br />  <br />Company name<br /><a href="mailto:demo@gmail.com">demo@gmail.com</a><br /><br /><br />+00 (0) 99 - 11 22 333 <br />Loren Ipsum 33<br />111 11 Dolor Sit <br />Country</data>
+</Sections>
+
+<Sections id="copy">
+		<data>(C) Copy Right 2011.All Rights Are Reserved.</data>
+		
+</Sections>
+
+</DynamicWeb>

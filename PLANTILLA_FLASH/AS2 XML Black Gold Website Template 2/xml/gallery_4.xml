@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+	<item>
+		<unique_deep_link><![CDATA[The gallery module can load also a single image]]></unique_deep_link>
+		<title><![CDATA[Image 1]]></title>
+		<text><![CDATA[Info: html text<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></text>
+		<thumb><![CDATA[images/galleries/thumbs/gallery_1/01.jpg]]></thumb>
+		<file><![CDATA[images/galleries/photo/gallery_1/01.jpg]]></file>
+		<duration><![CDATA[]]></duration>
+	</item>
+</gallery>

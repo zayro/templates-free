@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images header="PHOTO GALLERY">
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/1.jpg</thumb>
+		<title>Video 1</title>
+		<subtitle>A short description 1</subtitle>
+		<video>videoGallery/videos/animals/1.flv</video>
+		<width>580</width>
+		<height>160</height>
+    </pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/2.jpg</thumb>
+		<title>Video 2</title>
+		<subtitle>A short description 2</subtitle>
+		<video>videoGallery/videos/animals/2.flv</video>
+		<width>480</width>
+		<height>260</height>
+    </pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/3.jpg</thumb>
+		<title>Video 3</title>
+		<subtitle>A short description 3</subtitle>
+		<video>videoGallery/videos/animals/3.flv</video>
+		<width>480</width>
+		<height>260</height>
+    </pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/4.jpg</thumb>
+		<title>Video 4</title>
+		<subtitle>A short description 4</subtitle>
+        <video>videoGallery/videos/animals/4.flv</video>
+		<width>480</width>
+		<height>260</height>
+	</pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/5.jpg</thumb>
+		<title>Video 5</title>
+		<subtitle>A short description 5</subtitle>
+		<video>videoGallery/videos/animals/1.flv</video>
+		<width>480</width>
+		<height>260</height>
+    </pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/6.jpg</thumb>
+		<title>Video 6</title>
+		<subtitle>A short description 6</subtitle>
+		<video>videoGallery/videos/animals/2.flv</video>
+		<width>480</width>
+		<height>260</height>
+    </pic>
+    <pic>
+		<thumb>videoGallery/thumbnails/nature/7.jpg</thumb>
+		<title>Video 7</title>
+		<subtitle>A short description 7</subtitle>
+		<video>videoGallery/videos/animals/3.flv</video>
+		<width>480</width>
+		<height>260</height>
+    </pic>
+
+</images>

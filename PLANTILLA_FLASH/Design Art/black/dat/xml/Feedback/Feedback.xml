@@ -1,0 +1,31 @@
+﻿<DynamicWeb>
+	<Sections>
+		<Menu btnName="DISCLAIMER" f="disclaimer" h="DISCLAIMER" p="55">
+			<MidData>
+			<btnName>Disclaimer</btnName>
+			<Image>dat/Images/Home/img2.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+				
+			</SubCategories>
+		</Menu>
+		<Menu btnName="TERMS" f="terms" h="TERMS" p="55">
+			<MidData>
+			<btnName>Terms of use</btnName>
+			<Image>dat/Images/Home/img5.jpg</Image>
+			<title>Consectetur Adipisicing Elit</title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+			</MidData>
+			<SubCategories>
+				
+			</SubCategories>
+		</Menu>
+		
+
+
+		</Menu>
+		
+	</Sections>
+</DynamicWeb>

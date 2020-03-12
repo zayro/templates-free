@@ -1,0 +1,75 @@
+﻿<?xml version=”1.0” encoding=”UTF-8”?>
+
+<content>
+
+<images>
+
+
+   <option> 
+   <image>home/images/image1.jpg</image>
+   <link URLaddress=""  URLtarget="" />
+   </option>
+   
+   <option> 
+   <image>home/images/image2.jpg</image>
+   <link URLaddress="http://www.flashden.net/user/fifty_tons"  URLtarget="_blank"  />
+   </option>
+   
+   <option> 
+   <image>home/images/image3.jpg</image>
+   <link URLaddress="http://www.flashden.net/user/fifty_tons"  URLtarget="_blank"  />
+   </option>
+   
+   <option> 
+   <image>home/images/image4.jpg</image>
+   <link URLaddress=""  URLtarget=""  />
+   </option>
+   
+   
+   
+</images>
+
+<!--  SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS SETTINGS   -->
+
+<!--  BACKGROUND SIZE - image size plus extra pixels if you want margins    -->
+<bgSize bgWidth="908" bgHeight="458" />
+
+<!--  BUTTON SETTINGS - main button dimensions are 25x25 pixels    -->
+<btnColumns>7</btnColumns>
+<btnSpacing>2</btnSpacing>
+<btnX>-448</btnX>
+<btnY>198</btnY>
+<bntTextColorNormal>0xFFFFFF</bntTextColorNormal>
+<bntTextColorOver>0x000000</bntTextColorOver>
+<btnColorNormal>0x000000</btnColorNormal>
+<btnColorOver>0xCCCCCC</btnColorOver>
+
+
+<!--  PLAY/PAUSE BUTTON SETTINGS - playPause button dimensions are 15x15 pixels    -->
+<playBtnX>435</playBtnX>
+<playBtnY>210</playBtnY>
+<playBtnGraph>0xFFFFFF</playBtnGraph>
+<playBtnBg>0xFF0000</playBtnBg>
+
+
+<!--  BACKGROUND COLOR    -->
+<colorBg>0x000000</colorBg>
+
+<!--  PRELOADER SETTINGS    -->
+<colorPreloader>0xFFFFFF</colorPreloader>
+<preloaderX>0</preloaderX>
+<preloaderY>0</preloaderY>
+<visibility preloaderVisible="true" />
+
+<!--  MAIN SETTINGS    -->
+<autoPlay autoplay="true" />
+<playBtnVisibility  playBtnVisible="true" />
+<imageDuration>3000</imageDuration>
+<imageFading>0.7</imageFading>
+
+
+
+
+</content>
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+
+//HTML FORMATTED CONTENT FOR THE INFO WINDOW//
+//img src_lg - THE LOCATION OF THE IMAGE FOR THE INFO WINDOW//
+
+	<content>
+		<info><![CDATA[<font color="#FFFF00" size="18">HTML FORMATTED TEXT</font><br/><br/><font color="#00FF00" size="14">Text is edited through XML file with standard HTML tags.</font> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra felis sit amet arcu. Maecenas odio. Suspendisse magna tellus, laoreet at, auctor vitae, fringilla eget, metus. Vestibulum molestie erat sed nulla. Fusce quis ante. Morbi volutpat. Sed rhoncus purus nec ligula. Fusce blandit tempor dui. Curabitur sagittis iaculis lectus. Nunc lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer at arcu. Nullam pretium dui nec ligula. Aliquam ligula metus, fringilla id, vehicula quis, feugiat ut, lectus. Proin consequat, metus quis porttitor commodo, diam metus dignissim purus, eu lacinia ante leo quis nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra felis sit amet arcu. Maecenas odio. Suspendisse magna tellus, laoreet at, auctor vitae, fringilla eget, metus. Vestibulum molestie erat sed nulla. Fusce quis ante. Morbi volutpat. Sed rhoncus purus nec ligula. Fusce blandit tempor dui. Curabitur sagittis iaculis lectus. Nunc lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer at arcu. Nullam pretium dui nec ligula. Aliquam ligula metus, fringilla id, vehicula quis, feugiat ut, lectus. Proin consequat, metus quis porttitor commodo, diam metus dignissim purus, eu lacinia ante leo quis nulla.<br/><br/>Etiam suscipit. Phasellus sit amet lectus eget eros pretium sagittis. Quisque dapibus, magna in lacinia viverra, diam tortor elementum sapien, eu ultrices justo diam dapibus est. Cras tortor. Donec urna. Suspendisse vel erat eget mi ullamcorper tempor.<a href="http://www.flashden.net/user/nosrevlah08" target="_blank"><font color="#00FF00" size="12">    Example of URL link.</font></a>]]></info>
+		<img src_lg="images/about_image.jpg"/>
+	</content>	
+</info>

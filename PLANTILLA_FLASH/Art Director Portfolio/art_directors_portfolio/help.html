@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Art Director's Portfolio Help File</title>
+
+<style type="text/css">
+body {
+	background: #041d1e;
+	color: #ffffff;
+	font-family: arial, sans-serif;
+}
+
+a:link, a:visited {
+	color: #fc2a85;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 18px;
+	padding-top: 24px;
+}
+
+h2 {
+	font-size: 14px;
+	color: #c6ffed;
+}
+
+p {
+	font-size: 12px;
+	line-height: 18px;
+	padding-bottom: 24px;
+}
+
+#wrapper {
+	margin-left: auto; 
+	margin-right: auto;
+	width: 550px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="wrapper">
+
+
+<h1>Art Director's Portfolio Help File</h1>
+
+<p><em>Thanks for purchasing! If you find this file useful please rate it. Cheers! -<a href="http://flashden.net/user/modular/portfolio">modular</a></em></p>
+
+<h2>How do I edit the file?</h2>
+<p>Go inside the "deploy" folder and open up "settings.xml" in your favorite text editor. Simply fill in the values with your new text and colors. Afterwards, refresh the portfolio page and the site will be updated.</p>
+
+<h2>How do I edit the portfolio items?</h2>
+<p>To edit the portfolio items you will need to open up "selected_work.xml" in the "deploy" folder and update the text. To add your own images you will need to save them to the folders "thumbs" and "images" inside the "selected_work" folder.</p>
+
+<h2>How many portfolio items can I have?</h2>
+<p>You can have a maximum of 18 portfolio items with up to 5 images for each item.</p>
+
+<h2>What are the correct JPG dimensions to use for portfolio items?</h2>
+<p>Thumbnail images should be sized 144x60 pixels and portfolio piece images should be sized 475x260 pixels.</p>
+
+<h2>How do I add the "Launch Project" links?</h2>
+<p>Edit the "selected_work.xml" file in the "deploy" folder and update the "link" property to the URL of your project. To link to a live URL outside your domain follow the example in <em>selected_work > projects > sample > index.html</em>.</p>
+
+<h2>What fonts are used?</h2>
+<p>The fonts used are <a href="http://www.myfonts.com/fonts/adobe/vag-rounded/">VAG Rounded</a> and Georgia Italic.</p>
+
+<h2>How do I change the background color of the site?</h2>
+<p>Edit the "background_color" property in "settings.xml" and also be sure to change the color in the "index.html" file -- there should be two places to change it -- one in the CSS at the top and the other in the SWF insertion code towards the bottom.
+
+<h2>How do I use my own logo?</h2>
+<p>To use your own logo open up "settings.xml" and set "use_own_logo" to true. Then set "your_logo_file" to the location of your logo file.</p>
+
+<h2>How can I customize additional things that aren't in the XML file?</h2>
+<p>Open up the various .as files in the "src" folder -- usually at the top of the file there will be a list of variables defined that you can customize. Additionally, you can directly edit the portfolio.fla and contact.fla files.</p>
+
+<h2>Do you have other files for sale?</h2>
+<p>Yep! Visit my <a href="http://flashden.net/user/modular/portfolio">portfolio on FlashDen here</a>.</p>
+
+<h2>I came across a few bugs in the code -- where can I report them?</h2>
+<p>Any bug reporting would be greatly appreciated. Please post them in the item's comments section on FlashDen and I will try to fix them and get you an updated file.</p>
+
+<h2>I have additional questions not answered here -- where can I go for help?</h2>
+<p>Please post your questions in the item's comments section on FlashDen.</p>
+
+<h2>Acknowledgements</h2>
+<p>Thanks to Geoff Stearns and the open source community for developing <a href="http://code.google.com/p/swfobject/">SWFObject</a>, Asual for developing <a href="http://www.asual.com/swfaddress/">SWFAddress</a>, and Zeh Fernando and the open source community for developing <a href="http://code.google.com/p/tweener/">Tweener</a>.</p>
+
+
+</div>
+	
+</body>
+</html>

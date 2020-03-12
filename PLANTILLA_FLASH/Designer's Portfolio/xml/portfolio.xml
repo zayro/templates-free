@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<e des="Simple Project" thumb="img/t1.jpg" deeplink="portfolio/project1" pagetitle="Designer's Portfolio - Simple Project">
+		<info des="Simple Project" sub="About this project">
+			<![CDATA[<b><font color="#EB325C">This shows a simple project with one picture that is not clickable.</font> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac quam vulputate quam laoreet tempor. Cras dui. Nunc eu justo non turpis elementum aliquam. Maecenas vel turpis quis orci feugiat scelerisque. Etiam lectus ligula, semper nec, elementum non, commodo sed, metus.</b><br><br><i>Proin id nibh. Ut vehicula, mi at ullamcorper facilisis, leo sem interdum neque, non fermentum leo lectus sit amet tellus. Vestibulum tempor sapien non augue euismod convallis. Mauris nibh. Praesent gravida gravida nisi. Etiam mollis. Fusce condimentum euismod mauris. Donec blandit vulputate tortor. Nullam tempus, lectus vitae eleifend mollis, arcu nunc fringilla libero, id dictum mauris arcu nec arcu.</i><br><br>Pellentesque turpis neque, faucibus quis, lacinia dapibus, pharetra sit amet, purus. Nunc at mi. Nunc id erat aliquet ipsum consectetur rhoncus. Nam nunc libero, vestibulum nec, sollicitudin vitae, ultricies non, arcu. Donec bibendum. Donec mattis, tellus eu placerat porta, velit orci fringilla massa, et blandit est leo vel nisi.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>Small picture, not clickable.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Video Project" thumb="img/t2.jpg" deeplink="portfolio/project2" pagetitle="Designer's Portfolio - Video Project">
+		<info des="Video Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a video file.</font> This Aliquam interdum, lectus non interdum posuere, nunc arcu pellentesque mauris, nec blandit quam ante et neque. Nam blandit arcu ullamcorper odio. Suspendisse vel purus. Aenean tempor enim a dolor. Cras non erat. Nunc euismod tortor eu justo convallis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus imperdiet commodo neque. Integer interdum orci in neque. Curabitur placerat. Nulla lobortis laoreet lorem. Proin viverra sapien a nibh. Nullam luctus egestas nunc. Aliquam dictum porta leo. Maecenas porta, leo ut semper vestibulum, tortor nulla varius eros, ut lacinia mauris augue quis erat. Nulla pretium sem et magna. Ut sit amet ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Picture Project" thumb="img/t3.jpg" deeplink="portfolio/project3" pagetitle="Designer's Portfolio - Large Picture Project">
+		<info des="Large Picture Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a large picture which is clickable for a close-up.</font> Curabitur felis ante, eleifend at, tempor id, euismod vel, ante. Phasellus nunc nulla, pulvinar sit amet, vehicula non, lacinia non, augue. Donec eget lorem. Donec luctus aliquet est. Cras a neque sit amet est condimentum pellentesque. Suspendisse ornare sem et nisl. Fusce eget arcu at tellus vehicula pulvinar. Aenean ut ipsum. Vivamus placerat, urna et iaculis feugiat, enim est laoreet libero, in euismod arcu velit a mauris. Fusce ultricies aliquam purus. Donec a dui. Quisque pretium ornare ante. Morbi pulvinar neque ac magna. Sed odio nulla, porttitor id, congue auctor, fringilla eu, eros.<br><br>In sed augue. Vestibulum eros lectus, faucibus a, egestas vel, tempor sed, ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec leo. Fusce massa. Nullam dignissim quam ut enim hendrerit luctus. Mauris fermentum nibh et dui. Duis sem. Sed pretium condimentum est. Sed augue.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="SWF Project" thumb="img/t4.jpg" deeplink="portfolio/project4" pagetitle="Designer's Portfolio - SWF Project">
+		<info des="SWF Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a Flash object included.</font> Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Project" thumb="img/t5.jpg" deeplink="portfolio/project5" pagetitle="Designer's Portfolio - Large Project">
+		<info des="Large Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with more text and images.</font> Ut lacinia cursus risus. Maecenas in dolor sed elit tincidunt luctus. Pellentesque tristique, enim ullamcorper egestas tincidunt, est urna cursus turpis, interdum fermentum nulla tortor eget arcu. Mauris nisi. Nunc id ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla venenatis ullamcorper magna. Aliquam erat volutpat. Vestibulum est. Nulla facilisi. Sed bibendum orci non lorem. Sed eleifend diam et ligula. Proin pretium ipsum in lacus. Sed convallis fringilla mauris.<br><br>Sed in nulla. Fusce euismod est id nisl. Morbi quis ipsum. Donec sed felis vitae tortor volutpat lobortis. Vivamus sodales ligula nec justo posuere aliquam. Aliquam erat volutpat. Cras in urna. Curabitur nibh justo, vehicula vel, suscipit commodo, luctus sed, dolor. In sapien tortor, tempor nec, commodo nec, varius at, augue. Maecenas tellus. Sed vulputate justo nec dui. Curabitur sit amet libero. Nulla egestas lorem ut urna. Curabitur diam justo, fringilla ut, placerat vitae, aliquet in, orci. Etiam placerat dui sed sem. Aenean dictum. Etiam vitae diam. Integer lorem mi, cursus non, adipiscing eget, viverra a, lacus. Vivamus a justo vitae arcu malesuada pulvinar.<br><br>Suspendisse potenti. Curabitur pretium purus vitae felis. Mauris porta, diam id eleifend adipiscing, diam dolor tempor tellus, et placerat sapien mi ac velit. Etiam accumsan tristique elit. Suspendisse viverra. Quisque nisl elit, semper at, rhoncus quis, tristique vitae, justo. Donec in tellus sit amet diam porttitor bibendum. Mauris consectetur nibh eget felis. Quisque suscipit, turpis non viverra placerat, risus lorem venenatis est, ut lobortis libero eros et lacus. Nulla lacinia tincidunt mi. Sed suscipit diam a leo.<br><br>Cras laoreet, purus eu consequat suscipit, mi dolor suscipit velit, vel varius mauris turpis eget libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec augue. Nullam velit lorem, rutrum et, pharetra vel, aliquet vel, justo. Aenean neque massa, volutpat id, accumsan rutrum, posuere et, ipsum. Vivamus tempus, dolor at adipiscing dapibus, felis eros suscipit nisl, vitae rhoncus dolor risus dapibus justo. Pellentesque hendrerit viverra lacus. Vestibulum ultricies, mauris in elementum hendrerit, libero tortor scelerisque turpis, id mollis eros ante in justo. Duis scelerisque, elit ac congue adipiscing, eros felis fermentum ante, pretium lobortis diam diam sit amet ante. Donec ultrices nisl sit amet justo. Donec nulla elit, ullamcorper at, laoreet quis, luctus id, mauris.<br><br>Mauris sem lorem, blandit vitae, vehicula ornare, molestie lobortis, lacus. Aliquam erat volutpat. Quisque in orci. Quisque vel metus. Morbi in mauris vel sem bibendum fringilla. Morbi laoreet, mauris vitae bibendum porta, magna risus dignissim nisi, nec molestie nisl neque quis tortor. Aliquam erat volutpat. Aenean id lectus eget augue consequat varius. Nullam rutrum bibendum elit. Curabitur laoreet justo a felis. Quisque fermentum porta mi. Vivamus eget orci sed odio pulvinar tincidunt. Vestibulum gravida nisl ut dolor. Aenean libero est, lacinia vitae, laoreet ac, rutrum quis, neque. In id ante quis augue mollis imperdiet. Vestibulum arcu dolor, commodo eu, pharetra eu, cursus auctor, libero. Sed mauris. Phasellus vehicula nisi ac sem. Integer dictum lectus sed ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #1" thumb="img/t6.jpg" deeplink="portfolio/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="Mixed Project #1" sub="">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and video. Also the "About this project" subtitle is excluded (since it's dynamic).</font> Suspendisse semper. Nulla tellus. Sed a risus. Nam at arcu in justo placerat aliquam. In vel dui eget velit elementum bibendum. Nunc laoreet nisl. Praesent odio. Suspendisse sagittis augue. Nam posuere bibendum velit. Sed facilisis ante quis sem. Donec eu massa a eros pharetra venenatis. Maecenas a lorem sit amet odio viverra molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>Etiam congue libero at risus. Vestibulum tempus est. Cras non nisl. Donec fermentum pretium sem. Proin id tortor. Donec vulputate pharetra quam. Vivamus at turpis non est cursus euismod. In non felis quis sapien mattis pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam in arcu. Quisque ornare justo a dui. Vivamus feugiat cursus nibh. Nunc rutrum vulputate ante. Praesent ut elit eget lorem cursus sollicitudin. Integer aliquam pretium lacus. Phasellus pharetra. Vivamus vulputate nisi in neque. Duis molestie felis pellentesque tortor. Integer molestie varius magna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #2" thumb="img/t7.jpg" deeplink="portfolio/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="Mixed Project #2" sub="About these projects">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and Flash.</font> Phasellus condimentum, magna sit amet pellentesque molestie, arcu velit dictum nibh, vel mollis turpis lectus sit amet felis. Proin euismod porttitor dolor. Integer in eros. Aliquam auctor varius leo. Mauris interdum consectetur nibh. Suspendisse potenti. Donec sed odio a nulla aliquet tempus. Sed lobortis. In hac habitasse platea dictumst. Nam porta tempor lectus. Praesent libero quam, faucibus quis, dictum eget, egestas sit amet, metus. Donec sit amet turpis. Proin enim. Integer tincidunt volutpat velit. Pellentesque ac dui. Cras nisi. In in tellus. Aliquam bibendum lectus ut leo.<br><br>Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.<br><br>Duis convallis, ante vulputate eleifend gravida, turpis mauris lacinia quam, non facilisis urna tortor eget augue. Curabitur rutrum quam ut est. In nibh. Praesent metus odio, molestie ut, convallis et, auctor in, eros. Curabitur rhoncus sagittis est. Donec dignissim euismod nunc. Quisque sodales turpis ac justo. Nullam ultricies turpis ut velit. Quisque pulvinar nisi nec nisl. Ut mattis gravida nunc. Morbi non nisl. Ut tellus nulla, condimentum eget, laoreet tempor, porttitor et, felis. Etiam semper velit sed mi. Sed hendrerit, risus id imperdiet congue, leo nisi bibendum arcu, id commodo justo ligula ut nunc. Cras accumsan, sem vitae iaculis tempor, ante justo placerat lorem, non eleifend elit elit vel velit.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Simple Project" thumb="img/t8.jpg" deeplink="portfolio/project8" pagetitle="Designer's Portfolio - Simple Project">
+		<info des="Simple Project" sub="About this project">
+			<![CDATA[<b><font color="#EB325C">This shows a simple project with one picture that is not clickable.</font> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac quam vulputate quam laoreet tempor. Cras dui. Nunc eu justo non turpis elementum aliquam. Maecenas vel turpis quis orci feugiat scelerisque. Etiam lectus ligula, semper nec, elementum non, commodo sed, metus.</b><br><br><i>Proin id nibh. Ut vehicula, mi at ullamcorper facilisis, leo sem interdum neque, non fermentum leo lectus sit amet tellus. Vestibulum tempor sapien non augue euismod convallis. Mauris nibh. Praesent gravida gravida nisi. Etiam mollis. Fusce condimentum euismod mauris. Donec blandit vulputate tortor. Nullam tempus, lectus vitae eleifend mollis, arcu nunc fringilla libero, id dictum mauris arcu nec arcu.</i><br><br>Pellentesque turpis neque, faucibus quis, lacinia dapibus, pharetra sit amet, purus. Nunc at mi. Nunc id erat aliquet ipsum consectetur rhoncus. Nam nunc libero, vestibulum nec, sollicitudin vitae, ultricies non, arcu. Donec bibendum. Donec mattis, tellus eu placerat porta, velit orci fringilla massa, et blandit est leo vel nisi.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>Small picture, not clickable.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Video Project" thumb="img/t9.jpg" deeplink="portfolio/project9" pagetitle="Designer's Portfolio - Video Project">
+		<info des="Video Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a video file.</font> This Aliquam interdum, lectus non interdum posuere, nunc arcu pellentesque mauris, nec blandit quam ante et neque. Nam blandit arcu ullamcorper odio. Suspendisse vel purus. Aenean tempor enim a dolor. Cras non erat. Nunc euismod tortor eu justo convallis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus imperdiet commodo neque. Integer interdum orci in neque. Curabitur placerat. Nulla lobortis laoreet lorem. Proin viverra sapien a nibh. Nullam luctus egestas nunc. Aliquam dictum porta leo. Maecenas porta, leo ut semper vestibulum, tortor nulla varius eros, ut lacinia mauris augue quis erat. Nulla pretium sem et magna. Ut sit amet ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e  img="vid/video.flv" hassound="true">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Picture Project" thumb="img/t10.jpg" deeplink="portfolio/project10" pagetitle="Designer's Portfolio - Large Picture Project">
+		<info des="Large Picture Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a large picture which is clickable for a close-up.</font> Curabitur felis ante, eleifend at, tempor id, euismod vel, ante. Phasellus nunc nulla, pulvinar sit amet, vehicula non, lacinia non, augue. Donec eget lorem. Donec luctus aliquet est. Cras a neque sit amet est condimentum pellentesque. Suspendisse ornare sem et nisl. Fusce eget arcu at tellus vehicula pulvinar. Aenean ut ipsum. Vivamus placerat, urna et iaculis feugiat, enim est laoreet libero, in euismod arcu velit a mauris. Fusce ultricies aliquam purus. Donec a dui. Quisque pretium ornare ante. Morbi pulvinar neque ac magna. Sed odio nulla, porttitor id, congue auctor, fringilla eu, eros.<br><br>In sed augue. Vestibulum eros lectus, faucibus a, egestas vel, tempor sed, ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec leo. Fusce massa. Nullam dignissim quam ut enim hendrerit luctus. Mauris fermentum nibh et dui. Duis sem. Sed pretium condimentum est. Sed augue.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="SWF Project" thumb="img/t11.jpg" deeplink="portfolio/project11" pagetitle="Designer's Portfolio - SWF Project">
+		<info des="SWF Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a Flash object included.</font> Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Project" thumb="img/t12.jpg" deeplink="portfolio/project12" pagetitle="Designer's Portfolio - Large Project">
+		<info des="Large Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with more text and images.</font> Ut lacinia cursus risus. Maecenas in dolor sed elit tincidunt luctus. Pellentesque tristique, enim ullamcorper egestas tincidunt, est urna cursus turpis, interdum fermentum nulla tortor eget arcu. Mauris nisi. Nunc id ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla venenatis ullamcorper magna. Aliquam erat volutpat. Vestibulum est. Nulla facilisi. Sed bibendum orci non lorem. Sed eleifend diam et ligula. Proin pretium ipsum in lacus. Sed convallis fringilla mauris.<br><br>Sed in nulla. Fusce euismod est id nisl. Morbi quis ipsum. Donec sed felis vitae tortor volutpat lobortis. Vivamus sodales ligula nec justo posuere aliquam. Aliquam erat volutpat. Cras in urna. Curabitur nibh justo, vehicula vel, suscipit commodo, luctus sed, dolor. In sapien tortor, tempor nec, commodo nec, varius at, augue. Maecenas tellus. Sed vulputate justo nec dui. Curabitur sit amet libero. Nulla egestas lorem ut urna. Curabitur diam justo, fringilla ut, placerat vitae, aliquet in, orci. Etiam placerat dui sed sem. Aenean dictum. Etiam vitae diam. Integer lorem mi, cursus non, adipiscing eget, viverra a, lacus. Vivamus a justo vitae arcu malesuada pulvinar.<br><br>Suspendisse potenti. Curabitur pretium purus vitae felis. Mauris porta, diam id eleifend adipiscing, diam dolor tempor tellus, et placerat sapien mi ac velit. Etiam accumsan tristique elit. Suspendisse viverra. Quisque nisl elit, semper at, rhoncus quis, tristique vitae, justo. Donec in tellus sit amet diam porttitor bibendum. Mauris consectetur nibh eget felis. Quisque suscipit, turpis non viverra placerat, risus lorem venenatis est, ut lobortis libero eros et lacus. Nulla lacinia tincidunt mi. Sed suscipit diam a leo.<br><br>Cras laoreet, purus eu consequat suscipit, mi dolor suscipit velit, vel varius mauris turpis eget libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec augue. Nullam velit lorem, rutrum et, pharetra vel, aliquet vel, justo. Aenean neque massa, volutpat id, accumsan rutrum, posuere et, ipsum. Vivamus tempus, dolor at adipiscing dapibus, felis eros suscipit nisl, vitae rhoncus dolor risus dapibus justo. Pellentesque hendrerit viverra lacus. Vestibulum ultricies, mauris in elementum hendrerit, libero tortor scelerisque turpis, id mollis eros ante in justo. Duis scelerisque, elit ac congue adipiscing, eros felis fermentum ante, pretium lobortis diam diam sit amet ante. Donec ultrices nisl sit amet justo. Donec nulla elit, ullamcorper at, laoreet quis, luctus id, mauris.<br><br>Mauris sem lorem, blandit vitae, vehicula ornare, molestie lobortis, lacus. Aliquam erat volutpat. Quisque in orci. Quisque vel metus. Morbi in mauris vel sem bibendum fringilla. Morbi laoreet, mauris vitae bibendum porta, magna risus dignissim nisi, nec molestie nisl neque quis tortor. Aliquam erat volutpat. Aenean id lectus eget augue consequat varius. Nullam rutrum bibendum elit. Curabitur laoreet justo a felis. Quisque fermentum porta mi. Vivamus eget orci sed odio pulvinar tincidunt. Vestibulum gravida nisl ut dolor. Aenean libero est, lacinia vitae, laoreet ac, rutrum quis, neque. In id ante quis augue mollis imperdiet. Vestibulum arcu dolor, commodo eu, pharetra eu, cursus auctor, libero. Sed mauris. Phasellus vehicula nisi ac sem. Integer dictum lectus sed ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #1" thumb="img/t13.jpg" deeplink="portfolio/project13" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="Mixed Project #1" sub="">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and video. Also the "About this project" subtitle is excluded (since it's dynamic).</font> Suspendisse semper. Nulla tellus. Sed a risus. Nam at arcu in justo placerat aliquam. In vel dui eget velit elementum bibendum. Nunc laoreet nisl. Praesent odio. Suspendisse sagittis augue. Nam posuere bibendum velit. Sed facilisis ante quis sem. Donec eu massa a eros pharetra venenatis. Maecenas a lorem sit amet odio viverra molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>Etiam congue libero at risus. Vestibulum tempus est. Cras non nisl. Donec fermentum pretium sem. Proin id tortor. Donec vulputate pharetra quam. Vivamus at turpis non est cursus euismod. In non felis quis sapien mattis pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam in arcu. Quisque ornare justo a dui. Vivamus feugiat cursus nibh. Nunc rutrum vulputate ante. Praesent ut elit eget lorem cursus sollicitudin. Integer aliquam pretium lacus. Phasellus pharetra. Vivamus vulputate nisi in neque. Duis molestie felis pellentesque tortor. Integer molestie varius magna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e  img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #2" thumb="img/t14.jpg" deeplink="portfolio/project14" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="Mixed Project #2" sub="About these projects">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and Flash.</font> Phasellus condimentum, magna sit amet pellentesque molestie, arcu velit dictum nibh, vel mollis turpis lectus sit amet felis. Proin euismod porttitor dolor. Integer in eros. Aliquam auctor varius leo. Mauris interdum consectetur nibh. Suspendisse potenti. Donec sed odio a nulla aliquet tempus. Sed lobortis. In hac habitasse platea dictumst. Nam porta tempor lectus. Praesent libero quam, faucibus quis, dictum eget, egestas sit amet, metus. Donec sit amet turpis. Proin enim. Integer tincidunt volutpat velit. Pellentesque ac dui. Cras nisi. In in tellus. Aliquam bibendum lectus ut leo.<br><br>Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.<br><br>Duis convallis, ante vulputate eleifend gravida, turpis mauris lacinia quam, non facilisis urna tortor eget augue. Curabitur rutrum quam ut est. In nibh. Praesent metus odio, molestie ut, convallis et, auctor in, eros. Curabitur rhoncus sagittis est. Donec dignissim euismod nunc. Quisque sodales turpis ac justo. Nullam ultricies turpis ut velit. Quisque pulvinar nisi nec nisl. Ut mattis gravida nunc. Morbi non nisl. Ut tellus nulla, condimentum eget, laoreet tempor, porttitor et, felis. Etiam semper velit sed mi. Sed hendrerit, risus id imperdiet congue, leo nisi bibendum arcu, id commodo justo ligula ut nunc. Cras accumsan, sem vitae iaculis tempor, ante justo placerat lorem, non eleifend elit elit vel velit.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	
+	
+	<e des="Simple Project" thumb="img/t15.jpg" deeplink="portfolio/project15" pagetitle="Designer's Portfolio - Simple Project">
+		<info des="Simple Project" sub="About this project">
+			<![CDATA[<b><font color="#EB325C">This shows a simple project with one picture that is not clickable.</font> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac quam vulputate quam laoreet tempor. Cras dui. Nunc eu justo non turpis elementum aliquam. Maecenas vel turpis quis orci feugiat scelerisque. Etiam lectus ligula, semper nec, elementum non, commodo sed, metus.</b><br><br><i>Proin id nibh. Ut vehicula, mi at ullamcorper facilisis, leo sem interdum neque, non fermentum leo lectus sit amet tellus. Vestibulum tempor sapien non augue euismod convallis. Mauris nibh. Praesent gravida gravida nisi. Etiam mollis. Fusce condimentum euismod mauris. Donec blandit vulputate tortor. Nullam tempus, lectus vitae eleifend mollis, arcu nunc fringilla libero, id dictum mauris arcu nec arcu.</i><br><br>Pellentesque turpis neque, faucibus quis, lacinia dapibus, pharetra sit amet, purus. Nunc at mi. Nunc id erat aliquet ipsum consectetur rhoncus. Nam nunc libero, vestibulum nec, sollicitudin vitae, ultricies non, arcu. Donec bibendum. Donec mattis, tellus eu placerat porta, velit orci fringilla massa, et blandit est leo vel nisi.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>Small picture, not clickable.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Video Project" thumb="img/t16.jpg" deeplink="portfolio/project16" pagetitle="Designer's Portfolio - Video Project">
+		<info des="Video Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a video file.</font> This Aliquam interdum, lectus non interdum posuere, nunc arcu pellentesque mauris, nec blandit quam ante et neque. Nam blandit arcu ullamcorper odio. Suspendisse vel purus. Aenean tempor enim a dolor. Cras non erat. Nunc euismod tortor eu justo convallis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus imperdiet commodo neque. Integer interdum orci in neque. Curabitur placerat. Nulla lobortis laoreet lorem. Proin viverra sapien a nibh. Nullam luctus egestas nunc. Aliquam dictum porta leo. Maecenas porta, leo ut semper vestibulum, tortor nulla varius eros, ut lacinia mauris augue quis erat. Nulla pretium sem et magna. Ut sit amet ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e  img="vid/video.flv" hassound="true">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Picture Project" thumb="img/t17.jpg" deeplink="portfolio/project17" pagetitle="Designer's Portfolio - Large Picture Project">
+		<info des="Large Picture Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a large picture which is clickable for a close-up.</font> Curabitur felis ante, eleifend at, tempor id, euismod vel, ante. Phasellus nunc nulla, pulvinar sit amet, vehicula non, lacinia non, augue. Donec eget lorem. Donec luctus aliquet est. Cras a neque sit amet est condimentum pellentesque. Suspendisse ornare sem et nisl. Fusce eget arcu at tellus vehicula pulvinar. Aenean ut ipsum. Vivamus placerat, urna et iaculis feugiat, enim est laoreet libero, in euismod arcu velit a mauris. Fusce ultricies aliquam purus. Donec a dui. Quisque pretium ornare ante. Morbi pulvinar neque ac magna. Sed odio nulla, porttitor id, congue auctor, fringilla eu, eros.<br><br>In sed augue. Vestibulum eros lectus, faucibus a, egestas vel, tempor sed, ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec leo. Fusce massa. Nullam dignissim quam ut enim hendrerit luctus. Mauris fermentum nibh et dui. Duis sem. Sed pretium condimentum est. Sed augue.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="SWF Project" thumb="img/t18.jpg" deeplink="portfolio/project18" pagetitle="Designer's Portfolio - SWF Project">
+		<info des="SWF Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a Flash object included.</font> Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Project" thumb="img/t19.jpg" deeplink="portfolio/project19" pagetitle="Designer's Portfolio - Large Project">
+		<info des="Large Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with more text and images.</font> Ut lacinia cursus risus. Maecenas in dolor sed elit tincidunt luctus. Pellentesque tristique, enim ullamcorper egestas tincidunt, est urna cursus turpis, interdum fermentum nulla tortor eget arcu. Mauris nisi. Nunc id ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla venenatis ullamcorper magna. Aliquam erat volutpat. Vestibulum est. Nulla facilisi. Sed bibendum orci non lorem. Sed eleifend diam et ligula. Proin pretium ipsum in lacus. Sed convallis fringilla mauris.<br><br>Sed in nulla. Fusce euismod est id nisl. Morbi quis ipsum. Donec sed felis vitae tortor volutpat lobortis. Vivamus sodales ligula nec justo posuere aliquam. Aliquam erat volutpat. Cras in urna. Curabitur nibh justo, vehicula vel, suscipit commodo, luctus sed, dolor. In sapien tortor, tempor nec, commodo nec, varius at, augue. Maecenas tellus. Sed vulputate justo nec dui. Curabitur sit amet libero. Nulla egestas lorem ut urna. Curabitur diam justo, fringilla ut, placerat vitae, aliquet in, orci. Etiam placerat dui sed sem. Aenean dictum. Etiam vitae diam. Integer lorem mi, cursus non, adipiscing eget, viverra a, lacus. Vivamus a justo vitae arcu malesuada pulvinar.<br><br>Suspendisse potenti. Curabitur pretium purus vitae felis. Mauris porta, diam id eleifend adipiscing, diam dolor tempor tellus, et placerat sapien mi ac velit. Etiam accumsan tristique elit. Suspendisse viverra. Quisque nisl elit, semper at, rhoncus quis, tristique vitae, justo. Donec in tellus sit amet diam porttitor bibendum. Mauris consectetur nibh eget felis. Quisque suscipit, turpis non viverra placerat, risus lorem venenatis est, ut lobortis libero eros et lacus. Nulla lacinia tincidunt mi. Sed suscipit diam a leo.<br><br>Cras laoreet, purus eu consequat suscipit, mi dolor suscipit velit, vel varius mauris turpis eget libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec augue. Nullam velit lorem, rutrum et, pharetra vel, aliquet vel, justo. Aenean neque massa, volutpat id, accumsan rutrum, posuere et, ipsum. Vivamus tempus, dolor at adipiscing dapibus, felis eros suscipit nisl, vitae rhoncus dolor risus dapibus justo. Pellentesque hendrerit viverra lacus. Vestibulum ultricies, mauris in elementum hendrerit, libero tortor scelerisque turpis, id mollis eros ante in justo. Duis scelerisque, elit ac congue adipiscing, eros felis fermentum ante, pretium lobortis diam diam sit amet ante. Donec ultrices nisl sit amet justo. Donec nulla elit, ullamcorper at, laoreet quis, luctus id, mauris.<br><br>Mauris sem lorem, blandit vitae, vehicula ornare, molestie lobortis, lacus. Aliquam erat volutpat. Quisque in orci. Quisque vel metus. Morbi in mauris vel sem bibendum fringilla. Morbi laoreet, mauris vitae bibendum porta, magna risus dignissim nisi, nec molestie nisl neque quis tortor. Aliquam erat volutpat. Aenean id lectus eget augue consequat varius. Nullam rutrum bibendum elit. Curabitur laoreet justo a felis. Quisque fermentum porta mi. Vivamus eget orci sed odio pulvinar tincidunt. Vestibulum gravida nisl ut dolor. Aenean libero est, lacinia vitae, laoreet ac, rutrum quis, neque. In id ante quis augue mollis imperdiet. Vestibulum arcu dolor, commodo eu, pharetra eu, cursus auctor, libero. Sed mauris. Phasellus vehicula nisi ac sem. Integer dictum lectus sed ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #1" thumb="img/t20.jpg" deeplink="portfolio/project20" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="Mixed Project #1" sub="">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and video. Also the "About this project" subtitle is excluded (since it's dynamic).</font> Suspendisse semper. Nulla tellus. Sed a risus. Nam at arcu in justo placerat aliquam. In vel dui eget velit elementum bibendum. Nunc laoreet nisl. Praesent odio. Suspendisse sagittis augue. Nam posuere bibendum velit. Sed facilisis ante quis sem. Donec eu massa a eros pharetra venenatis. Maecenas a lorem sit amet odio viverra molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>Etiam congue libero at risus. Vestibulum tempus est. Cras non nisl. Donec fermentum pretium sem. Proin id tortor. Donec vulputate pharetra quam. Vivamus at turpis non est cursus euismod. In non felis quis sapien mattis pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam in arcu. Quisque ornare justo a dui. Vivamus feugiat cursus nibh. Nunc rutrum vulputate ante. Praesent ut elit eget lorem cursus sollicitudin. Integer aliquam pretium lacus. Phasellus pharetra. Vivamus vulputate nisi in neque. Duis molestie felis pellentesque tortor. Integer molestie varius magna.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e  img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Mixed Project #2" thumb="img/t21.jpg" deeplink="portfolio/project21" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="Mixed Project #2" sub="About these projects">
+			<![CDATA[<font color="#EB325C">This shows a project with both images and Flash.</font> Phasellus condimentum, magna sit amet pellentesque molestie, arcu velit dictum nibh, vel mollis turpis lectus sit amet felis. Proin euismod porttitor dolor. Integer in eros. Aliquam auctor varius leo. Mauris interdum consectetur nibh. Suspendisse potenti. Donec sed odio a nulla aliquet tempus. Sed lobortis. In hac habitasse platea dictumst. Nam porta tempor lectus. Praesent libero quam, faucibus quis, dictum eget, egestas sit amet, metus. Donec sit amet turpis. Proin enim. Integer tincidunt volutpat velit. Pellentesque ac dui. Cras nisi. In in tellus. Aliquam bibendum lectus ut leo.<br><br>Vestibulum aliquet orci nec massa. Curabitur feugiat ligula quis tellus. Sed ac lacus. Quisque ultricies orci sed massa. Suspendisse fringilla, lorem euismod rutrum cursus, enim metus sagittis quam, luctus consectetur ligula nulla in neque. Duis tortor lorem, tincidunt vel, scelerisque non, ultricies at, arcu. Praesent justo nibh, euismod sed, fermentum vel, aliquam eu, urna. Aenean pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum tortor. Nullam tellus. Fusce pulvinar congue lectus. Cras placerat, ante ac euismod imperdiet, felis justo aliquam dolor, ut pulvinar enim dolor nec odio. Aliquam augue ligula, auctor at, rhoncus eu, ultrices sit amet, nulla. Morbi dolor. Fusce felis quam, dignissim nec, venenatis vitae, fermentum nec, mauris. Fusce rhoncus nisi at erat. Mauris suscipit nunc id urna.<br><br>Duis convallis, ante vulputate eleifend gravida, turpis mauris lacinia quam, non facilisis urna tortor eget augue. Curabitur rutrum quam ut est. In nibh. Praesent metus odio, molestie ut, convallis et, auctor in, eros. Curabitur rhoncus sagittis est. Donec dignissim euismod nunc. Quisque sodales turpis ac justo. Nullam ultricies turpis ut velit. Quisque pulvinar nisi nec nisl. Ut mattis gravida nunc. Morbi non nisl. Ut tellus nulla, condimentum eget, laoreet tempor, porttitor et, felis. Etiam semper velit sed mi. Sed hendrerit, risus id imperdiet congue, leo nisi bibendum arcu, id commodo justo ligula ut nunc. Cras accumsan, sem vitae iaculis tempor, ante justo placerat lorem, non eleifend elit elit vel velit.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Simple Project" thumb="img/t22.jpg" deeplink="portfolio/project22" pagetitle="Designer's Portfolio - Simple Project">
+		<info des="Simple Project" sub="About this project">
+			<![CDATA[<b><font color="#EB325C">This shows a simple project with one picture that is not clickable.</font> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac quam vulputate quam laoreet tempor. Cras dui. Nunc eu justo non turpis elementum aliquam. Maecenas vel turpis quis orci feugiat scelerisque. Etiam lectus ligula, semper nec, elementum non, commodo sed, metus.</b><br><br><i>Proin id nibh. Ut vehicula, mi at ullamcorper facilisis, leo sem interdum neque, non fermentum leo lectus sit amet tellus. Vestibulum tempor sapien non augue euismod convallis. Mauris nibh. Praesent gravida gravida nisi. Etiam mollis. Fusce condimentum euismod mauris. Donec blandit vulputate tortor. Nullam tempus, lectus vitae eleifend mollis, arcu nunc fringilla libero, id dictum mauris arcu nec arcu.</i><br><br>Pellentesque turpis neque, faucibus quis, lacinia dapibus, pharetra sit amet, purus. Nunc at mi. Nunc id erat aliquet ipsum consectetur rhoncus. Nam nunc libero, vestibulum nec, sollicitudin vitae, ultricies non, arcu. Donec bibendum. Donec mattis, tellus eu placerat porta, velit orci fringilla massa, et blandit est leo vel nisi.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>Small picture, not clickable.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Video Project" thumb="img/t23.jpg" deeplink="portfolio/project23" pagetitle="Designer's Portfolio - Video Project">
+		<info des="Video Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a video file.</font> This Aliquam interdum, lectus non interdum posuere, nunc arcu pellentesque mauris, nec blandit quam ante et neque. Nam blandit arcu ullamcorper odio. Suspendisse vel purus. Aenean tempor enim a dolor. Cras non erat. Nunc euismod tortor eu justo convallis aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus imperdiet commodo neque. Integer interdum orci in neque. Curabitur placerat. Nulla lobortis laoreet lorem. Proin viverra sapien a nibh. Nullam luctus egestas nunc. Aliquam dictum porta leo. Maecenas porta, leo ut semper vestibulum, tortor nulla varius eros, ut lacinia mauris augue quis erat. Nulla pretium sem et magna. Ut sit amet ante.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Link:"><![CDATA[<a href="http://www.flashden.net" target="_blank">View project</a>]]></e>
+		</details>
+		<images>
+			<e  img="vid/video.flv" hassound="true">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+	<e des="Large Picture Project" thumb="img/t24.jpg" deeplink="portfolio/project24" pagetitle="Designer's Portfolio - Large Picture Project">
+		<info des="Large Picture Project" sub="About this project">
+			<![CDATA[<font color="#EB325C">This shows a project with a large picture which is clickable for a close-up.</font> Curabitur felis ante, eleifend at, tempor id, euismod vel, ante. Phasellus nunc nulla, pulvinar sit amet, vehicula non, lacinia non, augue. Donec eget lorem. Donec luctus aliquet est. Cras a neque sit amet est condimentum pellentesque. Suspendisse ornare sem et nisl. Fusce eget arcu at tellus vehicula pulvinar. Aenean ut ipsum. Vivamus placerat, urna et iaculis feugiat, enim est laoreet libero, in euismod arcu velit a mauris. Fusce ultricies aliquam purus. Donec a dui. Quisque pretium ornare ante. Morbi pulvinar neque ac magna. Sed odio nulla, porttitor id, congue auctor, fringilla eu, eros.<br><br>In sed augue. Vestibulum eros lectus, faucibus a, egestas vel, tempor sed, ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec leo. Fusce massa. Nullam dignissim quam ut enim hendrerit luctus. Mauris fermentum nibh et dui. Duis sem. Sed pretium condimentum est. Sed augue.]]>
+		</info>
+		<details>
+			<e type="Client:"><![CDATA[Client name]]></e>
+			<e type="Techniques used:"><![CDATA[Photography, Flash and PHP]]></e>
+			<e type="Partners:"><![CDATA[Partners name]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+			</e>
+		</images>
+	</e>
+</content>

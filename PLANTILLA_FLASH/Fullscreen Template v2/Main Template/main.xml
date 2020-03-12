@@ -1,0 +1,68 @@
+<!-- 
+-----------------------------------------------------------------------
+INDEX - MAIN XML:
+-----------------------------------------------------------------------
+
+|||||||MAIN ATTRIBUTES|||||||||||||||||||||||||||||||||||||||||||||||||
+
+introTitleText == Text for the title in the "intro" scene
+introTitleTextColor == Color of the title in "intro" scene
+titleText == Text for the main title in the "main" scene 
+titleTextColor == Color of the title in the "main" scene
+settingsText == Text in the settings menu
+settingsTextColor == Color of the text in the settings menu
+menuSpacer == Space between each menu button
+darken == Menu number of when to darken background
+
+|||||||MENU ATTRIBUTES||||||||||||||||||||||||||||||||||||||||||||||||
+
+menuText == Text for menu button
+menuColorOut == Color of menu button when mouse is NOT over
+menuColorOver == Color of menu button when mouse IS over
+menuPath == Path when SWF File is located
+
+-----------------------------------------------------------------------
+-->
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<main 
+	  introTitleText = "FULLSCREEN TEMPLATE V.2"
+	  introTitleTextColor = "0xFFFFFF"
+	  titleText = "FULLSCREEN TEMPLATE V.2" 
+      	  titleTextColor = "0xFFFFFF"
+	  settingsText = "FULLSCREEN TEMPLATE V.2"
+	  settingsTextColor = "0xCCCC33"
+	  menuSpacer = "25"
+	  darken = "4">
+	  
+	<menu>
+		<menuText>HOME</menuText>
+	  	<menuColorOut>0xFFFFFF</menuColorOut>
+	  	<menuColorOver>0xCCCC66</menuColorOver>
+		<menuPath>home.swf</menuPath>
+	</menu>
+	<menu>
+	  	<menuText>ABOUT US</menuText>
+	  	<menuColorOut>0xFFFFFF</menuColorOut>
+	  	<menuColorOver>0xCCCC66</menuColorOver>
+		<menuPath>about.swf</menuPath>
+	</menu>
+	<menu>
+	  	<menuText>NEWS</menuText>
+	  	<menuColorOut>0xFFFFFF</menuColorOut>
+	  	<menuColorOver>0xCCCC66</menuColorOver>
+		<menuPath>news.swf</menuPath>
+	</menu>
+	<menu>
+	  	<menuText>WORK</menuText>
+	  	<menuColorOut>0xFFFFFF</menuColorOut>
+	  	<menuColorOver>0xCCCC66</menuColorOver>
+		<menuPath>work.swf</menuPath>
+	</menu>
+	<menu>
+	  	<menuText>CONTACT US</menuText>
+	  	<menuColorOut>0xFFFFFF</menuColorOut>
+	  	<menuColorOver>0xCCCC66</menuColorOver>
+		<menuPath>contact.swf</menuPath>
+	</menu>	    
+</main>

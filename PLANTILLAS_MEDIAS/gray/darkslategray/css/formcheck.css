@@ -1,0 +1,113 @@
+/* FormCheck tipbox */
+
+/* tipbox :
+	table : 
+		tl		: top left
+		t		: top
+		tr		: top right
+		l 		: left
+		r		: right
+		bl		: bottom left
+		b		: bottom (with mark)
+		br		: bottom right
+		c		: center
+	components : 
+		a.close	: close button
+		err		: errors div
+		p		: error line
+*/
+.fc-tbx{
+	z-index:9999;
+}
+
+.fc-tbx .tl{
+	background: url(../images/tl.png) no-repeat;
+	z-index:9999;
+}
+.fc-tbx .t{
+	background: url(../images/t.png) repeat-x;
+	height: 16px;
+	z-index:9999;
+}
+.fc-tbx .tr{
+	background: url(../images/tr.png) no-repeat;
+	z-index:9999;
+}
+.fc-tbx .l{
+	background: url(../images/l.png) repeat-y;
+	width : 16px;
+	z-index:9999;
+}
+.fc-tbx .r{
+	background: url(../images/r.png) repeat-y;
+	width: 16px;
+	z-index:9999;
+}
+.fc-tbx .bl{
+	background: url(../images/bl.png) no-repeat;
+	z-index:9999;
+}
+.fc-tbx .b{
+	background: url(../images/b.png) no-repeat;
+	height: 25px;
+	z-index:9999;
+}
+.fc-tbx .br{
+	background: url(../images/br.png) no-repeat;
+	z-index:9999;
+}
+.fc-tbx .c{
+	background: url(../images/c.png) repeat;
+	z-index:9999;
+}
+.fc-tbx a.close {
+	float: right;
+	background: url(../images/close.png) no-repeat;
+	position: relative;
+	margin-left: 5px;
+	display: block;
+	width: 10px;
+	height: 10px;
+	cursor: pointer;
+	z-index:9999;
+}
+.fc-tbx .err {
+	float: left;
+	z-index:9999;
+}
+.fc-tbx p {
+	width : auto;
+	display: block;
+	font-size: 10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin : 0;
+	padding : 0;
+	border : 0;
+	color : #FFF;
+	background-color:inherit;
+	z-index:9999;
+}
+
+.ajax_loader {
+	background : url(http://www.9dlabs.net/tfdemos/anytime/skins/gray/darkslategray/images/ajax-loader.gif) no-repeat center;
+	width : 200px;
+	height : 150px;
+	z-index:9999;
+}
+
+
+/* FormCheck validation div */
+
+.fc-error {
+	border : 1px solid #888;
+	margin-top : 5px;
+	background-color : #EAEAEA;
+	z-index:9999;
+	color:#fff;
+}
+.fc-error p {
+	margin : 5px;
+	color : #A00;
+	z-index:9999;
+	background-color:inherit;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<data url_config="xml/configuration_flv.xml">
+<item path="flv/1.flv" preview="flv/1_preview.jpg"/>
+</data>

@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<gallery url_config="xml/configuration_gallery.xml">
+
+
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/1_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/2_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+		
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/3_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/4_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/5_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/1_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/2_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+		
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/3_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/4_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/5_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/1_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/2_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+		
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/3_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/4_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/5_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/1_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/2_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+		
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/3_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/4_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/5_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/1_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/2_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+		
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/3_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	<item title="860x400" width="860" height="400"  picsmall="image_gallery/4_.jpg" picbig="image_gallery/4.flv" preview="image_gallery/preview_860x400.jpg">
+		<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item title="640x480 (4:3)" width="640" height="480" picsmall="image_gallery/5_.jpg" picbig="image_gallery/2.flv" preview="image_gallery/preview_640x480.jpg" >
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head>	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+		
+	
+	
+</gallery>

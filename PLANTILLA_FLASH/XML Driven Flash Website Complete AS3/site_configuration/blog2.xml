@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlObject>
+	<article>
+		<imageURL>site_images/news_article7.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Action Script 3</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>January 10, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>New Years Celebration</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+	</article>
+		<article>
+		<imageURL>site_images/news_article6.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 2 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>Febraury 1, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>Valentines DAY</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+		</article>
+		<article>
+		<imageURL>site_images/news_article5.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 3 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>March 8, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>Snow is Melting!</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+	</article>
+			<article>
+		<imageURL>site_images/news_article4.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 4 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>April 1, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>FOOLED YA!</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+		</article>
+				<article>
+		<imageURL>site_images/news_article3.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 5 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>May 27, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>Spring is HERE!</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+		</article>
+					<article>
+		<imageURL>site_images/news_article2.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 6 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>June 21, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>Who wants Normal?!</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+		</article>
+						<article>
+		<imageURL>site_images/news_article1.jpg</imageURL>
+		<imageCaption><![CDATA[<h1>Article 7 Photo Caption</h1>]]></imageCaption>
+		<captionDesc><![CDATA[<h2>July 4, 2008 <a href="http://kiba.vn/">external URL </a></h2>]]></captionDesc>
+		<articleTitle><![CDATA[<h3>Dangers of Fireworks</h3>]]></articleTitle>
+		<articleBody>
+<![CDATA[<h4>FULL CONTROL OF EVERY ARTICLE WITHOUT OPENING FLASH!</h4>
+<p>Edit Text Size Color Font Weight Decoration with CSS. CSS was used to style all of the text, so if you want to change font, size, font-weight, a:hover, etc. You can do that all without ever having to open flash. Simply edit the news.css file located in the site_stylesheets folder!  Also each blog/news page has its own XML file, these files are located in the site_configuration folder blog_2008.xml   blog_2008.xml   blog_2009.xml   etc.  Inside the XML you can edit Images, Captions, Description, Thumnail Text, Article Title, and Article Text.  The article button names can be changed in config.xml located in the site_configuration folder!</p>
+<h4>FAST LOADING</h4>
+<p>ALL article images are located in the site_images folder and are loaded into Flash only when they are needed. This makes for fast loading, and ensuring the user is never sitting and waiting for content to load.  If you want to change out images for an article, simply add the image to the site_images folder and make sure that the imageURL tag for that article is pointing to the correct location eg. <imageURL>site_images/news_article7.jpg</imageURL></p>
+
+<h4>HORIZONTAL NAVIGATION</h4>
+<p>Due to the fact that this Blog/News utility scrolls horizontally, you will want to keep the number of articles to 12 per category. As Flash doesn't seem to like movieclips over 8000 px wide.</p>
+
+]]></articleBody>
+		</article>
+
+</xmlObject>

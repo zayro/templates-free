@@ -1,0 +1,155 @@
+----------------------------------------------------------------------------
+  CHANGE LOG
+----------------------------------------------------------------------------
+= V1.8 - 12.20.2012
+		Fixed : Facebook comment bug
+		Fixed : Option panel tab
+		Fixed : In Modal Facebook Comment bug
+		Fixed : Conflict Tab and jQuery if post contained tab
+		Fixed : Quick edit repaired
+		Updated : Custom Sidebars no longer reset with Option Panel Reset
+		Updated : Twitter style
+		Updated : Deprecated function
+	CHANGED FILES --------------------------------------------------------------
+		Modified : /admin/composer/assets/js_composer_front.js
+		Modified : /framework/includes/admin/post_format.php
+		Modified : /admin/functions/functions.interface.php
+		Modified : /admin/functions/functions.options.php
+		Modified : /admin/assets/js/smof.js
+		Modified : /functions.php
+		Modified : /functions.php
+		Modified : /js/scripts.js
+		Modified : /style.css
+= V1.7 - 12.14.2012 
+		Added : Backup option for Theme Options panel
+		Added : Next & Preview buttons when opening post from mobile
+		Updated : Compatibilities for WP 3.5 version
+		Updated : Child theme compatibility
+		Updated : Options panel functionality
+		Fixed : Twitter status aligning repaired
+		Fixed : Tag filter script bug
+		Fixed :	Cheating uh issue
+		Fixed : Fav icon uploading
+		Fixed : Post content hide option and logics
+		Fixed : Post title's font option issues
+	CHANGED FILES --------------------------------------------------------------
+		Modified : REPLACED ADMIN DIRECTORY WHOLE INSIDE FILES
+		Modified : /content-single.php
+		Modified : /css/styles.php
+		Modified : /framework/admin/admin.php
+		Modified : /framework/includes/metaboxes/default_meta_boxes.php
+		Modified : /framework/js/admin/default.js
+		Modified : /framework/js/admin/theme_page_selector.js
+		Modified : /functions.php
+		Modified : /header.php
+		Modified : /js/scripts.js
+		Modified : /post-content.php
+		Modified : /style.css
+		
+= V1.6 - 11.27.2012 
+		Added : Child Theme
+		Added : Custom link option
+		Added : Tag filter option
+		Fixed : Wp auto p repaired
+		Fixed : Custom link option
+		Fixed : Infinite scrolling bug of Safari
+		Fixed : Facebook fbxml removed
+		Fixed : IE7 menu bug
+		Fixed : Menu for ie7
+		Fixed : Modal bug repaired
+		Fixed : Small issues on next/prev
+		Updated : Theme documetation
+		Updated : Filtered posts show when loaded next page
+		Updated : Default item size default 
+		Updated : Quote post
+		Updated : Descriptions of admin panel and post/page options
+		Updated : Item title link
+	CHANGED FILES --------------------------------------------------------------
+		Modified : /admin/admin-interface.php
+		Modified : /category.php
+		Modified : /framework/includes/functions.php
+		Modified : /framework/js/admin/slide_image_plugin.js
+		Modified : /framework/multigrid.php
+		Modified : /functions.php
+		Modified : /header.php
+		Modified : /js/scripts.js
+		Modified : /loop.php
+		Modified : /page-config.php
+		Modified : /post-meta.php
+		Modified : /post-title.php
+		Modified : /style.css
+		Modified : /screenshot.png
+
+= V1.5 - 10.17.2012 
+		Added : Google plus, Linkedin, Pinterest added in Social 
+		Fixed : Category Dark, Light option		
+		Updated : Status ULR -> Status URL
+	CHANGED FILES --------------------------------------------------------------
+		Added : /images/social-icons/googleplus.png
+		Added : /images/social-icons/linkedin.png
+		Added : /images/social-icons/pinterest.png
+		Modified : /framework/includes/admin/category_option.php
+		Modified : /framework/includes/admin/post_format.php
+		Modified : /framework/widgets/social_links_widget.php
+		Modified : /style.css
+		
+= V1.4 - 09.24.2012 
+		Added : Closing option of post author
+		Fixed : Category Dark, Light option fixed
+		Fixed : IE hover effect
+		Fixed : Menu arrow
+		Fixed : Repaired add image button
+		Fixed : Repaired size default option
+	CHANGED FILES --------------------------------------------------------------
+		Modified : /admin/theme-options.php
+		Modified : /framework/includes/admin/category_option.php
+		Modified : /framework/includes/metaboxes/slide_meta.php
+		Modified : /header.php
+		Modified : /post-author.php
+		Modified : /style.css
+
+= V1.3 - 09.08.2012 =
+		Fixed : Message, Fatal error: Call-time pass-by-reference
+		Fixed : IE8 Hover image transparent zasagdaw.
+		Fixed : Nicescroll repaired
+		Fixed : undefined variable error message
+		Updated : Image height auto on blog view
+	CHANGED FILES --------------------------------------------------------------		
+		Modified : /css/bootstrap.css
+		Modified : /framework/includes/metaboxes/default_meta_boxes.php
+		Modified : /js/scripts.js
+		Modified : /style.css
+
+= V1.2 - 09.01.2012 =
+		Fixed : PHP version issue of foreach
+		Fixed : Filter bug repaired
+		Removed : Cookie functions removed
+		
+	CHANGED FILES --------------------------------------------------------------
+		Modified : /admin/admin-functions.php
+		Modified : /functions.php
+		Modified : /js/scripts.js
+		Modified : /style.css
+
+= V1.1 - 08.30.2012 =
+		Added: Select sidebar option on post
+		Added: Auto infinite scroll option
+		Fixed: Recovering sidebar option on page
+		Updated: Facebook comment count on blog view
+		Updated: Search widget style
+		Updated: Top button style
+
+	CHANGED FILES --------------------------------------------------------------
+		Modified : /admin/theme-options.php
+		Modified : /comments.php
+		Modified : /css/bootstrap.css
+		Modified : /css/responsive.css
+		Modified : /framework/multigrid.php
+		Modified : /functions.php
+		Modified : /header.php
+		Modified : /js/scripts.js
+		Modified : /post-meta.php
+		Modified : /style.css
+
+= V1.0 - 08.28.2012 =
+NEW : Initial release

@@ -1,0 +1,30 @@
+.one-fourth,.one-third,.two-thirds,.half-page,.full-page{margin:0;padding:0 34px 0 0;}
+.half-page{width:460px;}
+.one-fourth{padding:0 28px 0 0;}
+.sidebar{padding:0 12px;width:288px;}
+.hr{margin:0 auto;width:634px;}
+.sidebar .hr{width:auto;}
+.breadcrumbs{margin-top:0;}
+#SlideNextPrev,.nivo-directionNav{bottom:-1px;}
+.sideNavWrapper{margin:0;}
+.blogDate{margin-right:8px;}
+.portfolioFeatured{margin-left:-7px;}
+.portfolioFeaturedItem{margin-left:0;margin-right:0;padding-left:17px;}
+.portfolioArea{margin-left:-10px;}
+.portfolioItem{margin-left:0;margin-right:0;padding-left:20px;}
+#Logo{margin-top:-100px;}
+#HeaderMiddle{overflow:hidden;}
+#Showcase .one-third{padding:0;width:295px;}
+#Footer .one-fourth{padding:0 15px;width:200px;}
+#FooterExtra .one-third{width:270px;}
+h2.smallTitle{background:none;border-bottom:1px solid #D2D4D5;margin-bottom:10px;padding-bottom:7px;padding-left:0;}
+.sidebar h2.smallTitle{margin-left:0;margin-right:0;}
+.featuredItem{background:none;border-bottom:1px solid #D2D4D5;margin:0 0 1em;padding:0 0 1em;}
+li li a .sf-sub-indicator{top:.9em;}
+.sf-sub-indicator{background-image:url(../images/arrows-ffffff.gif);}
+.sf-menu ul .sf-sub-indicator{background-position:-10px 0;}
+#fancy_content .loginForm .hr{margin-bottom:0;}
+#fancy_content .loginForm .signInButton{margin-top:-5px;}
+#TopReveal { background-image: none; }
+#TopReveal .closeBtn {background: transparent url("../images/fancybox/smallClose-ie6.gif") no-repeat 0 0;}
+.sideNav li a,#FooterExtra{zoom:1;}

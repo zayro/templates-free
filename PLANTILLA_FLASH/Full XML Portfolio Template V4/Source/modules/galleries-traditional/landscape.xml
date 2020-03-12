@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<asset type="image" thumbnail="images/thumbnails/landscape_1.jpg" large="images/landscape_1.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_2.jpg" large="images/landscape_2.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_3.jpg" large="images/landscape_3.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_4.jpg" large="images/landscape_4.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_5.jpg" large="images/landscape_5.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_6.jpg" large="images/landscape_6.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_7.jpg" large="images/landscape_7.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_8.jpg" large="images/landscape_8.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/landscape_9.jpg" large="images/landscape_9.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+</gallery>

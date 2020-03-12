@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category>
+	<product>
+		<seconds>8</seconds>
+		<client>Unlimited Images</client>
+		<imgbig>home/image1.jpg</imgbig>
+		<link></link>
+		<target></target>
+	</product>
+	
+	<product>
+		<seconds>4</seconds>
+		<client>Individual Timers</client>
+		<imgbig>home/image2.jpg</imgbig>
+		<link>http://flashden.net/</link>
+		<target>_blank</target>
+	</product>
+	
+	<product>
+		<seconds>2</seconds>
+		<client>External Linking</client>
+		<imgbig>home/image3.jpg</imgbig>
+		<link></link>
+		<target></target>
+	</product>
+	
+	<product>
+		<seconds>4</seconds>
+		<client>Play / Pause Slideshow</client>
+		<imgbig>home/image4.jpg</imgbig>
+		<link>http://flashden.net/user/tpncorp</link>
+		<target>_self</target>
+	</product>
+</category>

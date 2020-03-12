@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aboutsList>
+
+	<about titre="Services" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the services, which can be <b>HTML text</b>]]>
+	</about>
+
+	<about titre="Company" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the company, which can be <b>HTML text</b>]]>
+	</about>
+
+	<about titre="Location" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the place where you can find us, which can be <b>HTML text</b>]]>
+	</about>
+
+	<about titre="Philosophy" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Here's the description of the thing we think about our work, which can be <b>HTML text</b>]]>
+	</about>
+
+	<about titre="About 5" lien="http://www.flashden.net/user/wildwise?ref=wildwise">
+	<![CDATA[Add as many "abouts" as you want in this section to introduce your company, which can be <b>HTML text</b>]]>
+	</about>
+	
+</aboutsList>

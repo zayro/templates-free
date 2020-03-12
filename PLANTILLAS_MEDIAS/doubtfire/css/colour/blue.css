@@ -1,0 +1,39 @@
+/* Blue */
+
+#home_bottom_third h4, .content h4, content h5, #header, h3, a, #footer h3{
+	color:#248eba;
+}
+
+#header{
+	background:#1f7092;
+}
+
+a:hover, .quarter_section a:hover{
+	color:#248eba;
+}
+
+#upper #nav ul ul li a:hover{
+	background:#0f3747;
+}
+
+.input_small, .input_small_highlight, .submit, .submit_hover, a.btn, a:hover.btn{
+	background:url(../../images/sprite_blue.png) no-repeat;
+}
+
+#header #upper_wrap, #upper #nav a:hover, #nav .current_page_item a{
+	background:#0f3747;
+}
+	
+#upper #nav ul ul{
+	background:#1a5f7b;
+	border-left:1px solid #14495f;
+	border-right:1px solid #14495f;
+}
+
+#upper #nav ul ul ul{
+	border:1px solid #14495f;
+}
+	
+#upper #nav ul ul li{
+	border-bottom:1px solid #14495f;
+}

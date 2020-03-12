@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?> 
+<links horspace="0" verspace="1" leftmargin="20" rightmargin="20" menu_back_color="0x333333" normaltextcolor="0xFFFFFF" pressedtextcolor="0xFFFFFF">
+	<link caption="Home" menu_id="0" command="change_object" attribut1="materials/opening_animation.swf" attribut2="" attribut3="" normalcolor="0x333333" colorpressed="$accent_color" />
+	<link caption="About Color Accent" menu_id="1" command="change_object" attribut1="text_html_image.swf" attribut2="about_us.xml" attribut3="" normalcolor="0x333333" colorpressed="$accent_color" />
+  <link caption="News" menu_id="2" command="start_slideshow" attribut1="news_slideshow.xml" attribut2="" attribut3="" normalcolor="0x333333" colorpressed="$accent_color" />
+	<link caption="Examples" menu_id="3" command="" attribut1="" attribut2="" attribut3="" normalcolor="0x333333" colorpressed="$accent_color">
+		<link caption="Flower" menu_id="4" command="load_gallery" attribut1="flower_gallery.xml" attribut2="" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+		<link caption="Cloth" menu_id="5" command="load_gallery" attribut1="cloth_gallery.xml" attribut2="" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+		<link caption="Stone" menu_id="6" command="load_gallery" attribut1="stone_gallery.xml" attribut2="" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+		<link caption="Tile" menu_id="7" command="load_gallery" attribut1="tile_gallery.xml" attribut2="" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+		<link caption="The Plant" menu_id="8" command="change_object" attribut1="materials/digital_plant_v1.swf" attribut2="" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+	</link>
+	<link caption="Video" menu_id="9" command="change_object" attribut1="video.swf" attribut2="video/CLOUD 2.flv" attribut3="" normalcolor="0x333333" colorpressed="$accent_color" />
+	<link caption="Contacts" menu_id="10" command="change_object" attribut1="text_html_image.swf" attribut2="contacts.xml" attribut3="" normalcolor="0x333333" colorpressed="$accent_color" />
+	<link caption="Help" menu_id="11" command="" attribut1="" attribut2="" attribut3="" normalcolor="0x333333" colorpressed="$accent_color">
+		<link caption="Customizable Options" menu_id="12" command="change_object" attribut1="text_html_image.swf" attribut2="help.xml" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+		<link caption="Digitalplant" menu_id="13" command="getURL" attribut1="http://www.flashden.net/user/digitalplant" attribut2="_blank" attribut3="" normalcolor="0x999999" colorpressed="$accent_color" />
+	</link>
+</links>

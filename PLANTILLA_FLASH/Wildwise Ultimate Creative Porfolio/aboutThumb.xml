@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aboutIntro>
+
+	<about img="aboutIntro.jpg">
+	<![CDATA[<font color='#00FFFF'>Your name</font><font color='#666666'> / here</font><br><font color='#FFFFFF'>Graphic Designer</font><br><font color='#666666'>Paris, France<br>yourmail@yoursite.com</font>]]>
+	</about>
+	
+</aboutIntro>

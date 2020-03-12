@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+	<item target="_blank" link="http://www.google.com" jpg="gallery/image1.jpg" title="Lorem ipsum dolor sit" color="0x000000" alphaColor="0"><![CDATA[Lorem ipsum dolor <font color="#ff7700"> sit</font> guy]]></item>
+	<item target="_blank" link="http://www.google.com" jpg="gallery/image2.jpg" title="Pellentesque habitant " color="0x000000" alphaColor="0"><![CDATA[<font color="#000000">Pellentesque habitant</font>]]></item>
+	<item target="_blank" link="http://www.google.com" jpg="gallery/image3.jpg" title="Etiam elementum" color="0x000000" alphaColor="0"><![CDATA[Etiam  <font color="#ffff00">elementum</font> ]]></item>
+	<item target="_blank" link="http://www.google.com" jpg="gallery/image4.jpg" title="Duis molestie diam" color="0x000000" alphaColor="0"><![CDATA[ <font color="#000000">Duis molestie diam </font>]]></item>
+	<item target="_blank" link="http://www.google.com" jpg="gallery/image5.jpg" title="Vivamus nibh sapien" color="0x000000" alphaColor="0"><![CDATA[Vivamus <font color="#ffffff">nibh </font> sapien]]></item>
+		
+</options>

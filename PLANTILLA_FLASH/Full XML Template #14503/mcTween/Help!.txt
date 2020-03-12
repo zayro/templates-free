@@ -1,0 +1,13 @@
+
+Did you get this message?
+
+"cannot include mc_tween bla bla"
+
+Then you should install the mc_tween class. Just double click the installer! ;)
+
+
+
+The mcTween was downloaded from this address:
+http://hosted.zeh.com.br/mctween/
+
+It's free! And is supercool! ;)

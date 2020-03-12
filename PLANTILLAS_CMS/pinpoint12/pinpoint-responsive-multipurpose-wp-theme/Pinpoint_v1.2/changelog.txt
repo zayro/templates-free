@@ -1,0 +1,102 @@
+====================================================================================================
+	
+	Pinpoint Responsive Multi-Purpose WordPress Theme
+	Swift Ideas
+	changelog.txt
+
+====================================================================================================
+
+
+Version 1.2 (24th January 2013)
+	- ADDED WooCommerce support!
+	- ADDED Theme Options for line-height / font-size of headings / body text
+	- ADDED Labelled Pricing Table shortcode
+	- ADDED width controls to page builder carousels
+	- ADDED nav hover colour, sub menu hover colour to customiser
+	- ADDED customiser colour options for contact form 
+	- ADDED Rev Slider support for blog posts
+	- ADDED image size drop down for single image page builder page asset
+	- IMPROVED the page builder assets dropdown, now alphabetical order
+	- FIXED bug with single post types
+	- FIXED category/archive pagination styling
+	- FIXED bug where list items weren't styled within text blocks
+	- FIXED twitter "ago" text translation strings
+	- FIXED issue with content page builder elements 
+	- FIXED a display issue with the tabs page builder element
+	- FIXED aux input placeholders in IE
+	- FIXED an issue with the portfolio post page
+
+	EDITED FILES
+	
+	- /includes/sf-options.php
+	- /includes/sf-customizer-options.php
+	- /includes/page-builder/
+	- /includes/sf_shortcodes/
+	- /includes/shortcodes.php
+	- /includes/widgets/widget-twitter.php
+	- /css/custom-styles.css.php
+	- /js/functions.js.php
+	- style.css
+	- single.php
+	- single-team.php
+	- single-portfolio.php
+	- category.php
+	- archive.php
+	- index.php
+	- functions.php
+	- woocommerce.php (ADDED)
+
+
+
+Version 1.1 (16th January 2013)
+	
+	- ADDED Flexslider Slider plugin $29 value
+	- ADDED Posts Carousel asset
+	- ADDED Testimonial Carousel asset
+	- ADDED Google+ option to Team Members
+	- ADDED Retina images for theme's static image - now all retina
+	- ADDED Theme Option to enable advanced Rev Slider size options
+	- ADDED Theme Options .txt files for example sites
+	- IMPROVED page builder asset indication, now shows asset type name
+	- IMPROVED Impact Text asset with option to have no button in the impact text, improved editor for impact text (added impact text to editor style dropdown)
+	- IMPROVED standard pricing table styling
+	- FIXED show/hide bios on Team carousel asset
+	- FIXED team detail navigation
+	- FIXED pricing table button config
+	- FIXED issue with default page template
+	- FIXED issue with Google Fonts code output on front-end
+	- FIXED logo/header items alignment on mobile devices
+	- FIXED Pinpoint Options link in WP Admin Bar
+	
+	
+	EDITED FILES
+	
+	- /js/functions.js.php
+	- /includes/page-builder/
+	- functions.php
+	- single.php
+	- single-portfolio.php
+	- single-team.php
+	- shortcodes.php
+	- /includes/meta-boxes.php
+	- /sf_shortcodes/sf.shortcode.embed.js
+	- page.php
+	- style.css
+	- /css/layout.css
+	- /css/editor-style.css (ADDED)
+	- /includes/plugins/slider-plugin/ (ADDED)
+	- /images/showcase-nav@2x.png (ADDED)
+	- /images/slider-thumb-controls@2x.png (ADDED)
+	- /images/filter-down-arrow@2x.png (ADDED)
+	- /images/filter-down-up@2x.png (ADDED)
+	- /images/showcase-nav@2x.png (ADDED)
+	- /images/slider-thumb-controls@2x.png (ADDED)
+	- /images/plus-icon@2x.png (ADDED)
+	- /images/button-arrow@2x.png (ADDED)
+	- /images/button-arrow2@2x.png (ADDED)
+
+
+
+Version 1.0 (10th January 2013)
+
+	- Inital Release

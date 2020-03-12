@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<portfolio_list>
+	<config
+	auto_play_mode="yes"
+	auto_next_delay_time="3"
+	visible_portfolio_number="1"
+	visible_area_height="550"
+	image_width="650"
+	image_height="320"
+	image_space="50"
+	image_rollover_shine_percent="30"
+	image_border_color="0x000000"
+	image_border_thickness="20"
+	image_area_y_position="110" 
+	title_area_y_position="0"
+	description_area_y_position="65"
+	description_text_area_height="100"
+	navigation_button_y_position="480"
+	navigation_button_align="right"
+	navigation_button_space="10"
+	image_slide_speed="1"
+	title_slide_speed="0.5"
+	description_slide_speed="0.75"
+	/>
+	<portfolio_info> 
+		<main_title>EXTERNAL SWF</main_title>
+		<second_title>It can show your external SWF files.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>big_images/colorful_dots.swf</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>SUPPORT HTML TAGS</main_title>
+		<second_title>It can display HTML tags, images and CSS styles in content text.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>big_images/1.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>POWERFUL XML CONTROL</main_title>
+		<second_title>You can edit and configure each portfolio item properties via XML file.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat. ]]></description>
+		<image_path>big_images/2.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>FLEXIBLE DESIGN BY XML</main_title>
+		<second_title>You can change image and description heights & widths and positions via XML.</second_title>
+		<description><![CDATA[<b>This is short text example.</b> Proin commodo, risus vitae consequat volutpat, enim nisi mattis dui, non venenatis tortor metus et elit. Aenean sit amet tortor neque. Sed dapibus enim nisl. Morbi risus orci, congue pellentesque tincidunt blandit, sollicitudin et mauris. ]]></description>
+		<image_path>big_images/3.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>AUTO PLAY MODE</main_title>
+		<second_title>It can automatically display next portfolio item in specific time. </second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>big_images/4.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>DYNAMIC DESIGN</main_title>
+		<second_title>it is totally resizeable via XML. </second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>big_images/5.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+	<portfolio_info> 
+		<main_title>MODULAR USAGE</main_title>
+		<second_title>You can use it within another template as external SWF.</second_title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, <b>This is bold</b> <i>This is italic</i> consectetur adipiscing elit. <span class='green'>This is Green.</span> Vestibulum ut justo. Phasellus in nunc. Phasellus lectus felis, euismod luctus, mollis eget, laoreet nec, metus. Pellentesque placerat diam id erat.]]></description>
+		<image_path>big_images/6.jpg</image_path>
+		<url_link>http://www.flashden.net/</url_link>
+		<url_target>_self</url_target>
+	</portfolio_info>
+</portfolio_list>

@@ -1,0 +1,38 @@
+
+
+=> this template is provided to you free by fmxtech
+
+=> you can visit my site for more free templates @ http://homepage.eircom.net/~fmxtech
+
+
+======================================================
+
+=> Fonts used for nav bar
+
+   04b_03b (include in the font folder)
+
+======================================================
+
+
+IMPORTANT
+
+=> Unless you are familiar with these files...do not edit the following files...
+
+pz_chromeless_2.1.js (file for the chromeless window popup)
+
+&
+
+stylesheet1.js (the css(cascading style sheet) for this template)
+
+=======================================================
+
+Support
+
+=> If you need help with this template email fmx@eircom.net or
+   submit your question through my website. If i have time i'll help you out 
+   or direct you to a site that can.
+
+=> Thank you.
+
+
+========================================================

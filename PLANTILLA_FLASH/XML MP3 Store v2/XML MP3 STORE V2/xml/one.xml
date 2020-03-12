@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category>
+	<product>
+		<name>Track One</name>
+		<description>Description for this product goes here</description>
+		<track>one/1.mp3</track>
+		<price>0.01</price>
+		<itemNumber>1</itemNumber>
+	</product>
+	
+	
+	<product>
+		<name>Track Two</name>
+		<description>Description for this product goes here</description>
+		<track>one/2.mp3</track>
+		<price>0.99</price>
+		<itemNumber>2</itemNumber>
+	</product>
+	
+	
+	<product>
+		<name>Track Three</name>
+		<description>Description for this product goes here</description>
+		<track>one/3.mp3</track>
+		<price>0.99</price>
+		<itemNumber>3</itemNumber>
+	</product>
+	
+	
+	<product>
+		<name>Track Four</name>
+		<description>Description for this product goes here</description>
+		<track>one/4.mp3</track>
+		<price>0.99</price>
+		<itemNumber>4</itemNumber>
+	</product>
+	
+	
+	<product>
+		<name>Track Five</name>
+		<description>Description for this product goes here</description>
+		<track>one/1.mp3</track>
+		<price>0.99</price>
+		<itemNumber>5</itemNumber>
+	</product>
+	
+	<product>
+		<name>Track Six</name>
+		<description>Description for this product goes here</description>
+		<track>one/2.mp3</track>
+		<price>0.99</price>
+		<itemNumber>6</itemNumber>
+	</product>
+	
+	<product>
+		<name>Track Seven</name>
+		<description>Description for this product goes here</description>
+		<track>one/3.mp3</track>
+		<price>0.99</price>
+		<itemNumber>7</itemNumber>
+	</product>
+	
+	<product>
+		<name>Track Eight</name>
+		<description>Description for this product goes here</description>
+		<track>one/4.mp3</track>
+		<price>0.99</price>
+		<itemNumber>8</itemNumber>
+	</product>
+	
+	<product>
+		<name>Track Nine</name>
+		<description>Description for this product goes here</description>
+		<track>one/1.mp3</track>
+		<price>0.99</price>
+		<itemNumber>9</itemNumber>
+	</product>
+	
+	<product>
+		<name>Track Ten</name>
+		<description>Description for this product goes here</description>
+		<track>one/2.mp3</track>
+		<price>0.99</price>
+		<itemNumber>10</itemNumber>
+	</product>
+</category>

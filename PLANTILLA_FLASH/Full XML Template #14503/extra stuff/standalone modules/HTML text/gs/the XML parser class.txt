@@ -1,0 +1,1 @@
+Make sure the "gs" directory always stay toghether with the main files (index). ;) 

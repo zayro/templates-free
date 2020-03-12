@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+	MD Porfolio Site 
+	Build 2.0
+	Created by D Molanphy
+	Copyright (c) 2007 Molanphy Design. All rights reserved.
+	Change at will.
+-->
+
+<portfolio>
+	<item>
+		<picURL>pic1.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 1</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]>]]></description>
+	</item>
+	<item>
+		<picURL>pic2.jpg</picURL>
+		<title siteURL="">Portfolio Item 2</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic3.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 3</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic4.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 4</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic5.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 5</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic6.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 6</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic7.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 7</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic8.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 8</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic9.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 9</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic10.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 10</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+	<item>
+		<picURL>pic11.jpg</picURL>
+		<title siteURL="http://www.flashden.net/user/dabamol">Portfolio Item 11</title>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad ]]></description>
+	</item>
+</portfolio>

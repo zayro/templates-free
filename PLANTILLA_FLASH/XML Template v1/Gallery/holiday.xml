@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gallery/images header="PHOTO GALLERY">
+    <pic>
+        <image>Gallery/images/holiday/1.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/1.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 1</font>]]></description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/2.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/2.jpg</thumb>
+		<description>Description 2</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/3.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/3.jpg</thumb>
+		<description>Description 3</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/4.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/4.jpg</thumb>
+		<description><![CDATA[<font color="#ffffff">Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.Description 4 is a very long description specially made for this image.</font>]]></description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/5.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/5.jpg</thumb>
+		<description>Description 5</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/6.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/6.jpg</thumb>
+		<description>Description 6</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/7.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/7.jpg</thumb>
+		<description>Description 7</description>
+    </pic>
+	    <pic>
+        <image>Gallery/images/holiday/8.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/8.jpg</thumb>
+		<description>Description 8</description>
+    </pic>
+	<pic>
+        <image>Gallery/images/holiday/9.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/9.jpg</thumb>
+		<description>Description 9</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/1.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/1.jpg</thumb>
+		<description>Description 10</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/2.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/2.jpg</thumb>
+		<description>Description 11</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/3.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/3.jpg</thumb>
+		<description>Description 12</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/4.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/4.jpg</thumb>
+		<description>Description 13</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/5.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/5.jpg</thumb>
+		<description>Description 14</description>
+    </pic>
+    <pic>
+        <image>Gallery/images/holiday/6.jpg</image>
+		<thumb>Gallery/thumbnails/holiday/6.jpg</thumb>
+		<description>Description 15</description>
+    </pic>
+    
+</Gallery/images>

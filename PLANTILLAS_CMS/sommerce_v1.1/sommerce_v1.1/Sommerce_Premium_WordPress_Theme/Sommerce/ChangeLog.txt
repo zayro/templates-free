@@ -1,0 +1,24 @@
+------------------ VER 1.1 ---------------
+1) Fixed some bugs
+2) Updated languages files
+3) Fixed bug with Import/Export panel
+4) Added new option to hide the prices and buttons for detail products and to make the theme as normal catalog.
+5) Improved style of variations (for jigoshop 0.9.9)
+
+UPDATED
+core/theme-options/install/install.php
+core/theme-options/install/install_panel.php
+core/theme-options/functions-metaboxes.php
+core/theme-options/panel.php
+core/theme-options/yiw-panel.php
+core/functions-template.php
+inc/theme-options/general-options.php
+inc/theme-options/flashslider-options.php
+inc/functions-theme.php
+jigoshop/style.css
+languages/*.php
+style.css
+
+
+------------------ VER 1.0 ---------------
+Initial Release

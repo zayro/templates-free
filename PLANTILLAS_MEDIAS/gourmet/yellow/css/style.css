@@ -1,0 +1,1905 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #373031;
+  background: #fff url(../images/bg-body.jpg) top repeat-x;
+  text-align: center;
+}
+
+body.body-hp {
+  background: #fffedf url(../images/bg-body-home.jpg) top repeat-x;
+}
+
+/* -- DEAFULT -- */
+html {
+  height: 100% !important;
+}
+
+body {
+  min-height: 100%;
+}
+
+* html body {
+  height: 100%;
+}
+
+body {
+  position: relative;
+}
+
+/* -- DEAFULT -- */
+a {
+  color: #a01414;
+}
+
+a:hover {
+  color: #6a0a0a;
+}
+
+p {
+  margin-bottom: 20px;
+  line-height: 1.5em;
+}
+
+p.center {
+  text-align: center;
+}
+
+img {
+  border-style: none;
+}
+
+.clear {
+  clear: both;
+}
+
+/* ---------------------------------------------------------- */
+  /* -------------------------- wrap -------------------------- */
+  /* ---------------------------------------------------------- */
+#wrap {
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+  background: url(http://support.breezy.cz/gourmet/yellow/layout/bg-wrap.jpg) 0px 390px no-repeat;
+}
+
+/* ---------------------------------------------------------- */
+  /* -------------------------- header ------------------------ */
+  /* ---------------------------------------------------------- */
+#header {
+  height: 200px;
+  width: 900px;
+  float: left;
+  background: url(../images/bg-header.jpg) top no-repeat;
+}
+
+#logo {
+  position: absolute;
+  top: 44px;
+  left: 315px;
+}
+
+#logo a {
+  display: block;
+  width: 271px;
+  height: 41px;
+  overflow: hidden;
+  position: relative;
+}
+
+#logo a span {
+  display: block;
+  width: 271px;
+  height: 41px;
+  background-image: url(../images/logo.jpg);
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+
+/* ---------------------------------------------------------- */
+  /* -------------------------- navigation -------------------- */
+  /* ---------------------------------------------------------- */
+#navigation {
+  width: 100%;
+  padding: 165px 0 0;
+  background: url(../images/header-arrow.jpg) 425px 141px no-repeat;
+}
+
+#naviatation ul {
+  width: 100%;
+  text-align: center;
+}
+
+#navigation li {
+  display: inline;
+  list-style: none;
+  padding-right: 15px;
+  margin-right: 15px;
+  border-right: 1px solid #373031;
+}
+
+#navigation li.last {
+  margin-right: 0px;
+  padding-right: 0px;
+  border-right-style: none;
+}
+
+#navigation li a {
+  color: #000;
+  text-decoration: none;
+}
+
+#navigation li a:hover {
+  color: #373031;
+  text-decoration: underline;
+}
+
+#navigation li.active a {
+  color: #5a2e2e;
+  font-weight: bold;
+}
+
+/* ---------------------------------------------------------- */
+  /* -------------------------- navigation -------------------- */
+  /* ---------------------------------------------------------- */
+#sub-nav {
+  position: absolute;
+  top: 18px;
+  right: 0px;
+  font-size: 11px;
+  text-align: left;
+}
+
+#sub-nav li { 
+    display: block; 
+    float: left; 
+    list-style: none; 
+    padding: 0 20px 0 0; 
+    margin: 0 7px 0 0; 
+    border-right: 1px solid #6d5f62;  
+}
+#sub-nav li.last { 
+    margin: 0px; 
+    padding: 0px; 
+    border-right-style: none; 
+}
+
+#sub-nav li a { 
+    display: block; 
+    color: #6d5f62; 
+    text-decoration: none; 
+    padding-left: 15px;
+}
+#sub-nav li a.print:hover { 
+    background: url('../images/ico/print.png') left center no-repeat;
+}
+#sub-nav li a.search:hover { 
+    background: url('../images/ico/search.png') left center no-repeat;
+}
+#sub-nav li a:hover { 
+    color: #6d5f62; 
+    text-decoration: none; 
+}
+
+/* ---------------------------------------------------------- */
+  /* ----------------------- content -------------------------- */
+  /* ---------------------------------------------------------- */
+#content {
+  padding: 20px 0 90px;
+  text-align: left;
+}
+
+h1 {
+  color: #664f44;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #664f44;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 14px;
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 14px;
+}
+
+h3 {
+  color: #664f44;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h4 {
+  color: #5a2e2e;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 1.5em;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+img {
+  
+}
+
+#content img.img-left {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+#content img.img-right {
+  float: left;
+  margin: 0 0 20px 20px;
+}
+
+#content .border-box {
+  border: 1px solid #c9cacb;
+  background: #f8fbfd url(http://support.breezy.cz/gourmet/yellow/images/bg-border-box.jpg) right bottom no-repeat;
+  padding: 20px 30px;
+  margin-bottom: 20px;
+}
+
+#content form {
+  margin-bottom: 20px;
+}
+
+#content fieldset {
+  border-style: none;
+}
+
+#content label.con {
+  display: block;
+  float: left;
+  width: 125px;
+  padding-top: 6px;
+  font-weight: bold;
+  color: #575757;
+}
+
+#content input.con {
+  float: left;
+  width: 165px;
+  padding: 5px;
+  margin: 0 250px 12px 0;
+  border: 1px solid #8d8d8d;
+  background-color: #fff;
+  font-size: 11px;
+  color: #336a9b;
+}
+
+#content textarea.con {
+  float: left;
+  width: 165px;
+  height: 100px;
+  padding: 5px;
+  margin: 0 6px 12px 0;
+  border: 1px solid #8d8d8d;
+  background-color: #fff;
+  font-size: 11px;
+  color: #336a9b;
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+#content input.button {
+  width: 90px;
+  height: 30px;
+  padding: 0;
+  margin: 0 10px 0 0;
+  border-style: none;
+  background: #467eae url(http://support.breezy.cz/gourmet/yellow/images/bg-button.gif);
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ul.list,ul.moduly {
+  font-size: 12px;
+  color: #a01414;
+}
+
+ul.list a{
+  color: #a01414;
+  text-decoration: none;
+}
+
+ul.list a:hover{
+  text-decoration: underline;
+}
+
+ul.list li {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/red-arrow.gif) 0px 2px no-repeat;
+  font-size: 11px;
+}
+
+ul.navic_1 {
+  float: left;
+  width: 250px;
+}
+
+ul.navic_1 li {
+  padding-right: 10px;
+}
+
+ul.navic_2 {
+  float: left;
+  width: 250px;
+}
+
+ul.navic_2 li {
+  padding-right: 10px;
+}
+
+li.uvod {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/notepad.png) 1px 3px no-repeat;
+}
+
+li.jidelni {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/page-green.png) 1px 3px no-repeat;
+}
+
+li.napojovy {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/page-blue.png) 1px 3px no-repeat;
+}
+
+li.foto {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/camera.png) 1px 3px no-repeat;
+}
+
+li.kontakt {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/edit.png) 1px 3px no-repeat;
+}
+
+li.denni {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/page-orange.png) 1px 3px no-repeat;
+}
+
+li.vinny {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/page-red.png) 1px 3px no-repeat;
+}
+
+li.akce {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/star.png) 1px 3px no-repeat;
+}
+
+li.rezervace {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/time.png) 1px 3px no-repeat;
+}
+
+li.mutace {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/user.png) 1px 3px no-repeat;
+}
+
+li.prohlidky {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/video-camera.png) 1px 3px no-repeat;
+}
+
+li.ubytovani {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/lock.png) 1px 3px no-repeat;
+}
+
+li.modul {
+  display: block;
+  list-style: none;
+  padding: 0px 0 5px 16px;
+  background: url(../images/ico/favorite.png) 1px 3px no-repeat;
+}
+
+/* ---------------------------------------------------------- */
+  /* ----------------------- home / cook ---------------------- */
+  /* ---------------------------------------------------------- */
+#cook {
+  padding: 0 0 0 220px;
+  background: url(../images/cook.png) left top no-repeat;
+  min-height: 304px;
+}
+
+.block {
+  min-height: 120px;
+}
+
+.block p {
+  text-align: left;
+}
+
+.b-menu {
+  width: 315px;
+  float: left;
+  background: url(../images/hp/col-left.png) 0 15px no-repeat;
+}
+
+.b-menu h4,.b-menu p{
+  padding-left: 125px;
+}
+
+.b-menu h4,.b-graph h4{
+  margin-bottom: 10px;
+}
+
+.b-menu p,.b-graph p{
+  font-size: 11px;
+}
+
+.b-graph {
+  width: 315px;
+  float: right;
+  background: url(../images/hp/col-right.png) 0 23px no-repeat;
+}
+
+.b-graph h4,.b-graph p{
+  padding-left: 100px;
+}
+
+.left {
+  float: left;
+}
+
+/* ---------------------------------------------------------- */
+  /* --------------------------- new-ref ---------------------- */
+  /* ---------------------------------------------------------- */
+.new-ref {
+  height: 355px;
+  margin-bottom: 20px;
+  background-color: #f5eabc;
+  border-bottom: 1px solid #dacfa4;
+  position: relative;
+}
+
+.new-ref img {
+  border: 20px solid #5a2e2e;
+}
+
+.new-ref h3 {
+  margin: 0;
+  position: absolute;
+  bottom: 17px;
+  left: 20px;
+}
+
+.new-ref p {
+  margin: 0;
+  position: absolute;
+  bottom: 17px;
+  right: 20px;
+}
+
+.ref {
+  height: 233px;
+  width: 270px;
+  margin: 0 25px 20px 0;
+  background-color: #f5eabc;
+  border-bottom: 1px solid #dacfa4;
+  position: relative;
+  float: left;
+}
+
+.ref-last {
+  margin: 0 0 20px 0;
+}
+
+.ref img {
+  border: 10px solid #5a2e2e;
+}
+
+.ref h3 {
+  margin: 0;
+  position: absolute;
+  bottom: 12px;
+  left: 15px;
+}
+
+/* ---------------------------------------------------------- */
+  /* --------------------------- big-box ---------------------- */
+  /* ---------------------------------------------------------- */
+.big-box {
+  float: left;
+  width: 645px;
+}
+
+/* ---------------------------------------------------------- */
+  /* --------------------------- box-others ------------------- */
+  /* ---------------------------------------------------------- */
+.box-others {
+  float: right;
+  width: 220px;
+  background-color: #f5eabc;
+  border-bottom: 1px solid #dacfa4;
+}
+
+.box-others .padding {
+  padding: 22px 20px;
+}
+
+.box-others h3 {
+  margin: 0 0 18px;
+}
+
+.box-others ul {
+  margin: 0;
+}
+
+.box-others li {
+  display: block;
+  list-style: none;
+  padding: 6px 0 6px 16px;
+  background: url(../images/red-arrow.gif) 0px 8px no-repeat;
+  border-bottom: 1px solid #dacfa4;
+}
+
+.box-others li.last {
+  padding-bottom: 0;
+  border-bottom-style: none;
+}
+
+.box-others a {
+  color: #a01414;
+  text-decoration: none;
+}
+
+.box-others a:hover {
+  text-decoration: underline;
+}
+
+/* ---------------------------------------------------------- */
+  /* --------------------------- box-info --------------------- */
+  /* ---------------------------------------------------------- */
+#box-info { 
+    background-color: #f5eabc; 
+    border-bottom: 1px solid #dacfa4; 
+    padding-bottom: 10px; 
+    margin: 0 0 20px 0; 
+    position: relative;  
+}
+#box-steps { 
+    background-color: #fff; 
+    border: 1px solid #dbd0a5; 
+    margin-bottom: 10px; 
+    border-top: 0;
+}
+
+#tabs-container {
+    background-color: #fff; 
+    border: 1px solid #dbd0a5;  
+    border-top: 0;
+    margin-top: 50px;
+    position: relative;
+    width: 898px;
+}
+
+.order-button-area {
+    background-color: #f5eabc; 
+    border-bottom: 1px solid #dacfa4; 
+    padding: 10px 0; 
+    margin: 0 0 20px 0;
+}
+
+.step {
+  float: left;
+  width: 299px;
+  height: 430px;
+  background: url(../images/step.gif) left no-repeat;
+  position: relative;
+}
+
+.step-cenik {
+  float: left;
+  width: 445px;
+  background: url(http://support.breezy.cz/gourmet/yellow/images/step-cenik.gif) left no-repeat;
+  position: relative;
+}
+
+.video {
+  width: 900px;
+  position: relative;
+}
+
+.step .padding,.step-cenik .padding {
+  padding: 18px 18px 0 22px;
+}
+
+.step h3,.step-cenik h3 {
+  margin-bottom: 8px;
+}
+
+.step p {
+  margin-bottom: 8px;
+  line-height: 1.3em;
+}
+
+.step p.p-img {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.step p.p-right {
+  text-align: right;
+  margin-bottom: 0;
+}
+
+.step_1 {
+  background: none;
+}
+
+.step_3 img.hand {
+  position: absolute;
+  top: 130px;
+  right: -1px;
+}
+
+ul#info-nav { display: block; font-weight: bold; margin: 0;padding: 0;border-bottom: 1px solid #dbd0a5;width: 100%;height: 29px;top: -30px;left: -1px;position: absolute;}
+ul#info-nav li { display: block; float: left; margin-right: 2px; }
+ul#info-nav li a { display: block; float: left; width: 120px; height: 30px; background: url(../images/info-nav.gif) 0 1px no-repeat; text-align: center; color: #fff; text-decoration: none; }
+ul#info-nav li a:hover,ul#info-nav li.tabs-selected a {background: url(../images/info-nav-hover.gif) 0 0 no-repeat;; color: #a01414; }
+ul#info-nav li a span { display: block; padding-top: 8px; }
+
+.tabs-hide {
+    display: none;
+}
+
+a.icon-pdf {
+  background: url(../images/ico-pdf.gif) 0 0 no-repeat;
+  padding: 2px 0px 0px 26px;
+}
+
+a#objednat {
+  display: block;
+  width: 100px;
+  line-height: 30px;
+  margin: 0 auto;
+  background-image: url(../images/button-objednat.jpg);
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+}
+
+a#objednat:hover {
+  background-image: url(../images/button-objednat-hover.jpg);
+}
+
+/* ---------------------------------------------------------- */
+  /* ------------------------ footer -------------------------- */
+  /* ---------------------------------------------------------- */
+#contact-form {
+  width: 100%;
+  margin-top: 15px;
+}
+
+#contact-form form {
+  padding: 40px 0 30px;
+}
+
+#contact-form label.con {
+  display: block;
+  padding-bottom: 6px;
+}
+
+#contact-form input {
+  padding: 5px 5px 0px 5px;
+  width: 201px;
+  height: 23px;
+  border-style: none;
+  background: url(../images/input.gif);
+}
+
+#contact-form input.button {
+  float: right;
+  width: 100px;
+  height: 30px;
+  border-style: none;
+  background: url(../images/button.gif);
+  cursor: pointer;
+}
+
+#contact-form textarea {
+  float: right;
+  padding: 10px;
+  width: 408px;
+  height: 79px;
+  border-style: none;
+  background: url(../images/textarea.gif);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  margin-bottom: 14px;
+}
+
+.column-left {
+  float: left;
+  width: 452px;
+}
+
+.column-small {
+  float: left;
+  width: 211px;
+  margin-bottom: 20px;
+}
+
+.column-small2 {
+  float: right;
+  width: 211px;
+  margin-bottom: 20px;
+}
+
+.column-big {
+  float: right;
+  width: 428px;
+}
+
+#foot {
+  position: absolute;
+  width: 100%;
+  padding-bottom: 20px;
+  bottom: 0;
+  left: 0;
+  text-align: left;
+  background: #262021;
+  color: #8c7d80;
+  font-size: 11px;
+}
+
+#foot a {
+  color: #8c7d80;
+  text-decoration: none;
+}
+
+#foot a:hover {
+  text-decoration: underline;
+}
+
+#foot ul {
+  list-style: none;
+  position: relative;
+  z-index: 100;
+}
+
+#foot ul li {
+  padding-top: 8px;
+}
+
+#footer-links {
+  width: 900px;
+  padding-top: 35px;
+  margin: 0 auto;
+}
+
+p#copyright {
+  float: right;
+}
+
+p#footer-nav {
+  float: left
+}
+
+/* -- Footer -- */
+#foot .closed {
+  height: 22px;
+  padding-top: 18px;
+  overflow: hidden;
+}
+
+#foot .in {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#foot .formBox {
+  height: 0;
+  overflow: hidden;
+}
+
+#foot form {
+  padding: 30px 0;
+}
+
+#foot h3 {
+  margin-bottom: 0em;
+}
+
+#foot label.con {
+  padding: 0 3px;
+}
+
+#foot p.required {
+  clear: both;
+  padding-left: 20px;
+  margin-top: 1em;
+  background: url('http://support.breezy.cz/gourmet/yellow/images/bg-required.gif') 0 50% no-repeat;
+}
+
+#foot .submit {
+  float: right;
+  margin-top: -25px;
+}
+
+#foot #foot-close {
+  position: absolute;
+  width: 98%;
+  left: 1%;
+  height: 60px;
+  top: -8px;
+  text-align: center;
+}
+
+#foot .breezy {
+  display: block;
+  width: 134px;
+  height: 58px;
+  margin: 0 auto;
+  cursor: pointer;
+  background: url('../images/contact-us.png') 0 0 no-repeat;
+}
+
+.fr {
+  float: right !important;
+}
+
+.fl {
+  float: left !important;
+}
+
+.center {
+  margin: 5px 0 0 200px;
+}
+
+.odd {
+  background: #F8F4E3;
+}
+
+td,th {
+  padding: 4px 5px 3px 7px;
+}
+
+table {
+  width: 100%;
+  margin: 10px 0 10px 0;
+}
+
+.cena {
+  text-align: right;
+}
+
+.celkem {
+  width: 70%;
+  color: #5a2e2e;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.odd .center {
+  color: #5a2e2e;
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+}
+
+table label {
+  display: block;
+}
+
+table label:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.objednavka label {
+  font-size: 12px;
+  color: #373031;
+  width: 200px;
+  display: block;
+  float: left;
+  padding: 3px;
+}
+
+.objednavka input,.objednavka textarea {
+  border: solid 1px #dacfa4;
+  width: 180px;
+  padding: 3px;
+}
+
+.objednavka {
+  margin: 15px 0 10px 0;
+}
+
+.reference {
+  float: left;
+  margin: 0 0 25px 0;
+}
+
+div.error input, div.error textarea{
+  border: solid 1px #e32424;
+}
+
+div.error label, p.error span{
+  color: #e32424;
+}
+
+.step_1 .price, .submit-no-js-hide{
+display:none;
+}
+
+/* layoutmasina addons subpages */
+.cleaner {
+    clear: both;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+}
+
+.white-area {
+    width: 900px;
+    float: left;
+    background: #fff;
+    margin-top: 56px;
+}
+
+.white-area h1{
+    background: url('../images/h1.png') left top no-repeat;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    left: -12px;
+    top: -27px;
+    height: 58px;
+    line-height: 50px;
+    width: 399px;
+    text-indent: 46px;
+    z-index: 100;
+}
+
+.content-left {
+    float: left;
+    width: 617px;
+    margin: 0 29px 0 0;
+    padding: 0 0 12px 0;
+    position: relative;
+    top: -12px;
+}
+
+.content-left-full-width {
+    width: 898px;
+    float: none;
+}
+
+.content-right {
+    float: left;
+    width: 231px;
+    padding: 0 0 12px 0;
+    position: relative;
+    top: -12px;
+}
+
+.content-left .inner{
+    width: 585px;
+    margin: 0 0 0 32px;
+}
+
+.content-left-full-width .inner{
+    width: 834px;
+    margin: 0 0 0 32px;
+}
+
+.content-left-reference .inner {
+    margin: 0 0 0 20px;
+    width: 880px;
+}
+
+.content-left p{
+    line-height: 20px;
+}
+
+.content-right .top{
+    width: 231px;
+    background: url('../images/right-menu/top.gif') left top no-repeat;
+    height: 6px;
+    line-height: 0;
+    font-size: 0;
+}
+
+.content-right .bottom{
+    width: 231px;
+    background: url('../images/right-menu/bottom.gif') left top no-repeat;
+    height: 6px;
+    line-height: 0;
+    font-size: 0;
+    margin: 0 0 42px 0;
+}
+
+.content-right .middle{
+    width: 231px;
+    background: #fcf8d6;
+    padding-bottom: 1px;
+}
+
+.content-right .middle p.headline{
+    font-size: 18px;
+    line-height: 20px;
+    color: #664f44;
+    margin: 0 0 4px 31px;
+    padding: 13px 0 0 0;
+}
+
+.content-right .middle p.headline2{
+    margin: 0 0 13px 31px;
+}
+
+.content-right .middle ul{
+    margin: 0 0 10px 23px;
+    padding: 0;
+    list-style-type: none;
+    width: 176px;
+}
+
+.content-right .middle ul li{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    border-bottom: 1px solid #dacfa4;
+}
+
+.content-right .middle ul li.last{
+    border-bottom: 0;
+}
+
+.content-right .middle ul li a{
+    padding: 9px 0 9px 30px;
+    color: #a01414;
+    display: block;
+    background: url('../images/right-menu/arrow.gif') 14px 12px no-repeat;
+    text-decoration: none;
+    line-height: 15px;
+}
+
+.content-right .middle ul li a:hover{
+    text-decoration: underline;
+}
+
+.content-right .middle ul li a.activ{
+    background-color: #f3eec8;
+}
+
+.content-right .middle p.date{
+    background: url('../images/ico/comment.png') 33px center no-repeat;
+    color: #a01414;
+    font-weight: bold;
+    padding-left: 55px;
+    line-height: 17px;
+    margin: 0 0 6px 0;
+}
+
+.content-right .middle p.date a{
+    color: #a01414;
+    text-decoration: none;
+}
+
+.content-right .middle p.date a:hover{
+    text-decoration: underline;
+}
+
+.content-right .middle p.text{
+    padding: 0 7px 6px 12px;
+    line-height: 20px;
+    margin: 0 32px 10px 23px;
+    border-bottom: 1px solid #dacfa4; 
+    line-height: 18px;
+    text-align: left;
+}
+
+.content-right .middle p.text-last{
+    border-bottom: 0; 
+}
+
+.content-left p{
+    margin: 0 0 16px 0;
+}
+
+.content-left .img{
+    float: left;
+    padding: 1px 0 0 0;
+    background: #cecab1;
+    margin: 0 19px 15px 4px;
+}
+
+.content-left .img img{
+    float: left;
+    padding: 7px 8px;
+    border: 1px solid #b4a99b;
+}
+
+.content-left table{
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.content-left table th{
+    padding: 0 0 0 16px;
+    border-bottom: 1px solid #dacfa4;
+    text-align: left;
+    background: #fcf8d6;
+    font-size: 12px;
+    font-weight: bold;
+    height: 34px;
+}
+
+.content-left table td{
+    padding: 0 0 0 16px;
+    border-bottom: 1px solid #dacfa4;
+    text-align: left;
+    font-size: 12px;
+    height: 34px;
+}
+
+.content-left span.text-right {
+    float: right;
+    font-size: 16px;
+    color: #372323;
+    font-weight: bold;
+    font-style: italic;
+    width: 200px;
+    text-align: left;
+    padding-left: 10px;
+    border-left: 10px solid #f5eabc;
+    margin: 10px 0 10px 20px;
+    line-height: 22px;
+}
+
+.content-left-full-width img.left{
+    float: left;
+    border-left: 6px solid #5a2e2e; 
+    border-right: 6px solid #5a2e2e;
+    border-top: 5px solid #5a2e2e;
+    border-bottom: 5px solid #5a2e2e;
+    margin: 0 22px 20px 0;
+}
+
+.content-left-full-width img.right{
+    float: right;
+    border-left: 6px solid #5a2e2e; 
+    border-right: 6px solid #5a2e2e;
+    border-top: 5px solid #5a2e2e;
+    border-bottom: 5px solid #5a2e2e;
+    margin: 0 0 20px 22px;
+}
+
+.content-left-full-width .col{
+    float: left;
+    width: 238px;
+    margin: 0 60px 30px 0;
+}
+
+.content-left-full-width .col-last{
+    margin: 0;
+}
+
+.content-left-full-width .col h3{
+    border-bottom: 1px solid #e1d8b0;
+    margin: 0 0 7px 0;
+    padding: 10px 0 4px 0;
+}
+
+.content-left-full-width .number{
+    float: left;
+    text-align: center;
+    width: 50px;
+    height: 45px;
+}
+
+.content-left-full-width .number img{
+    padding-top: 7px;
+}
+
+.content-left-full-width a.button{
+    text-align: center;
+    display: block;
+    width: 100px;
+    line-height: 30px;
+    background-image: url(../images/button-objednat.jpg);
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.content-left-full-width a.button:hover{
+    background-image: url(../images/button-objednat-hover.jpg);
+}
+
+.kontakt-left {
+    float: left;
+    width: 417px;
+    margin: 0 38px 7px 0;
+}
+
+.kontakt-right {
+    float: left;
+    width: 351px;
+    height: 181px;
+    margin: 20px 0 7px 0;
+}
+
+.kontakt-left p.left{
+    float: left;
+    width: 260px;
+    margin: 0;
+}
+
+.kontakt-left p.right{
+    margin: 20px 0 25px 0;
+}
+
+.kontakt-box {
+    float: left;
+    width: 250px;
+    height: 117px;
+    background: #fcf8d6;
+    border-bottom: 1px solid #dacfa4;
+    margin: 0 28px 67px 0;
+}
+
+.kontakt-box .img{
+    float: left;
+    width: 92px;
+    height: 85px;
+    margin: 16px 7px 0 15px;
+    background-image: url('../images/ico/kontakt-area.png');
+}
+
+.kontakt-box .img img{
+    padding: 1px;
+    float: none;
+    border: 0;
+}
+
+.kontakt-box p{
+    padding: 16px 0 0 0;
+    margin: 0;
+    float: left;
+    line-height: 17px;
+}
+
+.content-left .ref p {
+  margin: 0;
+  position: absolute;
+  bottom: 12px;
+  right: 15px;
+}
+
+/* blue-skin */
+body.blue-skin {
+  background: #fff url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/bg-body.jpg) top repeat-x;
+}
+
+body.blue-skin-hp {
+  background: #fff url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/bg-body-home.jpg) top repeat-x;
+}
+
+body.blue-skin #navigation {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/header-arrow.jpg) 425px 141px no-repeat;
+}
+
+body.blue-skin #header {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/bg-header.jpg) top no-repeat;
+}
+
+body.blue-skin #navigation li {
+  border-right: 1px solid #373031;
+}
+
+body.blue-skin #navigation li.last {
+  border-right: 0;
+}
+
+body.blue-skin #navigation li a {
+  color: #fefefe;
+}
+
+body.blue-skin #navigation li a:hover {
+  color: #fefefe;
+}
+
+body.blue-skin h1 {
+  color: #0c2636;
+}
+
+body.blue-skin h2 {
+  color: #0c2636;
+}
+
+body.blue-skin h3 {
+  color: #0c2636;
+}
+
+body.blue-skin ul.list,ul.moduly {
+  color: #004297;
+}
+
+body.blue-skin ul.list a{
+  color: #004297;
+}
+
+body.blue-skin ul.list li {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/red-arrow.gif) 0px 2px no-repeat;
+}
+
+body.blue-skin a {
+  color: #004297;
+}
+
+body.blue-skin .order-button-area {
+    background-color: #346481; 
+    border-bottom: 1px solid #21455d; 
+}
+
+body.blue-skin a#objednat{
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/button-objednat.jpg);
+  color: #0c2636;
+}
+
+body.blue-skin a#objednat:hover{
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/button-objednat-hover.jpg);
+}
+
+body.blue-skin ul#info-nav { border-bottom: 1px solid #21455c;}
+body.blue-skin ul#info-nav li a { background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/info-nav.gif) 0 1px no-repeat; color: #fff;}
+body.blue-skin ul#info-nav li a:hover,body.blue-skin ul#info-nav li.tabs-selected a {background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/info-nav-hover.gif) 0 0 no-repeat; color: #0c2636; }
+
+body.blue-skin .step {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/step.gif) left no-repeat;
+}
+
+body.blue-skin .step_1 {
+  background: none;
+}
+
+body.blue-skin #tabs-container { 
+    border: 1px solid #21455c;  
+}
+
+body.blue-skin #foot {
+  background: #1e2523;
+  color: #7e8386;
+}
+
+body.blue-skin #foot a {
+  color: #7e8386;
+}
+
+body.blue-skin #foot .breezy {
+  width: 166px;
+  height: 61px;
+  background: url('http://support.breezy.cz/gourmet/yellow/images/blue-skin/contact-us.png') 0 0 no-repeat;
+}
+
+body.blue-skin #sub-nav li {  
+    border-right: 1px solid #7e8386;  
+}
+body.blue-skin #sub-nav li.last {  
+    border-right-style: none; 
+}
+
+body.blue-skin #sub-nav li a { 
+    color: #7e8386; 
+}
+
+body.blue-skin .odd {
+  background: #ecf3f8;
+}
+
+body.blue-skin .objednavka input,body.blue-skin .objednavka textarea {
+  border: solid 1px #0c2636;
+}
+
+body.blue-skin .celkem {
+  color: #0c2636;
+}
+
+body.blue-skin .odd .center {
+  color: #0c2636;
+}
+
+body.blue-skin .content-left .img{
+    background: #ecf3f8;
+}
+
+body.blue-skin .content-left .img img{
+    border: 1px solid #29547e;
+}
+
+body.blue-skin .content-left table th{
+    border-bottom: 1px solid #0c2636;
+    background: #ecf3f8;
+    color: #0c2636;
+}
+
+body.blue-skin .content-left table td{
+    border-bottom: 1px solid #0c2636;
+}
+
+body.blue-skin .content-left span.text-right {
+    color: #0c2636;
+    border-left: 10px solid #ecf3f8;
+}
+
+body.blue-skin .white-area h1{
+    background: url('http://support.breezy.cz/gourmet/yellow/images/blue-skin/h1.png') left top no-repeat;
+    color: #fff;
+}
+
+body.blue-skin .content-right .top{
+    background: #fff;
+}
+
+body.blue-skin .content-right .bottom{
+    border-top: 1px solid #0c2636;
+    background: #fff;
+}
+
+body.blue-skin .content-right .middle{
+    background: #fff;
+}
+
+body.blue-skin .content-right .middle p.headline{
+    color: #0c2636;
+}
+
+body.blue-skin .content-right .middle ul li{
+    border-bottom: 1px solid #0c2636;
+}
+
+body.blue-skin .content-right .middle ul li.last{
+    border-bottom: 0;
+}
+
+body.blue-skin .content-right .middle ul li a{
+    color: #000000;
+    background: url('http://support.breezy.cz/gourmet/yellow/images/blue-skin/right-menu/arrow.gif') 14px 12px no-repeat;
+}
+
+body.blue-skin .content-right .middle ul li a.activ{
+    background-color: #ecf3f8;
+    color: #000000;
+}
+
+body.blue-skin .content-right .middle p.date{
+    color: #0c2636;
+}
+
+body.blue-skin .content-right .middle p.date a{
+    color: #0c2636;
+}
+
+body.blue-skin #logo a span {
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/logo.jpg);
+}
+
+body.blue-skin .content-right .middle p.text{
+    border-bottom: 1px solid #0c2636; 
+}
+
+body.blue-skin .content-right .middle p.text-last{
+    border-bottom: 0; 
+}
+
+body.blue-skin .ref {
+  background-color: #ecf3f8;
+  border-bottom: 1px solid #0c2636;
+}
+
+body.blue-skin .ref img {
+  border: 10px solid #808080;
+}
+
+body.blue-skin .kontakt-box {
+    background: #ecf3f8;
+    border-bottom: 1px solid #0c2636;
+}
+
+body.blue-skin .kontakt-box .img{
+    background-image: url('http://support.breezy.cz/gourmet/yellow/images/blue-skin/ico/kontakt-area.png');
+}
+
+body.blue-skin .kontakt-box .img img{
+    padding: 1px;
+    float: none;
+    border: 0;
+}
+
+body.blue-skin .new-ref {
+  background-color: #ecf3f8;
+  border-bottom: 1px solid #0c2636;
+}
+
+body.blue-skin .new-ref img {
+  border: 20px solid #808080;
+}
+
+body.blue-skin #cook {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/cook.jpg) left top no-repeat;
+}
+
+body.blue-skin #contact-form input {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/input.gif);
+}
+
+body.blue-skin #contact-form input.button {
+  width: 103px;
+  height: 32px;
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/button.gif);
+}
+
+body.blue-skin #contact-form textarea {
+  width: 409px;
+  height: 71px;
+  background: url(http://support.breezy.cz/gourmet/yellow/images/blue-skin/textarea.gif);
+}
+
+body.blue-skin .column-big {
+  width: 429px;
+}
+
+body.blue-skin .content-left-full-width img.left{
+    border-left: 6px solid #808080; 
+    border-right: 6px solid #808080;
+    border-top: 5px solid #808080;
+    border-bottom: 5px solid #808080;
+}
+
+body.blue-skin .content-left-full-width img.right{
+    border-left: 6px solid #808080; 
+    border-right: 6px solid #808080;
+    border-top: 5px solid #808080;
+    border-bottom: 5px solid #808080;
+}
+
+body.blue-skin .content-left-full-width .col h3{
+    border-bottom: 1px solid #0c2636;
+}
+
+/* red-skin */
+body.red-skin {
+  background: #fff url(http://support.breezy.cz/gourmet/yellow/images/red-skin/bg-body.png) top repeat-x;
+}
+
+body.red-skin-hp {
+  background: #fff url(http://support.breezy.cz/gourmet/yellow/images/red-skin/bg-body-home.jpg) top repeat-x;
+}
+
+body.red-skin #navigation {
+  background: none;
+}
+
+body.red-skin #header {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/bg-header.jpg) top no-repeat;
+}
+
+body.red-skin #navigation li {
+  border-right: 1px solid #21455c;
+}
+
+body.red-skin #navigation li.last {
+  border-right: 0;
+}
+
+body.red-skin #navigation li a {
+  color: #fefefe;
+}
+
+body.red-skin #navigation li a:hover {
+  color: #fefefe;
+}
+
+body.red-skin h1 {
+  color: #341204;
+}
+
+body.red-skin h2 {
+  color: #341204;
+}
+
+body.red-skin h3 {
+  color: #341204;
+}
+
+body.red-skin ul.list,ul.moduly {
+  color: #8a2f08;
+}
+
+body.red-skin ul.list a{
+  color: #8a2f08;
+}
+
+body.red-skin ul.list li {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/red-arrow.gif) 0px 2px no-repeat;
+}
+
+body.red-skin a {
+  color: #8a2f08;
+}
+
+body.red-skin .order-button-area {
+    border-bottom: 1px solid #8a2f08; 
+    background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/bg-order-area.png);
+}
+
+body.red-skin a#objednat{
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/button-objednat.jpg);
+  color: #341204;
+}
+
+body.red-skin a#objednat:hover{
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/button-objednat-hover.jpg);
+}
+
+body.red-skin ul#info-nav { border-bottom: 1px solid #8a2f08;}
+body.red-skin ul#info-nav li a { background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/info-nav.gif) 0 1px no-repeat; color: #fff;}
+body.red-skin ul#info-nav li a:hover,body.red-skin ul#info-nav li.tabs-selected a {background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/info-nav-hover.gif) 0 0 no-repeat; color: #341204; }
+
+body.red-skin .step {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/step.gif) left no-repeat;
+}
+
+body.red-skin .step_1 {
+  background: none;
+}
+
+body.red-skin #tabs-container { 
+    border: 1px solid #8a2f08;  
+}
+
+body.red-skin #foot {
+  background: #1e2523;
+  color: #7e8386;
+}
+
+body.red-skin #foot a {
+  color: #7e8386;
+}
+
+body.red-skin #foot .breezy {
+  width: 166px;
+  height: 61px;
+  background: url('http://support.breezy.cz/gourmet/yellow/images/red-skin/contact-us.png') 0 0 no-repeat;
+}
+
+body.red-skin #sub-nav li {  
+    border-right: 1px solid #7e8386;  
+}
+body.red-skin #sub-nav li.last {  
+    border-right-style: none; 
+}
+
+body.red-skin #sub-nav li a { 
+    color: #7e8386; 
+}
+
+body.red-skin .odd {
+  background: #fff5f0;
+}
+
+body.red-skin .objednavka input,body.red-skin .objednavka textarea {
+  border: solid 1px #8a2f08;
+}
+
+body.red-skin .celkem {
+  color: #8a2f08;
+}
+
+body.red-skin .odd .center {
+  color: #8a2f08;
+}
+
+body.red-skin .content-left .img{
+    background: #fff5f0;
+}
+
+body.red-skin .content-left .img img{
+    border: 1px solid #8a2f08;
+}
+
+body.red-skin .content-left table th{
+    border-bottom: 1px solid #8a2f08;
+    background: #fff5f0;
+    color: #341204;
+}
+
+body.red-skin .content-left table td{
+    border-bottom: 1px solid #8a2f08;
+}
+
+body.red-skin .content-left span.text-right {
+    color: #341204;
+    border-left: 10px solid #fff5f0;
+}
+
+body.red-skin .white-area h1{
+    background: url('http://support.breezy.cz/gourmet/yellow/images/red-skin/h1.png') left top no-repeat;
+    color: #fff;
+}
+
+body.red-skin .content-right .top{
+    background: #fff;
+}
+
+body.red-skin .content-right .bottom{
+    border-top: 1px solid #8a2f08;
+    background: #fff;
+}
+
+body.red-skin .content-right .middle{
+    background: #fff;
+}
+
+body.red-skin .content-right .middle p.headline{
+    color: #341204;
+}
+
+body.red-skin .content-right .middle ul li{
+    border-bottom: 1px solid #8a2f08;
+}
+
+body.red-skin .content-right .middle ul li.last{
+    border-bottom: 0;
+}
+
+body.red-skin .content-right .middle ul li a{
+    color: #000000;
+    background: url('http://support.breezy.cz/gourmet/yellow/images/red-skin/right-menu/arrow.gif') 14px 12px no-repeat;
+}
+
+body.red-skin .content-right .middle ul li a.activ{
+    background-color: #fff5f0;
+    color: #000000;
+}
+
+body.red-skin .content-right .middle p.date{
+    color: #341204;
+}
+
+body.red-skin .content-right .middle p.date a{
+    color: #341204;
+}
+
+body.red-skin #logo a span {
+  background-image: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/logo.jpg);
+}
+
+body.red-skin .content-right .middle p.text{
+    border-bottom: 1px solid #8a2f08; 
+}
+
+body.red-skin .content-right .middle p.text-last{
+    border-bottom: 0; 
+}
+
+body.red-skin .ref {
+  background-color: #fff5f0;
+  border-bottom: 1px solid #8a2f08;
+}
+
+body.red-skin .ref img {
+  border: 10px solid #808080;
+}
+
+body.red-skin .kontakt-box {
+    background: #fff5f0;
+    border-bottom: 1px solid #8a2f08;
+}
+
+body.red-skin .kontakt-box .img{
+    background-image: url('http://support.breezy.cz/gourmet/yellow/images/red-skin/ico/kontakt-area.png');
+}
+
+body.red-skin .kontakt-box .img img{
+    padding: 1px;
+    float: none;
+    border: 0;
+}
+
+body.red-skin .new-ref {
+  background-color: #fff5f0;
+  border-bottom: 1px solid #8a2f08;
+}
+
+body.red-skin .new-ref img {
+  border: 20px solid #808080;
+}
+
+body.red-skin #cook {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/cook.jpg) left top no-repeat;
+}
+
+body.red-skin #contact-form input {
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/input.gif);
+}
+
+body.red-skin #contact-form input.button {
+  width: 103px;
+  height: 32px;
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/button.gif);
+}
+
+body.red-skin #contact-form textarea {
+  width: 409px;
+  height: 71px;
+  background: url(http://support.breezy.cz/gourmet/yellow/images/red-skin/textarea.gif);
+}
+
+body.red-skin .column-big {
+  width: 429px;
+}
+
+body.red-skin .content-left-full-width img.left{
+    border-left: 6px solid #808080; 
+    border-right: 6px solid #808080;
+    border-top: 5px solid #808080;
+    border-bottom: 5px solid #808080;
+}
+
+body.red-skin .content-left-full-width img.right{
+    border-left: 6px solid #808080; 
+    border-right: 6px solid #808080;
+    border-top: 5px solid #808080;
+    border-bottom: 5px solid #808080;
+}
+
+body.red-skin .content-left-full-width .col h3{
+    border-bottom: 1px solid #8a2f08;
+}

@@ -1,0 +1,27 @@
+
+a:link{
+	color: #EFEFEF;
+	text-decoration: underline;
+}
+a:visited{
+	color: #666666;
+	text-decoration: underline;
+}
+a:hover{
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+.blue {
+	color: #0099FF;
+}
+
+.ulwhite {
+	color: #FFFFFF;
+	font-size: 10px;
+	text-decoration: underline;
+}
+
+.numlinks {
+	color: #FFFFFF;
+}

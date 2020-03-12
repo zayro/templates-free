@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+   <banner>
+      <item>banner/image1.jpg</item>
+   </banner>
+  <banner>
+      <item>banner/image2.jpg</item>
+   </banner>
+  <banner>
+      <item>banner/image3.jpg</item>
+   </banner>
+  <banner>
+      <item>banner/image4.jpg</item>
+   </banner>
+  <banner>
+      <item>banner/image5.jpg</item>
+   </banner>
+</content>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<contact>
+
+//HTML FORMATTED CONTENT FOR THE CONTACT PAGE//
+
+	<content>
+		<info><![CDATA[<font color="#00FF00" size="14">Company Name</font><br/><br/><font color="#FFFFFF" size="10">Text is edited through XML file with standard HTML tags. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae est vel massa volutpat tincidunt. Pellentesque tincidunt, justo vitae interdum pulvinar, risus elit vulputate dolor, eget molestie nisi mauris vitae. <br/><br/><font color="#00FF00" size="14">Contact Info</font><br/><font color="#FFFFFF" size="10">Phone: 555 555 5555<br/>Fax: 555 555 5555<br/>Email: </font><a href="mailto:info@flashparagon.com"><font color="#00FF00" size="10">company@domain.com</font></a><br/><br/><font color="#00FF00" size="14">Address</font><br/><font color="#FFFFFF" size="10">Address line 1<br/>Address line 2<br/>City, State, Country<br/>]]></info>
+	</content>	
+</contact>

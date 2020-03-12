@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<zone title="HOME">
+	<item path="items/home/intro_1.jpg" display_time="4" title="FIRST SLIDE"/>
+	<item path="items/home/intro_2.jpg" display_time="4" title="YEAH"/>
+	<item path="items/home/intro_3.jpg" display_time="5" title="SOME TEXT"/>
+	<item path="items/home/intro_4.swf" display_time="5" title="ANOTHER"/>
+</zone>

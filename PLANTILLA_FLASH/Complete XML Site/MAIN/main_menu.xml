@@ -1,0 +1,80 @@
+﻿<?xml version=”1.0” encoding=”UTF-8”?>
+<main>
+<!--  _______________________MENU______________________________  -->
+<myMenu>
+   <menu> 
+    <name>home</name>
+    <movie>Banner_Rotator_module.swf</movie>
+    <loadXML>home/Banner_Rotator_module.xml</loadXML>
+   </menu>
+  	
+   <menu> 
+    <name>about us</name>
+    <movie>Long_Text_module.swf</movie>
+    <loadXML>about us/Long_Text_module.xml</loadXML>
+   </menu>
+   
+    <menu> 
+    <name>services</name>
+    <movie>Services_module.swf</movie>
+    <loadXML>services/Services_module.xml</loadXML>
+   </menu>
+   
+   
+    <menu> 
+    <name>news</name>
+    <movie>News_module.swf</movie>
+    <loadXML>news/News_module.xml</loadXML>
+   </menu>
+   
+    <menu> 
+    <name>gallery</name>
+    <movie>Image_Gallery_module.swf</movie>
+    <loadXML>image_gallery/Image_Gallery_module.xml</loadXML>
+   </menu>
+   
+    <menu> 
+    <name>contact</name>
+    <movie>Contact_module.swf</movie>
+    <loadXML>contact/Contact_module.xml</loadXML>
+   </menu>
+</myMenu>
+<!--  ______________________SETTINGS______________________  -->
+<!--  LOGO (IMAGE OR SWF) maximum height is 50 pixels  -->
+<myLogo></myLogo>
+<!--  LOGO POSITION   -->
+<myLogoX>7</myLogoX>
+<myLogoY>7</myLogoY>
+<!--  FOOTER TEXT (COMPANY NAME)   -->
+<footerText>Lauren Lentini Photography</footerText>
+<!--  MAIN BUTTONS POSITION  -->
+<mainBtnX>61</mainBtnX>
+<mainBtnY>12</mainBtnY>
+<!--  SETINGS VISIBILITY  -->
+<settingsVisibility settingsVisible="true" />
+<!--  ______________________COLOR SETTINGS______________________  -->
+<!--  MENU BUTTONS COLORS (main navigation)  -->
+<mainBtnNormalColor>0x999999</mainBtnNormalColor>
+<mainBtnOnRollOverColor>0xFFFFFF</mainBtnOnRollOverColor>
+<!--  LAYOUT COLORS  -->
+<!-- rectangle on wich the main navigation stays   -->
+<topRectangleColor>0x000000</topRectangleColor>
+<!-- rectangle on wich the footer text stays   -->
+<bottomRectangleColor>0x000000</bottomRectangleColor>
+<!--  FOOTER TEXT COLOR  -->
+<footerColor>0x666666</footerColor>
+<!--  SETTINGS EXPANDER BACKGROUND COLOR (the background for the settings tab that expands) -->
+<setExpandBgColor>0x000000</setExpandBgColor>
+<!--  SETTINGS BUTTON COLOR (the color for the button that triggers the settings tab)  -->
+<setBtnColor>0xFFFFFF</setBtnColor>
+<!--  FULLSCREEN BUTTON COLORS (the fullscreen button inside the settings tab)  -->
+<fsBtnNormalColor>0x666666</fsBtnNormalColor>
+<fsBtnOnRollOverColor>0xFFFFFF</fsBtnOnRollOverColor>
+<!--  SECOND FULLSCREEN BUTTON COLORS (in case the settings expander is not visible)  -->
+<fs2ColorNormal>0x666666</fs2ColorNormal>
+<fs2ColorOver>0xFFCC00</fs2ColorOver>
+
+
+</main>
+
+

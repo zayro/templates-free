@@ -1,0 +1,61 @@
+<!-- 
+---------------------------------------------------------------------------
+MUSIC PLAYER XML:
+---------------------------------------------------------------------------
+
+|||||||MAIN ATTRIBUTES||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+volume == Initial volume
+shuffle == 'yes' to shuffle songs || 'no' to play continuous
+autoStart == 'yes' to play music in beginning || 'no' to start manually
+
+|||||||TRACK ATTRIBUTES|||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+path == Location of track
+title == Title of track	   
+artist == Artist of track 
+album == Track album name
+art == location of album art
+
+---------------------------------------------------------------------------
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<player 
+	volume="85" 
+	shuffle="no" 
+	autoStart="yes">
+	
+	<song 
+		path="music/tracks/coreIssues.mp3"     	
+		title="Core Issues"	   
+		artist="www.FlashDen.net"	 
+		album="FlashDen.net Assets One"     
+		art="music/art/art_1.jpg"
+	>
+	</song>
+	<song 
+		path="music/tracks/stompBox.mp3"     	
+		title="Stomp Box"          
+		artist="FlashDen"		 
+		album="FlashDen.net Assets Two"     
+		art="music/art/art_2.jpg"
+	>
+	</song>
+	<song 
+		path="music/tracks/crypticPsyche.mp3"     
+		title="Cryptic Psyche"     
+		artist="www.FlashDen.net"	 
+		album="FlashDen.net Assets One"     
+		art="music/art/art_3.jpg"
+	>
+	</song>
+	<song 
+		path="music/tracks/electroFreak.mp3"	
+		title="Electro Freak"	   
+		artist="FlashDen"		 
+		album="FlashDen.net Assets One"     
+		art="music/art/art_4.jpg"
+	>
+	</song>
+</player>

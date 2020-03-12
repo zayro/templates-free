@@ -1,0 +1,41 @@
+%!Adobe-FontList 1.11
+%Locale:0x816
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica73-ExtendedBold
+FamilyName:Helvetica73-Extended
+StyleName:Bold
+FullName:Helvetica73-Extended Bold
+MenuName:Helvetica73-Extended
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:\\Guepardo\www\flashDen\Flash\Full XML Website v3\Main Files\Font\HelveticaExtBd.ttf
+DataFormat:sfntData
+FileLength:41948
+FileModTime:1035744184
+WeightClass:700
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Kroeger0556
+FamilyName:kroeger 05_56
+StyleName:Regular
+FullName:kroeger 05_56
+MenuName:kroeger 05_56
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\Guepardo\www\flashDen\Flash\Full XML Website v3\Main Files\Font\KROE0556.TTF
+DataFormat:sfntData
+FileLength:52424
+FileModTime:1006181072
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contactList>
+
+	<contact rolloverText="contact" image="contact.jpg" />
+	
+	<contact />
+	
+	<contact titleText="Where I am" rolloverText="send me an e-mail" link="mailto:yourmail@yoursite.com">
+	<![CDATA[<font color='#FFFFFF'>Your name<font color='#666666'> / here</font></font><br><font color='#FFFFFF'>24 almond street<br>10001 somewhere<br>country</font><br><br>If you want to use your own e-mail sender software, <font color='#FFFFFF'>yourmail@yoursite.com </font>or click here.<br><br><font color='#FFFFFF'>HTML text supported</font>]]>
+	</contact>
+
+	<contact titleText="clients" rolloverText="thanks" link="mailto:yourmail@yoursite.com">
+	<![CDATA[<font color='#666666'>They trust in me :</font><br><font color='#FFFFFF'>- client 1<br>- client 2<br>- client 3<br>- client 4<br>- client 5<br>- client 6<br>- client 7<br>- client 8<br>- client 9<br>- client 10<br>- client 11...</font>]]>
+	</contact>
+	
+</contactList>

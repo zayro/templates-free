@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+	<settings verticalLineAlpha="100" horizontalLineAlpha="100" linesColor="0x2b2c2e" newsSlideButtonsIconColor="0xffffff" newsCloseDetailButtonIconColor="0xffffff" newsTextScrollButtonsIconColor="0xffffff" newsDetailLineAlpha="100" newsDetailLineColor="0x2b2c2e" thumbsPreloaderColor="0xffffff" thumbsBackGroundColor="0x000000" backGroundHeight="300" backGroundAlpha="100" backGroundColor="0x1a1b1d"/>
+	<items>
+		<item>
+			<unique_deep_link><![CDATA[News title 1]]></unique_deep_link>
+			<date><![CDATA[01.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 1</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/01.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 2]]></unique_deep_link>
+			<date><![CDATA[07.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 2<br>News without thumb</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 3]]></unique_deep_link>
+			<date><![CDATA[08.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 3<br>News without thumb and<br>long text</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</font>]]></caption>
+			<text><![CDATA[]]></text>
+			<thumb><![CDATA[]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 4]]></unique_deep_link>
+			<date><![CDATA[04.06.2009]]></date>
+			<title><![CDATA[<b>News title 4</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</font>]]></text>	
+			<thumb><![CDATA[images/news_thumbs/04.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 5]]></unique_deep_link>
+			<date><![CDATA[05.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 5</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/05.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 6]]></unique_deep_link>
+			<date><![CDATA[06.06.2009]]></date>
+			<title><![CDATA[<b>News title 6</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/06.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 7]]></unique_deep_link>
+			<date><![CDATA[02.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 7</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/02.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 8]]></unique_deep_link>
+			<date><![CDATA[03.06.2009]]></date>
+			<title><![CDATA[<b>News title 8</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid ut labore...</font>]]></caption>
+			<text><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</font>]]></text>
+			<thumb><![CDATA[images/news_thumbs/03.jpg]]></thumb>
+		</item>
+		<item>
+			<unique_deep_link><![CDATA[News title 9]]></unique_deep_link>
+			<date><![CDATA[09.06.2009<br><br><a href="http://www.flashden.net/user/ParkerAndKent" target="_blank"><font color="#a06900">Link</font></a>]]></date>
+			<title><![CDATA[<b>News title 9<br>News without thumb and<br>long text</b>]]></title>
+			<caption><![CDATA[<font color="#727272">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</font>]]></caption>
+			<text><![CDATA[]]></text>
+			<thumb><![CDATA[]]></thumb>
+		</item>
+	</items>
+</news>

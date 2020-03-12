@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" ?>
+
+<menuPrimary id="1" url_config="xml/configuration_menu_tree.xml">
+	
+	
+<item id="111" label="home" background="background/5.jpg" template="list" xml="xml/list3.xml"/>
+
+<item id="2" label="Newsy">
+<item id="3" label="newsy 1" template="newsy" xml="xml/newsy1.xml"/>
+<item id="4" label="newsy 2" template="newsy" xml="xml/newsy2.xml"/>
+<item id="5" label="newsy 3" template="newsy" xml="xml/newsy3.xml"/>	
+</item>
+
+
+
+
+	
+<item id="6" label="Text">
+<item id="7" label="text 1" background="background/6.jpg" template="text" xml="xml/text1.xml"/>
+<item id="8" label="text 2" background="background/4.jpg" template="text" xml="xml/text2.xml"/>
+<item id="9" label="text 3" background="background/2.jpg" template="text" xml="xml/text3.xml"/>	
+</item>
+
+
+
+
+
+
+
+
+<item id="899" label="Portfolio">
+	
+<item id="900" label="Design" background="background/3.jpg" template="list" xml="xml/list5.xml">
+<item id="901" visible="false" label="design1" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="902" visible="false" label="design2" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="903" visible="false" label="design3" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="904" visible="false" label="design4" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="905" visible="false" label="design5" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+</item>
+
+
+<item id="800" label="Websites" background="background/3.jpg" template="list" xml="xml/list6.xml">
+<item id="801" visible="false" label="Websites1" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="802" visible="false" label="Websites2" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="803" visible="false" label="Websites3" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="804" visible="false" label="Websites4" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="805" visible="false" label="Websites5" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+</item>
+
+</item>
+
+
+
+
+
+
+
+	
+<item id="2400" label="slider">
+<item id="2401" label="slider 1" template="slider" xml="xml/slider1.xml"/>
+<item id="2402" label="slider 2" template="slider" xml="xml/slider2.xml"/>
+</item> 
+
+
+
+
+
+
+
+
+				
+<item id="10" label="Gallery">
+<item id="12" label="onlyimage" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="13" label="category lorem ipsum">
+   <item id="131" label="sub only video 1" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>	
+   <item id="132" label="sub only video 2" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+   <item id="133" label="sub_only_video 3" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+</item>	
+<item id="14" label="image & video 3" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="15" label="only image 4" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="16" label="only video 5" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="17" label="image & video 6" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="18" label="only image 7" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="19" label="only video 8" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="20" label="image & video 9" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="21" label="only image 10" background="background/2.jpg" template="gallery" xml="xml/gallery1.xml"/>
+<item id="22" label="only video 11" background="background/3.jpg" template="gallery" xml="xml/gallery2.xml"/>
+<item id="23" label="image&video12" background="background/4.jpg" template="gallery" xml="xml/gallery3.xml"/>
+</item>
+
+
+
+
+
+
+
+
+
+<item id="600" label="Team members">
+	
+<item id="656" label="Management" background="background/5.jpg" template="list" xml="xml/list1.xml">
+<item id="637" visible="false" label="Management 1" background="background/5.jpg" template="text" xml="xml/text1.xml"/>	
+<item id="638" visible="false" label="Management 2" background="background/5.jpg" template="text" xml="xml/text1.xml"/>
+<item id="639" visible="false" label="Management 3"  background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="640" visible="false" label="Management 4" background="background/5.jpg" template="text" xml="xml/text1.xml"/>
+<item id="641" visible="false" label="Management 5" background="background/5.jpg" template="text" xml="xml/text1.xml"/>
+<item id="642" visible="false" label="Management 6" background="background/5.jpg" template="text" xml="xml/text1.xml"/>
+</item>	
+
+
+<item id="756" label="Developers" background="background/5.jpg" template="list" xml="xml/list2.xml">
+<item id="737" visible="false" label="Developers 1" background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="738" visible="false" label="Developers 2" background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="739" visible="false" label="Developers 3"  background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="740" visible="false" label="Developers 4" background="background/pattern.png,network" template="text" xml="xml/text1.xml" />
+<item id="741" visible="false" label="Developers 5" background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="742" visible="false" label="Developers 6" background="background/5.jpg" template="text" xml="xml/text1.xml" />
+</item>	
+
+</item>
+
+
+
+
+
+	   	
+<item id="45" label="Book" background="background/pattern.png,network" template="book" xml="xml/book.xml"/>
+
+		
+<item id="49" label="All template">
+<item id="50" label="template contact" background="background/1.jpg" template="form" xml="xml/form1.xml"/>
+<item id="51" label="template gallery" background="background/2.jpg" template="gallery" xml="xml/gallery3.xml"/>
+<item id="52" label="template newsy" background="background/3.jpg" template="newsy" xml="xml/newsy1.xml"/>
+<item id="53" label="template text"  background="background/4.jpg" template="text" xml="xml/text1.xml" />
+<item id="54" label="template slider" background="background/5.jpg" template="slider" xml="xml/slider1.xml"/>
+<item id="55" label="template book" background="background/pattern.png,network" template="book" xml="xml/book.xml"/>
+
+<item id="56" label="template list" background="background/5.jpg" template="list" xml="xml/list4.xml">
+<item id="237" visible="false" label="gallery from list" background="background/5.jpg" template="gallery" xml="xml/gallery1.xml"/>	
+<item id="238" visible="false" label="contact from list" background="background/5.jpg" template="form" xml="xml/form1.xml"/>
+<item id="239" visible="false" label="text from list"  background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="240" visible="false" label="book from list" background="background/pattern.png,network" template="book" xml="xml/book.xml"/>
+<item id="241" visible="false" label="slider from list" background="background/5.jpg" template="slider" xml="xml/slider1.xml"/>
+<item id="242" visible="false" label="newsy from list" background="background/5.jpg" template="newsy" xml="xml/newsy1.xml"/>
+</item>	
+
+<item id="32423" label="template calendar" background="background/5.jpg" template="calendar" xml="xml/calendar.xml"/>
+</item>
+
+
+
+	
+<item id="231" label="Link" url="http://www.nemesismedia.tk" window="_blank"/>
+
+
+
+<item id="57" label="Your swf" background="" template="your_swf.swf" xml=""/>	
+
+
+
+
+<item id="3242" label="Calendar" background="background/5.jpg" template="calendar" xml="xml/calendar.xml"/>
+
+
+
+<item id="46" label="Contact" background="background/7.jpg" template="form" xml="xml/form.xml">
+<item id="47" label="contact company 1" background="background/7.jpg" template="form" xml="xml/form1.xml"/>
+<item id="48" label="contact company 2" background="background/7.jpg" template="form" xml="xml/form2.xml"/>	
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- hide menu position (Needed for the list) -->
+<item id="337" visible="false" label="main gallery" background="background/5.jpg" template="gallery" xml="xml/gallery1.xml"/>	
+<item id="338" visible="false" label="main contact" background="background/5.jpg" template="form" xml="xml/form1.xml"/>
+<item id="339" visible="false" label="main text"  background="background/5.jpg" template="text" xml="xml/text1.xml" />
+<item id="340" visible="false" label="main book" background="background/pattern.png,network" template="book" xml="xml/book.xml"/>
+<item id="341" visible="false" label="main slider" background="background/5.jpg" template="slider" xml="xml/slider1.xml"/>
+<item id="342" visible="false" label="main newsy" background="background/5.jpg" template="newsy" xml="xml/newsy1.xml"/>
+<!-- hide menu position (Needed for the list) -->
+
+		
+	
+	
+	
+</menuPrimary>
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<all_news>
+<news>
+		<name> Choose for Details </name>
+		<img> </img>
+		<author>  </author>
+	</news>
+	<news>
+		<description><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="14" COLOR="#258CB8"><b>Multi Xml driven Photogallery</b></FONT></p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque facilisis cursus mauris. Nam rhoncus quam a quam. Suspendisse neque eros, porttitor eget aliquet nec ultrices eget nisi.um odio nec ligula. Mauris eu elit.n dignissim, tortor vel hendrerit mollis, mauris tempus sem, sollicitudin sagittis erat <a href="http://flashden.net/item/multiphoto-gallery-xml-based/6845"target="_blank"><FONT COLOR="#258CB8"><u>See more news</u></FONT></a> lectus ut risus. Pellentesque sed sapien. Nam egestas metus et mauris. Pellentesque laoreet adipiscing augue. Ut felis. Donec sem ligula, congue a, luctus sed, facilisis vitae, ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, cursus id, porta cursus, felis. Duis in lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><P ALIGN="right"><a href="http://flashden.net/item/multiphoto-gallery-xml-based/6845"target="_blank"><FONT COLOR="#ffffff">more...</a></FONT></TEXTFORMAT>]]></description>
+		<img>images/scroll_imgs/ph_02.jpg</img>
+		<URL>flv/CLOUD 2.flv</URL>
+		<news_topic><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><FONT FACE="Verdana" SIZE="10" COLOR="#333333">Dummy Caption 1</TEXTFORMAT>]]></news_topic>
+	</news>
+	<news>
+		<description><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="14" COLOR="#258CB8"><b>Multi Xml driven FLV Player</b></FONT></p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque facilisis cursus mauris. Nam rhoncus quam a quam. Suspendisse neque eros, porttitor eget aliquet nec ultrices eget nisi.um odio nec ligula. Mauris eu elit.n dignissim, tortor vel hendrerit mollis, mauris tempus sem, sollicitudin sagittis erat <a href="http://www.flashden.net/user/samss100"target="_blank"><FONT COLOR="#258CB8"><u>See more news</u></FONT></a> lectus ut risus. Pellentesque sed sapien. Nam egestas metus et mauris. Pellentesque laoreet adipiscing augue. Ut felis. Donec sem ligula, congue a, luctus sed, facilisis vitae, ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, cursus id, porta cursus, felis. Duis in lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><P ALIGN="right"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#ffffff">more...</a></FONT></TEXTFORMAT>]]></description>
+		<img>swf/anim_01.swf</img>
+		<URL>flv/CLOUD 2.flv</URL>
+		<news_topic><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><FONT FACE="Verdana" SIZE="10" COLOR="#333333">Dummy Caption 2</TEXTFORMAT>]]></news_topic>
+	</news>
+	<news>
+		<description><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="14" COLOR="#258CB8"><b>Horizontal Scroll Portfolio</b></FONT></p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque facilisis cursus mauris. Nam rhoncus quam a quam. Suspendisse neque eros, porttitor eget aliquet nec ultrices eget nisi.um odio nec ligula. Mauris eu elit.n dignissim, tortor vel hendrerit mollis, mauris tempus sem, sollicitudin sagittis erat <a href="http://www.flashden.net/user/samss100"target="_blank"><FONT COLOR="#258CB8"><u>See more news</u></FONT></a> lectus ut risus. Pellentesque sed sapien. Nam egestas metus et mauris. Pellentesque laoreet adipiscing augue. Ut felis. Donec sem ligula, congue a, luctus sed, facilisis vitae, ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, cursus id, porta cursus, felis. Duis in lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><P ALIGN="right"><a href="http://www.yahoo.com"target="_blank"><FONT COLOR="#ffffff">more...</a></FONT></TEXTFORMAT>]]></description>
+		<img>images/scroll_imgs/ph_01.jpg</img>
+		<URL>flv/CLOUD 2.flv</URL>
+		<news_topic><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><FONT FACE="Verdana" SIZE="10" COLOR="#333333">Dummy Caption 3</TEXTFORMAT>]]></news_topic>
+	</news>
+	<news>
+		<description><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="left"><FONT FACE="Verdana" SIZE="14" COLOR="#258CB8"><b>Carousel Menu</b></FONT></p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque facilisis cursus mauris. Nam rhoncus quam a quam. Suspendisse neque eros, porttitor eget aliquet nec ultrices eget nisi.um odio nec ligula. Mauris eu elit.n dignissim, tortor vel hendrerit mollis, mauris tempus sem, sollicitudin sagittis erat <a href="http://flashden.net/item/creative-portfolio-xml-driven-v1/16821"target="_blank"><FONT COLOR="#258CB8"><u>See more news</u></FONT></a> lectus ut risus. Pellentesque sed sapien. Nam egestas metus et mauris. Pellentesque laoreet adipiscing augue. Ut felis. Donec sem ligula, congue a, luctus sed, facilisis vitae, ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, cursus id, porta cursus, felis. Duis in lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><P ALIGN="right"><a href="http://flashden.net/item/creative-portfolio-xml-driven-v1/16821"target="_blank"><FONT COLOR="#ffffff">more...</a></FONT></TEXTFORMAT>]]></description>
+		<img>images/scroll_imgs/ph_06.jpg</img>
+		<URL>flv/CLOUD 2.flv</URL>
+		<news_topic><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="center"><FONT FACE="Verdana" SIZE="10" COLOR="#333333">Dummy Caption 4</TEXTFORMAT>]]></news_topic>
+	</news>
+
+
+</all_news>

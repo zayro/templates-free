@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<content>
+    <item Image="portfolio\c1\image2.jpg" Delay="5000" Link="http://" Headline="Forecasts">
+        <copy><![CDATA[<p>We helped the U.S. Marine Corps forecast military training, equipment, and deployment forecasts for Asia and, at times, have represented the U.S. Marines' position on the <a href="http://www.intelligence.gov/index.shtml" target="_blank">National Intelligence Council</a>. </p>]]></copy>
+    </item>
+    <item Image="portfolio\c1\image1.jpg" Delay="5000" Link="http://" Headline="CFIUS">
+        <copy><![CDATA[<p>The Committee on Foreign Investment in the U.S. reviews acquisitions of critical technology for national security risks. Our consultants developed the risk framework, analysis, products, and advisory procedures for the Department of Homeland Security as private <a href="http://www.centratechnology.com" target="_blank">contractors</a>.</p>]]></copy>
+    </item>
+    <item Image="portfolio\c1\image3.jpg" Delay="6000" Link="http://" Headline="Due Diligence">
+        <copy><![CDATA[<p>In this project for <a href="http://" target="_blank">ATF Partners</a> we created a prospecting database and helped isolate high value acquisition targets. Once engaged with the target, we assisted with due diligence.</p>]]></copy>
+    </item>
+    <item Image="portfolio\c1\image6.jpg" Delay="6000" Link="http://" Headline="Risk">
+        <copy><![CDATA[<p>The Department of Defense is a primary customer. We assisted in developing a risk assessment model that is used today by the Secretary, Under Secretary, and Assistant Secretary levels of several . <a href="http://www.defenselink.mil/" target="_blank">executive agencies</a>. </p>]]></copy>
+    </item>
+
+</content>

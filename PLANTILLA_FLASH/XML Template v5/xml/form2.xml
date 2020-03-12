@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" ?>
+
+
+<form url_config="xml/configuration_form.xml">
+	
+		
+<date>
+<item returnable_email="true" title="E-MAIL" type="input" key="e_mail" verification="e_mail"/> 	 
+<item subject="true" title="SUBJECT" type="input" key="subject" verification=""/> 	 	
+<item title="COMMENT" type="textarea" key="comment" verification="not_empty"/> 	 
+</date>	
+
+
+<title>
+	<![CDATA[<head_big>2 FORM LOREM IPSUM  DOLOR  SIT</head_big>]]>
+</title>	
+
+	
+<desc>
+<![CDATA[<body><head>Company Contact 2</head><br>Etiam sagittis ligula sit amet nunc venenatis bibendum.<a href="asfunction:setSelectedId,3">Newsy - Click</a> Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi.
+
+Company name
+xx-xxx New York
+USA
+
+tel: +48-456-456-xxx
+fax: +48-323-454-xxx
+e-mail: <a href="biuro@company.com">biuro@company.com</a>
+
+</body>
+]]>	
+	
+</desc>
+	
+
+
+
+</form>

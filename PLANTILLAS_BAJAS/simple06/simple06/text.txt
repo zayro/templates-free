@@ -1,0 +1,10 @@
+NAME.JPG
+otsup sprava 12 px, align right
+font Microgramma 30,9 pt
+color 636363
+_____________________________
+
+SLOGAN.JPG
+otsup sprava 12 px, align right
+font Microgramma 18 pt
+color 00804B

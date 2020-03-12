@@ -1,0 +1,53 @@
+<html>
+<body background="images/bg.gif">
+<div id="datacontainer" style="position:absolute;left:0;top:10;width:100%" onMouseover="scrollspeed=0" onMouseout="scrollspeed=cache">
+
+<!-- ADD YOUR SCROLLER COMMENT INSIDE HERE--------------------->
+
+<b>What's Hot</b><p></p>
+  <p align="left"><strong><font face="Verdana"><small><a href="http://www.finerdesign.com/" target="_top">Flash 
+    Buttons </a>&nbsp;</small></font></strong><br>
+    <font face="Verdana" size="2">Order a customized set of Flash Buttons from 
+    an extensive collection. Head on over to the Flash section at Finerdesign.com</font></p>
+  <p align="left"><strong><font face="Verdana"><small><a href="http://www.finerdesign.com/" target="_top">Flash 
+    Banners</a>&nbsp;</small></font></strong><br>
+    <font face="Verdana"><small>Bring attention to your site with these dynamic 
+    eye-catching banners.</small></font></p>
+  <p align="left"><small><strong><font face="Verdana"><a href="http://www.finerdesign.com/" target="_top">CGI 
+    Programs </a>&nbsp;</font></strong></small><br>
+    <small><font face="Verdana">Track your website visitors, set up a banner rotation 
+    script, or even add a shopping cart to your site!</font></small></p>
+  <p align="left"><font face="Verdana"><strong><a href="http://www.finerdesign.com/" target="_top"><small>Web 
+    Design </small></a><br>
+    </strong><small>Need professional help with that new template? Get some here.</small></font> 
+    <!-- END SCROLLER CONTENT---------------------------------------->
+  <div>
+
+<script language="JavaScript1.2">
+
+//<iframe> script by Dynamicdrive.com
+
+//Specify speed of scroll. Larger=faster (ie: 5)
+var scrollspeed=cache=2
+
+function initialize(){
+marqueeheight=document.all? parent.document.all.datamain.height : parent.document.getElementById("datamain").getAttribute("height")
+dataobj=document.all? document.all.datacontainer : document.getElementById("datacontainer")
+dataobj.style.top=5
+thelength=dataobj.offsetHeight
+scrolltest()
+}
+
+function scrolltest(){
+dataobj.style.top=parseInt(dataobj.style.top)-scrollspeed
+if (parseInt(dataobj.style.top)<thelength*(-1))
+dataobj.style.top=5
+setTimeout("scrolltest()",50)
+}
+
+window.onload=initialize
+
+</script>
+
+</div></div></body>
+</html>

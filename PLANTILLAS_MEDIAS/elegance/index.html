@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="./images/favicon.ico" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="" />
+<meta name="title" content="" />
+<meta name="description" content="" />
+<title>Elegance</title>
+<!-- ////////////////////////////////// -->
+<!-- //      Start Stylesheets       // -->
+<!-- ////////////////////////////////// -->
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/slider.css" rel="stylesheet" type="text/css" />
+<!-- ////////////////////////////////// -->
+<!-- //      Javascript Files        // -->
+<!-- ////////////////////////////////// -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/cufon-yui.js"></script>
+<script type="text/javascript" src="./js/quicksand_light_300.font.js"></script>
+<script type="text/javascript" src="./js/quicksand_book_400.font.js"></script>
+<script type="text/javascript">
+	 Cufon.replace('h1') ('h1 a') ('h2') ('h3') ('h4') ('h5') ('h6')  ('#box p') ('.text-styled') ('#top-navigation li a', {
+	 hover: true
+}) ('blockquote');
+	Cufon.replace('#slider .bottom', { fontFamily: 'Quicksand Book' });
+</script>
+<script type="text/javascript" src="./js/dropdown.js"></script>
+<script type="text/javascript" src="./js/s3slider.js"></script>
+<script type="text/javascript" src="./js/jquery.corner.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $("#slider").s3Slider({
+            timeOut: 4000,
+            captionOpacity: 0.7            
+        });
+		/* for corner rounded top menu */
+		$('#top-navigation ul ul').corner("bottom");
+		
+    });
+</script>
+<!--[if IE 6]>
+<script src="http://demo.templatesquare.com/html/elegance/js/DD_belatedPNG.js"></script>
+<script>
+  DD_belatedPNG.fix('img, #logo');
+</script>
+<![endif]--> 
+<meta charset="UTF-8"></head>
+<body>
+
+<div id="wrapper">
+	<div id="container-top">
+		<div class="container">
+			<div id="top">
+				<div id="top-left">
+					<div id="logo"><img src="./images/logo.png" alt="" /></div><!-- end #logo -->
+				</div><!-- end #top-left -->
+				<div id="top-right">
+					<div id="top-search">
+					<form  method="get" action="">
+						<p><input type="text" name="s"  class="inputbox"/></p>
+					</form>
+					</div><!-- end #top-search -->
+					<div id="top-navigation">
+					<ul id="topnav">
+						<li><a class="current" href="./index.html">Home</a></li>
+						<li><a href="./about.html">About</a>
+							<ul>
+								<li><a href="./index.html">Home</a></li>
+								<li><a href="./about.html">About</a></li>
+								<li><a href="./portfolio.html">Portfolio</a></li>
+								<li><a href="./blog.html">Blog</a></li>
+								<li><a href="http://demo.templatesquare.com/html/elegance/single.html">Single</a></li>
+								<li><a href="./fullwidth.html">Full Width</a></li>
+								<li><a href="./contact.html">Contact</a></li>
+							</ul>
+						</li>
+						<li><a href="./portfolio.html">Portfolio</a></li>
+						<li><a href="./blog.html">Blog</a></li>
+						<li><a href="./contact.html">Contact</a></li>
+					</ul>
+					</div><!-- end #top-navigation -->
+				</div><!-- end #top-right -->
+			</div><!-- end #top -->
+			<div id="header">
+				<div id="header-slide">
+					<div id="slider">
+						<ul id="sliderContent">
+							<li class="sliderImage">
+								<img src="./images/slide1.jpg" alt="1" />
+								<div class="bottom">
+									<span class="title_slider">Exercitation ullamco</span><br />
+									<span class="desc_slider">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu... <a href="#">Read more &raquo;</a>									 
+									</span>
+								</div>
+							</li>
+							<li class="sliderImage">
+								<img src="./images/slide2.jpg" alt="2" />
+								<div class="bottom">
+									<span class="title_slider">Lorem ipsum dolor sit amet</span><br />
+									<span class="desc_slider"><a href="#">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. In at libero eu felis dignissim eleifend quis quis neque. Nam eleifend accumsan nibh et posuere. Cras vulputate tristique elementum. Aenean																				<a href="http://templatesquare.com">... Read more &raquo;</a>								 
+									</span>
+								</div>
+							</li>
+							<li class="sliderImage">
+								<img src="./images/slide3.jpg" alt="3" />
+								<div class="bottom">
+									<span class="title_slider">Consectetur adipiscing elit</span><br />
+									<span class="desc_slider">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at libero eu felis dignissim eleifend quis quis neque. Nam eleifend accumsan nibh et posuere. Cras vulputate tristique elementum. Aenean in							 
+									</span>
+								</div>
+							</li>
+							<li class="clear sliderImage"></li>
+						</ul>
+					</div>
+				</div><!-- end #header-slide -->
+			</div><!-- end #header -->
+			<div id="main">
+			 	<div id="content">
+				<div class="col1">
+				<h2>Who We Are</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non nisl feugiat ante viverra ullamcorper ut eget nisi. Donec adipiscing condimentum dolor eu volutpat. Nulla dolor ligula, aliquet in consequat quis, varius vel arcu. In eu varius arcu. Duis quam sem bibendum et<br/><a href="#">Read more&#8230;</a></p>
+				
+				</div>
+				<div class="col2">
+				<h2>What We Do</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non nisl feugiat ante viverra ullamcorper ut eget nisi. Donec adipiscing condimentum dolor eu volutpat. Nulla dolor ligula, aliquet in consequat quis, varius vel arcu. In eu varius arcu. Duis quam sem bibendum et<br/><a href="#">Read more&#8230;</a></p>
+				</div>
+				</div><!-- end #content -->
+				<div id="side-right">
+					<div class="widget-area">
+						<div class="widget-no-box">
+						<ul>
+							<li class="widget-container">
+							<h2 class="widget-title">Latest News</h2>
+							<ul class="newslist">
+								<li>
+								<span class="small">June 28, 2010</span><br />
+								<a href="#"><strong>Example Video Post</strong></a><br />
+								</li>
+								<li>
+								<span class="small">May 28, 2010</span><br />
+								<a href="#"><strong>Lorem ipsum dolor sit amet consectetur</strong></a><br />
+								</li>
+								<li>
+								<span class="small">April 28, 2010</span><br />
+								<a href="#"><strong>Praesent sed nisl lacus, vel gravida lectus</strong></a><br />
+								</li>
+							</ul>
+							</li>
+						</ul>
+						</div>
+					</div><!-- end widget-area -->
+				</div><!-- end #side-right -->
+				<div class="clear"></div><!-- clear float -->
+			</div>
+			<!-- end #main -->
+		</div><!-- end container -->
+	</div><!-- end #container-top -->
+	<div id="container-bottom">
+		<div class="container">
+			<div id="footer">
+				Copyright &copy;2010 Elegance Company. All rights reserved.
+			</div><!-- end #footer -->
+		</div><!-- end container -->
+	</div><!-- end #container-top -->
+</div><!-- end #wrapper -->
+
+</body>
+</html>

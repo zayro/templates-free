@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<configuration_site>
+	
+<!-- company name - title site -->	
+<COMPANY_NAME>COMPANY NAME - </COMPANY_NAME>
+
+<!-- attibutes title and swf adress -->
+<SWF_ADRESS_ATTRIB>label</SWF_ADRESS_ATTRIB>
+<SWF_TITLE_ATTRIB>label</SWF_TITLE_ATTRIB>
+	
+<!-- SITE SIZE -->	
+<NEW_STAGE_WIDTH>100%</NEW_STAGE_WIDTH>
+<NEW_STAGE_HEIGHT>100%</NEW_STAGE_HEIGHT>
+
+
+<!-- MENU -->  
+<MENU_PRIMARY>xml/menuPrimary.xml</MENU_PRIMARY>
+<MENU_VISIBLE>true</MENU_VISIBLE> <!-- true/false -->
+
+	
+	
+<!-- footer visible -->	
+<FOOTER_DESC><![CDATA[<body>© Copyright 2009 by Company Name. All Rights Reserved.   <a href="#/Gallery (image+video)/onlyimage/img_2">Main new Image - click</a>  </body>]]></FOOTER_DESC>	
+<FOOTER_VISIBLE>true</FOOTER_VISIBLE>	
+<FOOTER_COLOR>0x000000,90</FOOTER_COLOR>
+	
+
+
+<!-- PATHWAY FOR TEMPLATE STANDARD   -->
+<PATHWAY_TEMPLATE></PATHWAY_TEMPLATE>	
+	 
+<!--color  button shov/hide mp3 player -->
+<COLOR_BUTTON_SHOV_HIDE_PLAYER>0xB5B5B5,100</COLOR_BUTTON_SHOV_HIDE_PLAYER>
+
+
+<!--LOGO-->
+<LOGO_PATH>image/logo.png</LOGO_PATH> <!-- PATHWAY -->	
+<LOGO_REDIRECT>http://flashden.net/user/flashmaniac,_blank</LOGO_REDIRECT> <!-- REDIRECT  -->
+<LOGO_X>3</LOGO_X>
+<LOGO_Y>25</LOGO_Y>
+
+     
+<!-- PATHWAY FOR MP3 DATE-->
+<MP3_DATE>xml/mp3.xml</MP3_DATE>
+<MP3_VISIBLE>true</MP3_VISIBLE>  <!-- true/false -->
+
+<!-- BACKGROUND -->
+<DEFAULT_BACKGROUND>background/1.jpg</DEFAULT_BACKGROUND>
+<GRADIENT_COLOR></GRADIENT_COLOR> <!-- 0xFF0000 , 0xFFFFFF.....etc -->
+<GRADIENT_BACKGROUND>true</GRADIENT_BACKGROUND> <!--  true/false -->
+<SMOOTHING_BACKGROUND>true</SMOOTHING_BACKGROUND>	
+
+
+<!-- PRELOADER COLOR (color and alpha)-->
+<PRELOADER_BACKGROUND_COLOR>0x000000,70</PRELOADER_BACKGROUND_COLOR>	
+<PRELOADER_COLOR_TEXT>0xFFFFFF,100</PRELOADER_COLOR_TEXT>
+<PRELOADER_BAR_COLOR>0XFFFFFF,100</PRELOADER_BAR_COLOR>
+
+<!-- FIRST TEMPLATE (numbr id attributes in menuPrimary.xml -->
+<FIRST_ID>111</FIRST_ID>
+
+<!-- url for CSS -->
+<URL_CSS>css/global_styles.css</URL_CSS>
+	
+</configuration_site>
+
+

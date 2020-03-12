@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<configuration>
+		
+	
+<!-- BACKGROUND FORM -->
+<BACKGROUND_COLOR>0x000000,80</BACKGROUND_COLOR>
+
+<!-- color border error -->
+<COLOR_BORDER_ERROR>0Xff0000,100</COLOR_BORDER_ERROR>
+
+<!-- color border select -->
+<COLOR_BORDER_SELECT>0X7F7F7F,100</COLOR_BORDER_SELECT>
+
+<!-- background input text -->
+<BACKGROUND_INPUT_TEXT>0x000000,52</BACKGROUND_INPUT_TEXT>
+
+<!-- background color button send and reset -->
+<BUTTON_BCG_COLOR>0x000000,100</BUTTON_BCG_COLOR>
+	
+<!-- pathway php file -->
+<URLSEND>php/url_send.php</URLSEND>
+
+<!-- alert send==true -->
+<SENDTRUE>sendTrue</SENDTRUE>
+
+<!-- alert send = false -->
+<SENDFALSE>sendFalse</SENDFALSE>
+
+<!-- alert send==progress -->
+<SENDPROGRESS>sendProgress</SENDPROGRESS>
+
+<!-- button send -->
+<BUTTONSEND>SEND</BUTTONSEND>
+
+<!-- button reset -->
+<BUTTONRESET>RESET</BUTTONRESET>
+
+<!-- space y row -->
+<SPACEY>14</SPACEY>
+
+<!-- align button  R OR L -->
+<ALIGNBUTTON>L</ALIGNBUTTON>
+
+<!-- title color -->
+<TITLECOLOR>0xB9B9B9</TITLECOLOR>
+
+<!-- input color -->
+<INPUTCOLOR>0xCCCCCC</INPUTCOLOR>
+
+<!-- input background -->
+<INPUTBACKGRONDCOLOR></INPUTBACKGRONDCOLOR>
+
+<!-- border color input -->
+<BORDERCOLOR>0x535353</BORDERCOLOR>
+
+<!-- error color  -->
+<ERRORBORDERCOLOR>0xFF0000</ERRORBORDERCOLOR>
+
+<!-- alert color -->
+<ALERTCOLOR>0xCCCCCC</ALERTCOLOR>
+
+<!-- button text color -->
+<BUTTONTEXTCOLOR>0xFFFFFF</BUTTONTEXTCOLOR>
+
+<!-- color background button -->
+<BUTTONBACKGROUNDCOLOR></BUTTONBACKGROUNDCOLOR>
+
+<!-- position x -->
+<POSITION_X>125</POSITION_X>
+
+<!-- position y -->
+<POSITION_Y>97</POSITION_Y>
+
+<!-- your e-mail -->
+<SENDTO>your_email@o2.pl</SENDTO>
+
+<!-- headline e-mail -->
+<HEADLINE>Hello !</HEADLINE>
+
+
+	
+
+</configuration>
+
+

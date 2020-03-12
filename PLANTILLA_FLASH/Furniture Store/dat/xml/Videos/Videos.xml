@@ -1,0 +1,14 @@
+<DynamicWeb>
+	<Sections>
+		<data Img="dat/Images/Folio/img4.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Lorem ipsum</data>
+		<data Img="dat/Images/Folio/img2.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Commodo cons</data>
+		<data Img="dat/Images/Folio/img3.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Architecto beat</data>
+		<data Img="dat/Images/Folio/img.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Veritatis et</data>
+		<data Img="dat/Images/Folio/img2.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Architecto beat</data>
+		<data Img="dat/Images/Folio/img4.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Veritatis et</data>
+		<data Img="dat/Images/Folio/img.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Lorem ipsum</data>	
+		<data Img="dat/Images/Folio/img2.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Architecto beat</data>
+		<data Img="dat/Images/Folio/img4.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Veritatis et</data>
+		<data Img="dat/Images/Folio/img.jpg" video="dat/Videos/demo.flv" widthx="400" heightx="220"> Lorem ipsum</data>	
+	</Sections>
+</DynamicWeb>

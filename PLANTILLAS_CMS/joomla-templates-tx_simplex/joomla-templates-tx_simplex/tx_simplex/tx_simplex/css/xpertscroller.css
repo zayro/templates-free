@@ -1,0 +1,210 @@
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
+.clearfix,
+.clear {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after,
+.clear:before,
+.clear:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after,
+.clear:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.gfont-serif {
+  font-family: 'Gentium Book Basic', serif;
+}
+.gfont-noticia {
+  font-family: 'Noticia Text', serif;
+}
+.gfont-sans {
+  font-family: 'Open Sans', sans-serif;
+}
+.font-large {
+  font-size: 3em;
+  line-height: 1.3em;
+}
+.width-45 {
+  width: 45%;
+}
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.scroller {
+  position: relative;
+  overflow: hidden;
+}
+.scroller .items {
+  position: absolute;
+  clear: both;
+}
+.padding {
+  padding: 10px;
+}
+.scroller .item {
+  padding: 0;
+  text-align: center;
+}
+.item h4 {
+  font-size: 20px;
+  margin: 5px 0;
+}
+.item h4 a {
+  text-decoration: none;
+}
+.item .xs_category {
+  font-size: 12px;
+  color: #999;
+}
+.xs_intro {
+  font-size: 18px;
+  font-family: 'Noticia Text', serif;
+  color: #545454;
+}
+.scroller .item img {
+  background: #fff;
+  padding: 8px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+img.left {
+  float: left;
+  margin-right: 15px;
+  height: 100%;
+}
+img.right {
+  float: right;
+  margin-left: 15px;
+  height: 100%;
+}
+.scroller .items .active {
+  position: relative;
+  cursor: default;
+}
+.cloned {
+  display: none;
+}
+a.browse {
+  background: url(../images/hori_large.png) no-repeat -2px -1px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 1px;
+}
+.basic_h .items .pane {
+  float: left;
+}
+.basic_h .pane .item {
+  float: left;
+}
+.basic_h .scroller {
+  display: inline-block;
+  vertical-align: top;
+}
+.basic_h a.next {
+  background-position: -2px -34px;
+  clear: right;
+  margin-right: 0px;
+}
+.basic_h a.next:hover {
+  background-position: -37px -34px;
+}
+.basic_h a.next:active {
+  background-position: -37px -34px;
+}
+.basic_h a.prev {
+  margin-left: 0px;
+}
+.basic_h a.prev:hover {
+  background-position: -37px -1px;
+}
+.basic_h a.prev:active {
+  background-position: -37px -1px;
+}
+.basic_v .items {
+  width: 100%;
+}
+.basic_v a.browse {
+  margin: 5px auto;
+  display: block;
+}
+.basic_v .scroller {
+  margin: 0 auto;
+}
+.basic_v a.next,
+.basic_v a.prev {
+  background: url(../images/vert_large.png) no-repeat -2px -1px;
+  float: none;
+}
+.basic_v a.prev:hover {
+  background-position: -37px -1px;
+}
+.basic_v a.prev:active {
+  background-position: -37px -1px;
+}
+.basic_v a.next {
+  background-position: -2px -34px;
+}
+.basic_v a.next:hover {
+  background-position: -37px -34px;
+}
+.basic_v a.next:active {
+  background-position: -37px -34px;
+}
+a.disabled {
+  visibility: hidden !important;
+}
+.navi {
+  height: 24px;
+  text-align: center;
+  margin: 3px 0;
+}
+.navi a {
+  width: 29px;
+  height: 28px;
+  margin: 0 9px;
+  background: url(../images/navigator.png) -47px 0 no-repeat;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 1px;
+  cursor: pointer;
+}
+.navi a:hover {
+  background-position: 0 0;
+}
+.navi a.active {
+  background-position: 0 0;
+}

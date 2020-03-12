@@ -1,0 +1,26 @@
+<DynamicWeb>
+
+<Section head="NEWS &amp; EVENTS" btntxt="SHOW ALL NEWS" p="45" f="News" subf="subNews" subDisplay="off" lefthead="HOME" allp="95" css="home">
+		<data img="dat/Images/Home/project.jpg">
+			<title>Designer´s <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+		
+		
+		<data img="dat/Images/Home/project2.jpg">
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+		
+		<data img="dat/Images/Home/project.jpg">
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+		
+		<data img="dat/Images/Home/project3.jpg">
+			<title>Mercedes project 2011 <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+</Section>
+
+</DynamicWeb>

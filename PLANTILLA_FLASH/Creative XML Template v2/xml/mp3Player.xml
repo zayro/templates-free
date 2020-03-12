@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mp3player>
+
+	<variables>
+	
+		//AUTO PLAY (TRUE OR FALSE)//
+		<startPlaying>true</startPlaying>
+	
+		//SHOW ALBUM COVER (TRUE OR FALSE)//
+		<albumCoverPreview>true</albumCoverPreview>
+		
+		//PLAYLIST POSITION (TOP OR BOTTOM)//
+		<playlistPosition>top</playlistPosition>
+		
+		//SYMBOL AND SCRUBBER BAR COLOR//
+		<symbolsColor>0x009933</symbolsColor>
+		
+		//TEXT COLOR//
+		<textColor>0xFFFFFF</textColor>
+		
+		//PLAYLIST HIGHLIGHT COLOR//
+		<highlightColor>0x009933</highlightColor>
+	</variables>
+	
+	//TRACK - LOCATION OF MP3//
+	//IMAGE - LOCATION OF ALBUM THUMBS//
+	//SONG - DISPLAY TEXT//
+	<track>
+		<track>audio/song1.mp3</track>
+		<image>audio/cover1.jpg</image>
+		<song>Track one</song>
+	</track>
+	<track>
+		<track>audio/song2.mp3</track>
+		<image>audio/cover2.jpg</image>
+		<song>Track two</song>
+	</track>
+	<track>
+		<track>audio/song3.mp3</track>
+		<image>audio/cover3.jpg</image>
+		<song>Track three</song>
+	</track>
+	<track>
+		<track>audio/song4.mp3</track>
+		<image>audio/cover4.jpg</image>
+		<song>Track four</song>
+	</track>
+	<track>
+		<track>audio/song5.mp3</track>
+		<image>audio/cover5.jpg</image>
+		<song>Track five</song>
+	</track>
+</mp3player>

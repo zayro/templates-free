@@ -1,0 +1,101 @@
+body,
+body.home
+{
+  background-color:#dbdbdb;
+  color:#000000;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color:#014557;
+  border-color:#2b849b;
+}
+
+blockquote,
+q
+{
+  background-color:#f4f4f4;
+}
+
+code,
+pre
+{
+  border-color:#BBBBBB;
+}
+
+abbr,
+acronym
+{
+  border-color:#000000;
+}
+
+
+th, td
+{
+	border:1px solid #2C859C;
+}
+
+th
+{
+	background:#CAE8EA;
+	color:#014557;
+}
+
+td.alt,
+tr:nth-child(even) td
+{
+	background:#F5FAFA;
+}
+
+a
+{
+  color:#0c8eb0;
+}
+
+a:hover
+{
+  color:#225d6c;
+}
+
+#menu ul li a
+{
+  color:#9fd3ff;
+}
+
+#menu ul li a:hover
+{
+  color:#FFFFFF;
+}
+
+#menu ul li.selected a
+{
+  color:#FFFFFF;
+}
+
+#menu ul ul li a,
+#menu ul li.selected ul li a
+{
+  color:#2C859C;
+}
+
+#menu ul ul li a:hover,
+#menu ul li.selected ul li a:hover
+{
+  color:#000000;
+}
+
+.sidebar ul li a:hover
+{
+  color:#014557;
+}
+
+#footer,
+#footer a
+{
+  color:#a3a3a3;
+}
+
+#footer a:hover
+{
+  color:#5c5c5c;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<home logo="data/images/logo.png" 
+	  logo_y="20" 
+	  menu_y="70"
+	  menuItemDistance="16"
+	  section_y="180"
+	  menuRows= "4"
+	  menuColumnsWidth="200"
+      introNumbers = "3"
+	  swfPath="data/swf/">
+	  
+	  
+	<item title="home" color="0xCCCCCC" colorOver="0x666666" typology="swf" file="simple_page.swf"/>
+	<item title="simple page" color="0xCCCCCC" colorOver="0x666666" typology="swf" file="simple_page.swf"/>
+	<item title="list page" color="0xCCCCCC" colorOver="0x666666" typology="swf" file="list_page.swf"/>
+	<item title="video module" color="0x0099cc" colorOver="0x666666" typology="swf" file="video_page.swf"/>
+	<item title="video list" color="0x0099cc" colorOver="0x666666" typology="swf" file="video_list.swf"/>
+	<item title="gallery 1" color="0x0099cc" colorOver="0x666666" typology="swf" file="gallery1.swf"/>
+	<item title="gallery 2" color="0x0099cc" colorOver="0x666666" typology="swf" file="gallery2.swf"/>
+	<item title="external link" color="0xcccccc" colorOver="0x666666" typology="link" file="http://www.flashden.net"/>
+	<item title="contact" color="0xCCCCCC" colorOver="0x666666" typology="swf" file="contact.swf"/>
+	 
+</home>

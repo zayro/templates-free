@@ -1,0 +1,40 @@
+﻿<DynamicWeb>
+
+<!--
+p = 25 Section1 - Thumb Grid
+p = 35 & 95 Section2 - List 
+P = 45 Section3 - Description
+p = 55 Section4 - Text
+p = 65 Nothing
+p = 75 Section6 - Guest Book
+p = 85 Section7 - Contact
+p = 105 Section8 - All
+
+
+-->
+<Sections id="menu">
+		<Menu btnName="HOME" micon="dat/Images/Icons/icon1.jpg" p="15" f="Home" css="home" h="HOME" header="dat/Images/Header/image.jpg" Bimg="dat/Images/Big/img.jpg">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</Menu>
+		<Menu btnName="WORK" micon="dat/Images/Icons/icon2.jpg" p="25" f="Work" css="home" h="WORK" header="dat/Images/Header/image2.jpg" Bimg="dat/Images/Big/img2.jpg">Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</Menu>
+		<Menu btnName="CLIENTS" micon="dat/Images/Icons/icon3.jpg" p="25" f="Clients" css="home" h="CLIENTS" header="dat/Images/Header/image3.jpg" Bimg="dat/Images/Big/img3.jpg">Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</Menu>
+		<Menu btnName="ABOUT & CONTACT" micon="dat/Images/Icons/icon4.jpg" p="25" f="Info" css="home" h="INFORMATION" header="dat/Images/Header/image4.jpg" Bimg="dat/Images/Big/img4.jpg">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</Menu>
+		<Menu btnName="FEEDBACK" micon="dat/Images/Icons/icon5.jpg" p="25" f="Feedback" css="home" h="FEEDBACK"  header="dat/Images/Header/image5.jpg" Bimg="dat/Images/Big/img5.jpg">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Duis aute irure dolor in reprehenderit in voluptate velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</Menu>
+</Sections>
+
+<Sections id="logo">
+		<data>dat/Images/logo.png</data>		
+</Sections>
+
+<Sections id="fname">
+		<home f="clients"></home>
+		<home f="featuredproject"></home>
+		<home f="Case Study"></home>
+		<home f="download"></home>
+		<home f="support"></home>
+		<home f="contact"></home>
+</Sections>
+
+<Sections id="copy">
+		<data>(C) 2011.All Rrights Are Reserved.</data>
+</Sections>
+
+</DynamicWeb>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>MD Portfolio Site v1</title>
+<style type="text/css">
+<!--
+.generalText, p {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+}
+
+h1 {
+	font-size: 20px;
+	color: #000;
+}
+
+h2 {
+	font-size: 16px;
+	color: #900;
+	font-weight: normal;
+}
+
+ol {
+	line-height: 16px;
+}
+
+
+-->
+</style>
+</head>
+
+<body class="generalText">
+<h1>MD Portfolio Site v2</h1>
+<hr>
+<h2>Minimum Requirements: </h2>
+<ul>
+	<li>Flash 8</li>
+	<li>Text editor of your choice - Notepad or Text Edit work great - Don't use MS Word</li>
+	<li>A server to deploy the site in</li>
+	<li>The server must allow PHP 4 or higher for the contact form to work</li>
+	<li>(optional) - Photoshop CS if you want to use the included PSD templates</li>
+</ul>
+<hr>
+<h2>So What's New? </h2>
+<ul>
+	<li>Added main preloader to load entire site</li>
+	<li>You can now add multiple portfolios by simply adding xml files!</li>
+	<li>Portfolio images can now be enlarged when clicked on.</li>
+	<li>Navigate the portfolio by using your arrow keys</li>
+	<li>Added file-download script with easy to implement buttons</li>
+	<li>More robust error checking and reporting</li>
+</ul>
+<hr>
+<h2>Included are:</h2>
+<ul>
+	<li><strong>deploy</strong>
+		<ul>
+			<li><strong>js/</strong>swfobject.js</li>
+			<li><strong>pdf/</strong>FactSheet_MDPortfolio2.pdf</li>
+			<li><strong>php/</strong>mail_script.php</li>
+			<li><strong>portfolio/</strong>(pic1.jpg - pic14.jpg)</li>
+			<li><strong>swf/</strong>main.swf</li>
+			<li><strong>xml</strong>
+				<ul>
+					<li>port1.xml</li>
+					<li>port2.xml</li>
+					<li>port3.xml</li>
+					<li>port4.xml</li>
+					<li>port5.xml</li>
+				</ul>
+			</li>
+			<li>index.html</li>
+		</ul>
+	</li>
+	<li><strong>fla</strong>
+		<ul>
+			<li><strong>as</strong>
+				<ul>
+					<li>contact_form.as</li>
+					<li>file_download.as</li>
+					<li>full_browser.as</li>
+					<li>main.as</li>
+					<li>portfolio_section.as</li>
+					<li>portfolio_subNav.as</li>
+					<li>preload.as</li>
+					<li>site_main.as</li>
+				</ul>
+			</li>
+			<li><strong>classes/</strong>
+				<ul>
+					<li>AddButton.as</li>
+					<li><strong>com/mosesSupposes/fuse</strong></li>
+				</ul>
+			</li>
+			<li>main.fla</li>
+		</ul>
+	</li>
+	<li><strong>fonts</strong>
+		<ul>
+			<li>FFF_Harmony_Mac - Free font from <a href="http://www.fontsforflash.com/">Fonts For Flash</a></li>
+			<li>FFF_Harmony_PC - Free font from <a href="http://www.fontsforflash.com/">Fonts For Flash</a></li>
+			<li>Frucade Medium Extended - Free font from <a href="http://pixelfonts.style-force.net/">Semplice Pixel Fonts</a></li>
+			<li>Frucade Medium Regular - Free font from <a href="http://pixelfonts.style-force.net/">Semplice Pixel Fonts</a></li>
+		</ul>
+	</li>
+	<li><strong>psd</strong>
+		<ul>
+			<li>MD_PortfolioSite_ImageTemplate_v2.psd</li>
+			<li>MD_PortfolioSite_v2.psd</li>
+		</ul>
+	</li>
+	<li>MosesSupposes Fuse Engine: <a href="http://www.mosessupposes.com/fuse">www.mosessupposes.com/fuse</a></li>
+	<li>SWFObject: <a href="http://blog.deconcept.com/swfobject/">blog.deconcept.com/swfobject</a></li>
+</ul>
+<br/><br/>
+<hr>
+<h2>How to deploy the site: </h2>
+<p>
+I have tried my best to make the site as easily customizable as possible without adding too much complexity. Here's step-by-step instructions on how to get the site up and running!
+</p>
+<ol>
+	<li>In a text editor of your choice, open <strong>mail_script.php</strong>. You can find this file at: <em>deploy/php</em> and change the email address to your own.</li>
+	<li>Next, edit the XML files inside the XML folder <strong>(i.e. port1.xml)</strong>. You can find these files at: <em>deploy/xml</em> - change all portfolio information, including file names, titles, urls, and descriptions. <br/><em>Note: I have changed the way I'm handling these XML files, so just add UP TO 20 items per file and the template will take care of the rest.</em></li>
+	<li>Open <strong>main.as</strong>. You can find this file at: <em>fla/as</em>. Change highlight color, border size, sub nav options, and copyright notice to something of your choice. <br/>Further, if you're ready to deploy the site, <strong>you MUST set testMode to false!</strong></li>
+	<li>If you wish to add buttons to the site, open <strong>site_main.as</strong>, which can be found at <em>fla/as</em>, and follow the example on lines 159-165 - starting with <em>// ABOUT BUTTON</em>.
+	<li>(optional) - If you need to change the path to the class files (mosessupposes), open Publish settings, and click on Actionscript 2.0 to change your class path.</li>
+	<li>Save and publish your movie.</li>
+	<li>Upload <strong>ALL FILES INSIDE deploy FOLDER</strong> to your site and test. 
+</ol>
+<br/><br/>
+<hr>
+<h2>Customizing: </h2>
+<p>
+I have made every effort to make the site as easily customizable as I could. ALL Actionscript code has been centralized inside the <em>as</em> folder for easy access to it, and all graphics and assets have been organized to help you find your way. I have also carefully commented all Actionscript code and named every important layer.
+I have thoroughly tested the site and everything is working in its current state, so any customization is done at your own risk! I will be more than happy to help out as best I can - within reason. I cannot help you customize things to fit your specific needs <em>beyond the scope of these files</em>.
+</p>
+<p>
+It goes without saying that if you happen to find a bug in my files I will gladly help you crush it with merciless precision - but remember I can't always anticipate other people's coding practices, so please be patient. :) 
+</p>
+<p>So, having said all that...THANK YOU FOR YOUR PURCHASE!!! Good luck and hope you enjoy it!</p>
+</body>
+</html>

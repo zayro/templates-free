@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<gallery url_config="xml/configuration_slider.xml">
+
+	
+	<item picbig="image_slider/1.jpg" url="http://flashden.net/user/flashmaniac/portfolio" target="_blank">
+<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head><br><body>Phasellus suscipit orci non urna. Integer sapien libero, eleifend non, hendrerit eu, congue id, quam. In hac habitasse platea dictumst. Sed 
+libero. Quisque et nisi in augue condimentum ullamcorper. Nunc fringilla sem nec erat. Nulla leo tortor, vestibulum ac, egestas non, pharetra 
+a, enim. Nam eget magna ac justo pellentesque congue. Duis at libero. Integer commodo hendrerit odio. Proin sed mi.</body>	
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	<item picbig="image_slider/2.jpg"  url="http://flashden.net/user/flashmaniac/portfolio" target="_blank">
+<![CDATA[]]>	
+	</item>
+	
+	
+	
+	
+	
+	<item picbig="image_slider/3.jpg">
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head><br>Phasellus suscipit orci non urna. Integer sapien libero, eleifend non, hendrerit eu, congue id, quam.</body>]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+		<item picbig="image_slider/4.jpg">
+	<![CDATA[<body><head>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</head><br>Phasellus suscipit orci non urna. Integer sapien libero, eleifend non, hendrerit eu, congue id, quam. In hac habitasse platea dictumst. Sed 
+libero. Quisque et nisi in augue condimentum ullamcorper. Nunc fringilla sem nec erat. Nulla leo tortor, vestibulum ac, egestas non, pharetra 
+a, enim. Nam eget magna ac justo pellentesque congue. Duis at libero. Integer commodo hendrerit odio. Proin sed mi.	
+Etiam sagittis ligula sit amet nunc venenatis bibendum. Proin hendrerit adipiscing justo. Fusce ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim velit. <a href="http://www.flashden.net">Vestibulum malesuada metus vel velit.</a> Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed orci neque, aliquet eget, rutrum vel, vulputate et, sem. Donec porttitor.  Maecenas eros ipsum, aliquam nec, bibendum id, convallis sit amet, elit. Etiam tempus cursus nisi. 
+
+<head>Cu dolore repudiandae pro, ea est quas everti consetetur</head>
+Nec rebum commune praesent ad, vidisse feugiat ornatus vel at. Populo accommodare mei cu, eum eu graecis aliquyam. Ex duo iriure aliquid fuisset, vix at integre sapientem. Velit eligendi repudiare te sit, ei agam torquatos duo. Est in sumo inimicus, per id decore iriure docendi, vim sumo consequuntur voluptatibus id.
+</body>
+]]>	
+	</item>
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+</gallery>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+
+
+<configuration
+MENU_WIDTH="240"
+PADDING_LEFT="30"
+PADDING_RIGHT="20"
+PADDING_UP="130"
+PADDING_DOWN="50"
+COLOR_BACKGROUND_MENU="0x000000,90"
+text_color_out_1="0x646566"
+text_color_rol_1="0xFFFFFF"
+text_color_out_2="0x646566"
+text_color_rol_2="0xFFFFFF"
+text_color_out_3="0x646566"
+text_color_rol_3="0xFFFFFF"
+COLOR_SCROLL="0xFFFFFF,100" 
+COLOR_BACKGROUND_SCROLL="0x646566,100"
+COLOR_TITLE_MENU="0xCCCCCC"
+TITLE_MENU="M E N U"
+>
+</configuration>
+
+
+
+
+

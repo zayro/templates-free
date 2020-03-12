@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<mods 
+	navPadding="25" 
+	myLogo = "images/logo.png" 
+	multipleBackgrounds = "yes" 
+	backgroundImage1 = "images/background1.jpg"		backgroundThumb1 = "images/background_thumb1.jpg"	
+	backgroundImage2 = "images/background2.jpg"		backgroundThumb2 = "images/background_thumb2.jpg"	
+	backgroundImage3 = "images/background3.jpg"		backgroundThumb3 = "images/background_thumb3.jpg"	
+	backgroundMusic = "yes"
+	myMusic = "audio/adg3.com_crypticPsyche.mp3"
+	animationType = "slide"
+	navActiveColor = "0xFFFFFF"
+	navRollOverColor = "0x66CCFF"
+	content_BG_Color = "0x000000"
+	site_BG_Color = "0x000000"
+	/>
+	<footerInfo><![CDATA[<font color="#999999">© Copyright 2008 My Company, All Rights Reserved.   1 (800) 123-4567   124 Street Address Dallas, TX 75206</font>  <a href="http://www.flashden.net/">www.mycompany.com</a>]]></footerInfo>
+</config>

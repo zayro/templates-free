@@ -1,0 +1,8 @@
+<configuration
+imageWidth="590" 
+imageHeight="300"
+fadeSpeed="5"
+imageDuration="5"
+descriptionComeSpeed="1"
+descriptionTextBgTransparency="70"
+/>

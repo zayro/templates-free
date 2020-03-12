@@ -1,0 +1,12 @@
+<DynamicWeb>
+
+<Sections>
+		<data img="dat/Images/Products/thumb.jpg" videox="dat/Videos/movie001.flv" widthx="600" heightx="300">Justin Timberland</data>	
+		<data img="dat/Images/Products/thumb2.jpg" videox="dat/Videos/movie001.flv" widthx="550" heightx="300">Britney Spears</data>	
+		<data img="dat/Images/Products/thumb.jpg" videox="dat/Videos/movie001.flv" widthx="550" heightx="400">Ne-Yo</data>
+		<data img="dat/Images/Products/thumb.jpg" videox="dat/Videos/movie001.flv" widthx="600" heightx="300">Back Street Boys</data>	
+		<data img="dat/Images/Products/thumb2.jpg" videox="dat/Videos/movie001.flv" widthx="550" heightx="300">Love Song</data>	
+		<data img="dat/Images/Products/thumb.jpg" videox="dat/Videos/movie001.flv" widthx="550" heightx="400">Transformer</data>	
+
+</Sections>
+</DynamicWeb>

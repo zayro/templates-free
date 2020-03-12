@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<gallery url_config="xml/configuration_list.xml">
+
+	
+	
+<item picsmall="image_list/1_.jpg" redirect_to_menu_id="337">
+<intro><![CDATA[<body><head_newsy>Redirect to template gallery  (click back button in browser to come back here )</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+
+
+<item picsmall="image_list/1_.jpg" redirect_SwfAddress="/Portfolio/Design/design2/img_5">
+<intro><![CDATA[<body><head_newsy>Redirect to single image/move in gallery </head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+
+
+
+
+
+<item picsmall="image_list/2_.jpg" redirect_SwfAddress="/main contact">
+<intro><![CDATA[<body><head_newsy>Redirect to template contact</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+
+
+<item picsmall="image_list/5_.jpg" redirect_to_url="http://flashden.net,_blank">
+<intro><![CDATA[<body><head_newsy>Redirect URL (_blank)</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+
+<item picsmall="image_list/5_.jpg" redirect_to_url="http://flashden.net,_self">
+<intro><![CDATA[<body><head_newsy>Redirect URL (_self)</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+
+
+<item picsmall="image_list/5_.jpg">
+<intro><![CDATA[<body><head_newsy>No redirect</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci end</body>]]>
+</intro>
+</item>
+	
+	
+		
+	
+	
+	
+<item picsmall="image_list/3_.jpg" redirect_to_menu_id="339">
+			
+		
+<intro><![CDATA[<body><head_newsy>Redirect to template text</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+
+
+</item>
+	
+	
+	
+	
+<item picsmall="image_list/4_.jpg" redirect_to_menu_id="340">
+		
+<intro>
+<![CDATA[<body><head_newsy>Redirect to template book</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci
+</body>]]>
+</intro>
+		
+</item>
+	
+		
+
+
+	
+<item picsmall="image_list/5_.jpg" redirect_to_menu_id="341">
+	
+<intro><![CDATA[<body><head_newsy>Redirect to template slider</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+		
+</item>
+	
+
+<item picsmall="image_list/1_.jpg" redirect_to_menu_id="342">
+	
+<intro><![CDATA[<body><head_newsy>Redirect to template news</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+		
+</item>
+
+
+<item picsmall="image_list/2_.jpg" redirect_to_menu_id="3242">
+	
+<intro><![CDATA[<body><head_newsy>Redirect to template calendar</head_newsy><body><br>Morbi consectetuer mollis leo. Donec purus diam,imperdiet ut, lobortis id, porttitor quis, augue.Suspendisse a dui vitae ligula pretium convallis.Suspendisse a orci</body>]]>
+</intro>
+		
+</item>
+	
+
+	
+
+		
+	
+	
+</gallery>

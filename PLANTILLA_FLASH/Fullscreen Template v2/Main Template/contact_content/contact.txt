@@ -1,0 +1,3 @@
+&imageName=contact_content/contact.jpg&
+
+&contentText=<font color="#CCCC33">FULLSCREEN TEMPLATE V.2</font><br><br>123 Fake Street<br>Portland, OR, 97401<br><br><font color="#FF6699">T</font>  555.555.5555<br><font color="#FF6699">F</font>  555.555.5555<br><br><font color="#FF6699">E</font>  flash@flashden.net<br><br><font color="#CCCC33">LINKS</font><br><br><a href="http://www.flashden.net" target="_blank">  FlashDen</a><br><br><a href="http://www.thefwa.com" target="_blank">  FWA</a><br><br><a href="http://www.google.com" target="_blank">  Google</a><br><br><a href="http://www.yahoo.com" target="_blank">  Yahoo</a><br><br><font color="#996699">^Contact info read from external file^</font>&

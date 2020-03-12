@@ -1,0 +1,511 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	
+	<title>Documentation</title>
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+	</style>
+
+	
+</head>
+<body>
+<div class="container">
+	
+		<h3 class="center alt" style="margin-top:-30px;">Versatile Newsletter 2 - 9 layouts, modular system | Documentation v1.0 - 14 May 2010</h3>
+		
+		<br>
+				
+		<h1 class="center">Versatile Newsletter 2 </h1>
+		
+		<br>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Author Info<br><br>
+					Profile: <a href="http://themeforest.net/user/bitpub">themeforest.net/user/bitpub</a><br>
+					Website: <a href="http://www.bitpublimedia.ro/">www.bitpublimedia.ro</a><br>
+					Twitter: <a href="https://twitter.com/bitpub">twitter.com/bitpub</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my template. If you have any questions that are beyond the scope
+				 of this help file feel free to contact me using the form on my profile page. If you want to stay up to date with file updates
+				 and new releases, follow me on twitter or send me an email with your info and I will add you to my mailing list.
+				 Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="nav0">Table of Contents</h2>
+		<ol>
+			<li><a href="#nav1">(Re)Introduction to coding html emails</a></li>
+			<li><a href="#nav2">Folder structure</a></li>
+			<li><a href="#nav3">How to Create and edit a Versatile Html Email V2 template</a></li>
+		</ol>
+
+		<hr>
+		
+		<h2 id="nav1">(Re)Introduction to coding html emails - <a href="#nav0" class="clear">top</a></h2>
+		
+		<p>Email readers have little support for CSS so if you want to design an html email that renders constantly
+		 across different email clients then an XHTML &amp; CSS aproach to the design is wrong. 
+		 You need to go back to TABLE based layouts, using minimum CSS and only for presentation purposes.</p>
+		 
+		<p>I though it would be a good idea to start the documentation with a refresher on the topic that will
+		 make it easier to understand what is going on in the newsletters provided. Below you will find general
+		 guidlines, links to external references and example source code.  </p> 
+		
+		<h3>Designing layouts using tables:</h3>
+		<ul>
+			<li>Use <a href="http://www.w3schools.com/html/html_tables.asp">tables</a> for layouts</li>
+			<li>since the &lt;html&gt;, &lt;head&gt;, and &lt;body&gt; tags are generally stripped so as not to interfere with the email clients
+			 own code you should wrap the whole design in  a 100% width table and set the backgound you wanted the body to have to this table
+			 <pre>
+			 
+&lt;!-- wrapper table - needed as some readers strip the &lt;html&gt;, &lt;head&gt; and &lt;body&gt; tags --&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%" bgcolor="#E3E3E3" background="images/bg.png"&gt;
+&lt;tr&gt;&lt;td&gt;
+
+...
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;!-- end wrapper table--&gt;
+			 </pre>
+			 
+			 </li>
+			
+			<li>the width of the actual content should be 600px max so the email can be viewed in the majority of email clients without the need
+			 to horizontal scroll
+			 <pre>
+			 
+&lt;table cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff" bordercolor="#d6d6d6"
+border="1" rules="none" frame="border"  align="center" class="main-content-wrap"&gt;&lt;tr&gt;&lt;td&gt;
+
+// newsletter content here
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; 
+			 </pre>
+			 
+			 </li>
+			
+			<li>if you want to set background images use the "background" attribute of tables rather then CSS. Make sure to set a background
+			 color using "<a href="http://www.w3schools.com/tags/att_table_bgcolor.asp">bgcolor</a>" that allows the text to be read in case
+			 the background you set isn't loaded
+			 <pre>
+			 
+&lt;table cellpadding="0" cellspacing="0" width="100%" <span class="highlight">bgcolor="#E3E3E3" background="images/bg.png"</span>&gt;			 
+			 </pre>
+			 </li>
+			 
+			<li>to align content inside a table cell (&lt;td&gt;) make use of the valign and align attributes
+			<pre>
+			
+&lt;td width="352" <span class="highlight">valign="top" align="left"</span>&gt;		
+			</pre>
+			<ol>
+				<li><strong><a href="http://www.w3schools.com/tags/att_td_valign.asp">valign</a></strong> - specifies the vertical alignment of the content in a cell.
+				Most of the cases you want it set to "top". Default value is "middle". </li>
+				<li><strong><a href="http://www.w3schools.com/tags/att_div_align.asp">align</a></strong> - specifies the horizontal alignment of the content inside a
+				 cell. Default value is "left" so you have to use it only when you want the text to be centered or aligned right</li>
+			</ol>
+			</li>
+			
+			<li>images are blocked by default in some email clients so make sure to set "width", "height" and "alt" so the design doesn't break. If you want to align a image left or right use the &lt;img&gt; tags "<a href="http://www.w3schools.com/tags/att_img_align.asp">align</a>" attribute along with the "<a href="http://www.w3schools.com/tags/att_img_hspace.asp">hspace</a>" attribute to create some whitespace on the left and right side of an image.
+			<pre>
+			
+&lt;img src="template-1/540x300.jpg" <span class="highlight">width="540" height="300" alt=""</span>&gt;
+
+
+&lt;img src="template-1/540x300.jpg" width="540" height="300" <span class="highlight">align="right" hspace="10"</span> alt=""&gt;		
+			</pre>
+			</li>
+			
+			<li>the "<a href="http://www.w3schools.com/tags/att_td_colspan.asp">colspan</a>" attribute is not widely suported  so it is recommended
+			 that you don't use it</li>
+			
+			<li>besides the wrapper tables try not to nest tables or make very complicated ones. Use a stacking system instead (more about it later
+			 in the documentation).</li>
+		</ul>		
+
+		<h3>Using CSS in newsletters</h3>	
+		<ul>
+			<li>don't link to an external stylesheet but use embedded css or even better inline css</li>
+					
+			<li>if you use embedded css make sure you define &lt;style type="text/css"&gt; /*  your css */ &lt;/style&gt;under the &lt;body&gt;
+			 tag. Also email readers consider that a  newline starting with the character . (dot) is the end of the email. So if you define
+			 classes make sure to add a space before the declaration.</li>
+					
+			<li>use inline css &lt;p style="...."&gt; to make sure that the css works in every reader. I'll present a easy way to work
+			 with embedded CSS while designing the html  email and then switch it to  inline css almost instantly just before sending it out.</li>
+			
+			<li>do not use CSS short hand</li>
+			
+			<li>&lt;div&gt;'s are not suported and you should not use them</li>
+			
+			<li>&lt;span&gt;'s being inline elements are suported and are useful</li> 
+			
+			<li>use basic css. check <a href="http://www.campaignmonitor.com/css/">http://www.campaignmonitor.com/css/</a> to see exactly
+			 what css is suported by email clients</li> 			
+		</ul>
+		
+		<hr>
+		
+		<h2 id="nav2">Folder structure - <a href="#nav0" class="clear">top</a></h2>
+
+		<img src="assets/images/2.jpg" alt="folder structure" class="float-left" width="269">
+
+		<p>The package contains:</p>
+		
+		<ul>
+			<li>/documentation - contains the help file you are reading now</li>
+			
+			<li>/png-psd-sources - psd and png sources + individual layers</li>
+			
+			<li>/layout-creation - contains all the files needed to create a layout.</li>  
+				
+			<li>/layouts-embeded-css - 9 predifined layouts with the css embedded </li>
+		
+			<li>/layouts-inline-css - 9 predifined layouts with the css inlined</li>
+		</ul>
+	
+
+		<hr>
+		
+		<h2 id="nav3">How to Create and edit a Versatile Html Email V2 template - <a href="#nav0" class="clear">top</a></h2>
+		
+		<h3>Introducing the Step by Step Newsletter Creator System</h3>
+		
+		<p>As I mentioned before in the documentation it is always prefered to stack more tables one under the other
+		then nesting them or creating very complicated table structures as it reduces the risk of the layout breaking in the email clients.</p>
+		
+		<p>Starting from this principle I created a modular newsletter system, composed of:</p>
+		
+		<ol>
+			<li>The Base file. It contains the general newsletter layout + the table which would hold the newsletter content.</li>
+			<li>The Modules. - The term module is used to describe a pre-made table structure. Starting from a base &lt;td&gt; width of 120px
+			 and 166px and using spacers, 10 modules with different colomn structures have been created. The will hold the actual content
+			 and will be stacked inside the table specially created for this purpose from the base file. </li>
+		</ol>
+		
+		<p>So, creating a layout is as simple as staking different modules in the main content section of a base file template,
+		 customizing the css to your liking and then transforming the embedded css to inline css. This last step can be
+		 automated using html Premailer, a free service found at <a href="http://premailer.dialect.ca/">http://premailer.dialect.ca/</a></p>
+		
+		<p>To make things even easier I created some helper pages from where you can copy paste the source code for modules and base files, get
+		dummy text, placeholder images of various sizes and examples of the tags and classes you have available to put the content in the newsletter.
+		This greatly reduces the time needed to create a layout and also allows you to build a whole layout, that you can be sure work fine in most
+		email clients, <strong>without having to write a single of code</strong>.
+		</p>
+		
+		<p class="highlight"><strong>I call it the Step by Step Newsletter Creator System and you can acces it here:
+		 <a href="../layout-creation/00-start.html" target="_blank">../layout-creation/00-start.html</a></strong></p> 
+		 
+		<p>It has 4 simple steps:</p>
+		
+		<ol>
+			<li>Choose a base file + customize it if needed</li>
+			<li>Stack as many modules as needed to create the desired layout</li>
+			<li>Add the actual content in the modules</li>
+			<li>Finish - host iamges, inline css etc</li>
+		</ol> 
+		
+		<p>We will go over every step in detail, below. </p>
+		
+		<h3 id="nav31">Step 01. Select a Base File</h3>
+		
+		<ul>
+			<li>The base file is basically the shell that will hold the modules that will contain the actual newsletter content.</li>
+			<li>Choose a base file from the ones on the page, then copy the source code from the textarea just beneath it</li>
+			<li>Save the source code as a new html file directly in the <b>/layout-creation</b> folder as it depends on some images contained
+			in the subfolders <b>/layout-creation/images</b> and <b>/layout-creation/placeholders</b></li>
+		</ul>
+
+		<p>How to customize a base file:</p>
+			
+		<img src="assets/images/3.png" width="780" height="600" alt="">
+		<br><br>
+		
+		<ol start="0">
+			<li>Customize the background/ background color:<br>
+			To change the background color change the <em>bgcolor</em> and <em>background</em> values of &lt;body&gt; and the wrapper table:
+			<pre>
+&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" <span class="highlight">bgcolor="#E3E3E3" background="images/bg.png"</span>&gt;
+
+&lt;!-- wrapper table - needed as some readers strip the &lt;html&gt;, &lt;head&gt; and &lt;body&gt; tags --&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%" <span class="highlight">bgcolor="#E3E3E3" background="images/bg.png"</span>&gt;&lt;tr&gt;&lt;td&gt;			
+			</pre>
+			</li>
+			
+			<li>Customize the view in mobile devide / browser text:
+			<pre>
+&lt;p&gt;
+	Mobile version &lt;a href="http://www.site.com/mobile"&gt;here&lt;/a&gt;.&lt;br&gt;
+	To view hosted version click &lt;a href="http://www.site.com/hosted"&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+			</pre>
+			and css
+			<pre>
+.view-mobile-browser{ line-height:14px; font-size:11px; }
+	.view-mobile-browser a{ color:#3a3a3a; }
+			</pre>	
+			</li>
+			
+			<li>Customize the view or website text
+			<pre>
+&lt;p&gt;
+	Visit our website
+	&lt;br&gt;&lt;a href="http://www.site.com/"&gt;www.YourWebsite.com&lt;/a&gt;
+&lt;/p&gt;
+			</pre>
+			and css
+			<pre>
+.ourwebsite{ line-height:14px; font-size:11px; }
+	.ourwebsite a{ font-weight:bold; }
+			</pre>
+			</li>
+			
+			<li>Customize the logo:<br>
+			Open the file logo.png in the <strong>/png-psd-sources/individual-layers</strong> folder<br>
+			Edit it with gimp, photoshop or fireworks, save it as a jpg in <strong>/layout-creation/images</strong> and link to it's location
+			<pre>
+&lt;a href="http://www.site.com/"&gt;&lt;img <span class="highlight">src="images/logo.jpg" width="182" height="57"</span> border="0" alt=""&gt;&lt;/a&gt;			
+			</pre>
+			</li>
+			
+			<li>Customize the menu / slogan
+			<pre>
+&lt;p&gt;
+	  &lt;a href="http://www.site.com/"&gt;Lementu&lt;/a&gt;
+	| &lt;a href="http://www.site.com/"&gt;Donecos&lt;/a&gt;
+	| &lt;a href="http://www.site.com/"&gt;Sagittis&lt;/a&gt;
+	| &lt;a href="http://www.site.com/"&gt;Lorem  &amp;amp; Pellentes&lt;/a&gt;
+&lt;/p&gt;			
+			</pre>
+			and css
+			<pre>
+.menu-or-slogan{}
+	.menu-or-slogan a{ color:#3a3a3a; text-decoration:underline; }
+			</pre>
+			</li>
+			
+			<li>Customize the main content section<br>
+			5.1 Change the border or remove it
+			<pre>
+&lt;table cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff" <span class="highlight">bordercolor="#d6d6d6"   
+border="1" rules="none" frame="border"</span>  align="center" class="main-content-wrap"&gt;&lt;tr&gt;&lt;td&gt;
+
+...
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;			
+			</pre>
+			and css
+			<pre>
+.main-content-wrap{ <span class="highlight">border-width: 1px 1px 1px 1px; border-spacing: 0px; border-style: solid solid solid solid; 
+border-color: #d6d6d6 #d6d6d6 #d6d6d6 #d6d6d6; border-collapse: collapse;</span> background-color: #ffffff; }
+			</pre>
+			
+			5.2 Change background color
+			
+			<pre>
+&lt;table cellpadding="0" cellspacing="0" width="600" <span class="highlight">bgcolor="#ffffff"</span> bordercolor="#d6d6d6"   
+border="1" rules="none" frame="border"  align="center" class="main-content-wrap"&gt;&lt;tr&gt;&lt;td&gt;
+
+...
+
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;			
+			</pre>
+			and css
+			<pre>
+.main-content-wrap{ border-width: 1px 1px 1px 1px; border-spacing: 0px; border-style: solid solid solid solid; 
+border-color: #d6d6d6 #d6d6d6 #d6d6d6 #d6d6d6; border-collapse: collapse; <span class="highlight">background-color: #ffffff;</span> }
+			</pre>
+			<p>Note: If you change the background color from white you will have to edit the module dividers and content spacers
+			to make them match the new color.</p>
+			</li>
+			
+			<li>Modify the social media
+			<pre>
+&lt;table cellpadding="0" cellspacing="0" bgcolor="#efefef" class="social"&gt;
+&lt;tr&gt;
+	
+	&lt;td width="30"  height="45" valign="middle"&gt;&amp;nbsp;&lt;/td&gt;
+	
+	&lt;td width="120" height="45" valign="middle"&gt;&lt;b&gt;Connect with us:&lt;/b&gt;&lt;/td&gt;
+	
+	&lt;td width="25"  height="45" valign="middle"&gt;
+		&lt;a href="http://www.wordpress.com/" title=""&gt;&lt;img src="images/social/wordpress.png" width="24" height="24" border="0" alt=""&gt;&lt;/a&gt; 	 
+	&lt;/td&gt;
+	&lt;td width="88"  height="45" valign="middle"&gt;
+		&amp;nbsp;&amp;nbsp;&lt;a href="http://www.wordpress.com/" title=""&gt;Our Blog&lt;/a&gt;
+
+	&lt;/td&gt;
+	
+	&lt;td width="25"  height="45" valign="middle"&gt;
+		&lt;a href="http://www.facebook.com/" title=""&gt;&lt;img src="images/social/facebook.png" width="24" height="24" border="0" alt="" &gt;&lt;/a&gt;	 
+	&lt;/td&gt;
+	&lt;td width="88"  height="45" valign="middle"&gt;
+		&amp;nbsp;&amp;nbsp;&lt;a href="http://www.facebook.com/" title=""&gt;Facebook&lt;/a&gt;
+	&lt;/td&gt;
+	
+	&lt;td width="25" height="45" valign="middle"&gt;
+		&lt;a href="http://www.linkedin.com/" title=""&gt;&lt;img src="images/social/linkedin.png" width="24" height="24" border="0" alt=""&gt;&lt;/a&gt;	 
+	&lt;/td&gt;
+
+	&lt;td width="88" height="45" valign="middle"&gt;				 
+		&amp;nbsp;&amp;nbsp;&lt;a href="http://www.linkedin.com/" title=""&gt;LinkedIn&lt;/a&gt;				
+	&lt;/td&gt;
+	
+	&lt;td width="25" height="45" valign="middle"&gt;
+		&lt;a href="http://www.twitter.com/" title=""&gt;&lt;img src="images/social/twitter.png" width="24" height="24" border="0" alt=""&gt;&lt;/a&gt; 	 
+	&lt;/td&gt;
+	&lt;td width="88" height="45" valign="middle"&gt;
+		&amp;nbsp;&amp;nbsp;&lt;a href="http://www.twitter.com/" title=""&gt;Twitter&lt;/a&gt;
+	&lt;/td&gt;
+
+	
+&lt;/tr&gt;
+&lt;/table&gt;			
+			</pre>
+			and css
+			<pre>
+.social{ border-top:1px solid #D0D0D0; border-bottom:1px solid #D0D0D0; }
+	.social a{ color:#3a3a3a; text-decoration:none; }
+			</pre>
+			<p>You will find more social media icons in <strong>layout-creation/images/social</strong></p>
+			</li>
+			
+			<li>Customize the company Info
+			<pre>
+&lt;p&gt;
+	&lt;b&gt;YourCompany&lt;/b&gt;, Some Adress
+	&lt;br&gt; Some City, XY 305, Some Country
+	&lt;br&gt;T: +1 234 567 8910
+	&lt;br&gt;E: &lt;a href="mailto:office@yoursite.com"&gt;office@yoursite.com&lt;/a&gt;
+&lt;/p&gt;			
+			</pre>
+			and css
+			<pre>
+.companyinfo{}
+	.companyinfo a{}
+			</pre>
+			</li>
+			
+			<li>Customize the subscription options
+			<pre>
+&lt;p&gt;
+   This newsletter was sent to mail@asite.com
+   &lt;br&gt;from YourCompany because you subscribed
+   &lt;br&gt;&lt;a href="http://www.site.com/"&gt;Unsubscribe instantly&lt;/a&gt; 
+   | &lt;a href="http://www.site.com/"&gt;Forward to a friend&lt;/a&gt;
+&lt;/p&gt;			
+			</pre>
+			and css
+			<pre>
+.subscription{}
+	.subscription a{}
+			</pre>
+			</li>
+			
+			<li>Customize the copyright Info
+			<pre>
+&lt;p&gt;&amp;copy; 2010 &lt;b&gt;Your Company&lt;/b&gt;. All rights reserved.&lt;/p&gt;		
+			</pre>
+			and css
+			<pre>
+.copyright{}
+	.copyright a{ color:#565656; text-decoration:none; }
+			</pre>
+			</li>
+			
+		</ol>
+		
+		<br>
+		<h3>Step 02. Add Modules + Module Dividers</h3>
+		
+		<ul>
+			<li>The term <b>module</b> is used to describe a pre-made table structure </li>
+			<li>Starting from a base &lt;td&gt; width of 120px and 166px and using spacers, 10 modules with different colomn structures have been created</li>
+			<li>So, creating any email layout is as simple as stacking as many modules as needed.</li>
+			<li>Module dividers should be used to create space between the modules</li>
+			<li>Copy the source code in the previously saved base file, right below the comment <b>&lt;!-- START MAIN CONTENT. ADD MODULES BELOW --&gt;</b></li>
+		</ul>
+
+		<h3>Step 03. Add Content</h3>
+		
+		<ul>
+		<li>Add the content in the modules using &lt;h1&gt; -&gt; &lt;h4&gt;, &lt;p&gt;, &lt;a&gt;, &lt;ul&gt;,&lt;img&gt; etc.</li>
+		<li>Use &lt;b&gt; instead of &lt;strong&gt; and &lt;i&gt; instead of &lt;em&gt;</li>
+		<li>Use <span class="highlight">&lt;span class="shout"&gt; ... &lt;/span&gt;</span> to make a text stand out and 
+		<span class="highlight">&lt;span class="silence"&gt; ... &lt;/span&gt;</span> to make it bland in</li>
+		<li>In the <strong>/layout-creation/placeholders</strong> folder you will find placeholder images of different sizes. Use them to quickly mock up</li>
+		<li>To align text you have available the classes: <span class="highlight">.text-align-center</span> and <span class="highlight">.text-align-right</span></li>	
+		<li>If you have to align pictures use both the align attribute as well as <span class="highlight">class="img-left-aligned" and class="img-right-aligned"</span>.
+		You can change the way these elements look in the <&lt;style&gt;> section.</li>
+		<li>Sometimes you will need to make use of <strong>&lt;br&gt;</strong> elements to align and separate content.</li>
+		</ul>
+		
+		<h3>Step 04. Inline css + Finish</h3>
+		
+		<ul>
+			<li><p>Transform the embedded Css to inline Css<br>
+			
+			This will ensure the css is used by the majority of client email readers.<br>
+	
+			The way to do this is:</p>
+	
+			<p>1. Change in the code each class="" with style="... the rules in the class definition int the header ..."<br>
+	
+
+ex. <span class="highlight">&lt;img src="200x150px.jpg" width="200" height="150" alt="" align="right" <strong>class="img-right-aligned"</strong>&gt;</span> becomes
+<span class="highlight">&lt;img src="200x150px.jpg" width="200" height="150" alt="" align="right" <strong>style="margin-left:20px; margin-top:0px; margin-bottom:5px; margin-top:5px;"&gt;</strong></span></p>
+
+			<p>2. If you have general rules in the css you must add them to every tag:<br>
+		
+		ex.  in the css<br>
+				
+			table{ color:#666666; font-family:Arial, sans-serif; font-size:12px; line-height:20px; }<br>	
+			   in the html	<br>
+
+			 &lt;table width="600" cellpadding="0" cellspacing="0" border="0" align="center"&gt;<br>	
+			   becomes<br>
+			&lt;table width="600" cellpadding="0" cellspacing="0" border="0" align="center" style="color:#666666; font-family:Arial, sans-serif; font-size:12px; line-height:20px;"&gt;</p>
+			
+			<p>Once finish you should delete the &lt;head&gt;&lt;/head&gt; section completly. Make sure the page still works.</p>
+		
+			<p>Needless to say this is a painstaking process. Luckily there is an free online service that does all of this automatically;
+			 it is called premailer and is found as  <a href="http://premailer.dialect.ca/">http://premailer.dialect.ca/</a></p>
+
+		
+			<p>Visit the page, select "Use HTML as the source" and copy paste your code that has the CSS embedded in the &lt;head&gt; section.
+			 It will create a version with the css inlined.</p>
+
+			</li>
+			
+			<li>Load all your images on a webserver and change the paths in the html to absolute paths.<br>
+			</li>
+			
+			<li>Send the html email with your favorite application or online services like Campaign Monitor and Mail Chimp.<br>
+
+			</li>				
+		</ul>
+		
+		<hr>
+		
+	</div><!-- end div .container -->
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿<DynamicWeb>
+
+<Section head="DOWNLOADS" p="95" f="Work" subf="downloads" subDisplay="on" lefthead="WORK">
+		<data img="dat/Images/Home/img6.jpg">
+			<title><title>Mercedes project 2011 </title> <font color="#FF0066">New</font></title>
+			<des>Lorem Ipsum Dolor Sit Amet, Vonsectetur Adipisicing Elit.</des>
+		</data>	
+</Sections>
+
+</DynamicWeb>

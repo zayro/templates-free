@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+
+<menu name="ABOUT ME" swf="about_us.swf" link="http://www.flashden.net" background="background/1.jpg"/>
+<menu name="PHOTO GALLERIES" swf="gallery.swf" link="http://www.flashden.net" background="background/2.jpg"/>
+<menu name="VIDEO GALLERIES" swf="videoGallery.swf" link="http://www.flashden.net" background="background/3.jpg"/>
+<menu name="VIDEO PLAYER" swf="videoPlayer.swf" link="http://www.flashden.net" background="background/4.jpg"/>
+<menu name="NEWS" swf="news.swf" link="http://www.flashden.net" background="background/5.jpg"/>
+<menu name="CONTACT" swf="contact.swf" link="http://www.flashden.net" background="background/6.jpg"/>
+<menu name="LINK" swf="" link="http://www.flashden.net" background="background/7.jpg"/>
+
+</menu>

@@ -1,0 +1,7 @@
+﻿<DynamicWeb>
+	<Sections>
+		<data Img="dat/Images/Folio/img.jpg" bgf="bgf" namex="Ipsum">Lorem ipsum<br/>5</data>
+		<data Img="dat/Images/Folio/img2.jpg" bgf="bgf2" namex="Laboriosam">Laboriosam<br/>2</data>
+		<data Img="dat/Images/Folio/img3.jpg" bgf="bgf" namex="Veritatis">Commodo cons<br/>7</data>
+	</Sections>
+</DynamicWeb>

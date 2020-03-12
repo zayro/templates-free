@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+	<settings
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_clips_back_ground_color = "0xfaf6f7"
+		setting_caption_back_ground_color = "0xffffff"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xfaf6f7"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<items>
+		<item 
+			item_title = "INTERIOR DESIGN"
+			item_xml = "xml/gallery_1.xml"
+			item_thumb = "portfolio/thumbs/galleries/01.jpg"
+			item_caption = "Lorem ipsum dolor sit amet, consectetur adipisici elit sed eiusmod tempor ..."
+			item_slide_show_interval_duration = "5000"
+			item_slide_show_autostart = "true"
+		/>
+		<item 
+			item_title = "SUNGLASSES"
+			item_xml = "xml/gallery_2.xml"
+			item_thumb = "portfolio/thumbs/galleries/02.jpg"
+			item_caption = "Lorem ipsum dolor sit amet, consectetur adipisici elit sed eiusmod tempor incidunt ..."
+			item_slide_show_interval_duration = "5000"
+			item_slide_show_autostart = "true"
+		/>
+		<item 
+			item_title = "ARCHITECTURE"
+			item_xml = "xml/gallery_1.xml"
+			item_thumb = "portfolio/thumbs/galleries/03.jpg"
+			item_caption = "Lorem ipsum dolor sit amet, consectetur adipisici elit sed eiusmod tempor incidunt ut ..."
+			item_slide_show_interval_duration = "5000"
+			item_slide_show_autostart = "true"
+		/>
+		<item 
+			item_title = "FASHION"
+			item_xml = "xml/gallery_2.xml"
+			item_thumb = "portfolio/thumbs/galleries/04.jpg"
+			item_caption = "Lorem ipsum dolor sit amet, consectetur adipisici elit sed eiusmod tempor ..."
+			item_slide_show_interval_duration = "5000"
+			item_slide_show_autostart = "true"
+		/>
+	</items>
+</portfolio>

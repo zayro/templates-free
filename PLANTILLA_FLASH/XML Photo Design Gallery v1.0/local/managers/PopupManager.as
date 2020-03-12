@@ -1,0 +1,1 @@
+﻿package local.managers{	import local.display.Popup;		public class PopupManager extends Object	{		public static var popup: Popup;				public static function show(url: String) : void		{			popup.show(url);		}				public static function hide() : void		{			popup.hide();		}	}}

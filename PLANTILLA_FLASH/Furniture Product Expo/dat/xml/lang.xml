@@ -1,0 +1,13 @@
+<DynamicWeb>
+
+<Sections>
+		<data lang="en" f="en">CHANGE LANGUAGE</data>
+		<data lang="it" f="fr">CAMBIA LINGUA</data>		
+		<data lang="de" f="en">Spracheänderung</data>
+		<data lang="fr" f="fr">changer la langue</data>
+		<data lang="es" f="en">cambio idioma</data>
+
+		<data lang="pt" f="fr">tradução</data>
+</Sections>
+
+</DynamicWeb>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+
+
+
+<data>
+	
+	
+	<!-- background book (in browser -->
+	<BACKGROUND_BOOK></BACKGROUND_BOOK>	
+	<!-- Stage width -->
+	<STAGE_WIDTH>Stage.width</STAGE_WIDTH>
+	<!-- Stage height -->
+	<STAGE_HEIGHT>Stage.height</STAGE_HEIGHT>
+	<!-- page width (width image/swf etc) -->
+	<PAGE_WIDTH>300</PAGE_WIDTH> 
+	<!-- page height -->
+    <PAGE_HEIGHT>426</PAGE_HEIGHT>
+	<!-- frame sheet -->
+	<FRAME_SHEET>20</FRAME_SHEET>
+	<!-- color frame sheet -->
+	<COLOR_FRAME>0x1D1D1D</COLOR_FRAME>
+	<!-- color background sheet (if not loaded page) , optional - transparent -->
+	<COLOR_BACKGROUND>0x1D1D1D</COLOR_BACKGROUND>
+	<!-- COLOR_BACKGROUND_ONLOADPAGE  (if on loaded page)  , optional - transparent -->
+	<COLOR_BACKGROUND_ONLOADPAGE>0x1D1D1D</COLOR_BACKGROUND_ONLOADPAGE>
+	<!-- padding button next/prev for book -->
+	<BUTTON_PADDING_UP>15</BUTTON_PADDING_UP>
+	<!-- color number page -->
+	<COLOR_NUMBER_PAGE>0xCCCCCC</COLOR_NUMBER_PAGE>
+	<!-- visible number page -->
+	<VISIBLE_NUMBER_PAGE>true</VISIBLE_NUMBER_PAGE>	
+	<!-- color button prev/next -->
+	<COLOR_BUTTON_NEXT_PREV>0xFFFFFF</COLOR_BUTTON_NEXT_PREV>
+	<!-- COLOR BACKGROUND BUTTON NEXY AND PREV -->
+	<COLOR_BCG_BUTTON_NEXT_PREV>0x000000</COLOR_BCG_BUTTON_NEXT_PREV>
+	<!-- BUTTON PREV LABEL -->
+	<BUTTON_PREV_LABEL>PREVIOUS</BUTTON_PREV_LABEL>
+	<!-- BUTTON NEXT LABEL -->
+	<BUTTON_NEXT_LABEL>NEXT</BUTTON_NEXT_LABEL>
+	<!-- PRELOADER_MULTIPLE_TEXT_COLOR -->
+	<PRELOADER_MULTIPLE_TEXT_COLOR>0xffffff</PRELOADER_MULTIPLE_TEXT_COLOR>
+	<!-- PRELOADER_MULTIPLE_BACKGROUND_COLOR -->
+	<PRELOADER_MULTIPLE_BACKGROUND_COLOR>0x000000</PRELOADER_MULTIPLE_BACKGROUND_COLOR>
+	<!-- FIRST visible PAGE -->
+	<FIRST_VISIBLE_PAGE>1</FIRST_VISIBLE_PAGE>
+	
+	<!-- manager page number -->
+	<!-- visible number page menedzer -->
+	<VISIBLE_MANAGER_PAGE>true</VISIBLE_MANAGER_PAGE>	
+	<!-- COLOR BACKGROUND MANAGER -->
+	<BACKGROUND_COLOR_MANAGER>0x1D1D1D</BACKGROUND_COLOR_MANAGER>
+	<!-- color text input -->
+	<COLOR_INPUT_MANAGER>0xFFFFFF</COLOR_INPUT_MANAGER>	
+	<!-- color border input -->
+	<COLOR_BORDER_INPUT_MANAGER>0xFFFFFF</COLOR_BORDER_INPUT_MANAGER>	
+	<!-- color background textfield -->
+	<COLOR_BACKGROUND_INPUT_MANAGER>0x0B0B0B</COLOR_BACKGROUND_INPUT_MANAGER>	
+	<!-- label gotopage -->
+	<LABEL_GOTOPAGE>GO TO PAGE :</LABEL_GOTOPAGE>
+	<!-- color gotopage -->
+	<COLOR_LABEL_GOTOPAGE>0xFFFFFF</COLOR_LABEL_GOTOPAGE>	
+	<!-- label button ok -->
+	<LABEL_OK>OK</LABEL_OK>
+	<!-- color label ok -->
+	<COLOR_LABEL_OK>0xffffff</COLOR_LABEL_OK>	
+
+	
+	
+	
+
+</data>

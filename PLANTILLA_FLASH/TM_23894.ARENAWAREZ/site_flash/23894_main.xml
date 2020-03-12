@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+		<item name="copyright"><![CDATA[
+SIMPLEX © 2009   | <font color="#c6c6c6"><a href="asfunction:_root.more_click_func, privacyPolicy"> PRIVACY POLICY</a></font> 
+		]]></item>
+		<item name="companyName"><![CDATA[<font color="#ffbf00">S</font>IMPLEX
+		]]></item>
+		<item name="slogan"><![CDATA[WE DEVELOP THE FUTURE]]></item>
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+about us
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+services
+]]></link>
+
+<link systemOrder="3">
+<![CDATA[
+solutions
+]]></link>
+
+<link systemOrder="4"><![CDATA[
+products
+]]></link>
+
+<link systemOrder="5"><![CDATA[
+contacts
+]]></link>
+
+</section>
+	
+	<!-- pages -->
+	<section name="pages">
+		
+
+		
+		
+		
+<page name="about">
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<image imageUrl="_pic3.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Welcome
+]]></pageText>
+
+<pageText><![CDATA[
+Scing elit mauris fermentum dictum gna aoreet aliquam leo. Tellus dolor dapibus eget elementum vel, cursus eleifend elit. Aenean auctor wisi et urnaliquam erat volutpauis ac turpis. Integer rutrum ante eu uisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada ativamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi.Aenean nec eros. 
+
+<br><br><br><br><br><br><br><br><br><br>
+<b>
+<font color="#302e30"><a href="asfunction:_root.more_click_func,0"><u>more services</u></a></font>
+</b>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+<page name="services">
+<image imageUrl="_pic4.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Our services
+]]></pageText>
+
+<pageText><![CDATA[
+Scing elit mauris fermentum dictum gna aoreet quam leo. Tellus dolor dapibus eget elementum vel, cursus eleifend elit. Aenean auctor wisi et urnaliquam erater volutpauis ac turpis. Integer rutrum ante eu uisque am nulla. Vestibulum libero nisl, porta vel, scelerisque. 
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>
+» <u><a href="asfunction:link">Scing elit mauris fermentum</a></u><br>
+» <u><a href="asfunction:link">Tellus dolor dapibus eget ment</a></u><br>
+» <u><a href="asfunction:link">Aenean auctor wisi et urnali</a></u><br>
+» <u><a href="asfunction:link">Integer rutrum ante eu uisque</a></u><br>
+» <u><a href="asfunction:link">Vestibulum libero nisl, porta vel</a></u><br>
+<br>
+<font color="#302e30"><a href="asfunction:_root.more_click_func,0"><u>more services</u></a></font>
+</b>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>
+» <u><a href="asfunction:link">Aenean auctor wisi et urnali</a></u><br>
+» <u><a href="asfunction:link">Tellus dolor dapibus eget ment</a></u><br>
+» <u><a href="asfunction:link">Aenean auctor wisi et urnali</a></u><br>
+» <u><a href="asfunction:link">Integer rutrum ante eu uisque</a></u><br>
+» <u><a href="asfunction:link">Vestibulum libero nisl, porta vel</a></u><br>
+</b>
+]]></pageText>
+
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+<image imageUrl="_pic6.png" link="asfunction:link"/>
+<image imageUrl="_pic7.png" link="asfunction:link"/>
+<image imageUrl="_pic8.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Solutions showcase
+]]></pageText>
+
+<pageText><![CDATA[
+Scing elit mauris fermentum dictum gna aoreet aliquam leo. Tellus dolor dapibus eget elementum vel, cursus eleifend elit. Aenean auctor wisi et urnaliquam erat 
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#384258"><a href="asfunction:link"><u>Integration</u></a></font></b><br>
+Scing elit mauris fermentum dictum gna aoreet aliqum leo. Tellus dolor 
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#384258"><a href="asfunction:link"><u>Documentation</u></a></font></b><br>
+Scing elit mauris fermentum dictum gna aoreet aliqum leo. Tellus dolor 
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#384258"><a href="asfunction:link"><u>Publishing</u></a></font></b><br>
+Scing elit mauris fermentum dictum gna aoreet aliqum leo. Tellus dolor 
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#384258"><a href="asfunction:link"><u>Our portal</u></a></font></b><br>
+Scing elit mauris fermentum dictum gna aoreet aliqum leo. Tellus dolor 
+]]></pageText>
+
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+<image imageUrl="_pic9.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Our products
+]]></pageText>
+
+<pageText><![CDATA[
+Scing elit mauris fermentum dictum gna aoreet aliquam leo. Tellus dolor dapibus eget elementum vel, cursus eleifend elit. Aenean auctor wisi et urnaliquam erat volutpauis ac turpis. Integer rutrum ante eu uisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada ativamus eget nibh. 
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>» <u><a href="asfunction:link">Scing elit mauris fermentum dictum gna aoreet aliquam leo.</a></u></b> Tellus dolor dapibus eget elementum vel, cursus eleifend elit. Aenean auctor wisi et urnal
+<br><br>
+<b>» <u><a href="asfunction:link">Tellus dolor dapibus eget elementum vel, cursus eleifend elit.</a></u></b> Aenean auctor wisi et urnaliquam erat. volutpauis ac turpis. Integer rutrum ante eu 
+<br><br><br>
+<b>
+<font color="#302e30"><a href="asfunction:_root.more_click_func,0"><u>more products</u></a></font>
+</b>
+]]></pageText>
+
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="solutions">
+<image imageUrl="_pic10.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+Contact information
+]]></pageText>
+
+<pageText><![CDATA[
+Praesent vestibulum molestie lacuseran nonummy hendrerit mauris hasellus 
+<br><br>
+The Company Name Inc.<br>
+8901 Marmora Road,Glasgow, D0489GR.
+<br><br>
+Freephone:      +1 800 559 6580<br>
+FAX:               +1 504 889 9898<br>
+E-mail: <b><a href="asfunction:link"><u>mail@companyname.com</u></a></b>
+]]></pageText>
+
+
+<pageText><![CDATA[
+Name:
+]]></pageText>
+
+<pageText><![CDATA[
+E-mail:
+]]></pageText>
+
+<pageText><![CDATA[
+Message:
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+Privacy policy
+ ]]></item>
+<item name="pageText"><![CDATA[
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo.    Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. 
+<br><br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<br><br>
+e-mail: <font color="#302e30"><u><a href="asfunction:link"><b><u>info@companyname.com</u></b></a></u></font>
+]]></item>
+</section>
+<!-- privacy policy -->
+
+
+</content>

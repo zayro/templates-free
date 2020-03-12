@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<configuration>
+	
+	<!-- background color and alpha  -->
+	<BACKGROUND_COLOR_NEWSY>0x000000,80</BACKGROUND_COLOR_NEWSY>	
+	
+	<!-- background scroll -->
+	<BACKGROUND_SCROLL_COLOR>0x464846</BACKGROUND_SCROLL_COLOR>	
+	<SCROLL_COLOR>0x636563</SCROLL_COLOR>
+	
+	<!-- color separator list -->
+	<COLOR_SEP>0X1B1C16</COLOR_SEP>
+		
+</configuration>
+
+

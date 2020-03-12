@@ -1,0 +1,959 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Anytime - Dynamic Style</title>
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/formcheck.css" rel="stylesheet" type="text/css" />
+
+
+
+
+<!--Form Type Starts -->
+<script type="text/javascript" src="./js/core.js"></script>
+<script type="text/javascript" src="./js/more.js"></script>
+<script type="text/javascript" src="./js/en.js"></script>
+<script type="text/javascript" src="./js/formcheck.js"></script> 
+<script type="text/javascript"> 
+			window.addEvent('domready', function(){
+    new FormCheck('myform');
+	 new FormCheck('myform_news');
+});
+		</script> 
+<!--Form Type Ends -->
+
+<!--Header & Footer Slider Starts -->
+<script type="text/javascript" src="./js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="./js/stickytooltip.js"></script>
+<script type="text/javascript" src="./js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+	$(function($){    
+	 $('#content2').cycle({
+        fx:     'fade', // You can choose any effects that you like, from the Link reference : http://www.malsup.com/jquery/cycle/browser.html
+        speed:  'slow',
+		timeout: 6000,
+        pager:  '#pager2',
+		pagerAnchorBuilder: function(idx, slide) {
+            // return sel string for existing anchor
+            return '#pager2 li:eq(' + (idx) + ') a';
+        }				
+    });	   	
+})(jQuery);
+</script>
+
+<!--On hover Effect starts -->
+<script type="text/javascript" src="./js/easy.js"></script>
+<script type="text/javascript">
+	$(document).ready(function($){		
+		$.easy.tooltip();	
+})(jquery);
+</script>
+<!--On hover Effect ends -->
+
+<script type="text/javascript"> 
+  $(function($) {
+    $('#testimonialpage').cycle({
+        fx:     'fade', // You can choose any effects that you like, from the Link reference : http://www.malsup.com/jquery/cycle/browser.html
+        speed:  'slow',
+		next: '#next',  // selector for element to use as click trigger for next slide
+	    prev: '#prev',  // selector for element to use as click trigger for previous slide
+        timeout: 6000,
+        pager:  '.right_gallery',
+        pagerAnchorBuilder: function(idx, slide) {
+            // return sel string for existing anchor
+            return '.right_gallery li:eq(' + (idx) + ') a';
+        }		
+		
+    });	
+})(jQuery);
+</script> 
+<!--Tabs Starts -->
+<script type="text/javascript">
+            $(function($) {
+		var contentWrapper = $('.main > .tab');
+		// only show the first item, hide the rest
+		contentWrapper.hide().filter(':first').show();
+		
+		$('.main ul li a').click(function () {
+		
+		    // check if this item doesn't have class "current"
+		    // if it has class "current" it must not execute the script again
+		    if (this.className.indexOf('current') == -1){
+		    	contentWrapper.hide();
+		    	contentWrapper.filter(this.hash).fadeIn(500);
+		    	$('.main ul li a').removeClass('current');
+		    	$(this).addClass('current');
+		    }
+		    return false;
+		});
+	})(jQuery);
+    </script>
+	<!--Tabs Ends -->
+<script type="text/javascript"> 
+$(function($){   
+	$('#slideshow_g').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		next: '#next',  // selector for element to use as click trigger for next slide
+	   prev: '#previous',  // selector for element to use as click trigger for previous slide
+		pager: '#pager',  // selector for element to use as pager container
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	  
+	$('#slideshow').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollDown', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 
+	
+	$('#slideshow2').cycle({
+		timeout:	   6000,  // milliseconds between slide transitions (0 to disable auto advance)
+		fx: 'scrollUp', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		pause:		   1,	  // true to enable "pause on hover"
+	   pauseOnPagerHover: 1 // true to pause when hovering over pager link
+	});	 	
+	
+})(jQuery);  
+</script>
+<!--Header & Footer Slider Ends -->
+
+
+
+<!--For Moving Top Starts -->
+<script type="text/javascript">
+(function($){
+	$(document).ready(function() {
+	$("a.anchorLink").anchorAnimate()
+});
+
+jQuery.fn.anchorAnimate = function(settings) {
+
+ 	settings = jQuery.extend({
+		speed : 800
+	}, settings);	
+	
+	return this.each(function(){
+		var caller = this
+		$(caller).click(function (event) {	
+			event.preventDefault()
+			var locationHref = window.location.href
+			var elementClick = $(caller).attr("href")			
+			var destination = $(elementClick).offset().top;
+			$("html:not(:animated),body:not(:animated)").animate({ scrollTop: destination}, settings.speed, function() {
+				window.location.hash = elementClick
+			});
+			
+		  	return false;
+		})
+	})
+}
+})(jQuery); 
+</script>
+<!--For Moving Top Ends -->
+
+<!--For No Conflict -->
+<script type="text/javascript"> 
+			jQuery.noConflict();
+		</script> 
+<!--For No Conflict -->
+
+
+
+<!--Navigation DropDown Starts -->
+<script type="text/javascript" src="./js/superfish.js"></script>
+<script type="text/javascript" src="./js/effects.js"></script>
+<!--Navigation DropDown Ends -->
+
+
+
+<!--PNG Fix Starts -->
+<script type="text/javascript" src="./js/dd_belatedpng_0.0.8a.js"></script>
+<script type="text/javascript">
+	DD_belatedPNG.fix('.topportion, img');	
+	DD_belatedPNG.fix('.logo, img');
+	DD_belatedPNG.fix('.header, img');
+	DD_belatedPNG.fix('.topfooter, img');
+	DD_belatedPNG.fix('input, img');
+	DD_belatedPNG.fix('textarea, img');
+	DD_belatedPNG.fix('.right, a, img');
+	DD_belatedPNG.fix('.newscontainer, img');
+	DD_belatedPNG.fix('#pager, li, a, img');
+</script>
+<!--PNG Fix Ends -->
+
+<!--Cufon Starts -->
+<script type='text/javascript' src='./js/cufon-yui.js'></script>
+<script type="text/javascript" src="./js/museo_300_300.font.js"></script>
+<script type="text/javascript">    
+       Cufon.replace('h1.home');  
+		Cufon.replace('h2.headingtype1, h2.headingtype2, h2.headingtype3, h2.headingtype4, h2.headingtype5, h2.headingtype6');   
+		Cufon.replace('h3.topheading, h3.head, h3.heading, h3.headingtype1, h3.headingtype2, h3.headingtype3, h3.headingtype4, h3.heading5, h3.stay, h3.s_news, h3.styles, h3.order', {hover: 'true'}); 
+    </script>	
+<script type="text/javascript" src="./js/heisei_maru_gothic_standard_opentype_400.font.js"></script>
+<script type="text/javascript">
+	Cufon.replace('h6.simple');   
+</script>
+<!--Cufon Ends -->
+
+<script type="text/javascript" src="./js/lightbox-form.js"></script>
+
+
+
+
+<meta charset="UTF-8"></head>
+
+<body>
+<!--Top Portion Starts -->
+<div id="topportion_wrap">
+	<div class="topportion">
+		<!--Logo Portion Starts -->
+			<div class="logo" id="top">
+				<a href="./index01.html" title="anytime"><img src="./images/logo.png" alt="anytime" /></a>
+			</div>
+		<!--Logo Portion Ends -->	
+		<!--Search Panel Starts -->
+			<div class="top">
+			<!--Search Starts -->			
+					<div class="searchpannel">			
+						<form action="" method="get">			
+						<input type="text" value="Search Here..." onfocus="if(this.value=='Search Here...'){this.value=''};" onblur="if	(this.value==''){this.value='Search Here...'};" tabindex="1"  />
+						<input type="image" src="./images/search_btn.png" class="searchBtn" title="search" />
+						</form>	
+						<br class="spacer"/>				
+					</div>
+			<!--Search Ends -->			
+			<ul class="icon">
+				<li><a href="#" title="rss"><img src="./images/rss_icon.gif" alt="" /></a></li>
+			</ul>			
+		<!--Search Panel Ends -->
+		<br class="spacer" />
+		</div>		
+		<!--Main Navigation Starts -->
+			<div class="topbar">
+				<div class="top-nav">				
+				<ul class="sf-menu">
+					<li><a href="./index01.html">HOME<br /><span>Start Here</span></a></li>
+					<li><a href="./features.html" class="nav-design">FEATURES<br /><span>Whats Included</span></a>
+						<ul>
+							<li><a href="./index01.html">Homepage Styles</a>
+								<ul>
+									<li><a href="./index01.html">Home Style 1</a></li>
+									<li><a href="./index02.html">Home Style 2</a></li>
+									<li><a href="./index03.html">Home Style 3</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./typography_fullwidth.html">Typography</a>
+								<ul>
+									<li><a href="./typography_fullwidth.html">Full Width Style</a></li>
+									<li><a href="./typography_column.html">Column Style</a></li>
+									<li><a href="./typography_teamstyle.html">Team Style</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="./portfolio_gallerystyle.html">Portfolio</a>
+								<ul>
+									<li><a href="./portfolio_gallerystyle.html">Gallery Style</a></li>
+									<li><a href="./portfolio_detailstyle.html">Detailed Style</a></li>
+									<li><a href="./portfolio_fullview.html">Full View</a></li>
+									<li><a href="./portfolio_slideshow.html">3D Slideshow</a></li>
+								</ul>
+							</li>
+						
+							<li><a href="./pages_functionality.html">Layout Pages</a>
+								<ul>
+									<li><a href="./pages_functionality.html">Dynamic Page</a></li>
+									<li><a href="./pages_services.html">Services Page</a></li>
+									<li><a href="./pages_textsngallery.html">Text, Gallery View</a></li>
+									<li><a href="./pages_tables.html">Tables Data</a></li>
+									
+								</ul>
+							</li>
+							
+							<li><a href="./error404.html">Miscelleneous</a>
+								<ul>
+									<li><a href="./error404.html">Error 404</a></li>
+									<li><a href="./sitemap.html">Sitemap</a></li>
+																		
+								</ul>
+							</li>
+							<li><a href="./features.html">View Features</a></li>
+											
+						</ul>
+					</li>
+					<li><a href="./blog.html" class="nav-design">BLOG<br /><span>Read, Write</span></a>
+						<ul>
+							<li><a href="./blog.html" title="blog index">Blog Index</a></li>
+							<li><a href="./blog_single.html" title="blog single page">Blog Single Page</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../index.html" class="nav-design">SKINS <br /><span>Choose Color</span></a>
+						<ul>
+							<li><a href="../../red/crimson/index01.html">Red</a>
+								<ul>
+									<li><a href="../../red/crimson/index01.html">Crimson</a></li>
+									<li><a href="../../red/darkred/index01.html">Dark Red</a></li>
+									<li><a href="../../red/brightred/index01.html">Bright Red</a></li>
+									<li><a href="../../red/darkgrapes/index01.html">Dark Grapes</a></li>
+									<li><a href="../../red/maroon/index01.html">Maroon</a></li>
+									<li><a href="../../red/firestone/index01.html">Fire Stone</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../blue/deepcerulean/index01.html">Blue</a>
+								<ul>
+									<li><a href="../../blue/deepcerulean/index01.html">Deep Cerulean</a></li>
+									<li><a href="../../blue/deepcadetblue/index01.html">Deep Cadet Blue</a></li>
+									<li><a href="../../blue/prussianblue/index01.html">Prussian Blue</a></li>
+									<li><a href="../../blue/bondiblue/index01.html">Bondi Blue</a></li>
+									<li><a href="../../blue/deepdenim/index01.html">Deep Denim</a></li>
+									<li><a href="../../blue/deepdodgerblue/index01.html">Deep Dodger Blue</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../orange/deeppumpkin/index01.html">Orange</a>
+								<ul>
+									<li><a href="../../orange/deeppumpkin/index01.html">Deep Pumpkin</a></li>
+									<li><a href="../../orange/rustyorange/index01.html">Rusty Orange</a></li>
+									<li><a href="../../orange/darkvermilion/index01.html">Dark Vermilion</a></li>
+									<li><a href="../../orange/darksalmon/index01.html">Dark Salmon</a></li>
+									<li><a href="../../orange/gamboge/index01.html">Gamboge</a></li>
+									<li><a href="../../orange/burntorange/index01.html">Burnt Orange</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../pink/darklilac/index01.html">Pink</a>
+								<ul>
+									<li><a href="../../pink/darklilac/index01.html">Dark Lilac</a></li>
+									<li><a href="../../pink/terracotta/index01.html">TerraCotta</a></li>
+									<li><a href="../../pink/mountbattenpink/index01.html">Mountbatten Pink</a></li>
+									<li><a href="../../pink/lightpink/index01.html">Light Pink</a></li>
+									<li><a href="../../pink/palecardinal/index01.html">Pale Cardinal</a></li>
+									<li><a href="../../pink/brightscarlet/index01.html">Bright Scarlet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../green/deeppinegreen/index01.html">Green</a>
+								<ul>
+									<li><a href="../../green/deeppinegreen/index01.html">Deep Pine Green</a></li>
+									<li><a href="../../green/darkasparagus/index01.html">Dark Asparagus</a></li>
+									<li><a href="../../green/bottlegreen/index01.html">Bottle Green</a></li>
+									<li><a href="../../green/darkspringgreen/index01.html">Dark Spring Green</a></li>
+									<li><a href="../../green/darkolivegreen/index01.html">Dark Olive Green</a></li>
+									<li><a href="../../green/olivegreen/index01.html">Olive Green</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../yellow/paleyellow/index01.html">Yellow</a>
+								<ul>
+									<li><a href="../../yellow/paleyellow/index01.html">Pale Yellow</a></li>
+									<li><a href="../../yellow/creamyyellow/index01.html">Creamy Yellow</a></li>
+									<li><a href="../../yellow/brightsaffron/index01.html">Bright Saffron</a></li>
+									<li><a href="../../yellow/burntyellow/index01.html">Burnt Yellow</a></li>
+									<li><a href="../../yellow/deepyellow/index01.html">Deep Yellow</a></li>
+									<li><a href="../../yellow/brightyellow/index01.html">Bright Yellow</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../brown/sienna/index01.html">Brown</a>
+								<ul>
+									<li><a href="../../brown/sienna/index01.html">Sienna</a></li>
+									<li><a href="../../brown/saddlebrown/index01.html">Saddle Brown</a></li>
+									<li><a href="../../brown/chocolatebrown/index01.html">Chocolate Brown</a></li>
+									<li><a href="../../brown/burlywood/index01.html">Burly Wood</a></li>
+									<li><a href="../../brown/peru/index01.html">Peru</a></li>
+									<li><a href="../../brown/darktan/index01.html">Dark Tan</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../classicblack/index01.html">Gray</a>
+								<ul>
+									<li><a href="../classicblack/index01.html">Classic Black</a></li>
+									<li><a href="../gray/index01.html">Gray</a></li>
+									<li><a href="../silver/index01.html">Silver</a></li>
+									<li><a href="../slategray/index01.html">Slate Gray</a></li>
+									<li><a href="./index01.html">Steel Gray</a></li>
+									<li><a href="../darkslategray/index01.html">Dark Slate Gray</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../bonus/shinyplate/index01.html">Bonus</a>
+								<ul>
+									<li><a href="../../bonus/shinyplate/index01.html">Shiny Plate</a></li>
+									<li><a href="../../bonus/glazepurple/index01.html">Glaze Purple</a></li>
+									<li><a href="../../bonus/puregold/index01.html">Pure Gold</a></li>
+									<li><a href="../../bonus/glazepink/index01.html">Glaze Pink</a></li>
+									<li><a href="../../bonus/glazecyan/index01.html">Glaze Cyan</a></li>
+									<li><a href="../../bonus/glossyviolet/index01.html">Glossy Violet</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="../../../index.html">View All Colors</a></li>
+							
+						</ul>
+					</li>
+					<li class="last"><a href="./contact.php.html">CONTACT US<br /><span>Get in Touch</span></a></li>
+				</ul>	
+				</div>						
+			</div>
+		<!--Main Navigation Ends -->
+		<br class="spacer" />
+	</div>
+</div>
+<!--Top Portion Ends -->
+
+
+<!--Body Portion Starts -->
+	<div id="inner_body_wrap">
+		<div class="bodycontent">
+			<!--Top Body Content Starts-->
+				<div class="pathway_content">
+					<div class="pc_left">
+						<h3 class="head">Functionality</h3>
+						<p class="link"><a href="http://www.9dlabs.net/tfdemos/anytime/skins/gray/steelgray/index.html" title="home">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="#" title="layout">Layout</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="#" title="dynamic functionality">Dynamic Page</a></p>
+					</div>
+					<div class="pc_right">
+						<p>This page helps you to display your texts, images, links, headings, ordered and unordered lists, popular posts, testimonials etc. in varieties of dynamic styles.</p>
+					</div>
+					<br class="spacer" />
+				</div>			
+			<!--Top Body Content Starts-->
+			
+			
+			
+			<!--Text Portion Starts -->
+				<div class="bodytext">
+					<div class="largegap"></div>
+					<h3 class="headingtype4">Dynamic Functionality</h3>				
+					
+					<div class="tabular">
+						<!--Container Starts -->
+						<div class="main group">
+							<ul class="group">
+								<li><a href="#fragment-1" class="current">News Section</a></li>
+								<li><a href="#fragment-2"> Entertainment &amp; Games</a></li>
+								<li><a href="#fragment-3"> Recent Activities</a></li>
+								<li><a href="#fragment-4"> Monthly Events</a></li>
+														
+							</ul>
+							
+							
+									<!--Fragment Starts -->
+								<div id="fragment-1" class="tab group">
+									<p class="frag">Duis aute irure dolor in <b>reprehenderit in voluptate velit</b> esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+									<img src="./images/img_fragment.jpg" alt="" class="frag" />
+									<p class="mid">Culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas <b>assumenda est, omnis dolor repellendus</b>. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.</p><br />
+								<div class="f_lower group">	
+									<div class="left">							
+									<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.</p>	
+									</div>
+									
+								<div class="right">
+								<img src="./images/fragment_img2.jpg" alt=""/>
+								<img src="./images/fragment_img3.jpg" alt=""/>									</div>	
+								</div>
+								</div>	
+							<!--Fragment Ends -->	
+							
+							<!--Fragment Starts -->
+								<div id="fragment-2" class="tab group">
+									<p class="frag">Duis aute irure dolor in <b>reprehenderit in voluptate velit</b> esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas <b>assumenda est, omnis dolor repellendus</b>.</p>
+									
+									<p class="mid"> Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.</p>
+									<ul class="entertainment">
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+									</ul>
+									
+									<ul class="entertainment">
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+									</ul>
+									
+									<ul class="entertainment">
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+										<li><a href="#">Finibus Bonorum et Malorum</a></li>
+									</ul>
+								
+								</div>	
+							<!--Fragment Ends -->
+							
+							
+							<!--Fragment Starts -->
+								<div id="fragment-3" class="tab group">
+								<p class="frag"> Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus.</p><br />
+								
+									<p class="newshead"><span>02 May 2010</span><br />Facilis est et expedita distinctio</p>
+									<p class="frag">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga et harum quidem rerum facilis est et expedita distinctio.</p><br />
+									
+									<p class="newshead"><span>06 May 2010</span><br />Distinctio et expedita</p>
+									<p class="frag">Culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p><br />
+									
+									
+									<p class="newshead"><span>12 May 2010</span><br />Distinctio et expedita</p>
+									<p class="frag">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p><br />							
+								
+								</div>	
+							<!--Fragment Ends -->
+							
+							<!--Fragment Starts -->
+								<div id="fragment-4" class="tab group">
+									<p class="frag">Culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>									
+									
+									<ul class="events">
+										<li><p class="e_head">Finibus Bonorum et Malorum<br /><span>10 April 2010</span></p>
+										<p class="e_info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p></li>
+										
+										<li><p class="e_head">Et harum quidem<br /><span>14 April 2010</span></p>
+										<p class="e_info">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p></li>
+										
+										<li><p class="e_head">Quis nostrum exercitationem<br /><span>16 April 2010</span></p>
+										<p class="e_info">Nisi ut aliquid commodi consequatur qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum eum fugiat. </p></li>
+										
+										<li><p class="e_head">Dignissimos ducimus<br /><span>18 April 2010</span></p>
+										<p class="e_info">Nam libero optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est. </p></li>
+										
+										<li><p class="e_head">Libero Tempore<br /><span>20 April 2010</span></p>
+										<p class="e_info">Temporibus autem quibusdam aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusand. </p></li>
+										
+										<li><p class="e_head">Finibus Bonorum et Malorum<br /><span>22 April 2010</span></p>
+										<p class="e_info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p></li>
+										
+										<li><p class="e_head">Suscipit Laboriosam<br /><span>26 April 2010</span></p>
+										<p class="e_info">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  </p></li>
+										
+									</ul>
+									
+									
+									
+									
+								
+								</div>	
+							<!--Fragment Ends -->
+							
+							
+							<div class="news">
+								<h3 class="s_news"><a href="#" onmousedown="openbox('Submit Your Article or News', 1)">Submit News</a></h3>
+							</div>
+								
+						</div>
+						
+							<!--Popup Form Starts -->
+							
+							<div id="filter"></div>
+								<div id="box">
+  								<span id="boxtitle"></span><br/>
+ 									 <form method="post" name="contact" id="myform_news" class="myform_news" enctype="multipart/form-data" action="lightbox-formulaire-test.html" target="_parent" onsubmit="return checkForm(this);">
+      
+										<label><input type="text" class="validate['required']" name="name"/><span>Name<strong>*</strong></span></label>								
+								<label><input type="text" class="validate['required','email']" name="email"/><span>Email<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','url']" name="url" value="http://"/><span>Article URL<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','topic']" name="topic"/><span>Article Heading<strong>*</strong></span></label>
+								
+								<label class="textarea"><textarea name="message" class="validate['required']" cols="" rows="" >Type Your News Here...</textarea>
+								</label>
+								<p><input name="" type="submit" title="submit" class="submission" /><input type="button" class="cancel" name="cancel" value="Cancel" onmousedown="closebox()"/></p>
+										</form>
+									</div>
+							<!--Popup Form Ends -->
+						
+						<!--Container Ends -->
+						
+						<div class="tab-image-gallery">
+							<ul>
+								<li><a href="#"><img src="./images/g_img1.jpg" alt="image 1" lang="sticky1"  /></a></li>
+								<li><a href="#"><img src="./images/g_img2.jpg" alt="image 1" lang="sticky2" /></a></li>
+								<li><a href="#"><img src="./images/g_img3.jpg" alt="image 1" lang="sticky3" /></a></li>
+								<li><a href="#"><img src="./images/g_img4.jpg" alt="image 1" lang="sticky4" /></a></li>
+								<li><a href="#"><img src="./images/g_img5.jpg" alt="image 1" lang="sticky5" /></a></li>
+								<li><a href="#"><img src="./images/g_img6.jpg" alt="image 1" lang="sticky6" /></a></li>
+								<li><a href="#"><img src="./images/g_img7.jpg" alt="image 1" lang="sticky7" /></a></li>
+								<li><a href="#"><img src="./images/g_img8.jpg" alt="image 1" lang="sticky8" /></a></li>
+								<li><a href="#"><img src="./images/g_img9.jpg" alt="image 1" lang="sticky9" /></a></li>
+								<li><a href="#"><img src="./images/g_img10.jpg" alt="image 1" lang="sticky10" /></a></li>
+								<li><a href="#"><img src="./images/g_img11.jpg" alt="image 1" lang="sticky11" /></a></li>
+								<li><a href="#"><img src="./images/g_img12.jpg" alt="image 1" lang="sticky12" /></a></li>
+								<li><a href="#"><img src="./images/g_img13.jpg" alt="image 1" lang="sticky13" /></a></li>
+								<li class="last"><a href="#"><img src="./images/g_img14.jpg" alt="image 1" lang="sticky14" /></a></li>
+							</ul>	
+							<br class="spacer" />					
+						</div>
+					</div>					
+					<br class="spacer"/>
+					
+					<!--Styles div Starts -->
+							<div class="styles">
+								<div class="styles_left">
+									<h3 class="styles">Styles of HTML Tags Included</h3>
+									<h1>Heading Style - 1</h1>
+									<h2>Heading Style - 2</h2>
+									<h3>Heading Style - 3</h3>
+									<h4>Heading Style - 4</h4>
+									<h5>Heading Style - 5</h5>
+									<h6>Heading Style - 6</h6>
+								</div>
+		<div class="small_slider">
+			<!--Slider Starts -->
+				<div id="content2">
+					<!--1st Slide Starts-->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img1.jpg" alt="" /></a>
+							<p>Vel lectus volutpat nec pharetra mauris semper.
+phasellus nec sapien mauris, ac consequat eros.
+vivamus non mi quis purus fermentum eleifend.
+nullam dapibus mattis augue, sed fringilla nisi ultri    ces non aliquam vitae.</p>
+						</div>							
+					<!--1st Slide Ends-->
+					
+					<!--2nd Slide Starts-->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img2.jpg" alt="" /></a>
+							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum et deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident temporibus autem quibusdam.</p>
+						</div>	
+					<!--2nd Slide Ends-->
+					
+					<!--3rd Slide Starts -->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img3.jpg" alt="" /></a>
+							<p> Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxim placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut necessitatibus.</p>
+						</div>	
+					<!--3rd Slide Ends -->
+					
+					<!--4th Slide Starts -->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img4.jpg" alt="" /></a>
+							<p> Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet voluptates repudiandae sint et molestiae non que recusandae.<br /> Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis.</p>
+						</div>	
+					<!--4th Slide Ends -->	
+					
+					<!--5th Slide Starts -->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img5.jpg" alt="" /></a>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+						</div>	
+					<!--5th Slide Ends -->	
+					
+					<!--6th Slide Starts -->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img6.jpg" alt="" /></a>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.</p>
+						</div>	
+					<!--6th Slide Ends -->	
+					
+					<!--7th Slide Starts -->
+						<div class="section">
+							<a href="#"><img src="./images/small_slider_img7.jpg" alt="" /></a>
+							<p>Ut enim ad minima veniam, quis nostr exercitatem sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam queat odit et voluptatem ullam corporis laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+						</div>	
+					<!--7th Slide Ends -->	
+							
+				</div>
+			<!--Slider Ends -->	
+			
+				<!--Pager Starts -->
+					<div class="pager_wrap2">
+							<ul id="pager2">
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+								<li><a href="#">&nbsp;</a></li>
+							</ul>
+						<br class="spacer"/>
+						</div>
+					<!--Pager Ends -->	
+								
+							</div>
+							<br class="spacer" />
+						</div>
+					<!--Styles div Ends -->
+						
+						<!--List Items Starts -->
+						<div class="listtype">
+							<div class="lt_left">
+								<h3 class="order">Ordered List Examples</h3>
+								<ul class="orderedlist">
+									<li>Neque porro quisquam est qui dolorem ipsum quia dolor amet. </li>
+									<li>Consectetur, adipisci velit, sed quia non numquam eius modi.   </li>
+									<li>Tempora incidunt ut labore et dolore magnam aliquam.  </li>
+									<li>Voluptatem cum soluta nobis est eligendi optio cumque que.  </li>
+									<li>Impedit quo minus id quod maxime placeat facere possimus. </li>															
+								</ul>
+							</div>
+							<div class="lt_right">
+								<h3 class="order">Unordered List Examples</h3>
+								<ul class="unorderedlist">
+									<li>Neque porro quisquam est qui dolorem ipsum dolor. </li>
+									<li>Consectetur, adipisci velit, sed quia nonnu  eius modi.   </li>
+									<li> Tempora incidunt ut labore et dolore magnam aliquam.    </li>
+									<li>Voluptatem cum soluta nobis est eligendi optio que.   </li>
+									<li>Impedit quo minus id quod maxime placeat possimus. </li>															
+								</ul>
+							</div>
+							<br class="spacer" />
+						</div>
+						<!--List Items Ends -->
+						
+						
+						<!--Popular post and Testimonial Starts -->
+						<div class="lowest_popular_testimonial">
+							<div class="popular_post">
+								<h3 class="order">Popular Posts</h3>
+								<ul>
+									<li><a href="#"><img src="./images/pp_images1.jpg" alt="" /></a>
+										<p>Ratione voluptatem seq nesciunt neque porro quela consecteteur dolor.</p>
+										<p><a href="#" class="time">May 05 2010</a><a href="#" class="pp_comment">91 Comments</a></p>
+									</li>
+									<li><a href="#"><img src="./images/pp_images2.jpg" alt="" /></a>
+										<p>Enim ad minima veniam, quis nostrum exercit ationem ullam corporis suscipit.</p>
+										<p><a href="#" class="time">Feb 28 2010</a><a href="#" class="pp_comment">49 Comments</a></p>
+									</li>
+									<li><a href="#"><img src="./images/pp_images3.jpg" alt="" /></a>
+										<p>Ratione voluptatem seq nesciunt neque porro quela consecteteur dolor.</p>
+										<p><a href="#" class="time">Feb 23 2010</a><a href="#" class="pp_comment">101 Comments</a></p>
+									</li>									
+								</ul>
+								<p class="blog_link"><a href="./blog.html">Read all blog posts...</a></p>
+								<br class="spacer" />
+							</div>
+							<div class="testimonial_box">
+								<h3 class="order noborder">Testimonials</h3>
+								<div class="box">
+									<!--Slideshow Start -->
+									<div id="testimonialpage">
+						
+						<!--Page-1 Details Starts -->
+						<div class="section">
+							<ul>
+								<li>Impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumin enda et omnis   dolor repellendus dolor ribus aut. Impedit quo minus id quod maxime placeat facere possimus omnis.<p class="writer"><a href="#">John Doe, (CEO) - Pixi Media Inc.</a></p></li>
+								<li>Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut dolore.<p class="writer"><a href="#">Peter Kevin (Director) - Locotypo Inc.</a></p></li>
+							</ul>									
+						</div>
+						<!--Page-1 Details Ends -->		
+						
+						<!--Page-2 Details Starts -->
+						<div class="section">
+							<ul>
+								<li>Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut dolore.<p class="writer"><a href="#">Peter Kevin (Director) - Locotypo Inc.</a></p></li>
+								<li>Impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumin enda et omnis   dolor repellendus dolor ribus aut. Impedit quo minus id quod maxime placeat facere possimus omnis.<p class="writer"><a href="#">John Doe, (CEO) - Pixi Media Inc.</a></p></li>
+								
+							</ul>									
+						</div>
+						<!--Page-2 Details Ends -->	
+						
+						<!--Page-3 Details Starts -->
+						<div class="section">
+							<ul>
+								<li>Impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumin enda et omnis   dolor repellendus dolor ribus aut. Impedit quo minus id quod maxime placeat facere possimus omnis.<p class="writer"><a href="#">John Doe, (CEO) - Pixi Media Inc.</a></p></li>
+								<li>Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut dolore.<p class="writer"><a href="#">Peter Kevin (Director) - Locotypo Inc.</a></p></li>
+							</ul>									
+						</div>
+						<!--Page-3 Details Ends -->	
+						
+						<!--Page-4 Details Starts -->
+						<div class="section">
+							<ul>
+								<li>Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut dolore.<p class="writer"><a href="#">Peter Kevin (Director) - Locotypo Inc.</a></p></li>
+								<li>Impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumin enda et omnis   dolor repellendus dolor ribus aut. Impedit quo minus id quod maxime placeat facere possimus omnis.<p class="writer"><a href="#">John Doe, (CEO) - Pixi Media Inc.</a></p></li>
+								
+							</ul>									
+						</div>
+						<!--Page-4 Details Ends -->	
+						
+					</div>
+						<!--Slideshow End -->
+						
+						<div class="testimonial_sliding_menu">
+								<ul class="pager_testimonialpage"> 
+									<li id="prev"><a href="#">&lt; Previous</a></li>	
+									<li>|</li>
+									<li id="next"><a href="#">Next &gt;</a></li>
+								</ul>	
+						</div>
+								</div>
+								
+							</div>
+							<br class="spacer" />
+						</div>
+															
+						
+						<!--Popular post and Testimonial Ends -->
+					
+					
+					
+					<br class="spacer" />
+				</div>
+			<!--Text Portion Ends -->	
+			
+				<!--HTML for the tooltips-->
+						<div id="mystickytooltip" class="stickytooltip">
+							<div style="padding:5px">
+
+								<div id="sticky1" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+
+								<div id="sticky2" class="atip" >
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+
+								<div id="sticky3" class="atip" >
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+
+								<div id="sticky4" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky5" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+								
+								<div id="sticky6" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky7" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky8" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+								
+								<div id="sticky9" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky10" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />											
+								</div>
+								
+								<div id="sticky11" class="atip" >
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky12" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky13" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>
+								
+								<div id="sticky14" class="atip">
+											<img src="./images/small_placeholder.jpg" alt="" /><br />												
+								</div>								
+								</div>
+
+								<div class="stickystatus"></div>
+								</div>
+						<!--HTML End for the tooltips-->
+					
+		</div>
+		
+	</div>
+	
+<!--Body Portion Ends -->
+
+
+		
+
+<!--Footer Portion Starts -->
+	<div id="footer_wrap">
+		<div class="footer">
+			<div class="topfooter">
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Pages</li>
+					<li><a href="./index01.html">Home</a></li>
+					<li><a href="./features.html">Features</a></li>
+					<li><a href="./pages_tables.html">Tables</a></li>
+					<li><a href="./blog.html">Blog</a></li>
+					<li><a href="./pages_services.html">Services</a></li>
+					<li><a href="./contact.php.html">Contact Us</a></li>
+				</ul>
+			</div>	
+			
+			<div class="footerlinks">
+				<ul>
+					<li class="head">Categories</li>
+					<li><a href="#">Web Hoting</a></li>
+					<li><a href="#">Mobile Applications</a></li>
+					<li><a href="#">Network Security</a></li>
+					<li><a href="#">Dedicated Hosting</a></li>
+					<li><a href="#">Cloud Servers</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+					<li><a href="#">SSL Certificates</a></li>
+					<li><a href="#">Payment Gateways</a></li>
+					<li><a href="#">Flash Galleries</a></li>
+				</ul>
+			</div>
+			
+			
+			<div class="tweets">
+			<p class="latest">Latest Tweet</p>
+				<div id="slideshow">				
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+										<ul>
+											<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+										</ul>
+									</div>
+					
+									<div class="slider">
+									<ul>
+										<li>Lorem ipsum dolor sit ametiun, cons<br/> ctetur adipisicing elitsed do eiusmod<br/> tempor incididunt...<br/><span><a href="#">Posted 8 hours 1 minutes ago...</a></span></li>
+									</ul>
+					</div>					
+				</div>				
+				<ul class="social">
+					<li><a href="#" class="tooltip" title="Facebook"><img src="./images/social_icon1.png" alt="facebook" /></a></li>
+					<li><a href="#" class="tooltip" title="Ziki"><img src="./images/social_icon2.png" alt="ziki" /></a></li>
+					<li><a href="#" class="tooltip" title="Linkedin"><img src="./images/social_icon3.png" alt="linkedin" /></a></li>
+					<li><a href="#" class="tooltip" title="Flickr"><img src="./images/social_icon4.png" alt="flickr" /></a></li>
+					<li class="last"><a href="#" class="tooltip" title="RSS"><img src="./images/social_icon5.png" alt="rss" /></a></li>
+				</ul>			
+			</div>
+			
+			<div class="contact">
+				<p class="quick">Quick Contact</p>
+					<div class="form">
+								<form name="contact" id="myform" class="myform" method="post" action="mail.php" enctype="multipart/form-data" onsubmit="return checkForm(this);">
+								<label><input type="text" class="validate['required']" name="name"/><span>Name<strong>*</strong></span></label>								
+								<label><input type="text" class="validate['required','email']" name="email"/><span>Email<strong>*</strong></span></label>
+								<label><input type="text" class="validate['required','digit']" name="phone"/><span>Ph No<strong>*</strong></span></label>
+								<label class="last"><textarea name="message" class="validate['required']" cols="" rows="" >Type Your Message Here...</textarea>
+								</label>
+								<label class="last"><input name="" type="submit" title="submit" class="submission" /></label>									 
+								</form>
+								</div>			
+			</div>
+			<br class="spacer" />			
+			</div>
+			
+			<div class="bottomfooter">
+			<div class="left"><p>&copy; 2010 Anytime Business Inc.</p></div>
+			<div class="right"><a href="#top" class="anchorLink">Back to Top</a></div>
+			<br class="spacer" />	
+			</div>
+			<br class="spacer" />
+		</div>	
+	</div>
+<!--Footer Portion Ends -->
+</body>
+</html>

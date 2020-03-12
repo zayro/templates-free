@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+	<people>
+		<name>Joe Bloggs</name>
+		<position>Chief Executive Officer</position>
+		<duties>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</duties>
+		<email>joe.bloggs@designstudio.com</email>
+		<image>thumb1.jpg</image>
+	</people>
+	<people>
+		<name>John Smith</name>
+		<position>Art Director</position>
+		<duties>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</duties>
+		<email>john.smith@designstudio.com</email>
+		<image>thumb2.jpg</image>
+	</people>
+	<people>
+		<name>Mary Jane</name>
+		<position>Interactive Designer</position>
+		<duties>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</duties>
+		<email>mary.jane@designstudio.com</email>
+		<image>thumb3.jpg</image>
+	</people>
+	<people>
+		<name>Tim Jones</name>
+		<position>Web Development</position>
+		<duties>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</duties>
+		<email>tim.jones@designstudio.com</email>
+		<image>thumb4.jpg</image>
+	</people>
+</content>

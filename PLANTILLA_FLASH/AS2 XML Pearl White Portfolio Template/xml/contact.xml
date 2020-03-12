@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contact>
+	<settings
+		setting_lines_color = "0x373940"
+		setting_texts_color = "0x373940"
+		setting_buttons_outline_color = "0x373940"
+		setting_buttons_icon_color = "0x373940"
+		setting_buttons_icon_rollover_color = "0xffffff"
+		setting_buttons_back_ground_color = "0xffffff"
+		setting_buttons_back_ground_rollover_color = "0x373940"
+	/>
+	<title><![CDATA[Contact]]></title>
+	<name><![CDATA[PARKER&KENT]]></name>
+	<email><![CDATA[<a href="mailto:name@yourdomain.com"><u>name@yourdomain.com</u></a>]]></email>
+	<address><![CDATA[Pearl White, 150/2<br>Lugano 6900, Ti<br>Switzerland]]></address>
+	<numbers><![CDATA[Studio +41 456 7890<br>Mobile +41 456 7890]]></numbers>
+	<admin_email><![CDATA[name@yourdomain.com]]></admin_email>
+</contact>

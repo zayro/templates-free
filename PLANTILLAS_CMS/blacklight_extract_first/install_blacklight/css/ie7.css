@@ -1,0 +1,111 @@
+/* -----------------------------------------------------------------------
+
+
+ Jooms CSS Framework for Joomla 1.5+
+ Jooms Version 0.3 - 13.Jan 2010
+ IE CSS Version 0.3 - 14.Jan 2010
+ http://www.pixelsparadise.com
+
+----------------------------------------------------------------------- */
+
+/* ie7.css */
+body {text-align:center;}
+.container {text-align:left;}
+* html .column, * html div.span-1, * html div.span-2, * html div.span-3, * html div.span-4, * html div.span-5, * html div.span-6, * html div.span-7, * html div.span-8, * html div.span-9, * html div.span-10, * html div.span-11, * html div.span-12, * html div.span-13, * html div.span-14, * html div.span-15, * html div.span-16, * html div.span-17, * html div.span-18, * html div.span-19, * html div.span-20, * html div.span-21, * html div.span-22, * html div.span-23, * html div.span-24 {overflow-x:hidden;}
+* html legend {margin:-18px -8px 16px 0;padding:0;}
+ol {margin-left:2em;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+html>body p code {*white-space:normal;}
+hr {margin:-8px auto 11px;}
+.clearfix, .container {display:inline-block;}
+* html .clearfix, * html .container {height:1%;}
+fieldset {padding-top:0;}
+
+hr {
+border:0px solid #fff;
+background:none;
+color:none;
+margin:-8px auto 11px;
+color:#222;
+visibility: hidden;
+}
+
+hr.spacer {
+border-bottom:1px solid #ddd;
+margin:0 0 10px 0;
+visibility: visible;
+color: #222;
+}
+
+
+.block0, .block1, .block34, .block23, .block2, .block3, .block4, .block5, .block6, .block8 {
+float:left;
+margin-right:1.885%;
+padding:10px 1%;
+}
+
+.block0 {
+width:100%;
+margin:0;
+padding:0;
+}
+
+.block1 {
+width:98%;
+margin:0;
+}
+
+.block34 {
+width:72.5%;
+}
+
+.block23 {
+width:64%;
+}
+
+.block2 {
+width:47%;
+}
+
+.block3 {
+width:29.5%;
+}
+
+.block4 {
+width:21.5%;
+}
+
+.block5 {
+width:16.4%;
+}
+
+.block6 {
+width:13%;
+}
+
+.block8 {
+width:8.75%;
+}
+
+.lastblock {
+margin:0;
+}
+
+.border {
+border-right:.15em solid #111;
+margin-right:1.9%;
+}
+
+.nopadding {
+padding:0;
+}
+
+.nomargin{
+margin:0;
+}
+
+
+.lastblock {
+margin:0;
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title></head>
+
+<body>
+<p><strong><u>GETTING STARTED</u></strong></p>
+<p>1. Unzip the xmlFSDarkSite.zip to the directory you want your site to be in.</p>
+<p>2. Open the xml folder</p>
+<p><u><strong>SITE VARIABLES</strong></u></p>
+<p><strong>MENU</strong></p>
+<p>1. Open the site.xml file. The first variables should look like this:</p>
+<p>&lt;menu<br />
+myContentWidth=&quot;650&quot;<br />
+myContentHeight=&quot;330&quot;<br />
+itemheight=&quot;20&quot;<br />
+menuwidth=&quot;110&quot; <br />
+activewidth=&quot;120&quot;<br />
+yourLogo=&quot;images/logo.png&quot;<br />
+/&gt;</p>
+<p>2. myContentWidth and myContentHeight are the height and width in pixels of the content pages. </p>
+<p>3. Item height is the height of each menu button.</p>
+<p>4. menuwidth and activewidth are the widths of the menu buttons when it is active and inactive.</p>
+<p>5. yourLogo is the path to your logo file. There is a logo.psd file provided if you would like to use it. Save it as a png so it can have a transparent background. </p>
+<p><strong>COLORS</strong></p>
+<p>1. The next group of vars defines the highlight color (green in this example) looks like this:</p>
+<p>&lt;colors&gt;<br />
+&lt;highlight hColor=&quot;6da61b&quot;/&gt;<br />
+&lt;/colors&gt;</p>
+<p>2. Make sure you use the 6 digit hex color. example 990000. <strong>DON'T USE 0x990000 or #990000.</strong> </p>
+<p><strong>PAGES</strong></p>
+<p>1. The next variables are found within the &lt;pages&gt; tags. </p>
+<p>2. Each page needs needs to have AT LEAST the following format:</p>
+<p>&lt;page pagetype=&quot;XXXX&quot; buttontitle=&quot;XXXX&quot; pagetitle=&quot;XXXX&quot;&gt; &lt;/page&gt;</p>
+<p>3. The pagetype is what kind of page you want to use. Here are the different types:</p>
+<p>textOnly = text only<br />
+  textImageLeft = text on the right, image on the left<br />
+  textImageRight = text on the left, image on the right<br />
+  externalSwf = this is an externally loaded swf or jpg<br />
+contactForm = this is the contact page</p>
+<p>4. USE MY PAGES AS TEMPLATES FOR YOUR PAGES. Each page type has different variables so just use the ones I already have. You can have as many of each as you want but just copy and paste from mine. </p>
+<p>5. buttontitle is the text that shows up on the buttons.</p>
+<p>6. pagetitle is the title that shows up at the top of your content pages</p>
+<p>7. If your page uses an image you need to define imgSrc (sourse of your image), imageWidth, imageHeight, and borderWidth. </p>
+<p>8. If your page has text on it put it in like this:</p>
+<p>&lt;page pagetype=&quot;XXXX&quot; buttontitle=&quot;XXXX&quot; pagetitle=&quot;XXXX&quot;&gt;&lt;![CDATA[YOUR TEXT GOES HERE]]&gt; &lt;/page&gt;</p>
+<p>9. Don't forget the &lt;![CDATA[ ]]&gt; tags</p>
+<p>10. The contactForm page type works like a page with an image. <br />
+</p>
+<p><strong>MUSIC</strong></p>
+<p>1. Should look like this:</p>
+<p>&lt;music<br />
+useMusic=&quot;true&quot;<br />
+autoPlayYN=&quot;true&quot;<br />
+musicPath=&quot;music/adg3.com_cloudlessDays.mp3&quot;<br />
+/&gt;</p>
+<p>2. useMusic needs to be true or false. It detemines if you want to use music or not. If false don't worry about the other variables. </p>
+<p>3. autoPlayYN is true or false and determines if you want it to autoplay or wait for the user to push play. </p>
+<p>4. musicPath is the path to the mp3 file. </p>
+<p><u><strong>GALLERY</strong></u></p>
+<p>1.Open gallery.xml in the xml folder</p>
+<p><strong>THUMBS</strong></p>
+<p>1. Should look like this:</p>
+<p>&lt;menu<br />
+thumbWidth=&quot;64&quot;<br />
+thumbHeight=&quot;48&quot;<br />
+/&gt; </p>
+<p>2. These two variables are the width and height of the thumbnails. You can make the thumbs whatever size you want but THEY ALL NEED TO BE THE SAME SIZE.</p>
+<p><strong>IMAGES</strong></p>
+<p>1. Each image should look like this:</p>
+<p>&lt;image src=&quot;XXX.jpg&quot;&gt;&lt;![CDATA[ ]]&gt;&lt;/image&gt;</p>
+<p>2. Each image needs a src defines. example yourimage01.jpg. The images go in your images folder.</p>
+<p>3. The thumb should have the same name as the origonal image and be stored in the thumbs folder. </p>
+<p>4. make sure the thumb is resized to the size you determined in the thumb variables earlier. </p>
+<p>5. If you want a caption put it here:</p>
+<p>&lt;![CDATA[YOUR TEXT HERE]]&gt;</p>
+<p>6. If you don't want a caption leave it like this:</p>
+<p>&lt;![CDATA[]]&gt;</p>
+<p><u><strong>CONTACT</strong></u></p>
+<p>1.Open contact.xml in the xml folder</p>
+<p>2. email is the email you want to receive the emails</p>
+<p>3. nameTxt, emailTxt, messageTxt, sendTxt and sendingTxt are all just the text that the user sees. </p>
+<p>4. The text on the page looks like this:</p>
+<p> &lt;![CDATA[YOUR TEXT HERE]]&gt;</p>
+<p><u><strong>OTHER</strong></u></p>
+<p>1.Open index.html file</p>
+<p>2. Go to line 7 and change your page title</p>
+<p><u><strong>UPLOAD</strong></u></p>
+<p>1.Upload everything EXCEPT the com folder, the zip file, the .fla files, the instructions folder and the .psd files. </p>
+<p>&nbsp;</p>
+<p>That's it, you are ready to go. Email me with any questions. </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

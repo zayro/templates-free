@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<title>StatoSfera - Contact</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="images/favicon.ico" /> 
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" />
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" />
+<link rel="stylesheet" href="css/stratosfera.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="js/selectivizr-min.js"></script>
+<link rel="stylesheet" href="css/ie_7.css" type="text/css" />
+<![endif]-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
+<script type="text/javascript" src="js/jquery.backgroundPosition.js"></script>
+<script type="text/javascript" src="js/respond.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchwipe.min.js"></script>
+<script type="text/javascript" src="js/misc.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="js/jquery.carouFredSel.js"></script>
+<script type="text/javascript">
+	$(window).load(function() {
+		$('.flexslider').flexslider();
+	});
+
+	$(function() {
+		$('#work').carouFredSel({
+			width: '100%',
+			scroll: 1,
+			auto: false,
+			prev: '.prev_item',
+			next: '.next_item'
+		});
+		
+		$("#work").touchwipe({
+			wipeLeft: function() {  $('.next_item').trigger('click'); },
+			wipeRight: function() { $('.prev_item').trigger('click'); }
+		});
+	});
+</script>
+</head> 
+<body>
+	<!-- START HEADER -->
+	<header class="header_bg clearfix">
+		<div class="container clearfix">
+			 <!-- START LOGO -->
+			<div class="logo">
+				<a href="index.html"><img src="images/logo.png" alt="" /></a>
+			</div>
+			 <!-- END LOGO -->
+			
+			<!-- START NAVIGATION -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li>
+						<a>Features</a>
+						<ul>
+							<li><a href="index2.html">Alternative Home</a></li>
+							<li><a href="shortcodes.html">Shortcodes</a></li>
+							<li><a href="pricing.html">Pricing</a></li>
+							<li><a href="blog_single.html">Blog Single</a></li>
+							<li><a href="404.html">404 Page</a></li>
+							<li><a>Menu 3 Level</a>
+								<ul>
+									<li><a href="#">Example 1</a></li>
+									<li><a href="#">Example 2</a></li>
+									<li><a href="#">Example 3</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a>Portfolio</a>
+						<ul>
+							<li><a href="portfolio_2_cols.html">Portfolio 2 columns</a></li>
+							<li><a href="portfolio_3_cols.html">Portfolio 3 columns</a></li>
+							<li><a href="portfolio_4_cols.html">Portfolio 4 columns</a></li>
+							<li><a href="portfolio_single.html">Portfolio Single</a></li>
+						</ul>
+					</li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+			<!-- END NAVIGATION -->
+		</div>
+	</header>
+	<!-- END HEADER -->
+	
+	<div class="clear"></div>
+	
+	<!-- START SLIDER -->
+	<div class="container clearfix">
+		<div class="flexslider">
+			<ul class="slides">
+				<li>
+					<img src="images/slider_image_1.jpg" alt="" />
+					<p class="flex-caption">Website Integration</p>
+				</li>
+				<li>
+					<a href="#"><img src="images/slider_image_2.jpg" alt="" /></a>
+				</li>
+				<li>
+					<img src="images/slider_image_3.jpg" alt="" />
+					<p class="flex-caption">Interactive Wireframe</p>
+				</li>
+				<li>
+					<img src="images/slider_image_4.jpg" alt="" />
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- END SLIDER -->
+	
+	<div class="clear padding40"></div>
+
+	
+	<!-- START CONTENT -->
+	<section class="container clearfix">
+	
+		<!-- START FEATURED COLUMNS -->
+		<div class="col_1_3">
+			<div class="features">
+				<div class="title clearfix">
+					<img src="images/homepage_image_9.png" alt="" class="alignleft" />
+					<h3>Keyword management</h3>
+					<h4>and Task Manager</h4>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id ligula in ipsum vulputate volutpat at ut nisi. Aliquam erat volutpat. Maecenas pretium dolor vitae lectus fermentum convallis bibendum in erat. Donec vitae risus non lorem volutpat fringilla in in metus. Aenean quis eros diam. Proin porta quam at neque congue iaculis <a href="#">read more</a>.</p> 
+			</div>
+		</div>
+		<div class="col_1_3">
+			<div class="features">
+				<div class="title clearfix">
+					<img src="images/homepage_image_8.png" alt="" class="alignleft" />
+					<h3>Interactions in time</h3>
+					<h4>Speeds Things Up</h4>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id ligula in ipsum vulputate volutpat at ut nisi. Aliquam erat volutpat. Maecenas pretium dolor vitae lectus fermentum convallis bibendum in erat. Donec vitae risus non lorem volutpat fringilla in in metus. Aenean quis eros diam. Proin porta quam at neque congue iaculis <a href="#">read more</a>.</p> 
+			</div>
+		</div>
+		<div class="col_1_3 last">
+			<div class="features">
+				<div class="title clearfix">
+					<img src="images/homepage_image_7.png" alt="" class="alignleft" />
+					<h3>Online support and</h3>
+					<h4>Continuous Updates</h4>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id ligula in ipsum vulputate volutpat at ut nisi. Aliquam erat volutpat. Maecenas pretium dolor vitae lectus fermentum convallis bibendum in erat. Donec vitae risus non lorem volutpat fringilla in in metus. Aenean quis eros diam. Proin porta quam at neque congue iaculis <a href="#">read more</a>.</p> 
+			</div>
+		</div>
+		<!-- END FEATURED COLUMNS -->
+		
+		<div class="clear padding10"></div>
+		
+		<div class="recent_works_left">
+			<h2 class="red"><strong>Recent</strong> Works</h2>
+		</div>
+		<div class="recent_works_right">
+			<a href="#" class="prev_item"></a><a href="#" class="next_item"></a>
+		</div>
+		
+		<div class="clear"></div>
+		<div class="line"></div>
+		<div class="clear padding30"></div>
+					
+
+			<div class="recent_works">
+				<ul id="work">
+					<!-- START PORTFOLIO COLUMN #1 -->
+					<li id="id-1" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_1.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_1.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #1 -->
+					
+					<!-- START PORTFOLIO COLUMN #2 -->
+					<li id="id-2" class="util">
+						<span class="recent_image">
+							<a href="images/portfolio_image_2.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_2.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #2 -->
+					
+					<!-- START PORTFOLIO COLUMN #3 -->
+					<li id="id-3" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_3.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_3.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #3 -->
+					
+					<!-- START PORTFOLIO COLUMN #3 -->
+					<li id="id-4" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_4.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_4.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #3 -->
+					
+					<!-- START PORTFOLIO COLUMN #3 -->
+					<li id="id-5" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_5.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_5.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #3 -->
+					
+					<!-- START PORTFOLIO COLUMN #3 -->
+					<li id="id-6" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_6.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_6.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #3 -->
+					
+					<!-- START PORTFOLIO COLUMN #3 -->
+					<li id="id-7" class="app">
+						<span class="recent_image">
+							<a href="images/portfolio_image_7.jpg" data-rel="prettyPhoto" class="magnific-glass"><img class="portfolio_image" src="images/portfolio_image_7.jpg" alt="" /></a>
+						</span>
+						<span class="title"><a href="portfolio_single.html">Maecenas faucibus auctor</a></span>
+						<span class="description">
+							Donec vel auctor justo. Pellentesque a tortor lectus, a pretium nisi. Nam nisl massa, fermentum dolor sit amernos  faucibus quis, interduc <a href="#">read more</a>.
+						</span>
+						<span class="clear padding15"></span>
+					</li>
+					<!-- END PORTFOLIO COLUMN #3 -->
+				</ul>
+			</div>
+		
+		<div class="clear padding10"></div>
+	</section>
+	<!-- END CONTENT -->
+		
+	<div class="homepage_divider"></div>
+	
+	<section class="homepage_widgets_bg clearfix">
+		<div class="container clearfix">
+		
+			<div class="padding20"></div>
+			
+			<!-- START COL 1/2 -->
+			<div class="col_1_2">
+				<h1 class="regular red bottom_line"><strong>Features</strong> and Advantages</h1>
+				<div class="col_1_4">
+					<img src="images/home_image_1.png" class="liquid" alt="" />
+					
+					<h4 class="regular red"><strong>Website</strong> Integration</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </p> 
+					
+				</div>
+				<div class="col_1_4 last">
+					<img src="images/home_image_2.png" class="liquid" alt="" />
+					
+					<h4 class="regular red"><strong>Notification</strong> Center</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </p> 
+				</div>
+				
+				<div class="clear padding10"></div>
+				
+				<h4 class="regular red"><strong>Watch</strong> Our Video</h4>
+				<div class="col_1_4">
+					<iframe src="http://www.youtube.com/embed/iIQ6VqFEN0o?autohide=1&amp;showinfo=0&amp;wmode=transparent" width="240" height="130"></iframe>
+					<div class="padding10"></div>
+				</div>
+				<div class="col_1_4 last">
+					<ul class="check_list">
+					<li>Donec faucibus rutrum felis</li>
+					<li>Ohasellus libero nulla</li>
+					<li>Pellentesque molestie tempus dui</li>
+					<li>Donec faucibus rutrum felit</li>
+					<li>Ohasellus libero nulla, tempus nerum</li>
+				</ul>
+				</div>
+			</div>
+			<!-- END COL 1/2 -->
+			
+			<!-- START COL 1/2 -->
+			<div class="col_1_2 last">
+				<h1 class="regular red bottom_line"><strong>About</strong> Us</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis urna a enim convallis a bibendum lectus scelerisque. Aenean at mauris augue, sed fringilla justo. Proin et porta ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis urna a enim convallis a bibendum lectus scelerisque. Aenean at mauris augue, sed fringilla justo. Proin et porta ligula.</p> 
+
+				<p>Quisque malesuada lorem at leo volutpat tristique. Nunc sit amet felis imperdiet ante tincidunt viverra sit amet quis ipsum. Aenean metus urna, placerat ut pharetra id, pharetra eget turpis. Sed blandit nunc eget lorem vestibulum malesuada.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis urna a enim convallis a bibendum lectus scelerisque. Aenean at mauris augue, sed fringilla justo. Proin et porta ligula. Quisque malesuada lorem at leo volutpat tristique. Nunc sit amet felis imperdiet ante tincidunt viverra sit amet quis ipsum. </p>
+				
+				<h1 class="regular red bottom_line"><strong>Everything</strong> you want to know</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis urna a enim convallis a bibendum lectus scelerisque. Aenean at mauris augue, sed fringilla justo. Proin et porta ligula. </p>
+				<div class="follow_us_box clearfix">
+					<a href="#" class="twitter">Follow us on <span>Twitter</span></a>
+					<a href="#" class="facebook">Join us on <span>Facebook</span></a>
+				</div>
+			</div>
+			<!-- END COL 1/2 -->
+			<div class="clear padding80"></div>
+			
+		</div>
+	</section>
+		
+	<!-- START FOOTER BIG -->
+	<footer class="footer_bg no_margin clearfix">
+		<div class="container footer">
+			<div class="col_1_3">
+				<!-- START FOOTER TEXT WIDGET -->
+				<h1 class="about">About us</h1>
+				<p>
+					Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam feugiat hendrerit. Nunc viverra neque nec elit eleifend semper. <br /><br /><br />
+
+					Mauris fringilla, erat sit amet elementum cursus, orci sapien aliquet mi, convallis molestie risus turpis quis tellus. Sed diam erat, tristique vel semper viccum.
+				</p>
+				<!-- END FOOTER TEXT WIDGET -->
+			</div>
+			<div class="col_1_3">
+				<!-- START FOOTER LATEST POSTS WIDGET -->
+				<h1 class="blog">Latest Posts</h1>
+				<div class="lastest_posts">
+					<p>
+						<a href="#"><img src="images/blog_thumbs_1.jpg" alt="" /></a>
+						Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam <a href="#">read more</a>.
+					</p>
+					<div class="clear padding20"></div>
+					<p>
+						<a href="#"><img src="images/blog_thumbs_2.jpg" alt="" /></a>
+						Ut id mi eu dui ornare consequat. Donec et lobortis ligula. Cras volutpat dui quis quam <a href="#">read more</a>.
+					</p>
+				</div>
+				<!-- END FOOTER LATEST POSTS WIDGET -->
+			</div>
+			<div class="col_1_3 last">
+				<!-- START FOOTER FLICKR WIDGET -->
+				<h1 class="flickr">Flickr Gallery</h1>
+				<div class="flickr">
+					<ul>
+						<li><a href="#"><img src="images/flickr_image_1.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_2.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_3.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_4.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_5.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="images/flickr_image_6.jpg" alt="" /></a></li>
+					</ul>
+				</div>
+				<!-- END FOOTER FLICKR WIDGET -->
+			</div>
+		
+			<div class="clear padding40"></div>
+		</div>
+	</footer>
+	<!-- END FOOTER BIG -->
+	
+	<!-- START FOOTER SMALL -->
+	<footer class="footer_bg_bottom clearfix">
+		<div class="footer_bottom container">
+			<div class="col_2_3">
+				<!-- START FOOTER MENU -->
+				<div class="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="portfolio_3_cols.html">Portfolio</a></li>
+						<li><a href="pricing.html">Pricing</a></li>
+						<li><a href="blog.html">Blog</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<!-- END FOOTER MENU -->
+				
+				<div class="clear padding20"></div>
+				
+				<!-- START FOOTER LINKS -->
+				<p>
+					<a href="#">All rights reserved</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a href="#">Privacy Policy</a>  &nbsp;&nbsp;|&nbsp;&nbsp;  <a href="#">Terms and Conditions</a>
+				</p>
+				<!-- END FOOTER LINKS -->
+			</div>
+			<div class="col_1_3 last">
+				<!-- START KEEP IN TOUCH -->
+				<div class="keep_in">Keep in touch</div>
+				<ul class="social_footer">
+					<li><a href="#"><span style="background-image:url('images/footer/twitter.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/facebook.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/skype.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/linkedin.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/vimeo.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/yahoo.png');"></span></a></li>
+					<li><a href="#"><span style="background-image:url('images/footer/flickr.png');"></span></a></li>
+				</ul>
+				<!-- END KEEP IN TOUCH -->
+			</div>
+			<div class="clear padding20"></div>
+		</div>
+	</footer>
+	<!-- END FOOTER SMALL -->
+</body>
+</html>

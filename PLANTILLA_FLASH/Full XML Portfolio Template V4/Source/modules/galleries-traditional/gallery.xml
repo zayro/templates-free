@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<asset type="image" thumbnail="images/thumbnails/large1.jpg" large="images/large1.jpg">
+		<description><![CDATA[Test description 1]]></description>
+	</asset>
+	<asset type="video" thumbnail="images/video-logo.jpg" large="videos/video-logo.flv">
+		<description><![CDATA[Video 1]]></description>
+	</asset>
+	<asset type="video" thumbnail="images/vidthumb1.jpg" large="videos/video01.flv">
+		<description><![CDATA[Video 1]]></description>
+	</asset>
+	<asset type="video" thumbnail="images/vidthumb2.jpg" large="videos/video02.flv">
+		<description><![CDATA[Video 2]]></description>
+	</asset>
+	<asset type="video" thumbnail="images/vidthumb3.jpg" large="videos/video03.flv">
+		<description><![CDATA[Video 3]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large3.jpg" large="images/large3.jpg">
+		<description><![CDATA[Test description 3]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large4.jpg" large="images/large4.jpg">
+		<description><![CDATA[Test description 4]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large5.jpg" large="images/large5.jpg">
+		<description><![CDATA[Test description 5]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large6.jpg" large="images/large6.jpg">
+		<description><![CDATA[Test description 6]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large7.jpg" large="images/large7.jpg">
+		<description><![CDATA[Test description 7]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large8.jpg" large="images/large8.jpg">
+		<description><![CDATA[Test description 8]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large9.jpg" large="images/large9.jpg">
+		<description><![CDATA[Test description 9]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large10.jpg" large="images/large10.jpg">
+		<description><![CDATA[Test description 10]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large11.jpg" large="images/large11.jpg">
+		<description><![CDATA[Test description 11]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large12.jpg" large="images/large12.jpg">
+		<description><![CDATA[Test description 12]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large13.jpg" large="images/large13.jpg">
+		<description><![CDATA[Test description 13]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large14.jpg" large="images/large14.jpg">
+		<description><![CDATA[Test description 14]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large15.jpg" large="images/large15.jpg">
+		<description><![CDATA[Test description 15]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large16.jpg" large="images/large16.jpg">
+		<description><![CDATA[Test description 16]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large17.jpg" large="images/large17.jpg">
+		<description><![CDATA[Test description 17]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large18.jpg" large="images/large18.jpg">
+		<description><![CDATA[Test description 18]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large19.jpg" large="images/large19.jpg">
+		<description><![CDATA[Test description 19]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large20.jpg" large="images/large20.jpg">
+		<description><![CDATA[Test description 20]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large21.jpg" large="images/large21.jpg">
+		<description><![CDATA[Test description 21]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large22.jpg" large="images/large22.jpg">
+		<description><![CDATA[Test description 22]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large23.jpg" large="images/large23.jpg">
+		<description><![CDATA[Test description 23]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large24.jpg" large="images/large24.jpg">
+		<description><![CDATA[Test description 24]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large25.jpg" large="images/large25.jpg">
+		<description><![CDATA[Test description 25]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large26.jpg" large="images/large26.jpg">
+		<description><![CDATA[Test description 26]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large27.jpg" large="images/large27.jpg">
+		<description><![CDATA[Test description 27]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large28.jpg" large="images/large28.jpg">
+		<description><![CDATA[Test description 28]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large29.jpg" large="images/large29.jpg">
+		<description><![CDATA[Test description 29]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large30.jpg" large="images/large30.jpg">
+		<description><![CDATA[Test description 30]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large31.jpg" large="images/large31.jpg">
+		<description><![CDATA[Test description 31]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large32.jpg" large="images/large32.jpg">
+		<description><![CDATA[Test description 32]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large33.jpg" large="images/large33.jpg">
+		<description><![CDATA[Test description 33]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large34.jpg" large="images/large34.jpg">
+		<description><![CDATA[Test description 34]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large35.jpg" large="images/large35.jpg">
+		<description><![CDATA[Test description 35]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large36.jpg" large="images/large36.jpg">
+		<description><![CDATA[Test description 36]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large37.jpg" large="images/large37.jpg">
+		<description><![CDATA[Test description 37]]></description>
+	</asset>
+	<asset type="image" thumbnail="images/thumbnails/large38.jpg" large="images/large38.jpg">
+		<description><![CDATA[Test description 38]]></description>
+	</asset>
+</gallery>

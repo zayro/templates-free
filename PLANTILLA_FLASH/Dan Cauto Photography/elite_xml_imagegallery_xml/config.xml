@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<isEliteModule>true</isEliteModule>
+	<fullscreen_button_visible>true</fullscreen_button_visible>
+	<default_color>0xEEC800</default_color>
+	<slideshow_init>false</slideshow_init>
+</config>

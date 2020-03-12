@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<Site>
+
+	<Settings>
+
+		<global 
+			stageAlign="TL" 
+			stageScaleMode="noScale" 
+			
+			showSeparators="true" 
+			textScrambleFx="true" 
+			buttonSound="true" 
+			buttonSoundFx="sound1" 
+			buttonSoundVolume="50" 
+			
+			siteHeadline="Your Favorite Headline" 
+			siteHeadlineAlt="Your Company Name, LLC." 
+			siteRightclickInfo1="Website built by..." 
+			siteRightclickInfo2="Your Webdesign Studio" 
+			siteCopyrightInfo="Your Company Name, LLC. All Rights Reserved. Further resale or copying is strictly prohibited." 
+			
+			slideshowAutorun="true" 
+			slideSpeed=".7" 
+			slideAdvanceEaseType="Expo.easeInOut" 
+			slideReturnEaseType="Expo.easeInOut" 
+			slideManualEaseType="Expo.easeInOut" 
+			slideWait="5" 
+			showSlideControls="true" 
+			
+			teamThumbsSlidingSpeed="3" 
+			teamDescriptionBgOpacity="90" 
+			teamShowDescriptionAtLaunch="true" 
+			
+			portfolioImagePanningSpeed="3" 
+			portfolioThumbsSlidingSpeed="4" 
+			portfolioShowThumbNumber="true" 
+			portfolioShowProjectNumber="true" 
+			portfolioDescriptionBgOpacity="85" 
+			portfolioShowDescriptionAtLaunch="true" 
+			
+			galleryImagePanningSpeed="3" 
+			galleryThumbsSlidingSpeed="7" 
+			galleryShowThumbNumber="true" 
+			galleryShowImageNumber="true" 
+			galleryDescriptionBgOpacity="70" 
+			galleryShowDescriptionAtLaunch="true" 
+			
+			contactMapWavesFrequency="2" 
+			contactMapWavesTint="0xFFFFFF" 
+			contactMapCursorOnOver="hidden" 
+			contactMapOutlineColor="0x000000" 
+			contactMapFillColor="0x3B84CC" 
+			contactPhoto="contactphoto.jpg" 
+			contactPhotoPanSpeed="5" 
+			contactPhotoText="Get in T.O.U.C.H" 
+			contactTextTitle="Your Company, LLC" 
+			contactTextAddress="3197 Some Other Lake Drive, Highland,    Michigan 48357" 
+			contactTextPhone="Phone: 248-000-1234" 
+			contactTextEmail="headquarters@yourcompany.com" 
+			
+		>
+		
+			<contactInfoText>
+				<![CDATA[I N F O :<br/><br/>Roll your mouse over the hotspots for more info. Click on a hotspot to open the link to the web location of that specific hotspot.]]> 
+			</contactInfoText>
+		
+		</global>
+		
+		<colorThemes 
+			defaultClr="0x3B84CC" 
+			hilightClr="0xACDBD6" 
+			fadedClr="0x808080" 
+			selectedClr="0xFFFFFF" 
+			contrastClr="0x010F21" 
+		/>
+		
+		<music>
+			<song uri="music/4one-surrealism.mp3" artist="4 O n e" title="S u r r e a l i s m" />
+			<song uri="music/adg3.com_busted_chump.mp3" artist="Adrien Gardiner" title="Busted Chump" />
+			<song uri="music/adg3.com_chucked_knuckles.mp3" artist="Adrien Gardiner" title="Chucked Knuckles" />
+		</music>
+		
+		<slideshow>
+		
+			<slide uri="slideshow/img1.png" >
+					
+					<title>
+						<![CDATA[    > <font color="#3265FF">Featured Project No.1</font> - Car Dealer eCommerce Online Store]]>
+					</title>
+				
+					<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci, euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus, ut accumsan met semper <br/>sed lobortis faucibus rutrum. Duis et erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.]]>
+					</description>
+					
+					<technologies>
+						<![CDATA[Used technologies:   <font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</technologies>
+					
+			</slide>
+			
+			<slide uri="slideshow/img2.png" >
+					
+					<title>
+						<![CDATA[    > <font color="#3265FF">Featured Project No.2</font> - Online Art Gallery]]>
+					</title>
+				
+					<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci, euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus, ut accumsan met semper <br/>sed lobortis faucibus rutrum. Duis et erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</description>
+					
+					<technologies>
+						<![CDATA[Used technologies:   <font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</technologies>
+					
+			</slide>
+			
+			<slide uri="slideshow/img3.png" >
+					
+					<title>
+						<![CDATA[    > <font color="#3265FF">Featured Project No.3</font> - Travel Agent Website]]>
+					</title>
+				
+					<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci, euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus, ut accumsan met semper <br/>sed lobortis faucibus rutrum. Duis et erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</description>
+					
+					<technologies>
+						<![CDATA[Used technologies:   <font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</technologies>
+					
+			</slide>
+			
+			<slide uri="slideshow/img4.png" >
+					
+					<title>
+						<![CDATA[    > <font color="#3265FF">Featured Project No.4</font> - Real Estate Agent]]>
+					</title>
+				
+					<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci, euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus, ut accumsan met semper <br/>sed lobortis faucibus rutrum. Duis et erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</description>
+					
+					<technologies>
+						<![CDATA[Used technologies:   <font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</technologies>
+					
+			</slide>
+			
+			<slide uri="slideshow/img5.png" >
+					
+					<title>
+						<![CDATA[    > <font color="#3265FF">Featured Project No.5</font> - Forklift Manufacturer Company]]>
+					</title>
+				
+					<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci, euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus, ut accumsan met semper <br/>sed lobortis faucibus rutrum. Duis et erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</description>
+					
+					<technologies>
+						<![CDATA[Used technologies:   <font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+					</technologies>
+					
+			</slide>
+		
+		</slideshow>
+
+	</Settings>
+
+	<Menu>
+
+		<button>
+			<buttonLabel>MAIN PAGE</buttonLabel>
+			<uri>home.swf</uri>
+			<uriWindow>null</uriWindow>
+			<maximizeContent>false</maximizeContent>
+		</button>
+		
+		<button>
+			<buttonLabel>WHO WE ARE</buttonLabel>
+			<uri>team.swf</uri>
+			<uriWindow>null</uriWindow>
+			<maximizeContent>true</maximizeContent>
+		</button>
+		
+		<button>
+			<buttonLabel>WHAT WE DO</buttonLabel>
+			<uri>portfolio.swf</uri>
+			<uriWindow>null</uriWindow>
+			<maximizeContent>true</maximizeContent>
+		</button>
+		
+		<button>
+			<buttonLabel>PHOTO GALLERY</buttonLabel>
+			<uri>gallery.swf</uri>
+			<uriWindow>null</uriWindow>
+			<maximizeContent>true</maximizeContent>
+		</button>
+		
+		<button>
+			<buttonLabel>GET IN TOUCH</buttonLabel>
+			<uri>contact.swf</uri>
+			<uriWindow>null</uriWindow>
+			<maximizeContent>true</maximizeContent>
+		</button>
+		
+		<button>
+			<buttonLabel>Follow Us On Tweeter</buttonLabel>
+			<uri>http://www.flashden.net/user/DaniMun/portfolio/</uri>
+			<uriWindow>_blank</uriWindow>
+			<maximizeContent>true</maximizeContent>
+		</button>
+		
+	</Menu>
+	
+	<HomeSection>
+	
+		<homeContent photo="homephoto.jpg" photoPanSpeed="5" photoText=". . : : LikeNoOther : : . ." >
+					
+				<greeting>
+					<![CDATA[Welcome to our brand new online showcase !]]>
+				</greeting>
+				
+				<text>
+					<![CDATA[Do not insert too much text into this dynamic textfield, because this is only the introductory (home) section.<br/>Feel free to use HTML tags, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <br/>Add <a href="http://www.flashden.net">URL Links</a> easily, directly inside XML. If you like to use Unordered Lists, look what you can do with them:<br/> <ul><li><font color="#3265FF">FIRST LIST ITEM - Lorem ipsum dolor sit amet, consectetur adipiscing elit sociis, penatibus sis ticidunt. </font></li><li><font color="#5689FE">SECOND LIST ITEM - Donec ut suscipit mi. Sed ultrices tristique diam, tincidunt, viverra vulputate nullis.</font></li><li><font color="#81A7FE">THIRD LIST ITEM - Fusce vestibulum parturient montes porttitor mauris lacinia moellis! Duis elit lorem.</font></li><li><font color="#ABC5FE">FOURTH LIST ITEM - Nunc eros leo, semper eu tincidunt nec. Cras odio nibh, tincidunt ic condimentum.</font></li></ul>]]>
+				</text>
+		</homeContent>
+	
+	</HomeSection>
+	
+	<TeamSection>
+	
+		<member
+			photo="team/martijn.jpg" 
+			thumb="team/martijn_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#ff6500">Martijn De Vries</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[President, Chief Creative Officer <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/gerhard.jpg" 
+			thumb="team/gerhard_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#37ff00">Gerhard Van Dijk</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Chief Technical Officer <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/koenraad.jpg" 
+			thumb="team/koenraad_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#ff0300">Koenraad Visser</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Art Director <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/lijsbeth.jpg" 
+			thumb="team/lijsbeth_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#fff800">Lijsbeth Smit</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Creative Director <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/lodewijk.jpg" 
+			thumb="team/lodewijk_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#ff00f8">Lodewijk Van Rijn</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Director of Development <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/christina.jpg" 
+			thumb="team/christina_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#0048ff">Christina Jansen</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Chief Creative Officer, Chief Financial Officer <br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+		
+		<member
+			photo="team/roos.jpg" 
+			thumb="team/roos_thumb.jpg" 
+			link="team/resume_proto.pdf" 
+			frame="_blank" >
+					
+				<name>
+					<![CDATA[<font color="#ff6500">Roos De Jong</font>]]>
+				</name>
+				
+				<description>
+					<![CDATA[Managing Director <<br/><a href="http://www.flashden.net">Visit personal website</a>, or <a href="team/resume_proto.pdf">download resume</a>. <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Phasellus lobortis tempus metus um accumsan metus semper id. Aliquam iaculis arcu vel tellus vehicula fermentum. Nullam ac nunc tellus, vitae mollis arcu integer mauris orci euismod ac tincidunt in viverra eu nibh. Cras tincidunt eros eget sem interdum ultricies. Vestibulum in lacus et quam lacinia ultrices. Praesent tristique vulputate viverra amet.<br/>Application software experience: <br /><font color="#5689FE">Adobe Flash</font>  |  <font color="#5689FE">Adobe Photoshop</font>  |  <font color="#5689FE">QuarkXPress</font>  |  <font color="#5689FE">Adobe Illustrator</font>]]>
+				</description>
+		</member>
+	
+	</TeamSection>
+	
+	<PortfolioSection>
+	
+		<project
+			photo="portfolio/project_01/project_one_photo.jpg" 
+			thumb="portfolio/project_01/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#ff6500">Project 01 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_02/project_two_photo.jpg" 
+			thumb="portfolio/project_02/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#37ff00">Project 02 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_03/project_three_photo.jpg" 
+			thumb="portfolio/project_03/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#ff0300">Project 03 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_04/project_four_photo.jpg" 
+			thumb="portfolio/project_04/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#fff800">Project 04 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_05/project_five_photo.jpg" 
+			thumb="portfolio/project_05/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#ff00f8">Project 05 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_06/project_six_photo.jpg" 
+			thumb="portfolio/project_06/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#0048ff">Project 06 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+		
+		<project
+			photo="portfolio/project_07/project_seven_photo.jpg" 
+			thumb="portfolio/project_07/thumb.jpg" 
+			link="http://flashden.net/user/DaniMun/portfolio/" 
+			frame="_blank" >
+					
+				<title>
+					<![CDATA[<font color="#ff6500">Project 07 Name</font>]]>
+				</title>
+				
+				<description>
+						<![CDATA[Insert here  P R O J E C T   D E S C R I P T I O N: <br/><br/>Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. <a href="http://www.flashden.net">Launch project</a>.<br />Integer mauris orci euismod ac tincidunt in viverra nibh. Phasellus lobortis tempus metus orc accumsan metae semper <br/>sed lobortis faucibus rutrum. Duis etie erat lorem cumus sociis natoque penatibus parturient montes nascetur lobotris.<br/><br/>Used technologies:<br /><font color="#5689FE">XHTML</font>  |  <font color="#5689FE">Javascript</font>  |  <font color="#5689FE">PHP</font>  |  <font color="#5689FE">SQL</font>]]>
+				</description>
+		</project>
+	
+	</PortfolioSection>
+	
+	<GallerySection>
+	
+		<image
+			uri="gallery/big/01.jpg" 
+			thumb="gallery/thumbs/th01.jpg" >
+					
+				<title>
+					<![CDATA[Strange leaves]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/02.jpg" 
+			thumb="gallery/thumbs/th02.jpg" >
+					
+				<title>
+					<![CDATA[The awesome red flowers]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/03.jpg" 
+			thumb="gallery/thumbs/th03.jpg" >
+					
+				<title>
+					<![CDATA[Extravagant tail feathers show off]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/04.jpg" 
+			thumb="gallery/thumbs/th04.jpg" >
+					
+				<title>
+					<![CDATA[Mirrored in the dog's eye]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim!]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/05.jpg" 
+			thumb="gallery/thumbs/th05.jpg" >
+					
+				<title>
+					<![CDATA[Exotic blossom]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/06.jpg" 
+			thumb="gallery/thumbs/th06.jpg" >
+					
+				<title>
+					<![CDATA[Unique orchid]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/07.jpg" 
+			thumb="gallery/thumbs/th07.jpg" >
+					
+				<title>
+					<![CDATA[The wet green leaves]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/08.jpg" 
+			thumb="gallery/thumbs/th08.jpg" >
+					
+				<title>
+					<![CDATA[The frozen moment]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/09.jpg" 
+			thumb="gallery/thumbs/th09.jpg" >
+					
+				<title>
+					<![CDATA[Shiny pebbles]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/10.jpg" 
+			thumb="gallery/thumbs/th10.jpg" >
+					
+				<title>
+					<![CDATA[Honeybee's delight]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/11.jpg" 
+			thumb="gallery/thumbs/th11.jpg" >
+					
+				<title>
+					<![CDATA[The morning dew]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/12.jpg" 
+			thumb="gallery/thumbs/th12.jpg" >
+					
+				<title>
+					<![CDATA[Transparent leaves]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> .]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/13.jpg" 
+			thumb="gallery/thumbs/th13.jpg" >
+					
+				<title>
+					<![CDATA[Tree corn]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/14.jpg" 
+			thumb="gallery/thumbs/th14.jpg" >
+					
+				<title>
+					<![CDATA[The orange beauty]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/15.jpg" 
+			thumb="gallery/thumbs/th15.jpg" >
+					
+				<title>
+					<![CDATA[Wet rose]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/16.jpg" 
+			thumb="gallery/thumbs/th16.jpg" >
+					
+				<title>
+					<![CDATA[The silent killer]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/17.jpg" 
+			thumb="gallery/thumbs/th17.jpg" >
+					
+				<title>
+					<![CDATA[Grass in the rain]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+		
+		<image
+			uri="gallery/big/18.jpg" 
+			thumb="gallery/thumbs/th18.jpg" >
+					
+				<title>
+					<![CDATA[Alien plant]]>
+				</title>
+				
+				<description>
+					<![CDATA[Use HTML text here, this description textfield is HTML-formatted. You can use HTML <font color="#FF0000">c</font><font color="#FF3300">o</font><font color="#FFFF00">l</font><font color="#00FF00">o</font><font color="#00CBFF">r</font><font color="#0000FF">e</font><font color="#CC0099">d</font> font tags. Of course you can include your own <a href="http://www.flashden.net">HTML links</a> . Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque leo lectus. Duis viverra leo eget nulla blandit nec sollicitudin justo ornare? Aenean massa nunc, dignissim non suscipit id, venenatis vitae libero. Quisque sit amet nibh odio; quis gravida metus. Vestibulum suscipit ullamcorper nisi, fermentum sodales dui gravida in. Nullam eu velit tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi eu arcu non eros ultrices tempus in vitae enim! Suspendisse potenti. Mauris fringilla nunc hendrerit eros hendrerit sit amet luctus nunc bibendum. Donec felis est, volutpat ac lacinia eget, blandit vehicula felis! Fusce eget eros augue. Cras gravida commodo quam, a mattis est euismod nec. Vestibulum vel mi quis dui suscipit porttitor vel eget lorem. Nullam a mauris augue, nec venenatis orci. Sed sodales fringilla augue at cursus. In consectetur, orci ac sagittis pulvinar, urna augue laoreet felis, quis porta lectus metus a orci. In tristique mattis sapien vel vehicula.]]>
+				</description>
+		</image>
+	
+	</GallerySection>
+	
+	
+	<!-- 
+	
+	The Contact Section contains an interractive map with clickable hotspots as well as a contact form
+	
+	-->
+	
+	<ContactSection>
+	
+		<hotspot 
+			dotTint="0xFF0000" 
+			xLoc="177" 
+			yLoc="91" 
+			tipPos="ABOVE" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Detroit, MI USA<br />Headquarters<br />1-248-000-1234]]>
+			</tipText>
+		</hotspot>
+		
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="196" 
+			yLoc="82" 
+			tipPos="RIGHT" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Ottawa, ON<br />Canadian Office<br />1-888-493-1234]]>
+			</tipText>
+		</hotspot>
+		
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="231" 
+			yLoc="240" 
+			tipPos="RIGHT" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Montevideo, UY<br />South-American Office<br />(+5981)-123-1234]]>
+			</tipText>
+		</hotspot>
+		
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="360" 
+			yLoc="68" 
+			tipPos="LEFT" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Copenhagen, DK<br /> European Office<br />(+45)-1234-5678]]>
+			</tipText>
+		</hotspot>
+
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="378" 
+			yLoc="240" 
+			tipPos="ABOVE" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Cape Town, SA<br />South-African Office<br />021-000-1234]]>
+			</tipText>
+		</hotspot>
+		
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="611" 
+			yLoc="104" 
+			tipPos="BELOW" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Tokyo,JP<br />Asian Office<br />(+813)-5678-1234]]>
+			</tipText>
+		</hotspot>
+		
+		<hotspot 
+			dotTint="0xFFFFFF" 
+			xLoc="629" 
+			yLoc="244" 
+			tipPos="LEFT" 
+			tipUri="http://www.flashden.net/user/DaniMun/" >
+			<tipText> 
+				<![CDATA[Canberra, A.C.T.<br />Australian Office<br />(+612)-1234-5678]]>
+			</tipText>
+		</hotspot>
+	
+	</ContactSection>
+
+</Site>

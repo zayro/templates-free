@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<parts>
+	<part partName="Showreel 2007" file="reel.swf" image="reel.jpg" />
+	<part partName="What's New?" file="news.swf" image="news.jpg" />
+	<part partName="Our Works" file="projects.swf" image="projects.jpg" />
+	<part partName="About Us" file="about.swf" image="about.jpg" />
+	<part partName="Meet The Team" file="team.swf" image="reel.jpg" />
+	<part partName="Contact Us" file="contact.swf" image="contact.jpg" />
+	<part partName="Showreel 2007" file="reel.swf" image="reel.jpg" />
+	<part partName="What's New?" file="news.swf" image="news.jpg" />
+	<part partName="Our Works" file="projects.swf" image="projects.jpg" />
+	<part partName="About Us" file="about.swf" image="about.jpg" />
+	<part partName="Meet The Team" file="team.swf" image="reel.jpg" />
+	<part partName="Contact Us" file="contact.swf" image="contact.jpg" />
+</parts>

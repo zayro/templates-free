@@ -1,0 +1,33 @@
+p{
+   font-family:Arial;
+   font-size:12;
+   color:#444444;
+   text-indent: 0;
+}
+.l2h6{
+	color:#333333;
+	font-size:9;
+	font-weight:bold;
+}
+a{
+   font-family: Verdana;
+   font-size:12;
+   color:#00a2f9;
+}
+a:link {
+   text-decoration: none;
+}
+a:visited {
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: none;
+}
+a:active {
+   text-decoration: none;
+}
+.aAlt{
+	color:#00a2f9;
+	font-size:9pt;
+	font-weight:bold;
+}
